@@ -703,6 +703,7 @@ func TestDarwinPetCountSupportsEveryVisibleCount(t *testing.T) {
 }
 
 func TestDarwinClickReactionHitTestsPet(t *testing.T) {
+	t.Setenv("ANIMALSDESKTOP_MOTIONS", "legacy")
 	a := &darwinPetApp{
 		sceneW:       400,
 		wheelEnabled: true,
@@ -736,6 +737,27 @@ func TestDarwinClickReactionHitTestsPet(t *testing.T) {
 	a.pets = []darwinPet{{x: 50, lane: 0}}
 	if index := a.petAtScenePoint(90, 40); index != -1 {
 		t.Fatalf("wheel runner hit = %d, want ignored", index)
+	}
+}
+
+func TestDarwinTimedPetStaysClickableDuringTyping(t *testing.T) {
+	t.Setenv("ANIMALSDESKTOP_MOTIONS", "")
+	a := &darwinPetApp{
+		sceneW: 400, wheelEnabled: true, keyHold: 1,
+		petSizes: defaultDarwinPetSizes(),
+		pets:     []darwinPet{{x: 50, lane: 0}},
+	}
+	if timedVariant(a.variantID(0)) == nil {
+		t.Fatal("expected the integrated chinchilla motion family")
+	}
+	if a.petWheelCapable(0) {
+		t.Fatal("timed family without wheel frames must not enter the legacy wheel")
+	}
+	if index := a.petAtScenePoint(90, 40); index != 0 {
+		t.Fatalf("typing timed pet hit = %d, want 0", index)
+	}
+	if !a.addClickReaction(90, 40) {
+		t.Fatal("timed pet did not accept its click reaction")
 	}
 }
 
@@ -880,7 +902,7 @@ func TestDarwinIDOnlySettingsRestoreSelection(t *testing.T) {
 	if err := os.WriteFile(path, data, 0600); err != nil {
 		t.Fatal(err)
 	}
-	a := &darwinPetApp{selectedCoats: defaultDarwinSelectedCoats()}
+	a := &darwinPetApp{selectedCoats: defaultDarwinSelectedCoats(), petSizes: defaultDarwinPetSizes()}
 	a.loadSettings()
 	if a.variantID(a.variant) != "ferret_sable" {
 		t.Fatal("stable variant ID was ignored without its numeric index")
@@ -891,7 +913,7 @@ func TestDarwinIDOnlySettingsRestoreSelection(t *testing.T) {
 		}
 	}
 	a.saveSettings()
-	b := &darwinPetApp{selectedCoats: defaultDarwinSelectedCoats()}
+	b := &darwinPetApp{selectedCoats: defaultDarwinSelectedCoats(), petSizes: defaultDarwinPetSizes()}
 	b.loadSettings()
 	if a.variant != b.variant || a.selectedCoats != b.selectedCoats || a.petSizes != b.petSizes {
 		t.Fatal("selection or size changed after saving")

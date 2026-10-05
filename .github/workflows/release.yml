@@ -101,7 +101,7 @@ jobs:
         run: |
           $PSNativeCommandUseErrorActionPreference = $true
           New-Item -ItemType Directory -Force dist | Out-Null
-          $version = "${{ env.RELEASE_VERSION }}"
+          $version = $env:RELEASE_VERSION
           $baseVersion = ($version -replace '^[vV]', '') -split '[+-]' | Select-Object -First 1
           $parts = @($baseVersion -split '\.')
           $numericVersion = (($parts + @("0", "0", "0", "0")) | Select-Object -First 4) -join "."
@@ -178,7 +178,7 @@ jobs:
         shell: pwsh
         run: |
           $PSNativeCommandUseErrorActionPreference = $true
-          $version = "${{ env.RELEASE_VERSION }}"
+          $version = $env:RELEASE_VERSION
           $repoUrl = "https://github.com/UDteach/AnimalsDesktopV2"
           $releaseUrl = "$repoUrl/releases/tag/$version"
           Get-AuthenticodeSignature -FilePath dist/AnimalsDesktop-windows-amd64.exe,dist/AnimalsDesktop-windows-amd64-no-network.exe,dist/AnimalsDesktop-windows-386.exe |

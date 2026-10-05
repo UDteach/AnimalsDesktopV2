@@ -17,9 +17,6 @@ on:
       - "scripts/test_verify_page_release.py"
       - "scripts/verify_page_release.py"
       - "requirements-dev.txt"
-  release:
-    types:
-      - published
   workflow_run:
     workflows:
       - Release

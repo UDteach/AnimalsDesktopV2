@@ -1,0 +1,46 @@
+{
+  "source_size": [
+    1536,
+    1024
+  ],
+  "source_bbox": [
+    399,
+    159,
+    1125,
+    830
+  ],
+  "padded_bbox": [
+    387,
+    147,
+    1137,
+    842
+  ],
+  "normalized_size": [
+    58,
+    54
+  ],
+  "frame_bbox": [
+    19,
+    5,
+    76,
+    59
+  ],
+  "nonzero_alpha": 1868,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 1,
+  "family": "rabbit_chestnut_agouti",
+  "frame": 43,
+  "group": "chew",
+  "pose": "chew pause, cheeks rounded",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc37-515b-78a3-aacc-847ecb5c246c/ig_08232f8a2df17e4e016a3c7a9a61608191a8d2b0cfbf1e0704.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/raw/frame-43-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/alpha/frame-43-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-43.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-43-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/contacts/frame-43-attempt-01-contact.png",
+  "qa_json_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/qa/frame-43-attempt-01-qa.json",
+  "prompt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/prompts/frame-43-attempt-01-prompt.txt",
+  "decision": "candidate",
+  "notes": "initial rescue candidate"
+}

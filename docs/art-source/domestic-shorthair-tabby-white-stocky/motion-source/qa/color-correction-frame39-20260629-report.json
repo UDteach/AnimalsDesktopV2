@@ -1,0 +1,31 @@
+{
+  "frame": 39,
+  "method": "dark tabby visible-pixel RGB mean/std transfer from frames 37 and 38, applied only to nonwhite dark/tabby pixels; original preserved",
+  "source_frame": "docs/art-source/one-frame-method-fullrun-20260629/domestic-shorthair-tabby-white-stocky-set00-oneframe-62/qa/color-correction-frame39-20260629/frame-39-before-color-correction.png",
+  "corrected_frame": "docs/art-source/one-frame-method-fullrun-20260629/domestic-shorthair-tabby-white-stocky-set00-oneframe-62/frames/frame-39.png",
+  "reference_frames": [
+    "frame-37.png",
+    "frame-38.png"
+  ],
+  "mask_pixels": 1492,
+  "src_mean": [
+    62.83,
+    51.05,
+    40.14
+  ],
+  "src_std": [
+    38.71,
+    35.01,
+    32.04
+  ],
+  "ref_mean": [
+    53.51,
+    39.06,
+    29.51
+  ],
+  "ref_std": [
+    38.38,
+    32.4,
+    28.5
+  ]
+}

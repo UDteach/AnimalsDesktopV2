@@ -1,0 +1,64 @@
+{
+  "animal": "gray sugar glider recolored to real white-faced blonde pet sugar glider color direction, pale face and cream underside, keep long tail, patagium membrane, large dark eyes, and same accepted AnimalsDesktop sprite style",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "cell_width": 476,
+  "cell_height": 476,
+  "columns": 4,
+  "rows": 4,
+  "origin_x": 48,
+  "origin_y": 48,
+  "pitch_x": 492,
+  "pitch_y": 492,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "flow-output.png",
+      "output": "frame-00.png"
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "flow-output.png",
+      "cell": 1,
+      "output": "frame-04.png"
+    },
+    {
+      "id": "set00-frame-12",
+      "source": "flow-output.png",
+      "cell": 2,
+      "output": "frame-12.png"
+    },
+    {
+      "id": "set00-frame-26",
+      "source": "flow-output.png",
+      "cell": 3,
+      "output": "frame-26.png"
+    },
+    {
+      "id": "set00-frame-32",
+      "source": "flow-output.png",
+      "cell": 4,
+      "output": "frame-32.png"
+    },
+    {
+      "id": "set00-frame-40",
+      "source": "flow-output.png",
+      "cell": 5,
+      "output": "frame-40.png"
+    },
+    {
+      "id": "set00-frame-52",
+      "source": "flow-output.png",
+      "cell": 6,
+      "output": "frame-52.png"
+    },
+    {
+      "id": "set00-frame-56",
+      "source": "flow-output.png",
+      "cell": 7,
+      "output": "frame-56.png"
+    }
+  ]
+}

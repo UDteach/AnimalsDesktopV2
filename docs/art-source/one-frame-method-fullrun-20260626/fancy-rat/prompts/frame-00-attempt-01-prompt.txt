@@ -1,0 +1,11 @@
+Create exactly one complete flat 2D desktop-pet sprite frame of a hooded fancy rat on a perfectly flat solid #00ff00 chroma-key background.
+
+Frame 00 pose: neutral low side-view stance facing right, all four feet near one shared baseline, calm idle start.
+
+Required identity: fancy rat, slim low body, pointed muzzle, rounded ears, dark bead eye, visible whiskers, tiny paws, and one long thin tail trailing behind inside the canvas. Hooded marking: mostly white body with dark head/shoulder hood and a dark stripe or saddle along the back. It must not look like a hamster, guinea pig, degu, or ordinary tailless mouse.
+
+Style: clean illustrated taskbar sprite, soft natural fur, readable at 96x64, crisp complete silhouette, gentle shading, no pixelated jagged edge.
+
+Keep the whole animal centered with generous padding around ears, nose, whiskers, feet, and full tail. No cropped anatomy.
+
+No text, watermark, border, grid, scenery, props, food, cage, floor, shadows, reflections, gradients, texture in the background, costume, human-like pose, or multiple animals. Do not use #00ff00 anywhere in the animal.

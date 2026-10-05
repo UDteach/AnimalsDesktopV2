@@ -1,0 +1,959 @@
+{
+  "frames_dir": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00",
+  "pattern": "frame-%02d.png",
+  "strict": true,
+  "frame_width": 96,
+  "frame_height": 64,
+  "set_count": 1,
+  "frame_count": 62,
+  "valid": 62,
+  "missing": 0,
+  "invalid": 0,
+  "warnings": 1,
+  "sets": [
+    {
+      "set": "set00",
+      "dir": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00",
+      "valid": 62,
+      "missing": 0,
+      "invalid": 0,
+      "warnings": 1,
+      "frames": [
+        {
+          "frame": 0,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-00.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 6,
+            "w": 58,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1665,
+            "fill_per_mille": 552
+          }
+        },
+        {
+          "frame": 1,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-01.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 6,
+            "w": 58,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1637,
+            "fill_per_mille": 542
+          }
+        },
+        {
+          "frame": 2,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-02.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 6,
+            "w": 58,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1622,
+            "fill_per_mille": 537
+          }
+        },
+        {
+          "frame": 3,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-03.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 6,
+            "w": 59,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1683,
+            "fill_per_mille": 548
+          }
+        },
+        {
+          "frame": 4,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-04.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 6,
+            "w": 60,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1734,
+            "fill_per_mille": 555
+          }
+        },
+        {
+          "frame": 5,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-05.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 6,
+            "w": 65,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1840,
+            "fill_per_mille": 544
+          }
+        },
+        {
+          "frame": 6,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-06.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 6,
+            "w": 63,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1808,
+            "fill_per_mille": 551
+          }
+        },
+        {
+          "frame": 7,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-07.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 6,
+            "w": 63,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1890,
+            "fill_per_mille": 576
+          }
+        },
+        {
+          "frame": 8,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-08.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 6,
+            "w": 65,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1890,
+            "fill_per_mille": 559
+          }
+        },
+        {
+          "frame": 9,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-09.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 6,
+            "w": 65,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1874,
+            "fill_per_mille": 554
+          }
+        },
+        {
+          "frame": 10,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-10.png",
+          "status": "valid",
+          "content": {
+            "x": 17,
+            "y": 6,
+            "w": 62,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1783,
+            "fill_per_mille": 553
+          }
+        },
+        {
+          "frame": 11,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-11.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 6,
+            "w": 60,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1755,
+            "fill_per_mille": 562
+          }
+        },
+        {
+          "frame": 12,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-12.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 6,
+            "w": 63,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1798,
+            "fill_per_mille": 548
+          }
+        },
+        {
+          "frame": 13,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-13.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 6,
+            "w": 69,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1874,
+            "fill_per_mille": 522
+          }
+        },
+        {
+          "frame": 14,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-14.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 6,
+            "w": 69,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1953,
+            "fill_per_mille": 544
+          }
+        },
+        {
+          "frame": 15,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-15.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 6,
+            "w": 66,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1869,
+            "fill_per_mille": 544
+          }
+        },
+        {
+          "frame": 16,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-16.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 6,
+            "w": 63,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1764,
+            "fill_per_mille": 538
+          }
+        },
+        {
+          "frame": 17,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-17.png",
+          "status": "valid",
+          "content": {
+            "x": 17,
+            "y": 6,
+            "w": 62,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1867,
+            "fill_per_mille": 579
+          }
+        },
+        {
+          "frame": 18,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-18.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 6,
+            "w": 64,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1783,
+            "fill_per_mille": 535
+          }
+        },
+        {
+          "frame": 19,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-19.png",
+          "status": "valid",
+          "content": {
+            "x": 17,
+            "y": 6,
+            "w": 62,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1811,
+            "fill_per_mille": 561
+          }
+        },
+        {
+          "frame": 20,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-20.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 6,
+            "w": 70,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2222,
+            "fill_per_mille": 610
+          }
+        },
+        {
+          "frame": 21,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-21.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 6,
+            "w": 79,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2569,
+            "fill_per_mille": 625
+          }
+        },
+        {
+          "frame": 22,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-22.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 6,
+            "w": 71,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2283,
+            "fill_per_mille": 618
+          }
+        },
+        {
+          "frame": 23,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-23.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 6,
+            "w": 82,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2646,
+            "fill_per_mille": 620
+          }
+        },
+        {
+          "frame": 24,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-24.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 6,
+            "w": 66,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2019,
+            "fill_per_mille": 588
+          }
+        },
+        {
+          "frame": 25,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-25.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 6,
+            "w": 58,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1682,
+            "fill_per_mille": 557
+          }
+        },
+        {
+          "frame": 26,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-26.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 6,
+            "w": 58,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1654,
+            "fill_per_mille": 548
+          }
+        },
+        {
+          "frame": 27,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-27.png",
+          "status": "valid",
+          "content": {
+            "x": 17,
+            "y": 6,
+            "w": 62,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1759,
+            "fill_per_mille": 545
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 53 at y=42 with 23px row drop below"
+          ]
+        },
+        {
+          "frame": 28,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-28.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 6,
+            "w": 60,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1709,
+            "fill_per_mille": 547
+          }
+        },
+        {
+          "frame": 29,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-29.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 6,
+            "w": 70,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2167,
+            "fill_per_mille": 595
+          }
+        },
+        {
+          "frame": 30,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-30.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 6,
+            "w": 67,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2029,
+            "fill_per_mille": 582
+          }
+        },
+        {
+          "frame": 31,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-31.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 6,
+            "w": 59,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1744,
+            "fill_per_mille": 568
+          }
+        },
+        {
+          "frame": 32,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-32.png",
+          "status": "valid",
+          "content": {
+            "x": 24,
+            "y": 6,
+            "w": 48,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1714,
+            "fill_per_mille": 686
+          }
+        },
+        {
+          "frame": 33,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-33.png",
+          "status": "valid",
+          "content": {
+            "x": 22,
+            "y": 6,
+            "w": 52,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1793,
+            "fill_per_mille": 663
+          }
+        },
+        {
+          "frame": 34,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-34.png",
+          "status": "valid",
+          "content": {
+            "x": 23,
+            "y": 6,
+            "w": 49,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1699,
+            "fill_per_mille": 666
+          }
+        },
+        {
+          "frame": 35,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-35.png",
+          "status": "valid",
+          "content": {
+            "x": 25,
+            "y": 6,
+            "w": 46,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1678,
+            "fill_per_mille": 701
+          }
+        },
+        {
+          "frame": 36,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-36.png",
+          "status": "valid",
+          "content": {
+            "x": 23,
+            "y": 6,
+            "w": 49,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1711,
+            "fill_per_mille": 671
+          }
+        },
+        {
+          "frame": 37,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-37.png",
+          "status": "valid",
+          "content": {
+            "x": 26,
+            "y": 6,
+            "w": 43,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1573,
+            "fill_per_mille": 703
+          }
+        },
+        {
+          "frame": 38,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-38.png",
+          "status": "valid",
+          "content": {
+            "x": 23,
+            "y": 6,
+            "w": 49,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1676,
+            "fill_per_mille": 657
+          }
+        },
+        {
+          "frame": 39,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-39.png",
+          "status": "valid",
+          "content": {
+            "x": 23,
+            "y": 6,
+            "w": 50,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1727,
+            "fill_per_mille": 664
+          }
+        },
+        {
+          "frame": 40,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-40.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 6,
+            "w": 67,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2208,
+            "fill_per_mille": 633
+          }
+        },
+        {
+          "frame": 41,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-41.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 6,
+            "w": 70,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2125,
+            "fill_per_mille": 583
+          }
+        },
+        {
+          "frame": 42,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-42.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 6,
+            "w": 58,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1720,
+            "fill_per_mille": 570
+          }
+        },
+        {
+          "frame": 43,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-43.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 6,
+            "w": 57,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1738,
+            "fill_per_mille": 586
+          }
+        },
+        {
+          "frame": 44,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-44.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 6,
+            "w": 73,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2451,
+            "fill_per_mille": 645
+          }
+        },
+        {
+          "frame": 45,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-45.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 6,
+            "w": 73,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2378,
+            "fill_per_mille": 626
+          }
+        },
+        {
+          "frame": 46,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-46.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 76,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2563,
+            "fill_per_mille": 648
+          }
+        },
+        {
+          "frame": 47,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-47.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 6,
+            "w": 70,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2278,
+            "fill_per_mille": 625
+          }
+        },
+        {
+          "frame": 48,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-48.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 6,
+            "w": 58,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1715,
+            "fill_per_mille": 568
+          }
+        },
+        {
+          "frame": 49,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-49.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 6,
+            "w": 57,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1672,
+            "fill_per_mille": 564
+          }
+        },
+        {
+          "frame": 50,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-50.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 6,
+            "w": 60,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1724,
+            "fill_per_mille": 552
+          }
+        },
+        {
+          "frame": 51,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-51.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 6,
+            "w": 59,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1711,
+            "fill_per_mille": 557
+          }
+        },
+        {
+          "frame": 52,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-52.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 6,
+            "w": 63,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1915,
+            "fill_per_mille": 584
+          }
+        },
+        {
+          "frame": 53,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-53.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 6,
+            "w": 65,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1988,
+            "fill_per_mille": 588
+          }
+        },
+        {
+          "frame": 54,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-54.png",
+          "status": "valid",
+          "content": {
+            "x": 17,
+            "y": 6,
+            "w": 61,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1835,
+            "fill_per_mille": 578
+          }
+        },
+        {
+          "frame": 55,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-55.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 6,
+            "w": 63,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1924,
+            "fill_per_mille": 587
+          }
+        },
+        {
+          "frame": 56,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-56.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 6,
+            "w": 57,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1618,
+            "fill_per_mille": 545
+          }
+        },
+        {
+          "frame": 57,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-57.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 6,
+            "w": 59,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1773,
+            "fill_per_mille": 577
+          }
+        },
+        {
+          "frame": 58,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-58.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 6,
+            "w": 60,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1819,
+            "fill_per_mille": 583
+          }
+        },
+        {
+          "frame": 59,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-59.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 6,
+            "w": 64,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1944,
+            "fill_per_mille": 584
+          }
+        },
+        {
+          "frame": 60,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-60.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 6,
+            "w": 60,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1790,
+            "fill_per_mille": 573
+          }
+        },
+        {
+          "frame": 61,
+          "path": "docs/art-source/toy-poodle/motion-source/accepted-frames/set00/frame-61.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 6,
+            "w": 59,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1802,
+            "fill_per_mille": 587
+          }
+        }
+      ],
+      "completed": true
+    }
+  ]
+}

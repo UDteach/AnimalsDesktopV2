@@ -1,0 +1,1 @@
+rejected: fresh ImageGen attempt-05 still has gray/white face mask and gray feet on 59-61 gate contact; switching to local 59/61 fallback

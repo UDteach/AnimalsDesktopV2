@@ -1,0 +1,67 @@
+Create one review-only 8-frame sprite sheet for a Windows desktop pet app.
+
+Primary goal:
+- Extraction cleanliness is more important than animation quality or artistic detail.
+- Make a clean, parser-friendly 8-frame review sheet with no matte defects, no pinholes, no stray marks, and no background contamination.
+- This sheet is for visual review and fixed-cell diagnostics only, not final production assets.
+
+Canvas and layout:
+- Target canvas: 2048x1024.
+- Use an invisible 2 rows x 4 columns layout.
+- Intended cell size: 512x512 per cell.
+- If the model does not follow the exact pixel size, still keep the same 2:1 overall aspect ratio and a clean equal 2x4 layout.
+- Place exactly one complete right-facing standard gray chinchilla in each cell.
+- Keep every chinchilla fully inside its own cell, centered, with consistent scale, camera distance, and contact baseline.
+- Leave clear pure green space around every animal inside each cell.
+- No visible grid lines, no labels, no numbers, no text.
+
+Background:
+- The entire background must be a flat, solid, pure chroma green color: #00ff00.
+- Use #00ff00 only for the background.
+- Do not use green anywhere inside the chinchilla.
+- No gradients, no texture, no noise, no shading in the background, no vignette.
+- No floor, no ground line, no shadow, no shelf, no scenery.
+
+Matte and edge cleanliness:
+- The animal must have a clean, closed, solid silhouette.
+- The belly, feet, tail, ears, and body must be filled with continuous solid shapes.
+- No pinholes anywhere inside the body, belly, feet, tail, ears, or around the legs.
+- No tiny green holes inside or between body parts.
+- No transparent-looking gaps inside the animal.
+- No broken gaps around the belly line, foot contact area, tail base, or tail curve.
+- No white fringe, no pale halo, no green halo, no semi-transparent-looking rim.
+- No detached specks, no isolated dots, no dust-like marks, no loose fragments.
+- Keep all feet, paws, ears, whiskers, and tail attached to the body.
+- Keep whiskers short, simple, and attached to the muzzle.
+- Avoid fine hair strands, fuzzy edges, texture noise, and realistic fur detail.
+- Avoid background color contamination near the silhouette and near the invisible cell boundaries.
+
+Animal design and style:
+- Clean small 2D game sprite style.
+- Not pixel art.
+- Not realistic fur.
+- Simple flat cel-shaded shapes with minimal texture.
+- Cute compact desktop mascot sprite, easy to read at small size.
+- Standard gray chinchilla: medium neutral gray coat, cream belly, rounded ears, compact body, curled bushy tail, small separated feet.
+- Clean black eye, small muzzle, closed mouth.
+- Keep the exact same character identity, proportions, head size, ear size, body size, tail size, and color palette in all 8 frames.
+
+Pose requirement:
+- Create 8 near-identical clean review poses, not a strong walking animation.
+- The poses may have only extremely tiny natural variation.
+- Keep the belly, feet, and tail shapes simple, closed, attached, and solid.
+- Do not create visible stride, separated leg motion, lifted feet, or complex foot placement.
+- Do not create frame-by-frame gait extremes.
+- Prioritize clean filled shapes over motion differences.
+- Keep forepaws tucked and compact.
+- Keep the tail as one continuous attached curled shape.
+
+Hard constraints:
+- Exactly 8 complete chinchillas total.
+- Exactly one complete right-facing chinchilla per cell.
+- No duplicate animals inside a cell.
+- No extra animals, no cropped animals.
+- No missing tail, no detached ears, no separated limbs.
+- No sitting, no grooming, no jumping, no running, no scenery actions.
+- Final image must contain only the 8 chinchilla sprites on pure #00ff00 background.
+

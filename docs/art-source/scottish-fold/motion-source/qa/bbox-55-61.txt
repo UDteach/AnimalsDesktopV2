@@ -1,0 +1,7 @@
+55: 85x45 top=15 baseline=59 bbox=(5,15)-(89,59)
+56: 84x50 top=10 baseline=59 bbox=(6,10)-(89,59)
+57: 84x53 top=7 baseline=59 bbox=(6,7)-(89,59)
+58: 84x50 top=10 baseline=59 bbox=(6,10)-(89,59)
+59: 84x48 top=12 baseline=59 bbox=(6,12)-(89,59)
+60: 84x49 top=11 baseline=59 bbox=(6,11)-(89,59)
+61: 85x48 top=12 baseline=59 bbox=(5,12)-(89,59)

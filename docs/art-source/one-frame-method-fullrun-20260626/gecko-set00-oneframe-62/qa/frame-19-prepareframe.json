@@ -1,0 +1,22 @@
+{
+  "source": "docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-19-attempt-01-raw.png",
+  "output": "docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-19.png",
+  "source_width": 1536,
+  "source_height": 1024,
+  "output_width": 96,
+  "output_height": 64,
+  "background_mode": "chroma-green",
+  "background_removed": true,
+  "content": {
+    "x": 245,
+    "y": 558,
+    "w": 1016,
+    "h": 229
+  },
+  "output_content": {
+    "x": 4,
+    "y": 38,
+    "w": 88,
+    "h": 20
+  }
+}

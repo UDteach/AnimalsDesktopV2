@@ -1,0 +1,46 @@
+{
+  "source_size": [
+    1254,
+    1254
+  ],
+  "source_bbox": [
+    396,
+    96,
+    837,
+    1121
+  ],
+  "padded_bbox": [
+    384,
+    84,
+    849,
+    1133
+  ],
+  "normalized_size": [
+    24,
+    54
+  ],
+  "frame_bbox": [
+    36,
+    5,
+    60,
+    59
+  ],
+  "nonzero_alpha": 878,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "rabbit_chestnut_agouti",
+  "frame": 58,
+  "group": "reaction",
+  "pose": "surprised upright tiny pose, long ears vertical",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc37-515b-78a3-aacc-847ecb5c246c/ig_07605b03aaf271f1016a3c8165cfb4819199da000b0b5093a2.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/raw/frame-58-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/alpha/frame-58-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-58.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-58-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/contacts/frame-58-attempt-01-contact.png",
+  "qa_json_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/qa/frame-58-attempt-01-qa.json",
+  "prompt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/prompts/frame-58-attempt-01-prompt.txt",
+  "decision": "candidate",
+  "notes": "initial rescue candidate"
+}

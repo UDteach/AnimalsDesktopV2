@@ -1,0 +1,35 @@
+{
+  "reference_frames": "00-28",
+  "corrected_frames": "60-61",
+  "method": "stronger warm-coat masked RGB mean/std transfer after visual review, blend=0.82, alpha and geometry preserved",
+  "frames": [
+    {
+      "frame": 60,
+      "coat_pixels": 2140,
+      "before_mean_rgb": [
+        215.364,
+        173.535,
+        127.016
+      ],
+      "after_mean_rgb": [
+        213.941,
+        173.314,
+        134.664
+      ]
+    },
+    {
+      "frame": 61,
+      "coat_pixels": 2137,
+      "before_mean_rgb": [
+        218.516,
+        176.14,
+        130.421
+      ],
+      "after_mean_rgb": [
+        214.489,
+        173.795,
+        135.249
+      ]
+    }
+  ]
+}

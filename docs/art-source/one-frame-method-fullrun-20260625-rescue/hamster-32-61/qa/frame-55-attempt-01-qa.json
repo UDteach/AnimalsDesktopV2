@@ -1,0 +1,44 @@
+{
+  "source_size": [
+    1254,
+    1254
+  ],
+  "source_bbox": [
+    262,
+    180,
+    980,
+    1048
+  ],
+  "padded_bbox": [
+    250,
+    168,
+    992,
+    1060
+  ],
+  "normalized_size": [
+    42,
+    50
+  ],
+  "frame_bbox": [
+    27,
+    8,
+    69,
+    58
+  ],
+  "nonzero_alpha": 1788,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "hamster_golden_syrian",
+  "frame": 55,
+  "group": "face_groom",
+  "pose": "finishing face groom, paws lowering",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc36-f49e-7400-a241-c813be169de6/ig_0967455464435698016a3c81da3fb0819197b14e74a86e1cf1.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/raw/frame-55-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/alpha/frame-55-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-55.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-55-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/contacts/frame-55-attempt-01-contact.png",
+  "decision": "candidate",
+  "notes": "prompt:prompts/frame-55-attempt-01-prompt.txt"
+}

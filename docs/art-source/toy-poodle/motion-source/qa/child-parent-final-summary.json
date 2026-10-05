@@ -1,0 +1,222 @@
+{
+  "variant": "toy_poodle_apricot",
+  "set": "set00",
+  "status": "parent_final_qa_pending",
+  "canonical_frames": "00-61",
+  "strict_audit": {
+    "valid": 62,
+    "missing": 0,
+    "invalid": 0,
+    "warnings": 1,
+    "output": "qa/auditframes-frames-00-61-strict-output.txt",
+    "report": "qa/auditframes-frames-00-61-strict-report.json"
+  },
+  "motion_warnings_flag_available": false,
+  "manual_bbox_comparison": [
+    {
+      "frame": 45,
+      "bbox": {
+        "x": 11,
+        "y": 6,
+        "w": 73,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": null
+    },
+    {
+      "frame": 46,
+      "bbox": {
+        "x": 10,
+        "y": 6,
+        "w": 76,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": null
+    },
+    {
+      "frame": 47,
+      "bbox": {
+        "x": 13,
+        "y": 6,
+        "w": 70,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": null
+    },
+    {
+      "frame": 48,
+      "bbox": {
+        "x": 19,
+        "y": 6,
+        "w": 58,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": null
+    },
+    {
+      "frame": 49,
+      "bbox": {
+        "x": 19,
+        "y": 6,
+        "w": 57,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": null
+    },
+    {
+      "frame": 50,
+      "bbox": {
+        "x": 18,
+        "y": 6,
+        "w": 60,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": null
+    },
+    {
+      "frame": 51,
+      "bbox": {
+        "x": 18,
+        "y": 6,
+        "w": 59,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": null
+    },
+    {
+      "frame": 52,
+      "bbox": {
+        "x": 16,
+        "y": 6,
+        "w": 63,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": null
+    },
+    {
+      "frame": 53,
+      "bbox": {
+        "x": 15,
+        "y": 6,
+        "w": 65,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": false
+    },
+    {
+      "frame": 54,
+      "bbox": {
+        "x": 17,
+        "y": 6,
+        "w": 61,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": false
+    },
+    {
+      "frame": 55,
+      "bbox": {
+        "x": 16,
+        "y": 6,
+        "w": 63,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": false
+    },
+    {
+      "frame": 56,
+      "bbox": {
+        "x": 19,
+        "y": 6,
+        "w": 57,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": false
+    },
+    {
+      "frame": 57,
+      "bbox": {
+        "x": 18,
+        "y": 6,
+        "w": 59,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": false
+    },
+    {
+      "frame": 58,
+      "bbox": {
+        "x": 18,
+        "y": 6,
+        "w": 60,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": false
+    },
+    {
+      "frame": 59,
+      "bbox": {
+        "x": 16,
+        "y": 6,
+        "w": 64,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": false
+    },
+    {
+      "frame": 60,
+      "bbox": {
+        "x": 18,
+        "y": 6,
+        "w": 60,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": false
+    },
+    {
+      "frame": 61,
+      "bbox": {
+        "x": 18,
+        "y": 6,
+        "w": 59,
+        "h": 52
+      },
+      "bottom_baseline": 57,
+      "warnings": [],
+      "size_jump_candidate": false
+    }
+  ],
+  "notes": "auditframes in this worktree does not support -motion-warnings; manual bbox/baseline comparison recorded for frames 45-61. Do not promote from child lane."
+}

@@ -1,0 +1,46 @@
+{
+  "source_size": [
+    1539,
+    1022
+  ],
+  "source_bbox": [
+    420,
+    99,
+    1152,
+    836
+  ],
+  "padded_bbox": [
+    408,
+    87,
+    1164,
+    848
+  ],
+  "normalized_size": [
+    54,
+    54
+  ],
+  "frame_bbox": [
+    21,
+    5,
+    74,
+    59
+  ],
+  "nonzero_alpha": 1675,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "rabbit_chestnut_agouti",
+  "frame": 61,
+  "group": "reaction",
+  "pose": "calm return after reaction, facing right",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc37-515b-78a3-aacc-847ecb5c246c/ig_0454417dba2fecac016a3c83211980819182f8334c7a312413.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/raw/frame-61-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/alpha/frame-61-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-61.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-61-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/contacts/frame-61-attempt-01-contact.png",
+  "qa_json_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/qa/frame-61-attempt-01-qa.json",
+  "prompt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/prompts/frame-61-attempt-01-prompt.txt",
+  "decision": "candidate",
+  "notes": "initial rescue candidate"
+}

@@ -1,0 +1,38 @@
+{
+  "source_bbox": [
+    209,
+    247,
+    1282,
+    769
+  ],
+  "normalized_size": [
+    86,
+    42
+  ],
+  "frame_bbox": [
+    5,
+    17,
+    90,
+    59
+  ],
+  "nonzero_alpha": 1794,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 1,
+  "canvas_size": [
+    96,
+    64
+  ],
+  "family": "macaroni_mouse_tan",
+  "frame": "56",
+  "pose": "small surprise reaction; head lifts and ears perk; all feet grounded",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc43-f614-78a3-8f80-c0295aae9fbc/ig_0f270876ec10befc016a3c7c1403ac819194bd0582d9286069.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/raw/frame-56-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/alpha/frame-56-attempt-01-alpha.png",
+  "frame_attempt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/frames/frame-56-attempt-01.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/frames/frame-56.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/contacts/frame-56-attempt-01-contact.png",
+  "prompt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/prompts/frame-56-attempt-01-prompt.txt",
+  "decision": "retry_needed",
+  "notes": "mechanical retry required"
+}

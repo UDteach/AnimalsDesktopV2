@@ -1,0 +1,1108 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>AnimalsDesktop Motion Generation Evaluation</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family:
+          "Segoe UI",
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          sans-serif;
+        color: #24292f;
+        background: #f6f8fa;
+        --border: #d0d7de;
+        --muted: #57606a;
+        --panel: #ffffff;
+        --panel-soft: #f6f8fa;
+        --accent: #0969da;
+        --success: #1a7f37;
+        --warning: #9a6700;
+        --danger: #cf222e;
+        --dark-preview: #1f2428;
+        --light-preview: #f5f5f2;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+      }
+
+      header {
+        border-bottom: 1px solid var(--border);
+        background: var(--panel);
+      }
+
+      main,
+      .topbar {
+        width: min(1520px, 100%);
+        margin: 0 auto;
+        padding-inline: 24px;
+      }
+
+      .topbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        min-height: 64px;
+      }
+
+      .repo {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .repo strong {
+        font-size: 1.04rem;
+      }
+
+      .slash,
+      .muted {
+        color: var(--muted);
+      }
+
+      main {
+        padding-block: 24px 40px;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        gap: 16px;
+      }
+
+      .box {
+        grid-column: span 12;
+        overflow: hidden;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        background: var(--panel);
+      }
+
+      .half {
+        grid-column: span 6;
+      }
+
+      .third {
+        grid-column: span 4;
+      }
+
+      .box-head {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 16px;
+        border-bottom: 1px solid var(--border);
+        padding: 16px;
+        background: var(--panel-soft);
+      }
+
+      .box-body {
+        padding: 16px;
+      }
+
+      h1,
+      h2,
+      h3,
+      p {
+        margin: 0;
+      }
+
+      h1 {
+        font-size: 1.35rem;
+      }
+
+      h2 {
+        font-size: 1.05rem;
+      }
+
+      h3 {
+        font-size: 0.92rem;
+      }
+
+      p {
+        color: var(--muted);
+        line-height: 1.55;
+      }
+
+      .pill {
+        display: inline-flex;
+        align-items: center;
+        min-height: 24px;
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        padding: 2px 9px;
+        background: var(--panel);
+        color: var(--muted);
+        font-size: 0.78rem;
+        font-weight: 600;
+        white-space: nowrap;
+      }
+
+      .pill.success {
+        border-color: #aceebb;
+        color: var(--success);
+        background: #dafbe1;
+      }
+
+      .pill.warning {
+        border-color: #eac54f;
+        color: var(--warning);
+        background: #fff8c5;
+      }
+
+      .pill.danger {
+        border-color: #ffb3ba;
+        color: var(--danger);
+        background: #ffebe9;
+      }
+
+      .metrics {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 12px;
+      }
+
+      .metric {
+        min-height: 94px;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 14px;
+        background: var(--panel);
+      }
+
+      .metric b {
+        display: block;
+        margin-bottom: 8px;
+        font-size: 1.45rem;
+      }
+
+      .metric span {
+        color: var(--muted);
+        font-size: 0.88rem;
+        line-height: 1.4;
+      }
+
+      .decision-list {
+        display: grid;
+        gap: 10px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      .decision-list li {
+        display: grid;
+        grid-template-columns: 128px 1fr;
+        gap: 12px;
+        align-items: start;
+        border-bottom: 1px solid var(--border);
+        padding-bottom: 10px;
+      }
+
+      .decision-list li:last-child {
+        border-bottom: 0;
+        padding-bottom: 0;
+      }
+
+      .decision-list strong {
+        font-size: 0.9rem;
+      }
+
+      .decision-list span {
+        color: var(--muted);
+        font-size: 0.9rem;
+        line-height: 1.45;
+      }
+
+      .decision-list a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+
+      .decision-list a:hover {
+        text-decoration: underline;
+      }
+
+      .sheet-wrap {
+        overflow-x: auto;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        background: var(--panel-soft);
+        padding: 12px;
+      }
+
+      .sheet-wrap img {
+        display: block;
+        width: 5952px;
+        max-width: none;
+        height: 64px;
+      }
+
+      .table-wrap {
+        overflow-x: auto;
+      }
+
+      table {
+        width: 100%;
+        min-width: 1160px;
+        border-collapse: collapse;
+      }
+
+      th,
+      td {
+        border-bottom: 1px solid var(--border);
+        padding: 10px 8px;
+        text-align: left;
+        vertical-align: top;
+        font-size: 0.84rem;
+      }
+
+      th {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+        background: var(--panel-soft);
+        color: var(--muted);
+        font-size: 0.75rem;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+      }
+
+      tr:hover td {
+        background: #f6f8fa;
+      }
+
+      .frame-cell {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .preview {
+        width: 144px;
+        min-width: 144px;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        padding: 4px;
+        background: var(--light-preview);
+      }
+
+      .preview.dark {
+        background: var(--dark-preview);
+      }
+
+      .sprite {
+        width: 96px;
+        height: 64px;
+        margin: 0 auto;
+        background-image: url("assets/chinchilla_standard_gray_set00.png");
+        background-repeat: no-repeat;
+        background-size: 5952px 64px;
+        transform: scale(1.3);
+        transform-origin: center;
+      }
+
+      .thumb-pair {
+        display: flex;
+        gap: 8px;
+      }
+
+      .tag {
+        display: inline-flex;
+        align-items: center;
+        min-height: 22px;
+        border-radius: 6px;
+        padding: 2px 7px;
+        font-size: 0.76rem;
+        font-weight: 700;
+        white-space: nowrap;
+      }
+
+      .tag.ok {
+        color: var(--success);
+        background: #dafbe1;
+      }
+
+      .tag.warn {
+        color: var(--warning);
+        background: #fff8c5;
+      }
+
+      .tag.bad {
+        color: var(--danger);
+        background: #ffebe9;
+      }
+
+      .small {
+        color: var(--muted);
+        font-size: 0.78rem;
+        line-height: 1.35;
+      }
+
+      .note {
+        margin-top: 6px;
+        color: var(--muted);
+        font-size: 0.8rem;
+        line-height: 1.45;
+      }
+
+      .comparison-grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 12px;
+      }
+
+      .comparison-card {
+        overflow: hidden;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        background: var(--panel);
+      }
+
+      .comparison-card h3 {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+        min-height: 42px;
+        border-bottom: 1px solid var(--border);
+        padding: 10px 12px;
+        background: var(--panel-soft);
+      }
+
+      .comparison-image {
+        display: grid;
+        min-height: 220px;
+        place-items: center;
+        background:
+          linear-gradient(45deg, #e6e8eb 25%, transparent 25%),
+          linear-gradient(-45deg, #e6e8eb 25%, transparent 25%),
+          linear-gradient(45deg, transparent 75%, #e6e8eb 75%),
+          linear-gradient(-45deg, transparent 75%, #e6e8eb 75%);
+        background-color: #f8fafc;
+        background-position: 0 0, 0 10px, 10px -10px, -10px 0;
+        background-size: 20px 20px;
+      }
+
+      .comparison-image img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+
+      .comparison-placeholder {
+        padding: 20px;
+        color: var(--muted);
+        text-align: center;
+        font-size: 0.88rem;
+        line-height: 1.45;
+      }
+
+      .comparison-copy {
+        padding: 12px;
+      }
+
+      @media (max-width: 980px) {
+        .half,
+        .third {
+          grid-column: span 12;
+        }
+
+        .metrics {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+
+      @media (max-width: 640px) {
+        main,
+        .topbar {
+          padding-inline: 14px;
+        }
+
+        .metrics {
+          grid-template-columns: 1fr;
+        }
+
+        .decision-list li {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="topbar">
+        <div class="repo">
+          <strong>UDteach</strong>
+          <span class="slash">/</span>
+          <strong>AnimalsDesktop</strong>
+          <span class="muted">motion generation evaluation</span>
+        </div>
+        <span class="pill">2026-06-23</span>
+      </div>
+    </header>
+
+    <main>
+      <section class="grid">
+        <div class="box">
+          <div class="box-head">
+            <div>
+              <h1>Frame Motion And Generator Choice</h1>
+              <p>Chinchilla set00 の 62フレームについて、動きの生成適性、ImageGen / Flow / Nano Banana 2 / Nano Banana Pro の使い分け、現在の QA 注意点を整理したレビュー用ページです。</p>
+            </div>
+            <span class="pill warning">unlisted review</span>
+          </div>
+          <div class="box-body">
+            <div class="metrics">
+              <div class="metric">
+                <b>62 / 62</b>
+                <span>動き枠は全フレーム生成済み。各枠の motion intent は成立しています。</span>
+              </div>
+              <div class="metric">
+                <b>ImageGen</b>
+                <span>現時点の production 推奨。最終 accepted は one-frame-per-PNG を維持します。</span>
+              </div>
+              <div class="metric">
+                <b>Nano Banana Pro</b>
+                <span>Flow 2K x4を実生成。style anchor + grid seedでは絵柄は安定したが、best parseは緑補正後11/16で、動きの差分が不足。</span>
+              </div>
+              <div class="metric">
+                <b>Nano Banana 2</b>
+                <span>Flow上で選択肢を確認。16セル案出し候補。実画像は未取得です。</span>
+              </div>
+              <div class="metric">
+                <b>Flow</b>
+                <span>16セルからの実験・モーション案出し向き。accepted 直行は不可です。</span>
+              </div>
+              <div class="metric">
+                <b>46</b>
+                <span>pinhole warning あり。これらは style anchor に使わない方針です。</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="box">
+          <div class="box-head">
+            <h2>Generator Comparison Images</h2>
+            <span class="pill warning">review candidates</span>
+          </div>
+          <div class="box-body">
+            <div class="comparison-grid">
+              <article class="comparison-card">
+                <h3>
+                  <span>ImageGen</span>
+                  <span class="tag warn">not accepted</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-four-pose-candidate.png" alt="ImageGen four pose chinchilla candidate" />
+                </div>
+                <div class="comparison-copy">
+                  <p>4ポーズは揃ったが、チェッカー背景が焼き込まれ、右端にオレンジの記号が混入。ポーズ案としては使えるが、そのまま accepted にはできない。</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Flow Nano Banana 2</span>
+                  <span class="tag warn">not generated</span>
+                </h3>
+                <div class="comparison-image">
+                  <div class="comparison-placeholder">Flow UIで Nano Banana 2 は確認済み。プロンプト入力の内部状態が有効化されず、生成ボタンが disabled のため画像未取得。</div>
+                </div>
+                <div class="comparison-copy">
+                  <p>想定用途は walk / scurry / turn の16セル案出し。実画像が取れたら、同じ4ポーズと16セルで pinhole / face fail / style drift を採点する。</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Flow Nano Banana Pro</span>
+                  <span class="tag bad">rejected</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/flow-nanobanana-pro-2ref-contact.png" alt="Flow Nano Banana Pro 2K four-output contact sheet" />
+                </div>
+                <div class="comparison-copy">
+                  <p>Google Flow / Nano Banana Pro / 1:1 square / 2K x4。`style-anchors.png` と `grid-seed.png` を参照。顔と絵柄は安定したが、16セルのほとんどが同じポーズで、元manifest parseは0/16。</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Flow Pro parsed check</span>
+                  <span class="tag warn">11 / 16 best</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/flow-nanobanana-pro-2ref-parsed-contact.png" alt="Flow Nano Banana Pro parsed candidate 01 contact sheet" />
+                </div>
+                <div class="comparison-copy">
+                  <p>512px実グリッドに合わせ、緑優勢ピクセルを純緑化した後の候補01。残Rejectは disconnected components と chroma pinholes。accepted-frame gateは未通過。</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Flow Pro Variant A</span>
+                  <span class="tag bad">rejected</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/flow-nanobanana-pro-variant-a-cache-contact.png" alt="Flow Nano Banana Pro Variant A cache outputs" />
+                </div>
+                <div class="comparison-copy">
+                  <p>Variant A used explicit per-cell limb deltas. Pose variation improved, but the visible grid seed was still drawn into the output. This is GUIDE_INK, so the sheet is not usable as accepted source.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Variant A parse QA 141219</span>
+                  <span class="tag warn">3 / 16 diagnostic</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/flow-nanobanana-pro-variant-a-141219-qa-contact.png" alt="Flow Nano Banana Pro Variant A parse QA 141219" />
+                </div>
+                <div class="comparison-copy">
+                  <p>After green-only diagnostic normalization, only 3 of 16 cells parsed. Most rejects were chroma pinholes or detached alpha. This confirms MAT_PINHOLE remains a blocker.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Variant A parse QA 141429</span>
+                  <span class="tag bad">0 / 16 diagnostic</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/flow-nanobanana-pro-variant-a-141429-qa-contact.png" alt="Flow Nano Banana Pro Variant A parse QA 141429" />
+                </div>
+                <div class="comparison-copy">
+                  <p>The second recovered output has better low-scurry variation, but fixed-cell parsing still rejects every cell because boundary residue remains. Next attempt should remove the visible grid guide or downgrade to smaller/independent output.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>8-frame Flow vs ImageGen</span>
+                  <span class="tag warn">ImageGen better layout</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/variant-g-eight-flow-vs-imagegen-contact.png" alt="Eight-frame Flow versus ChatGPT ImageGen comparison" />
+                </div>
+                <div class="comparison-copy">
+                  <p>Flow Pro ignored the 8-frame request and returned a visible-line 4x4 sheet. ChatGPT ImageGen produced 8 separated animals in a clean 2x4 arrangement, but text-only output still failed fixed-cell parsing.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Two-stage correction</span>
+                  <span class="tag warn">5 / 8 diagnostic</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-eight-two-stage-correction-contact.png" alt="ImageGen eight-frame two-stage correction comparison" />
+                </div>
+                <div class="comparison-copy">
+                  <p>After the user-proposed layout correction pass, diagnostic fixed-cell parse improved to 5/8. Remaining failures are matte pinholes, not cell placement. Promising, but still review-only.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>8-frame workflow run 01</span>
+                  <span class="tag warn">7 / 8 diagnostic</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-8-workflow-run01-contact.png" alt="Chinchilla ImageGen 8-frame workflow run 01" />
+                </div>
+                <div class="comparison-copy">
+                  <p>A fresh chinchilla run produced 8 separated components. The stricter layout pass reached 7/8 after green normalization; the only remaining parse reject is a 1px pinhole. Layout is close, but art style and motion deltas still need another loop.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Run 01 component check</span>
+                  <span class="tag warn">8 components</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-8-workflow-run01-components.png" alt="Chinchilla ImageGen 8-frame workflow run 01 component check" />
+                </div>
+                <div class="comparison-copy">
+                  <p>Component detection found exactly 8 large animal components with no large external debris. The blocker is no longer cell count; it is pure-green matte quality, one pinhole, sprite style, and stronger walk-pose separation.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Prompt reproducibility run 02</span>
+                  <span class="tag success">C: 2 / 2 full diagnostic</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-8-repro-run02-contact.png" alt="Chinchilla ImageGen prompt reproducibility run 02" />
+                </div>
+                <div class="comparison-copy">
+                  <p>After ChatGPT Pro prompt consultation, A/B/C/D were generated twice. C, the extraction-cleanliness prompt, reached green-normalized 8/8 on both samples. B reached 8/8 once and gives stronger gait deltas. A looks flatter but parses 6-7/8. D looks closest visually but drops to 4-6/8.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Run 02 component check</span>
+                  <span class="tag warn">8 components each</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-8-repro-run02-components.png" alt="Chinchilla ImageGen run 02 component check" />
+                </div>
+                <div class="comparison-copy">
+                  <p>All eight samples produced exactly 8 large animal components. The remaining reproducibility problem is not count or layout; it is parser-pure green, pinholes, and the tradeoff between flatter sprite style and matte stability.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Run 03 E: C + gait wording</span>
+                  <span class="tag bad">failed direction</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-8-repro-run03-contact.png" alt="Chinchilla ImageGen run 03 E prompt comparison" />
+                </div>
+                <div class="comparison-copy">
+                  <p>E added modest gait wording to the clean C prompt. All four samples kept 8 visible chinchillas, but green-normalized parse fell to 3/8, 5/8, 5/8, and 3/8. The gait wording increased belly, foot, and tail pinholes.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Run 04 F: clean near-hold poses</span>
+                  <span class="tag warn">too static</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-8-repro-run04-clean-contact.png" alt="Chinchilla ImageGen run 04 F near-identical clean poses" />
+                </div>
+                <div class="comparison-copy">
+                  <p>F removed frame-by-frame gait instructions. The faces stayed coherent, but output became near-static and sometimes upright. Diagnostic parse did not recover to C-level stability: 7/8, 5/8, 5/8, and one fixed-cell layout failure.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Run 05 G: angle blueprint wording</span>
+                  <span class="tag warn">review-only</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-8-run05-angle-contact.png" alt="Chinchilla ImageGen run 05 angle blueprint wording" />
+                </div>
+                <div class="comparison-copy">
+                  <p>Angle-table wording gave some controlled foot/tail variation, but fixed-cell placement still failed before local recentering. Recentered diagnostics reached 7/8 and 8/8, so this is useful as a motion-design aid, not an accepted-frame shortcut.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Run 06 H/I: 4-frame 2x2</span>
+                  <span class="tag warn">3/4 best diagnostic</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-4-run06-contact.png" alt="Chinchilla ImageGen run 06 four-frame 2x2 comparison" />
+                </div>
+                <div class="comparison-copy">
+                  <p>After ChatGPT and Gemini text-only prompt review, the batch was reduced to four frames. H1/H2 both produced exactly four chinchillas and parsed 3/4 after green normalization; raw parse stayed 0/4 because the generated green was not parser-pure. H-next made the sprites smaller, but parse dropped to 2/4 from extra 1px pinholes.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Run 06 component check</span>
+                  <span class="tag ok">4 components each</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-4-run06-components.png" alt="Chinchilla ImageGen run 06 component overlay" />
+                </div>
+                <div class="comparison-copy">
+                  <p>All three run06 samples have four primary animal components with no large detached component. The current blocker is matte quality: one or two tiny chroma pinholes per sheet, plus a still-illustrative style that is not yet DeguDesktop-equivalent.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Run 06 recentered diagnostic</span>
+                  <span class="tag warn">review-only</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-4-run06-recentered.png" alt="Chinchilla ImageGen run 06 recentered diagnostic" />
+                </div>
+                <div class="comparison-copy">
+                  <p>Local recentering did not fix pinholes: H1/H2 stayed 3/4 and H-next stayed 2/4. Use 4-frame sheets only for review of layout, family, and rough pose direction; accepted assets still need the one-frame PNG gate.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Run 07 K: solid blob prompt</span>
+                  <span class="tag ok">4/4 x4 diagnostic</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-4-run07-recentered.png" alt="Chinchilla ImageGen run 07 K recentered diagnostic comparison" />
+                </div>
+                <div class="comparison-copy">
+                  <p>Gemini suggested changing the render variable, not the layout: remove thin details and make the animal a chunky closed mass. Four ImageGen K samples all reached 4/4 after green normalization and after local recentering, with no parser-reported pinholes.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Run 07 component check</span>
+                  <span class="tag ok">4 components each</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-4-run07-components.png" alt="Chinchilla ImageGen run 07 K component overlay" />
+                </div>
+                <div class="comparison-copy">
+                  <p>K1-K4 all detected exactly four primary animal components. The important gain is matte stability: no body holes, foot pinholes, or detached fragments in the diagnostic parser. Raw fixed-cell parse still fails 0/4 because ImageGen outputs 1254px sheets with non-parser-pure green and boundary content.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Run 07 K sample</span>
+                  <span class="tag warn">style simplified</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-4-run07-k-sample.png" alt="Chinchilla ImageGen run 07 K raw sample" />
+                </div>
+                <div class="comparison-copy">
+                  <p>The tradeoff is visible: the K prompt is stable because it removes whiskers, fur texture, separated feet, and small gaps. It is useful as a grid-stability baseline, but it is not yet DeguDesktop-equivalent final art without a later style-restoration pass.</p>
+                </div>
+              </article>
+              <article class="comparison-card">
+                <h3>
+                  <span>Pose blueprint draft</span>
+                  <span class="tag ok">species profile</span>
+                </h3>
+                <div class="comparison-image">
+                  <img src="assets/imagegen-chinchilla-pose-blueprint-silhouette.png" alt="Chinchilla silhouette pose blueprint" />
+                </div>
+                <div class="comparison-copy">
+                  <p>The next flow asks each species which body parts may move before prompting. Bone-only and silhouette-only guides help define angles, but visible guides should not be uploaded by default because labels and lines can be copied into generated art.</p>
+                </div>
+              </article>
+            </div>
+          </div>
+        </div>
+
+        <div class="box">
+          <div class="box-head">
+            <h2>Nano Banana Pro / Nano Banana 2</h2>
+            <span class="pill warning">Flow Pro generated, rejected</span>
+          </div>
+          <div class="box-body">
+            <ul class="decision-list">
+              <li>
+                <strong>Model mapping</strong>
+                <span>公式情報上は Nano Banana Pro を <a href="https://ai.google.dev/gemini-api/docs/models/gemini-3-pro-image">gemini-3-pro-image</a>、Nano Banana 2 相当を <a href="https://ai.google.dev/gemini-api/docs/models/gemini-3.1-flash-image">gemini-3.1-flash-image</a> として比較します。Flow UIでも両方の選択肢を確認済み。</span>
+              </li>
+              <li>
+                <strong>Pro hypothesis</strong>
+                <span>複雑指示、参照画像のスタイル維持、顔/手足/輪郭の破綻回避が重要な単枚生成に寄せる。hard frame と clean golden anchor 作成に使う。</span>
+              </li>
+              <li>
+                <strong>Nano Banana 2 hypothesis</strong>
+                <span>低遅延・多試行向けとして、walk / scurry / turn の16セル案出しに使う。合格候補は必ず固定セルparse後に単枚QAへ戻す。</span>
+              </li>
+              <li>
+                <strong>Current limit</strong>
+                <span>Browser copy/pasteではFlowの内部prompt stateが動かないが、OS仮想キー入力なら生成ボタンが有効化した。Nano Banana Proの2K x4は取得済み。ただし16セル一括は同一ポーズ化し、緑補正後でもbest parse 11/16のため不採用。</span>
+              </li>
+              <li>
+                <strong>A/B test set</strong>
+                <span>同一prompt、同一出力数で `04, 08, 12, 16, 32, 36, 40, 44, 52, 61` を比較。採点は parse 成功、pinhole 0、face fail 0、style drift 0、baseline drift 0、親目視OK率で判定する。</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="box half">
+          <div class="box-head">
+            <h2>Generator Verdict</h2>
+            <span class="pill success">current choice</span>
+          </div>
+          <div class="box-body">
+            <ul class="decision-list">
+              <li>
+                <strong>Final accepted</strong>
+                <span>現時点は ImageGen を優先。Nano Banana Pro は hard frame の比較候補に追加するが、最終 accepted は1枚ずつ `prepareframe`、light/dark review、`auditframes -artifact-warnings` を通す。</span>
+              </li>
+              <li>
+                <strong>Flow usage</strong>
+                <span>Flow / Nano Banana 2 は walk / scurry / turn のような連続動作の案出しに限定。まず 16セル、成功後に 31セル。62セルは探索扱い。</span>
+              </li>
+              <li>
+                <strong>Next batch size</strong>
+                <span>16セルで guide ink / pinhole が残ったため、次は8フレームの歩行ループだけを試す。可視グリッドは使わず、style anchor only の不可視2x4配置か、8枚独立出力を優先。</span>
+              </li>
+              <li>
+                <strong>Do not reuse</strong>
+                <span>`transparent pinholes` が出た既存 frame は style anchor から除外。生成済みの frame-00 anchor grid pack は archive 済み。</span>
+              </li>
+              <li>
+                <strong>Stop rule</strong>
+                <span>Flow / Nano Banana が guide ink、pinhole、face fail、source-family drift を出したら、同じ prompt/anchor/guide で再試行しない。</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="box half">
+          <div class="box-head">
+            <h2>QA Interpretation</h2>
+            <span class="pill warning">attention</span>
+          </div>
+          <div class="box-body">
+            <ul class="decision-list">
+              <li>
+                <strong>Motion feasibility</strong>
+                <span>62枠の動き自体は生成可能。特に idle / walk / scurry / rest は枠として成立しやすい。</span>
+              </li>
+              <li>
+                <strong>High risk frames</strong>
+                <span>eat / ground check / groom / reaction は顔、手足、床影、透明穴が出やすく、ImageGen または Nano Banana Pro の単枚生成で比較する。</span>
+              </li>
+              <li>
+                <strong>Flow candidate</strong>
+                <span>Flow / Nano Banana 2 を試すなら `04-19` と `32-39` の連続動作ブロックだけ。16セルで severe defect 0 が条件。</span>
+              </li>
+              <li>
+                <strong>Anchor candidate</strong>
+                <span>現在は `frame-50` が clean anchor 候補。pinhole frame は anchor 入力時にローカルツールで拒否する。</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="box">
+          <div class="box-head">
+            <h2>Current Chinchilla set00 Sheet</h2>
+            <span class="pill">96 x 64 x 62</span>
+          </div>
+          <div class="box-body">
+            <p>下の表はこのシートを 1フレームずつ切って表示しています。QA注意は現在のローカル artifact audit からの判定です。</p>
+            <div class="sheet-wrap" style="margin-top: 12px;">
+              <img src="assets/chinchilla_standard_gray_set00.png" alt="chinchilla standard gray set00 sprite sheet" />
+            </div>
+          </div>
+        </div>
+
+        <div class="box">
+          <div class="box-head">
+            <h2>Per-Frame Motion Evaluation</h2>
+            <span class="pill success">62 rows</span>
+          </div>
+          <div class="box-body table-wrap">
+            <table aria-label="Per-frame motion evaluation">
+              <thead>
+                <tr>
+                  <th>Frame</th>
+                  <th>Preview</th>
+                  <th>Motion intent</th>
+                  <th>Can generate appropriate motion?</th>
+                  <th>Best generator</th>
+                  <th>Flow role</th>
+                  <th>QA / anchor status</th>
+                </tr>
+              </thead>
+              <tbody id="frame-rows"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const warnings = new Map([
+        ...Array.from({ length: 20 }, (_, frame) => [frame, "transparent pinholes: holes=2 area=3 largest=2"]),
+        ...Array.from({ length: 6 }, (_, index) => [index + 20, "transparent pinholes: holes=2 area=2 largest=1"]),
+        [26, "transparent pinholes: holes=3 area=6 largest=4"],
+        [27, "transparent pinholes: holes=3 area=4 largest=2"],
+        [28, "transparent pinholes: holes=3 area=3 largest=1"],
+        ...Array.from({ length: 15 }, (_, index) => [index + 29, "transparent pinholes: holes=2 area=2 largest=1"]),
+        [45, "floor/shadow run + transparent pinhole"],
+        [46, "possible floor/shadow run"],
+        [47, "possible floor/shadow run"],
+        [48, "possible floor/shadow run"],
+        [49, "possible floor/shadow run"],
+        [51, "floor/shadow run + transparent pinhole"],
+        [52, "possible floor/shadow run"],
+        [54, "possible floor/shadow run"],
+        [57, "possible floor/shadow run"],
+        [58, "possible floor/shadow run"],
+        [59, "possible floor/shadow run"],
+        [60, "possible floor/shadow run"],
+        [61, "disconnected alpha components"]
+      ]);
+
+      const frameNotes = [
+        "idle baseline hold",
+        "idle breath continuation",
+        "idle ear / weight micro-shift",
+        "idle settle loop",
+        "walk contact A",
+        "walk lift A",
+        "walk passing A",
+        "walk plant A",
+        "walk contact B",
+        "walk lift B",
+        "walk passing B",
+        "walk settle loop",
+        "scurry launch",
+        "scurry low reach",
+        "scurry mid stride",
+        "scurry push",
+        "scurry extended step",
+        "scurry recover",
+        "scurry contact",
+        "scurry settle",
+        "forage head lower",
+        "forage sniff",
+        "nibble start",
+        "nibble continuation",
+        "sniff / nibble recovery",
+        "forage settle",
+        "species-safe action start",
+        "paw / head check",
+        "forepaw action cue",
+        "low action continuation",
+        "action recovery",
+        "action settle",
+        "turn start: head / shoulder cue",
+        "turn continuation: torso cue",
+        "turn mid phase",
+        "turn continuation",
+        "turn recovery",
+        "turn near-final cue",
+        "turn settle",
+        "turn final",
+        "eat start",
+        "eat / chew continuation",
+        "eat continuation",
+        "eat settle",
+        "ground check start",
+        "paw / foot cue",
+        "ground sniff / contact",
+        "ground check settle",
+        "rest-alert start",
+        "rest-alert hold",
+        "rest-alert clean anchor",
+        "rest-alert transition",
+        "groom start: forepaw lift",
+        "groom paw up",
+        "groom cheek / ear",
+        "groom settle",
+        "reaction start",
+        "alert pop",
+        "reaction hold",
+        "reaction recoil",
+        "reaction settle",
+        "reaction final"
+      ];
+
+      function motionBlock(frame) {
+        if (frame <= 3) return "idle";
+        if (frame <= 11) return "walk";
+        if (frame <= 19) return "scurry";
+        if (frame <= 25) return "forage";
+        if (frame <= 31) return "species action";
+        if (frame <= 39) return "turn";
+        if (frame <= 43) return "eat";
+        if (frame <= 47) return "ground check";
+        if (frame <= 51) return "rest-alert";
+        if (frame <= 55) return "groom";
+        return "reaction";
+      }
+
+      function generatorFor(frame) {
+        const block = motionBlock(frame);
+        if (block === "walk" || block === "scurry" || block === "turn") {
+          return {
+            best: "Nano Banana 2 / Flow assist, Pro or ImageGen final",
+            flow: "16セルで motion idea。accepted には単枚抽出後QA必須。"
+          };
+        }
+        if (["eat", "ground check", "groom", "reaction"].includes(block)) {
+          return {
+            best: "Nano Banana Pro / ImageGen single-frame",
+            flow: "Flow/Nano Banana 2は高リスク。顔、足、輪郭が崩れたら単枚に戻す。"
+          };
+        }
+        return {
+          best: "ImageGen / Nano Banana Pro single-frame",
+          flow: "Flowは原則使わない。使うなら失敗相談かラフ案のみ。"
+        };
+      }
+
+      function generationStatus(frame) {
+        const block = motionBlock(frame);
+        if (["eat", "ground check", "groom", "reaction"].includes(block)) {
+          return { label: "可能だが高リスク", cls: "warn", text: "顔・足・床影・欠損を重点確認" };
+        }
+        if (["walk", "scurry", "turn"].includes(block)) {
+          return { label: "可能", cls: "ok", text: "連続動作として成立。Flow/Nano Banana 2案出しも試験可" };
+        }
+        return { label: "可能", cls: "ok", text: "単枚生成で十分に制御可能" };
+      }
+
+      function qaStatus(frame) {
+        const warning = warnings.get(frame);
+        if (!warning) {
+          return {
+            cls: "ok",
+            label: frame === 50 ? "clean anchor候補" : "QA clean",
+            note: frame === 50 ? "現時点の grid seed / style anchor 候補" : "現行auditでartifact warningなし"
+          };
+        }
+        if (warning.includes("pinhole") || warning.includes("disconnected")) {
+          return {
+            cls: "bad",
+            label: "anchor禁止",
+            note: warning
+          };
+        }
+        return {
+          cls: "warn",
+          label: "目視注意",
+          note: warning
+        };
+      }
+
+      function spriteStyle(frame) {
+        return `background-position: -${frame * 96}px 0;`;
+      }
+
+      const rows = document.querySelector("#frame-rows");
+      rows.innerHTML = Array.from({ length: 62 }, (_, frame) => {
+        const padded = String(frame).padStart(2, "0");
+        const gen = generatorFor(frame);
+        const status = generationStatus(frame);
+        const qa = qaStatus(frame);
+        return `
+          <tr>
+            <td>
+              <strong>frame-${padded}</strong>
+              <div class="small">${motionBlock(frame)}</div>
+            </td>
+            <td>
+              <div class="thumb-pair">
+                <div class="preview"><div class="sprite" style="${spriteStyle(frame)}"></div></div>
+                <div class="preview dark"><div class="sprite" style="${spriteStyle(frame)}"></div></div>
+              </div>
+            </td>
+            <td>
+              <strong>${frameNotes[frame]}</strong>
+              <div class="note">DeguDesktop互換の62枠内での役割。</div>
+            </td>
+            <td>
+              <span class="tag ${status.cls}">${status.label}</span>
+              <div class="note">${status.text}</div>
+            </td>
+            <td><strong>${gen.best}</strong></td>
+            <td><span class="small">${gen.flow}</span></td>
+            <td>
+              <span class="tag ${qa.cls}">${qa.label}</span>
+              <div class="note">${qa.note}</div>
+            </td>
+          </tr>
+        `;
+      }).join("");
+    </script>
+  </body>
+</html>

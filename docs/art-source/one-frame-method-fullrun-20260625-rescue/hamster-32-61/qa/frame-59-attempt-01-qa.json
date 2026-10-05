@@ -1,0 +1,44 @@
+{
+  "source_size": [
+    1254,
+    1254
+  ],
+  "source_bbox": [
+    253,
+    431,
+    1032,
+    914
+  ],
+  "padded_bbox": [
+    241,
+    419,
+    1044,
+    926
+  ],
+  "normalized_size": [
+    79,
+    50
+  ],
+  "frame_bbox": [
+    8,
+    8,
+    86,
+    58
+  ],
+  "nonzero_alpha": 3010,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "hamster_golden_syrian",
+  "frame": 59,
+  "group": "reaction",
+  "pose": "ducking reaction, low body",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc36-f49e-7400-a241-c813be169de6/ig_08a24234ea8d950a016a3c841e1a388191972685d359ae3457.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/raw/frame-59-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/alpha/frame-59-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-59.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-59-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/contacts/frame-59-attempt-01-contact.png",
+  "decision": "candidate",
+  "notes": "prompt:prompts/frame-59-attempt-01-prompt.txt"
+}

@@ -1,0 +1,163 @@
+{
+  "created_at": "2026-06-28T12:00:00+09:00",
+  "reason": "Pre-release user QA: leopard gecko turn center looked oversized; domestic shorthair had frames that read as floating because thresholded visible body contact was above baseline.",
+  "method": "Preserve originals, crop threshold-visible animal body, optionally resize, and re-anchor bottom contact to y=57 without changing other frames.",
+  "operations": [
+    {
+      "variant": "gecko_leopard",
+      "frame": "frame-33.png",
+      "backup": "docs/art-source/leopard-gecko/motion-source/qa/pre-release-size-contact-repair-20260628/originals/frame-33.png",
+      "old_bbox": [
+        6,
+        20,
+        90,
+        58
+      ],
+      "old_size": [
+        84,
+        38
+      ],
+      "target_h": 30,
+      "new_bbox": [
+        15,
+        28,
+        81,
+        58
+      ],
+      "new_size": [
+        66,
+        30
+      ]
+    },
+    {
+      "variant": "gecko_leopard",
+      "frame": "frame-34.png",
+      "backup": "docs/art-source/leopard-gecko/motion-source/qa/pre-release-size-contact-repair-20260628/originals/frame-34.png",
+      "old_bbox": [
+        6,
+        18,
+        90,
+        58
+      ],
+      "old_size": [
+        84,
+        40
+      ],
+      "target_h": 30,
+      "new_bbox": [
+        16,
+        28,
+        79,
+        58
+      ],
+      "new_size": [
+        63,
+        30
+      ]
+    },
+    {
+      "variant": "gecko_leopard",
+      "frame": "frame-35.png",
+      "backup": "docs/art-source/leopard-gecko/motion-source/qa/pre-release-size-contact-repair-20260628/originals/frame-35.png",
+      "old_bbox": [
+        6,
+        23,
+        90,
+        58
+      ],
+      "old_size": [
+        84,
+        35
+      ],
+      "target_h": 29,
+      "new_bbox": [
+        13,
+        29,
+        83,
+        58
+      ],
+      "new_size": [
+        70,
+        29
+      ]
+    },
+    {
+      "variant": "domestic_shorthair_calico",
+      "frame": "frame-07.png",
+      "backup": "docs/art-source/domestic-shorthair/motion-source/qa/pre-release-contact-repair-20260628/originals/frame-07.png",
+      "old_bbox": [
+        14,
+        18,
+        80,
+        48
+      ],
+      "old_size": [
+        66,
+        30
+      ],
+      "target_h": null,
+      "new_bbox": [
+        14,
+        28,
+        80,
+        58
+      ],
+      "new_size": [
+        66,
+        30
+      ]
+    },
+    {
+      "variant": "domestic_shorthair_calico",
+      "frame": "frame-27.png",
+      "backup": "docs/art-source/domestic-shorthair/motion-source/qa/pre-release-contact-repair-20260628/originals/frame-27.png",
+      "old_bbox": [
+        13,
+        22,
+        82,
+        46
+      ],
+      "old_size": [
+        69,
+        24
+      ],
+      "target_h": null,
+      "new_bbox": [
+        12,
+        34,
+        81,
+        58
+      ],
+      "new_size": [
+        69,
+        24
+      ]
+    },
+    {
+      "variant": "domestic_shorthair_calico",
+      "frame": "frame-53.png",
+      "backup": "docs/art-source/domestic-shorthair/motion-source/qa/pre-release-contact-repair-20260628/originals/frame-53.png",
+      "old_bbox": [
+        20,
+        15,
+        74,
+        50
+      ],
+      "old_size": [
+        54,
+        35
+      ],
+      "target_h": null,
+      "new_bbox": [
+        20,
+        23,
+        74,
+        58
+      ],
+      "new_size": [
+        54,
+        35
+      ]
+    }
+  ]
+}

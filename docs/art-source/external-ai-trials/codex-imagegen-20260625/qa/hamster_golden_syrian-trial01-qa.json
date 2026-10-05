@@ -1,0 +1,519 @@
+{
+  "species": "hamster_golden_syrian",
+  "raw_sheet": "docs/art-source/external-ai-trials/codex-imagegen-20260625/raw/hamster_golden_syrian-16sheet-raw.png",
+  "contact": "docs/art-source/external-ai-trials/codex-imagegen-20260625/contacts/hamster_golden_syrian-trial01-16cells-contact.png",
+  "cells": [
+    {
+      "empty": false,
+      "source_bbox": [
+        18,
+        75,
+        289,
+        291
+      ],
+      "normalized_size": [
+        68,
+        54
+      ],
+      "frame_bbox": [
+        14,
+        5,
+        82,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2359,
+      "partial_alpha": 671,
+      "cell": 0,
+      "cell_box": [
+        0,
+        0,
+        313,
+        313
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-00-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-00-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-00-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        14,
+        75,
+        290,
+        293
+      ],
+      "normalized_size": [
+        68,
+        54
+      ],
+      "frame_bbox": [
+        14,
+        5,
+        82,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2433,
+      "partial_alpha": 634,
+      "cell": 1,
+      "cell_box": [
+        313,
+        0,
+        626,
+        313
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-01-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-01-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-01-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        23,
+        71,
+        275,
+        293
+      ],
+      "normalized_size": [
+        61,
+        54
+      ],
+      "frame_bbox": [
+        17,
+        5,
+        78,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2112,
+      "partial_alpha": 636,
+      "cell": 2,
+      "cell_box": [
+        626,
+        0,
+        939,
+        313
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-02-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-02-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-02-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        16,
+        77,
+        275,
+        293
+      ],
+      "normalized_size": [
+        65,
+        54
+      ],
+      "frame_bbox": [
+        15,
+        5,
+        80,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2250,
+      "partial_alpha": 702,
+      "cell": 3,
+      "cell_box": [
+        939,
+        0,
+        1254,
+        313
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-03-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-03-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-03-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        22,
+        64,
+        310,
+        281
+      ],
+      "normalized_size": [
+        72,
+        54
+      ],
+      "frame_bbox": [
+        12,
+        5,
+        82,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2463,
+      "partial_alpha": 795,
+      "cell": 4,
+      "cell_box": [
+        0,
+        313,
+        313,
+        626
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-04-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-04-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-04-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        17,
+        66,
+        299,
+        284
+      ],
+      "normalized_size": [
+        70,
+        54
+      ],
+      "frame_bbox": [
+        13,
+        5,
+        83,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2462,
+      "partial_alpha": 787,
+      "cell": 5,
+      "cell_box": [
+        313,
+        313,
+        626,
+        626
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-05-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-05-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-05-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        19,
+        64,
+        304,
+        283
+      ],
+      "normalized_size": [
+        70,
+        54
+      ],
+      "frame_bbox": [
+        13,
+        5,
+        82,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2329,
+      "partial_alpha": 745,
+      "cell": 6,
+      "cell_box": [
+        626,
+        313,
+        939,
+        626
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-06-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-06-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-06-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        14,
+        69,
+        280,
+        284
+      ],
+      "normalized_size": [
+        67,
+        54
+      ],
+      "frame_bbox": [
+        14,
+        5,
+        81,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2301,
+      "partial_alpha": 704,
+      "cell": 7,
+      "cell_box": [
+        939,
+        313,
+        1254,
+        626
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-07-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-07-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-07-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        17,
+        87,
+        302,
+        265
+      ],
+      "normalized_size": [
+        86,
+        54
+      ],
+      "frame_bbox": [
+        5,
+        5,
+        91,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 3008,
+      "partial_alpha": 937,
+      "cell": 8,
+      "cell_box": [
+        0,
+        626,
+        313,
+        939
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-08-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-08-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-08-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        13,
+        94,
+        307,
+        269
+      ],
+      "normalized_size": [
+        86,
+        51
+      ],
+      "frame_bbox": [
+        5,
+        8,
+        90,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2832,
+      "partial_alpha": 879,
+      "cell": 9,
+      "cell_box": [
+        313,
+        626,
+        626,
+        939
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-09-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-09-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-09-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        29,
+        81,
+        278,
+        274
+      ],
+      "normalized_size": [
+        70,
+        54
+      ],
+      "frame_bbox": [
+        13,
+        5,
+        83,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2729,
+      "partial_alpha": 682,
+      "cell": 10,
+      "cell_box": [
+        626,
+        626,
+        939,
+        939
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-10-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-10-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-10-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        35,
+        43,
+        254,
+        275
+      ],
+      "normalized_size": [
+        51,
+        54
+      ],
+      "frame_bbox": [
+        22,
+        5,
+        73,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1872,
+      "partial_alpha": 549,
+      "cell": 11,
+      "cell_box": [
+        939,
+        626,
+        1254,
+        939
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-11-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-11-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-11-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        32,
+        27,
+        255,
+        262
+      ],
+      "normalized_size": [
+        51,
+        54
+      ],
+      "frame_bbox": [
+        22,
+        5,
+        73,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1931,
+      "partial_alpha": 550,
+      "cell": 12,
+      "cell_box": [
+        0,
+        939,
+        313,
+        1254
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-12-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-12-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-12-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        40,
+        12,
+        255,
+        264
+      ],
+      "normalized_size": [
+        46,
+        54
+      ],
+      "frame_bbox": [
+        25,
+        5,
+        71,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1639,
+      "partial_alpha": 517,
+      "cell": 13,
+      "cell_box": [
+        313,
+        939,
+        626,
+        1254
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-13-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-13-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-13-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        22,
+        5,
+        270,
+        270
+      ],
+      "normalized_size": [
+        51,
+        54
+      ],
+      "frame_bbox": [
+        22,
+        6,
+        73,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1533,
+      "partial_alpha": 593,
+      "cell": 14,
+      "cell_box": [
+        626,
+        939,
+        939,
+        1254
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-14-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-14-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-14-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        6,
+        49,
+        289,
+        264
+      ],
+      "normalized_size": [
+        71,
+        54
+      ],
+      "frame_bbox": [
+        12,
+        5,
+        81,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2369,
+      "partial_alpha": 664,
+      "cell": 15,
+      "cell_box": [
+        939,
+        939,
+        1254,
+        1254
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/raw-cells/cell-15-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/alpha-cells/cell-15-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/hamster_golden_syrian/trial01/frames-96x64/cell-15-96x64.png"
+    }
+  ]
+}

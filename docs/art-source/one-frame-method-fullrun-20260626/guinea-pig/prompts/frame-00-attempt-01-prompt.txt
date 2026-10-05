@@ -1,0 +1,11 @@
+Create exactly one complete flat 2D desktop-pet sprite frame of a tricolor guinea pig on a perfectly flat solid #00ff00 chroma-key background.
+
+Frame 00 pose: neutral low side-view stance facing right, all four tiny feet near one shared baseline, calm idle start.
+
+Required identity: guinea pig / cavy, compact oval body, no visible tail, small rounded ears, blunt muzzle, dark bead eye, short legs, soft tricolor coat patches of white, warm brown, and black. It must not look like a hamster, mouse, rat, rabbit, or degu.
+
+Style: clean illustrated taskbar sprite, soft natural fur, readable at 96x64, crisp complete silhouette, gentle shading, no pixelated jagged edge.
+
+Keep the whole animal centered with generous padding around ears, nose, belly, feet, and rump. No cropped anatomy.
+
+No text, watermark, border, grid, scenery, props, food, cage, floor, shadows, reflections, gradients, texture in the background, costume, human-like pose, or multiple animals. Do not use #00ff00 anywhere in the animal.

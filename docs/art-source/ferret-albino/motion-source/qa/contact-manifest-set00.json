@@ -1,0 +1,91 @@
+{
+  "schema": "animalsdesktop.motion-contact-evidence.v1",
+  "variant": "ferret_albino",
+  "count": 12,
+  "contacts": [
+    {
+      "destination": "docs/art-source/ferret-albino/motion-source/contacts/full-00-61-light.png",
+      "sha256": "4ad64f25c3e20d6043327994c3b37fbc1b969cec6d813904c1ef7c4d37cc686e",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-albino-set00-oneframe-62/oneframe-coat-56-61-20260726/qa/contacts/contact-light-00-61-review4x.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-albino-set00-oneframe-62/oneframe-coat-56-61-20260726/qa/contacts/contact-light-00-61-review4x.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-albino/motion-source/contacts/alert-loop-56-61-light.png",
+      "sha256": "668e86bad8605510d5bd61e4a66f4c21a98844f742072343db53c4ea238f7252",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-albino-set00-oneframe-62/oneframe-coat-56-61-20260726/qa/contacts/contact-light-alert-loop-56-61-56-review4x.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-albino-set00-oneframe-62/oneframe-coat-56-61-20260726/qa/contacts/contact-light-alert-loop-56-61-56-review4x.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-albino/motion-source/contacts/rest-loop-48-55-light.png",
+      "sha256": "caac4df0597a8995d42f00d1c251ffee37c6880a803b602e8190a0ce43deee38",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-albino-set00-oneframe-62/oneframe-coat-48-55-20260725/qa/contacts/contact-light-rest-loop-48-55-48-review4x.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-albino-set00-oneframe-62/oneframe-coat-48-55-20260725/qa/contacts/contact-light-rest-loop-48-55-48-review4x.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-albino/motion-source/contacts/turn-exit-38-39-to-mirrored04-05-light.png",
+      "sha256": "0f08afaac457e99b92cccb745a7a0ef7972ae409dc7f82c134dff70cd6355a30",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-albino-set00-oneframe-62/oneframe-coat-32-39-20260725/qa/contacts/contact-light-runtime-exit-38-39-mirrored-walk04-05-review4x.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-albino-set00-oneframe-62/oneframe-coat-32-39-20260725/qa/contacts/contact-light-runtime-exit-38-39-mirrored-walk04-05-review4x.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-albino/motion-source/contacts/full-00-61-checker.png",
+      "sha256": "0d0d569fc03cddb6c9fccfbdcb4478585e48c8ff8f26716b0b24404cfa8013d1",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-albino-set00-oneframe-62/oneframe-coat-56-61-20260726/qa/contacts/contact-checker-00-61-review4x.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-albino-set00-oneframe-62/oneframe-coat-56-61-20260726/qa/contacts/contact-checker-00-61-review4x.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-albino/motion-source/contacts/alert-loop-56-61-checker.png",
+      "sha256": "ad101c6f3c2294620ce67bb88ca5644c6a11a2bdc7542e94a72397029967ad4f",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-albino-set00-oneframe-62/oneframe-coat-56-61-20260726/qa/contacts/contact-checker-alert-loop-56-61-56-review4x.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-albino-set00-oneframe-62/oneframe-coat-56-61-20260726/qa/contacts/contact-checker-alert-loop-56-61-56-review4x.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-albino/motion-source/contacts/rest-loop-48-55-checker.png",
+      "sha256": "94dcc2cdda78ba75233548912b70c9e2f252999e0603dd09842ede1f545b8f92",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-albino-set00-oneframe-62/oneframe-coat-48-55-20260725/qa/contacts/contact-checker-rest-loop-48-55-48-review4x.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-albino-set00-oneframe-62/oneframe-coat-48-55-20260725/qa/contacts/contact-checker-rest-loop-48-55-48-review4x.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-albino/motion-source/contacts/turn-exit-38-39-to-mirrored04-05-checker.png",
+      "sha256": "3f3c42a7f1e13db51061ea854e12878e331f7f811064278d9b54aede4b061f2c",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-albino-set00-oneframe-62/oneframe-coat-32-39-20260725/qa/contacts/contact-checker-runtime-exit-38-39-mirrored-walk04-05-review4x.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-albino-set00-oneframe-62/oneframe-coat-32-39-20260725/qa/contacts/contact-checker-runtime-exit-38-39-mirrored-walk04-05-review4x.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-albino/motion-source/contacts/full-00-61-dark.png",
+      "sha256": "9fb4a6ed2876e81a64ca52d5c11c52933ea1129156e0a1f116dbcae245ffd552",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-albino-set00-oneframe-62/oneframe-coat-56-61-20260726/qa/contacts/contact-dark-00-61-review4x.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-albino-set00-oneframe-62/oneframe-coat-56-61-20260726/qa/contacts/contact-dark-00-61-review4x.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-albino/motion-source/contacts/alert-loop-56-61-dark.png",
+      "sha256": "c4db3f57aac9c55e3a3537689470fc2d84158392c15b691b3f2eb04e1d763dac",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-albino-set00-oneframe-62/oneframe-coat-56-61-20260726/qa/contacts/contact-dark-alert-loop-56-61-56-review4x.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-albino-set00-oneframe-62/oneframe-coat-56-61-20260726/qa/contacts/contact-dark-alert-loop-56-61-56-review4x.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-albino/motion-source/contacts/rest-loop-48-55-dark.png",
+      "sha256": "65d3745d1c6271ef17e14582298f05e17ed7e6edd15408133dbdfd54f0ff60c7",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-albino-set00-oneframe-62/oneframe-coat-48-55-20260725/qa/contacts/contact-dark-rest-loop-48-55-48-review4x.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-albino-set00-oneframe-62/oneframe-coat-48-55-20260725/qa/contacts/contact-dark-rest-loop-48-55-48-review4x.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-albino/motion-source/contacts/turn-exit-38-39-to-mirrored04-05-dark.png",
+      "sha256": "a435bc244234121bddc5840151dd0d98a2e2ec033221329596a0de6799cf4324",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-albino-set00-oneframe-62/oneframe-coat-32-39-20260725/qa/contacts/contact-dark-runtime-exit-38-39-mirrored-walk04-05-review4x.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-albino-set00-oneframe-62/oneframe-coat-32-39-20260725/qa/contacts/contact-dark-runtime-exit-38-39-mirrored-walk04-05-review4x.png",
+      "source_matches_destination": "true"
+    }
+  ]
+}

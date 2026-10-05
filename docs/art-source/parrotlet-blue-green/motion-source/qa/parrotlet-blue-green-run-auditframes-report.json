@@ -1,0 +1,934 @@
+{
+  "frames_dir": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames",
+  "pattern": "frame-%02d.png",
+  "strict": true,
+  "frame_width": 96,
+  "frame_height": 64,
+  "set_count": 1,
+  "frame_count": 62,
+  "valid": 62,
+  "missing": 0,
+  "invalid": 0,
+  "warnings": 116,
+  "sets": [
+    {
+      "set": "frames",
+      "dir": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames",
+      "valid": 62,
+      "missing": 0,
+      "invalid": 0,
+      "warnings": 116,
+      "frames": [
+        {
+          "frame": 0,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-00.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 4,
+            "w": 64,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 42 at y=50 with 23px row drop below"
+          ]
+        },
+        {
+          "frame": 1,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-01.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 4,
+            "w": 64,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 42 at y=49 with 23px row drop below"
+          ]
+        },
+        {
+          "frame": 2,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-02.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 4,
+            "w": 64,
+            "h": 54
+          }
+        },
+        {
+          "frame": 3,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-03.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 65,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 43 at y=50 with 22px row drop below",
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 4,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-04.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 4,
+            "w": 82,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 56 at y=47 with 31px row drop below"
+          ]
+        },
+        {
+          "frame": 5,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-05.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 4,
+            "w": 84,
+            "h": 54
+          }
+        },
+        {
+          "frame": 6,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-06.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 4,
+            "w": 72,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 52 at y=46 with 26px row drop below"
+          ]
+        },
+        {
+          "frame": 7,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-07.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 4,
+            "w": 73,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 56 at y=45 with 25px row drop below"
+          ]
+        },
+        {
+          "frame": 8,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-08.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 4,
+            "w": 83,
+            "h": 54
+          }
+        },
+        {
+          "frame": 9,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-09.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 4,
+            "w": 74,
+            "h": 54
+          }
+        },
+        {
+          "frame": 10,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-10.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 4,
+            "w": 75,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 28 at y=56 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 57 at y=46 with 29px row drop below"
+          ]
+        },
+        {
+          "frame": 11,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-11.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 65,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 43 at y=49 with 23px row drop below",
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 12,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-12.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 7,
+            "w": 84,
+            "h": 51
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=44 with 30px row drop below"
+          ]
+        },
+        {
+          "frame": 13,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-13.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 23,
+            "w": 84,
+            "h": 35
+          }
+        },
+        {
+          "frame": 14,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-14.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 14,
+            "w": 84,
+            "h": 44
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 66 at y=45 with 30px row drop below"
+          ]
+        },
+        {
+          "frame": 15,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-15.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 16,
+            "w": 84,
+            "h": 42
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 29 at y=56 near lower content"
+          ]
+        },
+        {
+          "frame": 16,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-16.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 9,
+            "w": 84,
+            "h": 49
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=44 with 28px row drop below"
+          ]
+        },
+        {
+          "frame": 17,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-17.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 6,
+            "w": 84,
+            "h": 52
+          }
+        },
+        {
+          "frame": 18,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-18.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 7,
+            "w": 84,
+            "h": 51
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 30 at y=56 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 66 at y=45 with 29px row drop below",
+            "transparent pinholes: holes=2 area=10 largest=9"
+          ]
+        },
+        {
+          "frame": 19,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-19.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 4,
+            "w": 71,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 51 at y=46 with 25px row drop below",
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 20,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-20.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 22,
+            "w": 84,
+            "h": 36
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 30 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 21,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-21.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 23,
+            "w": 84,
+            "h": 35
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 31 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 22,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-22.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 22,
+            "w": 84,
+            "h": 36
+          }
+        },
+        {
+          "frame": 23,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-23.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 24,
+            "w": 84,
+            "h": 34
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 59 at y=48 with 30px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 24,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-24.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 25,
+            "w": 84,
+            "h": 33
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 30 at y=56 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 57 at y=50 with 30px row drop below",
+            "transparent pinholes: holes=1 area=8 largest=8"
+          ]
+        },
+        {
+          "frame": 25,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-25.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 4,
+            "w": 71,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 27 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 50 at y=47 with 26px row drop below",
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 26,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-26.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 4,
+            "w": 67,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 52 at y=47 with 28px row drop below"
+          ]
+        },
+        {
+          "frame": 27,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-27.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 69,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 53 at y=47 with 31px row drop below",
+            "transparent pinholes: holes=1 area=4 largest=4"
+          ]
+        },
+        {
+          "frame": 28,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-28.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 4,
+            "w": 71,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 51 at y=46 with 23px row drop below",
+            "transparent pinholes: holes=3 area=6 largest=4"
+          ]
+        },
+        {
+          "frame": 29,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-29.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 65,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 52 at y=48 with 22px row drop below"
+          ]
+        },
+        {
+          "frame": 30,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-30.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 66,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 54 at y=47 with 25px row drop below",
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 31,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-31.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 4,
+            "w": 72,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 51 at y=47 with 28px row drop below",
+            "transparent pinholes: holes=2 area=3 largest=2"
+          ]
+        },
+        {
+          "frame": 32,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-32.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 65,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 54 at y=46 with 29px row drop below",
+            "transparent pinholes: holes=2 area=3 largest=2"
+          ]
+        },
+        {
+          "frame": 33,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-33.png",
+          "status": "valid",
+          "content": {
+            "x": 17,
+            "y": 4,
+            "w": 62,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 50 at y=48 with 30px row drop below",
+            "transparent pinholes: holes=1 area=4 largest=4"
+          ]
+        },
+        {
+          "frame": 34,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-34.png",
+          "status": "valid",
+          "content": {
+            "x": 28,
+            "y": 4,
+            "w": 39,
+            "h": 54
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 35,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-35.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 4,
+            "w": 60,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 45 at y=49 with 25px row drop below",
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 36,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-36.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 69,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 52 at y=47 with 27px row drop below",
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 37,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-37.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 65,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 50 at y=48 with 30px row drop below",
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 38,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-38.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 70,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 51 at y=48 with 29px row drop below",
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 39,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-39.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 69,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 53 at y=47 with 30px row drop below",
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 40,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-40.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 4,
+            "w": 77,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 56 at y=46 with 28px row drop below",
+            "transparent pinholes: holes=1 area=6 largest=6"
+          ]
+        },
+        {
+          "frame": 41,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-41.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 4,
+            "w": 71,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 52 at y=47 with 32px row drop below",
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 42,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-42.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 4,
+            "w": 74,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 53 at y=47 with 31px row drop below",
+            "transparent pinholes: holes=1 area=7 largest=7"
+          ]
+        },
+        {
+          "frame": 43,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-43.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 4,
+            "w": 73,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 54 at y=46 with 26px row drop below",
+            "transparent pinholes: holes=1 area=8 largest=8"
+          ]
+        },
+        {
+          "frame": 44,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-44.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 12,
+            "w": 84,
+            "h": 46
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 58 at y=46 with 32px row drop below",
+            "transparent pinholes: holes=1 area=7 largest=7"
+          ]
+        },
+        {
+          "frame": 45,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-45.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 16,
+            "w": 84,
+            "h": 42
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 82 at y=44 with 41px row drop below"
+          ]
+        },
+        {
+          "frame": 46,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-46.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 80 at y=44 with 42px row drop below"
+          ]
+        },
+        {
+          "frame": 47,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-47.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 11,
+            "w": 84,
+            "h": 47
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 28 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 60 at y=46 with 31px row drop below",
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 48,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-48.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 69,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 50 at y=47 with 27px row drop below",
+            "transparent pinholes: holes=1 area=4 largest=4"
+          ]
+        },
+        {
+          "frame": 49,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-49.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 65,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 49 at y=47 with 22px row drop below",
+            "transparent pinholes: holes=1 area=4 largest=4"
+          ]
+        },
+        {
+          "frame": 50,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-50.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 65,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 25 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 49 at y=47 with 21px row drop below",
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 51,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-51.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 4,
+            "w": 64,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 25 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 48 at y=48 with 29px row drop below",
+            "transparent pinholes: holes=1 area=4 largest=4"
+          ]
+        },
+        {
+          "frame": 52,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-52.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 65,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 27 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 53 at y=47 with 31px row drop below",
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 53,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-53.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 4,
+            "w": 60,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 25 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 47 at y=48 with 26px row drop below",
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 54,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-54.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 4,
+            "w": 63,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 50 at y=48 with 31px row drop below",
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 55,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-55.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 4,
+            "w": 68,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 51 at y=48 with 30px row drop below",
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 56,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-56.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 66,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 49 at y=48 with 29px row drop below",
+            "transparent pinholes: holes=1 area=4 largest=4"
+          ]
+        },
+        {
+          "frame": 57,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-57.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 65,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 48 at y=48 with 28px row drop below",
+            "transparent pinholes: holes=1 area=4 largest=4"
+          ]
+        },
+        {
+          "frame": 58,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-58.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 4,
+            "w": 72,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 54 at y=46 with 29px row drop below",
+            "transparent pinholes: holes=1 area=6 largest=6"
+          ]
+        },
+        {
+          "frame": 59,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-59.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 69,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 52 at y=47 with 26px row drop below",
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 60,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-60.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 4,
+            "w": 68,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 51 at y=47 with 26px row drop below",
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 61,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/parrotlet-blue-green-set00-oneframe-62/frames/frame-61.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 4,
+            "w": 68,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 27 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 51 at y=47 with 24px row drop below",
+            "transparent pinholes: holes=1 area=4 largest=4"
+          ]
+        }
+      ],
+      "completed": true
+    }
+  ]
+}

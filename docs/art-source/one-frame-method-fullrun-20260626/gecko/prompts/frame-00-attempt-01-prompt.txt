@@ -1,0 +1,11 @@
+Create exactly one complete flat 2D desktop-pet sprite frame of a gray-brown Japanese house gecko on a perfectly flat solid #00ff00 chroma-key background.
+
+Frame 00 pose: neutral low side-view crawl stance facing right, belly close to the baseline, four splayed feet visible, calm idle start.
+
+Required identity: small gecko, low reptile body, triangular head, large dark eye, slender tapering tail fully inside the canvas, four splayed legs with tiny toe pads, gray-brown mottled natural coloring. It must not look like a mammal, lizard toy, dinosaur, salamander, or leopard gecko morph.
+
+Style: clean illustrated taskbar sprite, readable at 96x64, crisp complete silhouette, subtle scale/mottle detail, gentle shading, no pixelated jagged edge.
+
+Keep the whole animal centered with generous padding around head, toes, belly, and full tail. No cropped anatomy.
+
+No text, watermark, border, grid, scenery, props, rocks, cage, floor, shadows, reflections, gradients, texture in the background, costume, human-like pose, or multiple animals. Do not use #00ff00 anywhere in the animal.

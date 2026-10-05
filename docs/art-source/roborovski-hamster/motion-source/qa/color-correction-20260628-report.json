@@ -1,0 +1,353 @@
+{
+  "reference_frames": "00-28",
+  "corrected_frames": "29-52",
+  "method": "warm-coat masked RGB mean/std transfer, blend=0.58, alpha and non-coat pixels preserved",
+  "reference_mean_rgb": [
+    214.244,
+    173.902,
+    136.893
+  ],
+  "reference_std_rgb": [
+    17.337,
+    18.603,
+    24.799
+  ],
+  "frames": [
+    {
+      "frame": 29,
+      "coat_pixels": 1344,
+      "before_mean_rgb": [
+        189.691,
+        160.551,
+        132.429
+      ],
+      "after_mean_rgb": [
+        203.932,
+        168.294,
+        135.018
+      ]
+    },
+    {
+      "frame": 30,
+      "coat_pixels": 1141,
+      "before_mean_rgb": [
+        196.734,
+        162.694,
+        134.169
+      ],
+      "after_mean_rgb": [
+        206.89,
+        169.195,
+        135.749
+      ]
+    },
+    {
+      "frame": 31,
+      "coat_pixels": 1485,
+      "before_mean_rgb": [
+        194.639,
+        160.718,
+        131.983
+      ],
+      "after_mean_rgb": [
+        206.01,
+        168.365,
+        134.831
+      ]
+    },
+    {
+      "frame": 32,
+      "coat_pixels": 1394,
+      "before_mean_rgb": [
+        194.748,
+        164.391,
+        134.692
+      ],
+      "after_mean_rgb": [
+        206.056,
+        169.907,
+        135.969
+      ]
+    },
+    {
+      "frame": 33,
+      "coat_pixels": 1608,
+      "before_mean_rgb": [
+        201.269,
+        172.289,
+        142.958
+      ],
+      "after_mean_rgb": [
+        208.795,
+        173.224,
+        139.44
+      ]
+    },
+    {
+      "frame": 34,
+      "coat_pixels": 1273,
+      "before_mean_rgb": [
+        199.382,
+        170.54,
+        142.049
+      ],
+      "after_mean_rgb": [
+        208.002,
+        172.49,
+        139.059
+      ]
+    },
+    {
+      "frame": 35,
+      "coat_pixels": 1367,
+      "before_mean_rgb": [
+        190.844,
+        161.119,
+        131.075
+      ],
+      "after_mean_rgb": [
+        204.416,
+        168.533,
+        134.449
+      ]
+    },
+    {
+      "frame": 36,
+      "coat_pixels": 1332,
+      "before_mean_rgb": [
+        196.104,
+        163.704,
+        136.159
+      ],
+      "after_mean_rgb": [
+        206.625,
+        169.619,
+        136.585
+      ]
+    },
+    {
+      "frame": 37,
+      "coat_pixels": 1537,
+      "before_mean_rgb": [
+        195.751,
+        163.338,
+        133.448
+      ],
+      "after_mean_rgb": [
+        206.477,
+        169.465,
+        135.446
+      ]
+    },
+    {
+      "frame": 38,
+      "coat_pixels": 1418,
+      "before_mean_rgb": [
+        198.662,
+        166.342,
+        136.858
+      ],
+      "after_mean_rgb": [
+        207.7,
+        170.727,
+        136.878
+      ]
+    },
+    {
+      "frame": 39,
+      "coat_pixels": 1567,
+      "before_mean_rgb": [
+        199.22,
+        165.04,
+        136.26
+      ],
+      "after_mean_rgb": [
+        207.934,
+        170.179,
+        136.627
+      ]
+    },
+    {
+      "frame": 40,
+      "coat_pixels": 1424,
+      "before_mean_rgb": [
+        190.929,
+        160.858,
+        134.235
+      ],
+      "after_mean_rgb": [
+        204.452,
+        168.424,
+        135.776
+      ]
+    },
+    {
+      "frame": 41,
+      "coat_pixels": 1566,
+      "before_mean_rgb": [
+        195.793,
+        161.761,
+        130.258
+      ],
+      "after_mean_rgb": [
+        206.495,
+        168.803,
+        134.106
+      ]
+    },
+    {
+      "frame": 42,
+      "coat_pixels": 2034,
+      "before_mean_rgb": [
+        196.928,
+        162.13,
+        131.035
+      ],
+      "after_mean_rgb": [
+        206.971,
+        168.957,
+        134.433
+      ]
+    },
+    {
+      "frame": 43,
+      "coat_pixels": 1648,
+      "before_mean_rgb": [
+        198.442,
+        163.791,
+        132.797
+      ],
+      "after_mean_rgb": [
+        207.608,
+        169.655,
+        135.172
+      ]
+    },
+    {
+      "frame": 44,
+      "coat_pixels": 2178,
+      "before_mean_rgb": [
+        197.254,
+        164.155,
+        131.945
+      ],
+      "after_mean_rgb": [
+        207.108,
+        169.808,
+        134.815
+      ]
+    },
+    {
+      "frame": 45,
+      "coat_pixels": 2152,
+      "before_mean_rgb": [
+        199.977,
+        161.44,
+        127.454
+      ],
+      "after_mean_rgb": [
+        208.252,
+        168.668,
+        132.929
+      ]
+    },
+    {
+      "frame": 46,
+      "coat_pixels": 2100,
+      "before_mean_rgb": [
+        191.569,
+        155.901,
+        122.274
+      ],
+      "after_mean_rgb": [
+        204.72,
+        166.342,
+        130.753
+      ]
+    },
+    {
+      "frame": 47,
+      "coat_pixels": 2141,
+      "before_mean_rgb": [
+        193.114,
+        157.924,
+        127.161
+      ],
+      "after_mean_rgb": [
+        205.369,
+        167.191,
+        132.805
+      ]
+    },
+    {
+      "frame": 48,
+      "coat_pixels": 2065,
+      "before_mean_rgb": [
+        198.747,
+        160.967,
+        130.921
+      ],
+      "after_mean_rgb": [
+        207.735,
+        168.469,
+        134.385
+      ]
+    },
+    {
+      "frame": 49,
+      "coat_pixels": 1907,
+      "before_mean_rgb": [
+        192.819,
+        159.94,
+        127.35
+      ],
+      "after_mean_rgb": [
+        205.245,
+        168.038,
+        132.885
+      ]
+    },
+    {
+      "frame": 50,
+      "coat_pixels": 1272,
+      "before_mean_rgb": [
+        196.637,
+        164.401,
+        136.079
+      ],
+      "after_mean_rgb": [
+        206.849,
+        169.911,
+        136.551
+      ]
+    },
+    {
+      "frame": 51,
+      "coat_pixels": 1696,
+      "before_mean_rgb": [
+        198.877,
+        164.292,
+        132.555
+      ],
+      "after_mean_rgb": [
+        207.79,
+        169.866,
+        135.071
+      ]
+    },
+    {
+      "frame": 52,
+      "coat_pixels": 1467,
+      "before_mean_rgb": [
+        197.8,
+        162.851,
+        133.266
+      ],
+      "after_mean_rgb": [
+        207.337,
+        169.261,
+        135.37
+      ]
+    }
+  ]
+}

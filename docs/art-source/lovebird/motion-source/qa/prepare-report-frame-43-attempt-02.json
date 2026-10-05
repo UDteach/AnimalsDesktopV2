@@ -1,0 +1,45 @@
+{
+  "raw_path": "raw/frame-43-attempt-02.png",
+  "alpha_path": "alpha/frame-43-attempt-02.png",
+  "frame_path": "frames/frame-43.png",
+  "largest_component_pixels": 115974,
+  "normalization": {
+    "target_max_w": 54,
+    "target_max_h": 34,
+    "baseline_y": 57,
+    "scale_policy": "per-frame fit"
+  },
+  "stats": {
+    "source_bbox": [
+      442,
+      444,
+      1061,
+      742
+    ],
+    "source_size": [
+      1536,
+      1024
+    ],
+    "canvas_size": [
+      96,
+      64
+    ],
+    "visible_bbox": [
+      21,
+      31,
+      75,
+      57
+    ],
+    "visible_pixels": 1053,
+    "opaque_pixels": 852,
+    "edge_alpha_pixels": 0,
+    "transparent_residual_magenta_pixels": 0,
+    "transparent_white_gray_pixels": 0,
+    "scale": 0.08723747980613894,
+    "placed_xy": [
+      21,
+      31
+    ],
+    "baseline_y": 57
+  }
+}

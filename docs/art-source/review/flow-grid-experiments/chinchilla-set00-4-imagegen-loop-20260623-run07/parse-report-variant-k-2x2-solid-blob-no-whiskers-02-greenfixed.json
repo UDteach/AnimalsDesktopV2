@@ -1,0 +1,116 @@
+{
+  "manifest": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-k-2x2-solid-blob-no-whiskers-02-greenfixed-batch.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/parsed-variant-k-2x2-solid-blob-no-whiskers-02-greenfixed",
+  "cell_width": 627,
+  "cell_height": 627,
+  "columns": 2,
+  "rows": 2,
+  "pitch_x": 627,
+  "pitch_y": 627,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 4,
+  "parsed": 4,
+  "rejected": 0,
+  "sources": [
+    {
+      "path": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-k-2x2-solid-blob-no-whiskers-02-greenfixed.png",
+      "sha256": "d1d784e1ee3110cc373cfd294dadba10003790276f2ab871cece3fd33ed1c7c2",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-k-2x2-solid-blob-no-whiskers-02-greenfixed.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 627,
+        "h": 627
+      },
+      "output": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/parsed-variant-k-2x2-solid-blob-no-whiskers-02-greenfixed/frame-00.png",
+      "source_sha256": "d1d784e1ee3110cc373cfd294dadba10003790276f2ab871cece3fd33ed1c7c2",
+      "output_sha256": "87e2f9a9fa59221fdfdabda22ea07a6ce3c142d8a1234e33474a4ab5cabea09b",
+      "content": {
+        "x": 111,
+        "y": 175,
+        "w": 402,
+        "h": 292
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-k-2x2-solid-blob-no-whiskers-02-greenfixed.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 627,
+        "y": 0,
+        "w": 627,
+        "h": 627
+      },
+      "output": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/parsed-variant-k-2x2-solid-blob-no-whiskers-02-greenfixed/frame-01.png",
+      "source_sha256": "d1d784e1ee3110cc373cfd294dadba10003790276f2ab871cece3fd33ed1c7c2",
+      "output_sha256": "5bf081bd71fee1b5ebde192f644d9ffb3eff3222e5b9f5fa2171b1c62bd57dd2",
+      "content": {
+        "x": 107,
+        "y": 177,
+        "w": 407,
+        "h": 288
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-k-2x2-solid-blob-no-whiskers-02-greenfixed.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 0,
+        "y": 627,
+        "w": 627,
+        "h": 627
+      },
+      "output": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/parsed-variant-k-2x2-solid-blob-no-whiskers-02-greenfixed/frame-02.png",
+      "source_sha256": "d1d784e1ee3110cc373cfd294dadba10003790276f2ab871cece3fd33ed1c7c2",
+      "output_sha256": "4dd59183ba09bfb9c55019511296e8caf9d15d69d5e37d50c5501f58e916d55f",
+      "content": {
+        "x": 117,
+        "y": 140,
+        "w": 400,
+        "h": 292
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-k-2x2-solid-blob-no-whiskers-02-greenfixed.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 627,
+        "y": 627,
+        "w": 627,
+        "h": 627
+      },
+      "output": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/parsed-variant-k-2x2-solid-blob-no-whiskers-02-greenfixed/frame-03.png",
+      "source_sha256": "d1d784e1ee3110cc373cfd294dadba10003790276f2ab871cece3fd33ed1c7c2",
+      "output_sha256": "7044505cb3084d6bb2072782f031d67ab173984d796f51e64f92affed260cbfc",
+      "content": {
+        "x": 101,
+        "y": 144,
+        "w": 407,
+        "h": 288
+      },
+      "component_count": 1,
+      "status": "parsed"
+    }
+  ]
+}

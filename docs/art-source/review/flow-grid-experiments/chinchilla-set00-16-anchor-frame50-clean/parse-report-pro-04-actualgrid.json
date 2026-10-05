@@ -1,0 +1,402 @@
+{
+  "manifest": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/batch-pro-04-actualgrid.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/parsed-pro-04-actualgrid",
+  "cell_width": 512,
+  "cell_height": 512,
+  "columns": 4,
+  "rows": 4,
+  "pitch_x": 512,
+  "pitch_y": 512,
+  "guard_pixels": 1,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 16,
+  "parsed": 0,
+  "rejected": 16,
+  "sources": [
+    {
+      "path": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "width": 2048,
+      "height": 2048,
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 4,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 5,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 6,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 7,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-08",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 8,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-09",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 9,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-10",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 10,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-11",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 11,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-12",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 12,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-13",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 13,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-14",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 14,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    },
+    {
+      "id": "set00-frame-15",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png",
+      "cell": 15,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "2d53bc8be3a8ff47909aa8206f54f68f0161423f1cadc8cfe3f19c48b70e0683",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 511"
+      ]
+    }
+  ],
+  "errors": [
+    "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-04.png: content exists in x-boundary guard column 511",
+    "set00-frame-00: content exists in x-boundary guard column 511",
+    "set00-frame-01: content exists in x-boundary guard column 511",
+    "set00-frame-02: content exists in x-boundary guard column 511",
+    "set00-frame-03: content exists in x-boundary guard column 511",
+    "set00-frame-04: content exists in x-boundary guard column 511",
+    "set00-frame-05: content exists in x-boundary guard column 511",
+    "set00-frame-06: content exists in x-boundary guard column 511",
+    "set00-frame-07: content exists in x-boundary guard column 511",
+    "set00-frame-08: content exists in x-boundary guard column 511",
+    "set00-frame-09: content exists in x-boundary guard column 511",
+    "set00-frame-10: content exists in x-boundary guard column 511",
+    "set00-frame-11: content exists in x-boundary guard column 511",
+    "set00-frame-12: content exists in x-boundary guard column 511",
+    "set00-frame-13: content exists in x-boundary guard column 511",
+    "set00-frame-14: content exists in x-boundary guard column 511",
+    "set00-frame-15: content exists in x-boundary guard column 511"
+  ]
+}

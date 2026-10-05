@@ -1,0 +1,1081 @@
+{
+  "schema": "animalsdesktop.accepted-motion-canonical.v1",
+  "variant": "ferret_sable_panda",
+  "status": "parent_approved_frozen",
+  "frame_count": 62,
+  "expected_frame_size": [
+    96,
+    64
+  ],
+  "all_source_winners_match_accepted": true,
+  "unique_frame_hashes": 62,
+  "aggregate_sha256_method": "SHA-256 over accepted PNG file bytes concatenated in numeric frame order 00 through 61",
+  "aggregate_sha256": "fa8fff8d45c6ee27878f2dba31e688bed13fdf5fc1bd8371bc06fd242e590f9a",
+  "sheet": {
+    "path": "docs/art-source/ferret-sable-panda/motion-source/sheets/ferret-sable-panda-source-set00.png",
+    "sha256": "8870af7cbf98c0111b0e8064f34aca775feaf9839339dea7fbed21e2c7c8eabd",
+    "width": 5952,
+    "height": 64,
+    "mode": "RGBA"
+  },
+  "frames": [
+    {
+      "frame": "00",
+      "action": "idle",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-00.png",
+      "sha256": "061b5c12a20f9b133b731a4caf01ca3da7f0c7d596e6f7f57604fedd97c05edf",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        29,
+        88,
+        29
+      ],
+      "source_winner_sha256": "061b5c12a20f9b133b731a4caf01ca3da7f0c7d596e6f7f57604fedd97c05edf",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "01",
+      "action": "idle",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-01.png",
+      "sha256": "f81c5f60e21efc71ba93d29e9902f03a05a0fffb7e01eb535281e5b43b09ff1c",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        28,
+        88,
+        30
+      ],
+      "source_winner_sha256": "f81c5f60e21efc71ba93d29e9902f03a05a0fffb7e01eb535281e5b43b09ff1c",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "02",
+      "action": "idle",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-02.png",
+      "sha256": "26725bbf2590116532be53211b54f3aa2014ae2d00b79d7f99caa09750636ed9",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        29,
+        88,
+        29
+      ],
+      "source_winner_sha256": "26725bbf2590116532be53211b54f3aa2014ae2d00b79d7f99caa09750636ed9",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "03",
+      "action": "idle",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-03.png",
+      "sha256": "01bda673ebb539267e89f616d53a134b43736776f1c7bfb93c0c3b686cd54c13",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        24,
+        88,
+        34
+      ],
+      "source_winner_sha256": "01bda673ebb539267e89f616d53a134b43736776f1c7bfb93c0c3b686cd54c13",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "04",
+      "action": "low_slink",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-04.png",
+      "sha256": "77a03b474aebed243bdfd9ee12d68c0dd001de89cd3e05b970bc7d459f00f130",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        35,
+        88,
+        23
+      ],
+      "source_winner_sha256": "77a03b474aebed243bdfd9ee12d68c0dd001de89cd3e05b970bc7d459f00f130",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "05",
+      "action": "low_slink",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-05.png",
+      "sha256": "61f4d784ef74471d75bcd06fd5fc2b4d478a9eeea05877aaca651830ae5f6b3e",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        37,
+        88,
+        21
+      ],
+      "source_winner_sha256": "61f4d784ef74471d75bcd06fd5fc2b4d478a9eeea05877aaca651830ae5f6b3e",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "06",
+      "action": "low_slink",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-06.png",
+      "sha256": "349e11d2ab9acbf78c1f836191ada3d6a376a464c2422c1d80a0843d6603808c",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        36,
+        88,
+        22
+      ],
+      "source_winner_sha256": "349e11d2ab9acbf78c1f836191ada3d6a376a464c2422c1d80a0843d6603808c",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "07",
+      "action": "low_slink",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-07.png",
+      "sha256": "091beb8f070018ef0b0fc2303622e02629f3306c8f38bddb5506f556deb512b2",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        37,
+        88,
+        21
+      ],
+      "source_winner_sha256": "091beb8f070018ef0b0fc2303622e02629f3306c8f38bddb5506f556deb512b2",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "08",
+      "action": "low_slink",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-08.png",
+      "sha256": "3b58eab49e6d0f4dce2f393673f27e83a3f8fc44b9a714570699a1e3cabbe9b0",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        33,
+        88,
+        25
+      ],
+      "source_winner_sha256": "3b58eab49e6d0f4dce2f393673f27e83a3f8fc44b9a714570699a1e3cabbe9b0",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "09",
+      "action": "low_slink",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-09.png",
+      "sha256": "deaa5b867b019a17d1013a3d8ac1d6a852efb4629fe5c688c9fdb56c78938eb5",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        32,
+        88,
+        26
+      ],
+      "source_winner_sha256": "deaa5b867b019a17d1013a3d8ac1d6a852efb4629fe5c688c9fdb56c78938eb5",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "10",
+      "action": "low_slink",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-10.png",
+      "sha256": "d2e071530aa97f3ac54acf3b4b54012dcfd1263df1f255361e982ba8e0b1db66",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        33,
+        88,
+        25
+      ],
+      "source_winner_sha256": "d2e071530aa97f3ac54acf3b4b54012dcfd1263df1f255361e982ba8e0b1db66",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "11",
+      "action": "low_slink",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-11.png",
+      "sha256": "af777204e62ddb3673dd62c3d3be40cf89ec2fb139c87b1e27f7aa4ed9c160a8",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        34,
+        88,
+        24
+      ],
+      "source_winner_sha256": "af777204e62ddb3673dd62c3d3be40cf89ec2fb139c87b1e27f7aa4ed9c160a8",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "12",
+      "action": "scurry",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-12.png",
+      "sha256": "17a1e04d3755f770e10bfc84b00fca2e9270d63c2659a0c66cdd14ef1cfde8d1",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        38,
+        88,
+        20
+      ],
+      "source_winner_sha256": "17a1e04d3755f770e10bfc84b00fca2e9270d63c2659a0c66cdd14ef1cfde8d1",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "13",
+      "action": "scurry",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-13.png",
+      "sha256": "be7dc7ebf5eae70ae67dafc6ea51ba1e0e2bf2640305c1a71b05422da1691916",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        40,
+        88,
+        18
+      ],
+      "source_winner_sha256": "be7dc7ebf5eae70ae67dafc6ea51ba1e0e2bf2640305c1a71b05422da1691916",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "14",
+      "action": "scurry",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-14.png",
+      "sha256": "5c8c45d5a96164a1f0a1007b6f4434fd2f93a3a638501467839fdcbba84c55b3",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        38,
+        88,
+        20
+      ],
+      "source_winner_sha256": "5c8c45d5a96164a1f0a1007b6f4434fd2f93a3a638501467839fdcbba84c55b3",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "15",
+      "action": "scurry",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-15.png",
+      "sha256": "e46fa9c66c202456663e29efe8a1f2f8f7104171ccfe9fff01f95363544db00e",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        36,
+        88,
+        22
+      ],
+      "source_winner_sha256": "e46fa9c66c202456663e29efe8a1f2f8f7104171ccfe9fff01f95363544db00e",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "16",
+      "action": "scurry",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-16.png",
+      "sha256": "d2d96f448522cabf3ccd800bd6855c2f96dfb267a62111e6c7d3f910d4fbf020",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        36,
+        88,
+        22
+      ],
+      "source_winner_sha256": "d2d96f448522cabf3ccd800bd6855c2f96dfb267a62111e6c7d3f910d4fbf020",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "17",
+      "action": "scurry",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-17.png",
+      "sha256": "0299084c0fc6353f82bc15a5ce6a9d2a7f071d6e62701e360efb85e33b692148",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        36,
+        88,
+        22
+      ],
+      "source_winner_sha256": "0299084c0fc6353f82bc15a5ce6a9d2a7f071d6e62701e360efb85e33b692148",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "18",
+      "action": "scurry",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-18.png",
+      "sha256": "5a2dd6d61212389d5845fc1466bd97fa5cfa2bcdef16798406d7b3df9d4d9aea",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        40,
+        88,
+        18
+      ],
+      "source_winner_sha256": "5a2dd6d61212389d5845fc1466bd97fa5cfa2bcdef16798406d7b3df9d4d9aea",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "19",
+      "action": "scurry",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-19.png",
+      "sha256": "d45643104bad921138fecd1a947d5303df08df61d1a280af48bf27e9c27cd80c",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        35,
+        88,
+        23
+      ],
+      "source_winner_sha256": "d45643104bad921138fecd1a947d5303df08df61d1a280af48bf27e9c27cd80c",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "20",
+      "action": "sniff",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-20.png",
+      "sha256": "80ec3c33bb4815e9ad0276802dc1c072a15a81eec3131d94cfc278a9641f95f3",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        35,
+        88,
+        23
+      ],
+      "source_winner_sha256": "80ec3c33bb4815e9ad0276802dc1c072a15a81eec3131d94cfc278a9641f95f3",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "21",
+      "action": "sniff",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-21.png",
+      "sha256": "4e64e45b6b1925d983e778e25c1d348246e7fd698b837c29e0421c62d5f46c26",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        33,
+        88,
+        25
+      ],
+      "source_winner_sha256": "4e64e45b6b1925d983e778e25c1d348246e7fd698b837c29e0421c62d5f46c26",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "22",
+      "action": "sniff",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-22.png",
+      "sha256": "7685e8feb08e0dbc72ec4eb83b1d3f4ab0b725e777de389fd89017a2844d6cf8",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        30,
+        88,
+        28
+      ],
+      "source_winner_sha256": "7685e8feb08e0dbc72ec4eb83b1d3f4ab0b725e777de389fd89017a2844d6cf8",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "23",
+      "action": "sniff",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-23.png",
+      "sha256": "85f47563efe8297a435ec3894b34c6164f792ada749bbdf9ad8e9bc06e25a883",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        30,
+        88,
+        28
+      ],
+      "source_winner_sha256": "85f47563efe8297a435ec3894b34c6164f792ada749bbdf9ad8e9bc06e25a883",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "24",
+      "action": "sniff",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-24.png",
+      "sha256": "cf6161156aabc42e8f52496b19bd5982c9f20be92f1f90537cc7b5b3b588c019",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        30,
+        88,
+        28
+      ],
+      "source_winner_sha256": "cf6161156aabc42e8f52496b19bd5982c9f20be92f1f90537cc7b5b3b588c019",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "25",
+      "action": "sniff",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-25.png",
+      "sha256": "f26c582d8928d823fd3458886f09a9eeb85f60225fa5360edeb56c1507a74d79",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        26,
+        88,
+        32
+      ],
+      "source_winner_sha256": "f26c582d8928d823fd3458886f09a9eeb85f60225fa5360edeb56c1507a74d79",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "26",
+      "action": "groom",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-26.png",
+      "sha256": "1bf9d5a380aeb48f6bddd63499a2bbeaf8298de2a6a1cbf06e18a6b35d256fe6",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        29,
+        88,
+        29
+      ],
+      "source_winner_sha256": "1bf9d5a380aeb48f6bddd63499a2bbeaf8298de2a6a1cbf06e18a6b35d256fe6",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "27",
+      "action": "groom",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-27.png",
+      "sha256": "e1a2c16da53ae7466e3b98c93af4d8e2439977ff60d3c966895aa9fac619dad4",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        20,
+        88,
+        38
+      ],
+      "source_winner_sha256": "e1a2c16da53ae7466e3b98c93af4d8e2439977ff60d3c966895aa9fac619dad4",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "28",
+      "action": "groom",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-28.png",
+      "sha256": "456075884c72985439450f17e4ff29fbe8ccca3b0ec5acfa0df2c7ae2e2ab37a",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        16,
+        88,
+        42
+      ],
+      "source_winner_sha256": "456075884c72985439450f17e4ff29fbe8ccca3b0ec5acfa0df2c7ae2e2ab37a",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "29",
+      "action": "groom",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-29.png",
+      "sha256": "bc473b2756ed1d1929adf5ecdafecd5e174c9d0b209aee9e4647862c98e68bc3",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        14,
+        88,
+        44
+      ],
+      "source_winner_sha256": "bc473b2756ed1d1929adf5ecdafecd5e174c9d0b209aee9e4647862c98e68bc3",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "30",
+      "action": "groom",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-30.png",
+      "sha256": "08173195d0fe8609301bd6991c2661b79f018fecb4df0399eac9c64b910a8d9d",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        12,
+        88,
+        46
+      ],
+      "source_winner_sha256": "08173195d0fe8609301bd6991c2661b79f018fecb4df0399eac9c64b910a8d9d",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "31",
+      "action": "groom",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-31.png",
+      "sha256": "8c57c76206cc2c83819fd0c3cd76684bddc728fc9a34c96f4fb7855abf69cc0a",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        10,
+        88,
+        48
+      ],
+      "source_winner_sha256": "8c57c76206cc2c83819fd0c3cd76684bddc728fc9a34c96f4fb7855abf69cc0a",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "32",
+      "action": "turn",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-32.png",
+      "sha256": "1753f8f828e47769db639efe786d169e090f4a84a3eada28b7885e0c2ca51bc8",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        24,
+        88,
+        34
+      ],
+      "source_winner_sha256": "1753f8f828e47769db639efe786d169e090f4a84a3eada28b7885e0c2ca51bc8",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "33",
+      "action": "turn",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-33.png",
+      "sha256": "62638522f738a7338e1fabba232121aca08a77c4d9846f1d08d336789e3a0af4",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        22,
+        88,
+        36
+      ],
+      "source_winner_sha256": "62638522f738a7338e1fabba232121aca08a77c4d9846f1d08d336789e3a0af4",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "34",
+      "action": "turn",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-34.png",
+      "sha256": "6f5bd984c89cdceeaa6ac05ce7d52e5939539d599976ea868695cb36a486156b",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        23,
+        88,
+        35
+      ],
+      "source_winner_sha256": "6f5bd984c89cdceeaa6ac05ce7d52e5939539d599976ea868695cb36a486156b",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "35",
+      "action": "turn",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-35.png",
+      "sha256": "9cd49306d9f4265999ebb077b8f3142d8c5f0fd4a5aa23c32029fd0158052418",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        20,
+        88,
+        38
+      ],
+      "source_winner_sha256": "9cd49306d9f4265999ebb077b8f3142d8c5f0fd4a5aa23c32029fd0158052418",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "36",
+      "action": "turn",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-36.png",
+      "sha256": "600ad1cbcfe0aef611dff09bb2f79aa425ae0ac3cea4d6127168c4cbafd9fffa",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        27,
+        88,
+        31
+      ],
+      "source_winner_sha256": "600ad1cbcfe0aef611dff09bb2f79aa425ae0ac3cea4d6127168c4cbafd9fffa",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "37",
+      "action": "turn",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-37.png",
+      "sha256": "701d97517855c4cf92e5c28ae1068b7e75dd376db3701e81eb13b092665e2323",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        29,
+        88,
+        29
+      ],
+      "source_winner_sha256": "701d97517855c4cf92e5c28ae1068b7e75dd376db3701e81eb13b092665e2323",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "38",
+      "action": "turn",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-38.png",
+      "sha256": "0142273b3d19f3d7ada63262622ed5e667ed6b6afc09bc2fde7f5e985edf01ea",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        35,
+        88,
+        23
+      ],
+      "source_winner_sha256": "0142273b3d19f3d7ada63262622ed5e667ed6b6afc09bc2fde7f5e985edf01ea",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "39",
+      "action": "turn",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-39.png",
+      "sha256": "e041e77d5a13b79d8a8aa8a20c00de60e87e60ef96446286a029c0daef857bc3",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        31,
+        88,
+        27
+      ],
+      "source_winner_sha256": "e041e77d5a13b79d8a8aa8a20c00de60e87e60ef96446286a029c0daef857bc3",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "40",
+      "action": "creep",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-40.png",
+      "sha256": "8acab1c883f1ce9cd3fb870f4313ec232bfee33d748943ccc078c03e70a18de8",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        32,
+        88,
+        26
+      ],
+      "source_winner_sha256": "8acab1c883f1ce9cd3fb870f4313ec232bfee33d748943ccc078c03e70a18de8",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "41",
+      "action": "creep",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-41.png",
+      "sha256": "6e07b9969056d79be250376c30f017779272f0ebb7302f727030b562372c576f",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        31,
+        88,
+        27
+      ],
+      "source_winner_sha256": "6e07b9969056d79be250376c30f017779272f0ebb7302f727030b562372c576f",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "42",
+      "action": "creep",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-42.png",
+      "sha256": "86cb1ee022c13ea649b2b2ffeac0ffc4cfed365c4dbcdd8ac53c20c30a5a2b32",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        33,
+        88,
+        25
+      ],
+      "source_winner_sha256": "86cb1ee022c13ea649b2b2ffeac0ffc4cfed365c4dbcdd8ac53c20c30a5a2b32",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "43",
+      "action": "creep",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-43.png",
+      "sha256": "390086256e9e0b2572dbd8b7d28aec368b05e6a4a8463ea762e5c6214b6d881d",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        34,
+        88,
+        24
+      ],
+      "source_winner_sha256": "390086256e9e0b2572dbd8b7d28aec368b05e6a4a8463ea762e5c6214b6d881d",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "44",
+      "action": "creep",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-44.png",
+      "sha256": "daab0a7ed1e26cdc235fea0fdc2e365c1e065dbb3e12b6c23f538674bc755f2f",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        34,
+        88,
+        24
+      ],
+      "source_winner_sha256": "daab0a7ed1e26cdc235fea0fdc2e365c1e065dbb3e12b6c23f538674bc755f2f",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "45",
+      "action": "creep",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-45.png",
+      "sha256": "0caf8e0ea7619cfe5695714ad66a9026960f8796bb6aa6e6996ef1dc0d92c723",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        32,
+        88,
+        26
+      ],
+      "source_winner_sha256": "0caf8e0ea7619cfe5695714ad66a9026960f8796bb6aa6e6996ef1dc0d92c723",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "46",
+      "action": "creep",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-46.png",
+      "sha256": "a04f56a9eff40be4379cdb8d7e580265453b2af7ccef65fa2ac7bb5e10510346",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        33,
+        88,
+        25
+      ],
+      "source_winner_sha256": "a04f56a9eff40be4379cdb8d7e580265453b2af7ccef65fa2ac7bb5e10510346",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "47",
+      "action": "creep",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-47.png",
+      "sha256": "f3c4aa6688f97ae9e08603b7db94da1d0fed49b97ba0ee2b1f76d23fd7a46d38",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        33,
+        88,
+        25
+      ],
+      "source_winner_sha256": "f3c4aa6688f97ae9e08603b7db94da1d0fed49b97ba0ee2b1f76d23fd7a46d38",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "48",
+      "action": "rest",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-48.png",
+      "sha256": "cf74e3ee41bf96863327d4f94a61ed597aa9b59c9638054d7e07c739d7823de3",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        37,
+        88,
+        21
+      ],
+      "source_winner_sha256": "cf74e3ee41bf96863327d4f94a61ed597aa9b59c9638054d7e07c739d7823de3",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "49",
+      "action": "rest",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-49.png",
+      "sha256": "cd708da1cd9d6fe23c9ac3acd75c3a701579997b17d8b49fe442c707cc242472",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        36,
+        88,
+        22
+      ],
+      "source_winner_sha256": "cd708da1cd9d6fe23c9ac3acd75c3a701579997b17d8b49fe442c707cc242472",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "50",
+      "action": "rest",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-50.png",
+      "sha256": "ff6b6cc7fbf6491e2a31402055dde77373de97b3a7af10e6a72718044d611d0a",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        36,
+        88,
+        22
+      ],
+      "source_winner_sha256": "ff6b6cc7fbf6491e2a31402055dde77373de97b3a7af10e6a72718044d611d0a",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "51",
+      "action": "rest",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-51.png",
+      "sha256": "b4106dab97f28229117a5cb61b54279340268a241bdbc7a0f6a21ca6c6108daf",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        35,
+        88,
+        23
+      ],
+      "source_winner_sha256": "b4106dab97f28229117a5cb61b54279340268a241bdbc7a0f6a21ca6c6108daf",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "52",
+      "action": "rest",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-52.png",
+      "sha256": "ee3c10235a1a79440e2ad42cc58ed1130ed0a4f44858679afb7dfaf0cc82805b",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        35,
+        88,
+        23
+      ],
+      "source_winner_sha256": "ee3c10235a1a79440e2ad42cc58ed1130ed0a4f44858679afb7dfaf0cc82805b",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "53",
+      "action": "rest",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-53.png",
+      "sha256": "6f2645ee37574bc658167da0001c3467b2d291be561cb400667465b9203b66ea",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        35,
+        88,
+        23
+      ],
+      "source_winner_sha256": "6f2645ee37574bc658167da0001c3467b2d291be561cb400667465b9203b66ea",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "54",
+      "action": "rest",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-54.png",
+      "sha256": "4c01930e2893a05e7a6e8a59a9a35a6c38cd04793e0201f48befe87878a116f9",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        36,
+        88,
+        22
+      ],
+      "source_winner_sha256": "4c01930e2893a05e7a6e8a59a9a35a6c38cd04793e0201f48befe87878a116f9",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "55",
+      "action": "rest",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-55.png",
+      "sha256": "5820da50e6c9b709104a77202cc42861d971adb8a8de2701c051127ddfb790fb",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        36,
+        88,
+        22
+      ],
+      "source_winner_sha256": "5820da50e6c9b709104a77202cc42861d971adb8a8de2701c051127ddfb790fb",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "56",
+      "action": "alert",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-56.png",
+      "sha256": "2b9e237bc46beb6e030190e09611e20dbf5174022622becc15bc20ca936bd012",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        32,
+        88,
+        26
+      ],
+      "source_winner_sha256": "2b9e237bc46beb6e030190e09611e20dbf5174022622becc15bc20ca936bd012",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "57",
+      "action": "alert",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-57.png",
+      "sha256": "9463b11aab164e1b1422db97c447ad81c76566c7b13fc55aff480538d6acb839",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        27,
+        88,
+        31
+      ],
+      "source_winner_sha256": "9463b11aab164e1b1422db97c447ad81c76566c7b13fc55aff480538d6acb839",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "58",
+      "action": "alert",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-58.png",
+      "sha256": "38f395768c2dabd988de607e0817d5157df70e5d9a5674ed586f93c4c797bc5e",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        21,
+        88,
+        37
+      ],
+      "source_winner_sha256": "38f395768c2dabd988de607e0817d5157df70e5d9a5674ed586f93c4c797bc5e",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "59",
+      "action": "alert",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-59.png",
+      "sha256": "e29cec08986300488ca5e91c232b1d5c0d06b48104c158b9caba0280376e86c6",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        18,
+        88,
+        40
+      ],
+      "source_winner_sha256": "e29cec08986300488ca5e91c232b1d5c0d06b48104c158b9caba0280376e86c6",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "60",
+      "action": "alert",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-60.png",
+      "sha256": "fac5bc76a3b38fed511e35e09c834797af8d0eb03035f3350e911ff8399c4baf",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        27,
+        88,
+        31
+      ],
+      "source_winner_sha256": "fac5bc76a3b38fed511e35e09c834797af8d0eb03035f3350e911ff8399c4baf",
+      "source_matches_accepted": true
+    },
+    {
+      "frame": "61",
+      "action": "alert",
+      "path": "docs/art-source/ferret-sable-panda/motion-source/accepted-frames/set00/frame-61.png",
+      "sha256": "f23d67369164b10c8aa7ee12b590af521657a40ee3c507799e1688e1e86b4b7e",
+      "width": 96,
+      "height": 64,
+      "mode": "RGBA",
+      "alpha_bbox_xywh": [
+        4,
+        32,
+        88,
+        26
+      ],
+      "source_winner_sha256": "f23d67369164b10c8aa7ee12b590af521657a40ee3c507799e1688e1e86b4b7e",
+      "source_matches_accepted": true
+    }
+  ],
+  "parent_gate_aggregate_sha256_method": "SHA-256 over ASCII lines 'frames/frame-NN.png:UPPERCASE_FILE_SHA256\\n' in numeric frame order 00 through 61",
+  "parent_gate_aggregate_sha256": "7947c23e4fcbcf304233cbdb09231584a9e7c479c1ee404a6712816087977ca9",
+  "parent_gate_aggregate_matches_archived_baseline": true,
+  "archived_baseline_path": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/canonical-00-61-baseline.json"
+}

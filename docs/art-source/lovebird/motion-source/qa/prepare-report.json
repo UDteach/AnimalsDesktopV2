@@ -1,0 +1,229 @@
+{
+  "attempt": 2,
+  "normalization": {
+    "background_key": "broad magenta: r > 210 and b > 180 and g < 90 and (r + b - 2*g) > 300, plus distance falloff",
+    "target_max_w": 54,
+    "target_max_h": 47,
+    "scale_policy": "per-frame fit: min(54/source_width, 47/source_height)",
+    "source_max_w": 617,
+    "source_max_h": 628
+  },
+  "frames": [
+    {
+      "frame": 0,
+      "raw_path": "raw/attempt-02-frame-00.png",
+      "alpha_path": "alpha/attempt-02-frame-00.png",
+      "frame_path": "frames/frame-00.png",
+      "dimensions_ok": true,
+      "non_empty_alpha": true,
+      "stats": {
+        "source_bbox": [
+          438,
+          179,
+          1041,
+          807
+        ],
+        "source_size": [
+          1536,
+          1024
+        ],
+        "canvas_size": [
+          96,
+          64
+        ],
+        "visible_bbox": [
+          25,
+          10,
+          70,
+          57
+        ],
+        "visible_pixels": 1346,
+        "opaque_pixels": 1083,
+        "edge_alpha_pixels": 0,
+        "transparent_residual_magenta_pixels": 0,
+        "transparent_white_gray_pixels": 0,
+        "scale": 0.07484076433121019,
+        "placed_xy": [
+          25,
+          10
+        ],
+        "baseline_y": 57
+      },
+      "largest_component_pixels": 200981,
+      "visual_note": "candidate reads as compact peach-faced lovebird; parent visual gate required"
+    },
+    {
+      "frame": 1,
+      "raw_path": "raw/attempt-02-frame-01.png",
+      "alpha_path": "alpha/attempt-02-frame-01.png",
+      "frame_path": "frames/frame-01.png",
+      "dimensions_ok": true,
+      "non_empty_alpha": true,
+      "stats": {
+        "source_bbox": [
+          500,
+          258,
+          1024,
+          746
+        ],
+        "source_size": [
+          1536,
+          1024
+        ],
+        "canvas_size": [
+          96,
+          64
+        ],
+        "visible_bbox": [
+          23,
+          10,
+          73,
+          57
+        ],
+        "visible_pixels": 1490,
+        "opaque_pixels": 1216,
+        "edge_alpha_pixels": 0,
+        "transparent_residual_magenta_pixels": 0,
+        "transparent_white_gray_pixels": 0,
+        "scale": 0.09631147540983606,
+        "placed_xy": [
+          23,
+          10
+        ],
+        "baseline_y": 57
+      },
+      "largest_component_pixels": 136560,
+      "visual_note": "candidate reads as compact peach-faced lovebird; parent visual gate required"
+    },
+    {
+      "frame": 2,
+      "raw_path": "raw/attempt-02-frame-02.png",
+      "alpha_path": "alpha/attempt-02-frame-02.png",
+      "frame_path": "frames/frame-02.png",
+      "dimensions_ok": true,
+      "non_empty_alpha": true,
+      "stats": {
+        "source_bbox": [
+          436,
+          219,
+          1029,
+          785
+        ],
+        "source_size": [
+          1536,
+          1024
+        ],
+        "canvas_size": [
+          96,
+          64
+        ],
+        "visible_bbox": [
+          23,
+          10,
+          72,
+          57
+        ],
+        "visible_pixels": 1441,
+        "opaque_pixels": 1166,
+        "edge_alpha_pixels": 0,
+        "transparent_residual_magenta_pixels": 0,
+        "transparent_white_gray_pixels": 0,
+        "scale": 0.08303886925795052,
+        "placed_xy": [
+          23,
+          10
+        ],
+        "baseline_y": 57
+      },
+      "largest_component_pixels": 174771,
+      "visual_note": "candidate reads as compact peach-faced lovebird; parent visual gate required"
+    },
+    {
+      "frame": 3,
+      "raw_path": "raw/attempt-02-frame-03.png",
+      "alpha_path": "alpha/attempt-02-frame-03.png",
+      "frame_path": "frames/frame-03.png",
+      "dimensions_ok": true,
+      "non_empty_alpha": true,
+      "stats": {
+        "source_bbox": [
+          439,
+          181,
+          1046,
+          805
+        ],
+        "source_size": [
+          1536,
+          1024
+        ],
+        "canvas_size": [
+          96,
+          64
+        ],
+        "visible_bbox": [
+          25,
+          10,
+          71,
+          57
+        ],
+        "visible_pixels": 1372,
+        "opaque_pixels": 1098,
+        "edge_alpha_pixels": 0,
+        "transparent_residual_magenta_pixels": 0,
+        "transparent_white_gray_pixels": 0,
+        "scale": 0.07532051282051282,
+        "placed_xy": [
+          25,
+          10
+        ],
+        "baseline_y": 57
+      },
+      "largest_component_pixels": 199051,
+      "visual_note": "candidate reads as compact peach-faced lovebird; parent visual gate required"
+    },
+    {
+      "frame": 4,
+      "raw_path": "raw/attempt-02-frame-04.png",
+      "alpha_path": "alpha/attempt-02-frame-04.png",
+      "frame_path": "frames/frame-04.png",
+      "dimensions_ok": true,
+      "non_empty_alpha": true,
+      "stats": {
+        "source_bbox": [
+          442,
+          205,
+          1059,
+          785
+        ],
+        "source_size": [
+          1536,
+          1024
+        ],
+        "canvas_size": [
+          96,
+          64
+        ],
+        "visible_bbox": [
+          23,
+          10,
+          73,
+          57
+        ],
+        "visible_pixels": 1440,
+        "opaque_pixels": 1150,
+        "edge_alpha_pixels": 0,
+        "transparent_residual_magenta_pixels": 0,
+        "transparent_white_gray_pixels": 0,
+        "scale": 0.08103448275862069,
+        "placed_xy": [
+          23,
+          10
+        ],
+        "baseline_y": 57
+      },
+      "largest_component_pixels": 181853,
+      "visual_note": "candidate reads as compact peach-faced lovebird; parent visual gate required"
+    }
+  ],
+  "rejects": []
+}

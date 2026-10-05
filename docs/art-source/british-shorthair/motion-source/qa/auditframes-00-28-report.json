@@ -1,0 +1,793 @@
+{
+  "frames_dir": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames",
+  "pattern": "frame-%02d.png",
+  "strict": false,
+  "frame_width": 96,
+  "frame_height": 64,
+  "set_count": 1,
+  "frame_count": 62,
+  "valid": 29,
+  "missing": 33,
+  "invalid": 0,
+  "warnings": 18,
+  "sets": [
+    {
+      "set": "frames",
+      "dir": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames",
+      "valid": 29,
+      "missing": 33,
+      "invalid": 0,
+      "warnings": 18,
+      "frames": [
+        {
+          "frame": 0,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-00.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 76,
+            "h": 52
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 1,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-01.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 76,
+            "h": 52
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 2,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-02.png",
+          "status": "valid",
+          "content": {
+            "x": 5,
+            "y": 6,
+            "w": 86,
+            "h": 52
+          }
+        },
+        {
+          "frame": 3,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-03.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 75,
+            "h": 52
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 4,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-04.png",
+          "status": "valid",
+          "content": {
+            "x": 5,
+            "y": 6,
+            "w": 86,
+            "h": 52
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=46 with 32px row drop below"
+          ]
+        },
+        {
+          "frame": 5,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-05.png",
+          "status": "valid",
+          "content": {
+            "x": 5,
+            "y": 6,
+            "w": 86,
+            "h": 52
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 75 at y=45 with 30px row drop below"
+          ]
+        },
+        {
+          "frame": 6,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-06.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 7,
+            "w": 88,
+            "h": 51
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 59 at y=47 with 35px row drop below"
+          ]
+        },
+        {
+          "frame": 7,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-07.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 6,
+            "w": 84,
+            "h": 52
+          }
+        },
+        {
+          "frame": 8,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-08.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 8,
+            "w": 88,
+            "h": 50
+          }
+        },
+        {
+          "frame": 9,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-09.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 8,
+            "w": 88,
+            "h": 50
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 77 at y=46 with 30px row drop below"
+          ]
+        },
+        {
+          "frame": 10,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-10.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 7,
+            "w": 88,
+            "h": 51
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=46 with 33px row drop below"
+          ]
+        },
+        {
+          "frame": 11,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-11.png",
+          "status": "valid",
+          "content": {
+            "x": 5,
+            "y": 6,
+            "w": 86,
+            "h": 52
+          }
+        },
+        {
+          "frame": 12,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-12.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 22,
+            "w": 88,
+            "h": 36
+          }
+        },
+        {
+          "frame": 13,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-13.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 20,
+            "w": 88,
+            "h": 38
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 14,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-14.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 21,
+            "w": 88,
+            "h": 37
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 15,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-15.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 18,
+            "w": 88,
+            "h": 40
+          }
+        },
+        {
+          "frame": 16,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-16.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 23,
+            "w": 88,
+            "h": 35
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 69 at y=51 with 31px row drop below"
+          ]
+        },
+        {
+          "frame": 17,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-17.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 20,
+            "w": 88,
+            "h": 38
+          }
+        },
+        {
+          "frame": 18,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-18.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 20,
+            "w": 88,
+            "h": 38
+          }
+        },
+        {
+          "frame": 19,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-19.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 14,
+            "w": 88,
+            "h": 44
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 20,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-20.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 23,
+            "w": 88,
+            "h": 35
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 88 at y=49 with 40px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 21,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-21.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 23,
+            "w": 88,
+            "h": 35
+          }
+        },
+        {
+          "frame": 22,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-22.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 22,
+            "w": 88,
+            "h": 36
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 82 at y=48 with 32px row drop below"
+          ]
+        },
+        {
+          "frame": 23,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-23.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 25,
+            "w": 88,
+            "h": 33
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 34 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 24,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-24.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 19,
+            "w": 88,
+            "h": 39
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 59 at y=48 with 33px row drop below"
+          ]
+        },
+        {
+          "frame": 25,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-25.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 23,
+            "w": 88,
+            "h": 35
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 88 at y=47 with 37px row drop below"
+          ]
+        },
+        {
+          "frame": 26,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-26.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 6,
+            "w": 83,
+            "h": 52
+          }
+        },
+        {
+          "frame": 27,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-27.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 6,
+            "w": 83,
+            "h": 52
+          }
+        },
+        {
+          "frame": 28,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-28.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 76,
+            "h": 52
+          }
+        },
+        {
+          "frame": 29,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-29.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 30,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-30.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 31,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-31.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 32,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-32.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 33,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-33.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 34,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-34.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 35,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-35.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 36,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-36.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 37,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-37.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 38,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-38.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 39,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-39.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 40,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-40.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 41,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-41.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 42,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-42.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 43,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-43.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 44,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-44.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 45,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-45.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 46,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-46.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 47,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-47.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 48,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-48.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 49,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-49.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 50,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-50.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 51,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-51.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 52,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-52.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 53,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-53.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 54,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-54.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 55,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-55.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 56,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-56.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 57,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-57.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 58,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-58.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 59,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-59.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 60,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-60.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        },
+        {
+          "frame": 61,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-61.png",
+          "status": "missing",
+          "content": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          },
+          "error": "file does not exist"
+        }
+      ],
+      "completed": false
+    }
+  ]
+}

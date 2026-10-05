@@ -1,0 +1,6 @@
+family	attempt	status	detail
+guinea-pig	frame-00-attempt-01	fail	docs/art-source/one-frame-method-fullrun-20260626/guinea-pig/alpha/frame-00-attempt-01-alpha.png has transparent pinholes after background preparation: holes=9 area=23 largest=6 exit status 1
+fancy-rat	frame-00-attempt-01	fail	docs/art-source/one-frame-method-fullrun-20260626/fancy-rat/alpha/frame-00-attempt-01-alpha.png has transparent pinholes after background preparation: holes=1 area=1 largest=1 exit status 1
+gecko	frame-00-attempt-01	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko/alpha/frame-00-attempt-01-alpha.png has transparent pinholes after background preparation: holes=2 area=3 largest=2 exit status 1
+albino-chipmunk	frame-00-attempt-01	fail	docs/art-source/one-frame-method-fullrun-20260626/albino-chipmunk/alpha/frame-00-attempt-01-alpha.png has transparent pinholes after background preparation: holes=111 area=165 largest=7 exit status 1
+albino-chipmunk	frame-00-attempt-02	fail	docs/art-source/one-frame-method-fullrun-20260626/albino-chipmunk/alpha/frame-00-attempt-02-alpha.png has transparent pinholes after background preparation: holes=29 area=43 largest=6 exit status 1

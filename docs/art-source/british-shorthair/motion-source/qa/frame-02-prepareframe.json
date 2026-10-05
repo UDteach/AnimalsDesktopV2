@@ -1,0 +1,22 @@
+{
+  "source": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/raw/frame-02-attempt-01-raw.png",
+  "output": "docs/art-source/one-frame-method-fullrun-20260628/british-shorthair-blue-set00-oneframe-62/frames/frame-02.png",
+  "source_width": 1536,
+  "source_height": 1024,
+  "output_width": 96,
+  "output_height": 64,
+  "background_mode": "uniform-edge-rgb",
+  "background_removed": true,
+  "content": {
+    "x": 277,
+    "y": 212,
+    "w": 989,
+    "h": 601
+  },
+  "output_content": {
+    "x": 5,
+    "y": 6,
+    "w": 86,
+    "h": 52
+  }
+}

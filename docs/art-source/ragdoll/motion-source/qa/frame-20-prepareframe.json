@@ -1,0 +1,22 @@
+{
+  "source": "/Users/kyota/.codex/worktrees/359e/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/alpha/frame-20-attempt-01-alpha.png",
+  "output": "/Users/kyota/.codex/worktrees/359e/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-20.png",
+  "source_width": 1536,
+  "source_height": 1024,
+  "output_width": 96,
+  "output_height": 64,
+  "background_mode": "source-alpha",
+  "background_removed": false,
+  "content": {
+    "x": 41,
+    "y": 294,
+    "w": 1414,
+    "h": 469
+  },
+  "output_content": {
+    "x": 4,
+    "y": 29,
+    "w": 87,
+    "h": 29
+  }
+}

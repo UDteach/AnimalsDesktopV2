@@ -1,0 +1,22 @@
+Upload style-anchors.png as the accepted transparent visual anchors. If the service renders transparency on black, checker, or with noisy edges, use style-anchors-neutral.png for style instead. If available, upload grid-seed.png as the base layout image and grid-guide.png as the placement guide.
+Use the style anchor as the exact animal identity and drawing style. Use grid-seed.png only for placement, not for learning green edge color. Newly successful outputs should be reused as future anchors.
+Use guide images only as placement references. Do not reproduce grid lines, labels, ticks, magenta safe boxes, blue baselines, or borders in the final artwork. Use grid-guide-detailed.png only if the minimal guide fails to keep cell placement.
+
+Create one single 2048x2048 PNG named flow-output.png.
+Background must be pure flat chroma green #00ff00 across all empty areas.
+Animal: standard gray chinchilla recolored to beige coat, real pet chinchilla beige color direction, same accepted AnimalsDesktop sprite style. One complete right-facing animal per used cell. Same camera distance, same body size, same contact baseline, same coat color, same face, same eye, same muzzle, same outline and shading style as the accepted style anchor.
+Keep the animal outline clean and smooth with an antialiased silhouette at source size: no jagged cutout edge, no white fringe, no green halo, no noisy pixels around fur, no rough matte around ears, whiskers, feet, or tail, and no missing pixels, transparent pinholes, or green dots inside the animal.
+Place one animal inside each used crop cell only. Keep ears, feet, whiskers, tail, toes, and body fully inside the crop cell. Leave empty green padding around every animal.
+Do not draw text, numbers, grid lines, cell borders, dividers, scenery, props, floor, cast shadow, contact shadow, shelves, base, checkerboard, duplicate animals, or body parts crossing between cells.
+
+Frame list, reading order left-to-right then top-to-bottom:
+- set00-frame-00: idle breathing / tiny ear or weight shift
+- set00-frame-04: walk cycle, small grounded step
+- set00-frame-12: scurry burst, faster low movement
+- set00-frame-26: species-safe action, no wheel or human pose
+- set00-frame-32: turn motion
+- set00-frame-40: eat
+- set00-frame-52: groom
+- set00-frame-56: reaction
+
+If any cell cannot be completed cleanly, keep the cell empty green rather than inventing a different animal style.

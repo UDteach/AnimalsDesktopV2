@@ -1,0 +1,1125 @@
+{
+  "variant": "lovebird_peach_faced",
+  "frame_count": 62,
+  "issues": [
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-00.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1997,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 589,
+        "alpha_bbox": [
+          15,
+          4,
+          80,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-01.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2048,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 522,
+        "alpha_bbox": [
+          15,
+          4,
+          81,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-02.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1913,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 624,
+        "alpha_bbox": [
+          16,
+          4,
+          80,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-03.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2084,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 606,
+        "alpha_bbox": [
+          14,
+          4,
+          81,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-04.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2265,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 659,
+        "alpha_bbox": [
+          10,
+          4,
+          86,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-05.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2091,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 492,
+        "alpha_bbox": [
+          11,
+          4,
+          85,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-06.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2082,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 537,
+        "alpha_bbox": [
+          12,
+          4,
+          84,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-07.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2051,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 559,
+        "alpha_bbox": [
+          13,
+          4,
+          82,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-08.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2099,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 591,
+        "alpha_bbox": [
+          14,
+          4,
+          82,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-09.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2221,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 627,
+        "alpha_bbox": [
+          11,
+          4,
+          85,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-10.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2054,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 669,
+        "alpha_bbox": [
+          14,
+          4,
+          81,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-11.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2097,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 436,
+        "alpha_bbox": [
+          14,
+          4,
+          82,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-12.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1753,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 440,
+        "alpha_bbox": [
+          9,
+          24,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-13.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1905,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 436,
+        "alpha_bbox": [
+          9,
+          17,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-14.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2170,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 675,
+        "alpha_bbox": [
+          9,
+          6,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-15.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1643,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 451,
+        "alpha_bbox": [
+          9,
+          24,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-16.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1780,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 407,
+        "alpha_bbox": [
+          9,
+          15,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-17.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1974,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 611,
+        "alpha_bbox": [
+          9,
+          13,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-18.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2271,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 650,
+        "alpha_bbox": [
+          9,
+          5,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-19.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2134,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 683,
+        "alpha_bbox": [
+          13,
+          4,
+          83,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-20.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1674,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 464,
+        "alpha_bbox": [
+          9,
+          28,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-21.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1785,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 507,
+        "alpha_bbox": [
+          9,
+          24,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-22.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1753,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 510,
+        "alpha_bbox": [
+          9,
+          25,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-23.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1741,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 489,
+        "alpha_bbox": [
+          9,
+          26,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-24.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1711,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 511,
+        "alpha_bbox": [
+          9,
+          24,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-25.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2059,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 489,
+        "alpha_bbox": [
+          14,
+          4,
+          82,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-26.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2125,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 519,
+        "alpha_bbox": [
+          14,
+          4,
+          82,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-27.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2173,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 592,
+        "alpha_bbox": [
+          13,
+          4,
+          82,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-28.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2156,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 577,
+        "alpha_bbox": [
+          13,
+          4,
+          82,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-29.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2180,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 673,
+        "alpha_bbox": [
+          10,
+          4,
+          85,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-30.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2177,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 539,
+        "alpha_bbox": [
+          14,
+          4,
+          81,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-31.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2118,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 555,
+        "alpha_bbox": [
+          14,
+          4,
+          82,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-32.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1848,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 413,
+        "alpha_bbox": [
+          19,
+          4,
+          76,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-33.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1466,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 112,
+        "alpha_bbox": [
+          30,
+          4,
+          65,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-34.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1457,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 41,
+        "alpha_bbox": [
+          30,
+          4,
+          66,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-35.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1775,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 279,
+        "alpha_bbox": [
+          20,
+          4,
+          75,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-36.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1520,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 135,
+        "alpha_bbox": [
+          28,
+          4,
+          68,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-37.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1415,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 75,
+        "alpha_bbox": [
+          32,
+          4,
+          64,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-38.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1514,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 116,
+        "alpha_bbox": [
+          28,
+          4,
+          67,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-39.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1783,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 281,
+        "alpha_bbox": [
+          20,
+          4,
+          76,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-40.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1844,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 312,
+        "alpha_bbox": [
+          19,
+          4,
+          77,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-41.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2074,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 239,
+        "alpha_bbox": [
+          16,
+          4,
+          80,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-42.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1911,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 275,
+        "alpha_bbox": [
+          18,
+          4,
+          78,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-43.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1838,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 206,
+        "alpha_bbox": [
+          19,
+          4,
+          76,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-44.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1890,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 235,
+        "alpha_bbox": [
+          9,
+          25,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-45.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1969,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 181,
+        "alpha_bbox": [
+          9,
+          22,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-46.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2118,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 231,
+        "alpha_bbox": [
+          9,
+          20,
+          87,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-47.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1972,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 213,
+        "alpha_bbox": [
+          18,
+          4,
+          77,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-48.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1539,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 129,
+        "alpha_bbox": [
+          25,
+          4,
+          71,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-49.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1611,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 177,
+        "alpha_bbox": [
+          23,
+          4,
+          73,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-50.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1568,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 155,
+        "alpha_bbox": [
+          23,
+          4,
+          73,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-51.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1634,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 163,
+        "alpha_bbox": [
+          23,
+          4,
+          73,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-52.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1695,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 170,
+        "alpha_bbox": [
+          24,
+          4,
+          71,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-53.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1724,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 215,
+        "alpha_bbox": [
+          24,
+          4,
+          72,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-54.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1755,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 223,
+        "alpha_bbox": [
+          23,
+          4,
+          72,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-55.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1558,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 142,
+        "alpha_bbox": [
+          24,
+          4,
+          71,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-56.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1628,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 162,
+        "alpha_bbox": [
+          22,
+          4,
+          74,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-57.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1465,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 126,
+        "alpha_bbox": [
+          26,
+          4,
+          70,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-58.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1951,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 233,
+        "alpha_bbox": [
+          18,
+          4,
+          77,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-59.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1775,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 177,
+        "alpha_bbox": [
+          23,
+          4,
+          73,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-60.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1743,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 197,
+        "alpha_bbox": [
+          21,
+          4,
+          74,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/frames/frame-61.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1742,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 181,
+        "alpha_bbox": [
+          21,
+          4,
+          74,
+          58
+        ]
+      }
+    }
+  ],
+  "full_contact": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/contact/lovebird_peach_faced-set00-full-contact.png",
+  "candidate_sheet": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/contact/lovebird_peach_faced-source-set00-candidate-sheet.png",
+  "preview_gif": "docs/art-source/one-frame-method-fullrun-20260628/lovebird-peach-faced-set00-oneframe-62/contact/lovebird_peach_faced-set00-preview.gif"
+}

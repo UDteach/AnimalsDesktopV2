@@ -1,0 +1,72 @@
+{
+  "target_frames": [
+    56,
+    57,
+    58,
+    59
+  ],
+  "target_mean_rgb": [
+    157.17046696860845,
+    134.75636420427924,
+    119.41339996876464
+  ],
+  "target_std_rgb": [
+    50.556971911617914,
+    49.97707858546073,
+    52.83368988113275
+  ],
+  "fixed_frames": [
+    {
+      "frame": 60,
+      "source_backup": "docs/art-source/one-frame-method-fullrun-20260626/campbell-hamster-set00-oneframe-62/qa/color-correction-20260626/frame-60-before.png",
+      "after_copy": "docs/art-source/one-frame-method-fullrun-20260626/campbell-hamster-set00-oneframe-62/qa/color-correction-20260626/frame-60-after-attempt02.png",
+      "before_mean_rgb": [
+        179.81167979002623,
+        136.30708661417322,
+        114.39009186351706
+      ],
+      "before_std_rgb": [
+        54.682818760624535,
+        52.81505267392529,
+        51.8433149133605
+      ],
+      "after_mean_rgb": [
+        156.0738188976378,
+        134.76443569553805,
+        121.53641732283465
+      ],
+      "after_std_rgb": [
+        50.4123410702037,
+        49.98388603099897,
+        52.74639760851109
+      ],
+      "method": "visible-pixel RGB mean/std transfer from frames 56-59, blend=1.0 plus mild warm-pixel clamp"
+    },
+    {
+      "frame": 61,
+      "source_backup": "docs/art-source/one-frame-method-fullrun-20260626/campbell-hamster-set00-oneframe-62/qa/color-correction-20260626/frame-61-before.png",
+      "after_copy": "docs/art-source/one-frame-method-fullrun-20260626/campbell-hamster-set00-oneframe-62/qa/color-correction-20260626/frame-61-after-attempt02.png",
+      "before_mean_rgb": [
+        178.62924757281553,
+        141.76122572815535,
+        121.33313106796116
+      ],
+      "before_std_rgb": [
+        55.93130118602965,
+        54.50577250728124,
+        56.4464165644762
+      ],
+      "after_mean_rgb": [
+        156.09617718446603,
+        134.74726941747574,
+        121.48907766990291
+      ],
+      "after_std_rgb": [
+        50.41501363630851,
+        49.95737933228231,
+        52.707120471002774
+      ],
+      "method": "visible-pixel RGB mean/std transfer from frames 56-59, blend=1.0 plus mild warm-pixel clamp"
+    }
+  ]
+}

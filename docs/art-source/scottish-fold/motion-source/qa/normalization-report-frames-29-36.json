@@ -1,0 +1,281 @@
+{
+  "frames": [
+    {
+      "frame": "29",
+      "raw": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/raw/frame-29-attempt-01.png",
+      "alpha": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/alpha/frame-29-attempt-01-alpha.png",
+      "normalized": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/frames/frame-29.png",
+      "alpha_source": {
+        "size": [
+          1536,
+          1024
+        ],
+        "nonzero_alpha_pixels": 380517,
+        "alpha_bbox": [
+          115,
+          215,
+          1404,
+          775
+        ],
+        "edge_alpha_pixels": 0
+      },
+      "normalized_stats": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha_pixels": 2034,
+        "alpha_bbox": [
+          6,
+          22,
+          90,
+          60
+        ],
+        "edge_alpha_pixels": 0
+      }
+    },
+    {
+      "frame": "30",
+      "raw": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/raw/frame-30-attempt-01.png",
+      "alpha": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/alpha/frame-30-attempt-01-alpha.png",
+      "normalized": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/frames/frame-30.png",
+      "alpha_source": {
+        "size": [
+          1536,
+          1024
+        ],
+        "nonzero_alpha_pixels": 380030,
+        "alpha_bbox": [
+          122,
+          224,
+          1412,
+          777
+        ],
+        "edge_alpha_pixels": 0
+      },
+      "normalized_stats": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha_pixels": 2014,
+        "alpha_bbox": [
+          6,
+          23,
+          90,
+          60
+        ],
+        "edge_alpha_pixels": 0
+      }
+    },
+    {
+      "frame": "31",
+      "raw": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/raw/frame-31-attempt-01.png",
+      "alpha": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/alpha/frame-31-attempt-01-alpha.png",
+      "normalized": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/frames/frame-31.png",
+      "alpha_source": {
+        "size": [
+          1536,
+          1024
+        ],
+        "nonzero_alpha_pixels": 407638,
+        "alpha_bbox": [
+          109,
+          218,
+          1423,
+          788
+        ],
+        "edge_alpha_pixels": 0
+      },
+      "normalized_stats": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha_pixels": 2065,
+        "alpha_bbox": [
+          6,
+          22,
+          90,
+          60
+        ],
+        "edge_alpha_pixels": 0
+      }
+    },
+    {
+      "frame": "32",
+      "raw": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/raw/frame-32-attempt-01.png",
+      "alpha": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/alpha/frame-32-attempt-01-alpha.png",
+      "normalized": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/frames/frame-32.png",
+      "alpha_source": {
+        "size": [
+          1536,
+          1024
+        ],
+        "nonzero_alpha_pixels": 387768,
+        "alpha_bbox": [
+          125,
+          222,
+          1319,
+          780
+        ],
+        "edge_alpha_pixels": 0
+      },
+      "normalized_stats": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha_pixels": 2367,
+        "alpha_bbox": [
+          6,
+          20,
+          90,
+          60
+        ],
+        "edge_alpha_pixels": 0
+      }
+    },
+    {
+      "frame": "33",
+      "raw": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/raw/frame-33-attempt-01.png",
+      "alpha": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/alpha/frame-33-attempt-01-alpha.png",
+      "normalized": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/frames/frame-33.png",
+      "alpha_source": {
+        "size": [
+          1536,
+          1024
+        ],
+        "nonzero_alpha_pixels": 414760,
+        "alpha_bbox": [
+          102,
+          186,
+          1296,
+          785
+        ],
+        "edge_alpha_pixels": 0
+      },
+      "normalized_stats": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha_pixels": 2482,
+        "alpha_bbox": [
+          6,
+          18,
+          90,
+          60
+        ],
+        "edge_alpha_pixels": 0
+      }
+    },
+    {
+      "frame": "34",
+      "raw": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/raw/frame-34-attempt-01.png",
+      "alpha": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/alpha/frame-34-attempt-01-alpha.png",
+      "normalized": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/frames/frame-34.png",
+      "alpha_source": {
+        "size": [
+          1536,
+          1024
+        ],
+        "nonzero_alpha_pixels": 398175,
+        "alpha_bbox": [
+          199,
+          147,
+          1256,
+          811
+        ],
+        "edge_alpha_pixels": 0
+      },
+      "normalized_stats": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha_pixels": 2974,
+        "alpha_bbox": [
+          5,
+          7,
+          90,
+          60
+        ],
+        "edge_alpha_pixels": 0
+      }
+    },
+    {
+      "frame": "35",
+      "raw": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/raw/frame-35-attempt-01.png",
+      "alpha": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/alpha/frame-35-attempt-01-alpha.png",
+      "normalized": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/frames/frame-35.png",
+      "alpha_source": {
+        "size": [
+          1536,
+          1024
+        ],
+        "nonzero_alpha_pixels": 387941,
+        "alpha_bbox": [
+          197,
+          190,
+          1243,
+          803
+        ],
+        "edge_alpha_pixels": 0
+      },
+      "normalized_stats": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha_pixels": 2983,
+        "alpha_bbox": [
+          5,
+          10,
+          90,
+          60
+        ],
+        "edge_alpha_pixels": 0
+      }
+    },
+    {
+      "frame": "36",
+      "raw": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/raw/frame-36-attempt-01.png",
+      "alpha": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/alpha/frame-36-attempt-01-alpha.png",
+      "normalized": "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/frames/frame-36.png",
+      "alpha_source": {
+        "size": [
+          1536,
+          1024
+        ],
+        "nonzero_alpha_pixels": 350241,
+        "alpha_bbox": [
+          181,
+          152,
+          1198,
+          818
+        ],
+        "edge_alpha_pixels": 0
+      },
+      "normalized_stats": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha_pixels": 2768,
+        "alpha_bbox": [
+          6,
+          5,
+          89,
+          60
+        ],
+        "edge_alpha_pixels": 0
+      }
+    }
+  ],
+  "contacts": [
+    "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/contact/scottish_fold_silver_tabby-set00-frames-29-36-light.png",
+    "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/contact/scottish_fold_silver_tabby-set00-frames-29-36-dark.png",
+    "docs/art-source/one-frame-method-fullrun-20260627/scottish-fold-silver-tabby-set00-oneframe-62/contact/scottish_fold_silver_tabby-set00-frames-29-36-checker.png"
+  ]
+}

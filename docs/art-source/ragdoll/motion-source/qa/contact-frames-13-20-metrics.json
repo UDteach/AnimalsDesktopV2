@@ -1,0 +1,133 @@
+{
+  "range": [
+    13,
+    20
+  ],
+  "frames": [
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-13.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        4,
+        30,
+        91,
+        58
+      ],
+      "visible_alpha_pixels": 1612,
+      "has_alpha": true
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-14.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        4,
+        29,
+        90,
+        58
+      ],
+      "visible_alpha_pixels": 1626,
+      "has_alpha": true
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-15.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        4,
+        28,
+        92,
+        58
+      ],
+      "visible_alpha_pixels": 1658,
+      "has_alpha": true
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-16.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        4,
+        28,
+        90,
+        58
+      ],
+      "visible_alpha_pixels": 1660,
+      "has_alpha": true
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-17.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        4,
+        28,
+        91,
+        58
+      ],
+      "visible_alpha_pixels": 1650,
+      "has_alpha": true
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-18.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        4,
+        30,
+        92,
+        58
+      ],
+      "visible_alpha_pixels": 1550,
+      "has_alpha": true
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-19.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        4,
+        28,
+        91,
+        58
+      ],
+      "visible_alpha_pixels": 1702,
+      "has_alpha": true
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-20.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        4,
+        29,
+        91,
+        58
+      ],
+      "visible_alpha_pixels": 1638,
+      "has_alpha": true
+    }
+  ],
+  "contacts": [
+    "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/contact/ragdoll-seal-bicolor-set00-frames-13-20-light-contact.png",
+    "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/contact/ragdoll-seal-bicolor-set00-frames-13-20-dark-contact.png",
+    "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/contact/ragdoll-seal-bicolor-set00-frames-13-20-checker-contact.png"
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "manifest": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/batch-variant-i-imagegen-eight-layout-correction.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/parsed-variant-i-imagegen-eight-layout-correction",
+  "cell_width": 443,
+  "cell_height": 443,
+  "columns": 4,
+  "rows": 2,
+  "pitch_x": 443,
+  "pitch_y": 443,
+  "guard_pixels": 1,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 8,
+  "parsed": 0,
+  "rejected": 8,
+  "sources": [
+    {
+      "path": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-i-eight-layout-correction.png",
+      "sha256": "e24d144d6aa409ab950623fe077592408a55c01e546d1247eba5f3003d6f5117",
+      "width": 1774,
+      "height": 887,
+      "errors": [
+        "content exists in x-boundary guard column 442"
+      ]
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-i-eight-layout-correction.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "e24d144d6aa409ab950623fe077592408a55c01e546d1247eba5f3003d6f5117",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 442"
+      ]
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-i-eight-layout-correction.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "e24d144d6aa409ab950623fe077592408a55c01e546d1247eba5f3003d6f5117",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 442"
+      ]
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-i-eight-layout-correction.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "e24d144d6aa409ab950623fe077592408a55c01e546d1247eba5f3003d6f5117",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 442"
+      ]
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-i-eight-layout-correction.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "e24d144d6aa409ab950623fe077592408a55c01e546d1247eba5f3003d6f5117",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 442"
+      ]
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-i-eight-layout-correction.png",
+      "cell": 4,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "e24d144d6aa409ab950623fe077592408a55c01e546d1247eba5f3003d6f5117",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 442"
+      ]
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-i-eight-layout-correction.png",
+      "cell": 5,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "e24d144d6aa409ab950623fe077592408a55c01e546d1247eba5f3003d6f5117",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 442"
+      ]
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-i-eight-layout-correction.png",
+      "cell": 6,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "e24d144d6aa409ab950623fe077592408a55c01e546d1247eba5f3003d6f5117",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 442"
+      ]
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-i-eight-layout-correction.png",
+      "cell": 7,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "e24d144d6aa409ab950623fe077592408a55c01e546d1247eba5f3003d6f5117",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 442"
+      ]
+    }
+  ],
+  "errors": [
+    "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-i-eight-layout-correction.png: content exists in x-boundary guard column 442",
+    "set00-frame-00: content exists in x-boundary guard column 442",
+    "set00-frame-01: content exists in x-boundary guard column 442",
+    "set00-frame-02: content exists in x-boundary guard column 442",
+    "set00-frame-03: content exists in x-boundary guard column 442",
+    "set00-frame-04: content exists in x-boundary guard column 442",
+    "set00-frame-05: content exists in x-boundary guard column 442",
+    "set00-frame-06: content exists in x-boundary guard column 442",
+    "set00-frame-07: content exists in x-boundary guard column 442"
+  ]
+}

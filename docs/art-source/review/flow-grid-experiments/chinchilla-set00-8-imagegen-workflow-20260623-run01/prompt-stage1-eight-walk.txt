@@ -1,0 +1,11 @@
+Create exactly one wide 8-frame desktop pet sprite sheet, intended as 2048 by 1024 pixels, with an invisible 2 row by 4 column layout. Each invisible cell is intended as 512 by 512 pixels. Do not draw cell borders, grid lines, dividers, labels, numbers, text, arrows, floor, shadow, scenery, props, or any extra animals.
+
+Subject: one complete right-facing standard gray chinchilla sprite in each cell. Compact small 2D game sprite, soft shaded, clean antialiased outline, medium neutral gray coat, large rounded ears, calm stable face, small dark eye, short muzzle, visible whisker cluster, compact body, four small feet, fluffy curled tail. Keep the same camera distance, body size, head size, coat value, outline, baseline, face, ear shape, muzzle, feet style, and source family across all 8 frames.
+
+Background: pure flat chroma green #00ff00 in all empty areas. No gradients, no texture, no checkerboard, no transparency checker, no white/gray background, no contact shadow, no cast shadow, no floor line, no lower shelf, no base, no ground smear.
+
+Layout: one complete chinchilla fully inside each invisible cell. Center every animal in its cell. Leave generous pure green padding around ears, whiskers, feet, toes, tail, and body. No animal may touch or cross a cell edge. Keep all anatomy visible and uncropped.
+
+Motion: the 8 cells are one grounded walk cycle, ordered left to right then top to bottom. Every neighboring cell must be a distinct gait phase, not a duplicated pose. 1 front right paw forward, rear right paw back, body centered. 2 front paw under chest, rear paw lifting, body slightly lower. 3 front left paw forward, rear left paw back, tail counterbalanced. 4 paws pass under body, body slightly higher. 5 opposite contact, not a duplicate of frame 1. 6 one front paw lifted and one rear paw pushing. 7 low contact step, head slightly forward. 8 recovery step, tail slightly curled upward.
+
+Pixel quality guard: no green dots inside the animal, no green holes inside body or tail, no missing pixels, no transparent pinholes, no detached specks, no white fringe, no green halo, no rough matte, no jagged cutout, no clipped ears, no clipped whiskers, no clipped feet, no clipped tail. The sheet must be suitable for later fixed-cell extraction.

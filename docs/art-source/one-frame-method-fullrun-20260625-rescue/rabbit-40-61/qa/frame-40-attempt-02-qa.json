@@ -1,0 +1,46 @@
+{
+  "source_size": [
+    1536,
+    1024
+  ],
+  "source_bbox": [
+    416,
+    193,
+    1060,
+    811
+  ],
+  "padded_bbox": [
+    404,
+    181,
+    1072,
+    823
+  ],
+  "normalized_size": [
+    56,
+    54
+  ],
+  "frame_bbox": [
+    20,
+    5,
+    75,
+    59
+  ],
+  "nonzero_alpha": 1838,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "rabbit_chestnut_agouti",
+  "frame": 40,
+  "group": "chew",
+  "pose": "sitting low, front paws near mouth, chewing",
+  "attempt": 2,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc37-515b-78a3-aacc-847ecb5c246c/ig_0cc27006949ace6e016a3c79c4a6d48191ab40355f6608e9ec.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/raw/frame-40-attempt-02-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/alpha/frame-40-attempt-02-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-40.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-40-attempt-02.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/contacts/frame-40-attempt-02-contact.png",
+  "qa_json_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/qa/frame-40-attempt-02-qa.json",
+  "prompt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/prompts/frame-40-attempt-02-prompt.txt",
+  "decision": "candidate",
+  "notes": "retry: visible white tail and right-facing chew"
+}

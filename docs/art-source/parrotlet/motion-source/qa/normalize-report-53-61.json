@@ -1,0 +1,200 @@
+[
+  {
+    "frame": "53",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "foreground_bbox": [
+      401,
+      196,
+      1085,
+      840
+    ],
+    "resized_size": [
+      57,
+      54
+    ],
+    "placement": [
+      19,
+      6
+    ],
+    "visible_pixels": 234688
+  },
+  {
+    "frame": "54",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "foreground_bbox": [
+      413,
+      202,
+      1082,
+      822
+    ],
+    "resized_size": [
+      58,
+      54
+    ],
+    "placement": [
+      19,
+      6
+    ],
+    "visible_pixels": 206731
+  },
+  {
+    "frame": "55",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "foreground_bbox": [
+      392,
+      173,
+      1144,
+      845
+    ],
+    "resized_size": [
+      60,
+      54
+    ],
+    "placement": [
+      18,
+      6
+    ],
+    "visible_pixels": 255497
+  },
+  {
+    "frame": "56",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "foreground_bbox": [
+      401,
+      159,
+      1094,
+      835
+    ],
+    "resized_size": [
+      55,
+      54
+    ],
+    "placement": [
+      20,
+      6
+    ],
+    "visible_pixels": 228245
+  },
+  {
+    "frame": "57",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "foreground_bbox": [
+      365,
+      147,
+      1150,
+      838
+    ],
+    "resized_size": [
+      61,
+      54
+    ],
+    "placement": [
+      17,
+      6
+    ],
+    "visible_pixels": 248165
+  },
+  {
+    "frame": "58",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "foreground_bbox": [
+      391,
+      226,
+      1086,
+      821
+    ],
+    "resized_size": [
+      63,
+      54
+    ],
+    "placement": [
+      16,
+      6
+    ],
+    "visible_pixels": 202241
+  },
+  {
+    "frame": "59",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "foreground_bbox": [
+      414,
+      176,
+      1080,
+      817
+    ],
+    "resized_size": [
+      56,
+      54
+    ],
+    "placement": [
+      20,
+      6
+    ],
+    "visible_pixels": 207126
+  },
+  {
+    "frame": "60",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "foreground_bbox": [
+      378,
+      175,
+      1073,
+      823
+    ],
+    "resized_size": [
+      58,
+      54
+    ],
+    "placement": [
+      19,
+      6
+    ],
+    "visible_pixels": 225501
+  },
+  {
+    "frame": "61",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "foreground_bbox": [
+      398,
+      210,
+      1094,
+      828
+    ],
+    "resized_size": [
+      61,
+      54
+    ],
+    "placement": [
+      17,
+      6
+    ],
+    "visible_pixels": 208321
+  }
+]

@@ -1,0 +1,632 @@
+{
+  "frames_dir": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00",
+  "pattern": "frame-%02d.png",
+  "output": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/sheets/domestic-shorthair-tabby-white-stocky-source-set00.png",
+  "frame_width": 96,
+  "frame_height": 64,
+  "frame_count": 62,
+  "sheet_width": 5952,
+  "sheet_height": 64,
+  "frames": [
+    {
+      "frame": 0,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-00.png",
+      "content": {
+        "x": 6,
+        "y": 9,
+        "w": 84,
+        "h": 49
+      }
+    },
+    {
+      "frame": 1,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-01.png",
+      "content": {
+        "x": 6,
+        "y": 9,
+        "w": 84,
+        "h": 49
+      }
+    },
+    {
+      "frame": 2,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-02.png",
+      "content": {
+        "x": 6,
+        "y": 9,
+        "w": 84,
+        "h": 49
+      }
+    },
+    {
+      "frame": 3,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-03.png",
+      "content": {
+        "x": 6,
+        "y": 13,
+        "w": 84,
+        "h": 45
+      }
+    },
+    {
+      "frame": 4,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-04.png",
+      "content": {
+        "x": 6,
+        "y": 14,
+        "w": 84,
+        "h": 44
+      }
+    },
+    {
+      "frame": 5,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-05.png",
+      "content": {
+        "x": 6,
+        "y": 16,
+        "w": 84,
+        "h": 42
+      }
+    },
+    {
+      "frame": 6,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-06.png",
+      "content": {
+        "x": 6,
+        "y": 14,
+        "w": 84,
+        "h": 44
+      }
+    },
+    {
+      "frame": 7,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-07.png",
+      "content": {
+        "x": 6,
+        "y": 15,
+        "w": 84,
+        "h": 43
+      }
+    },
+    {
+      "frame": 8,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-08.png",
+      "content": {
+        "x": 6,
+        "y": 16,
+        "w": 84,
+        "h": 42
+      }
+    },
+    {
+      "frame": 9,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-09.png",
+      "content": {
+        "x": 6,
+        "y": 17,
+        "w": 84,
+        "h": 41
+      }
+    },
+    {
+      "frame": 10,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-10.png",
+      "content": {
+        "x": 6,
+        "y": 15,
+        "w": 84,
+        "h": 43
+      }
+    },
+    {
+      "frame": 11,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-11.png",
+      "content": {
+        "x": 6,
+        "y": 12,
+        "w": 84,
+        "h": 46
+      }
+    },
+    {
+      "frame": 12,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-12.png",
+      "content": {
+        "x": 6,
+        "y": 22,
+        "w": 84,
+        "h": 36
+      }
+    },
+    {
+      "frame": 13,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-13.png",
+      "content": {
+        "x": 6,
+        "y": 20,
+        "w": 84,
+        "h": 38
+      }
+    },
+    {
+      "frame": 14,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-14.png",
+      "content": {
+        "x": 6,
+        "y": 16,
+        "w": 84,
+        "h": 42
+      }
+    },
+    {
+      "frame": 15,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-15.png",
+      "content": {
+        "x": 6,
+        "y": 22,
+        "w": 84,
+        "h": 36
+      }
+    },
+    {
+      "frame": 16,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-16.png",
+      "content": {
+        "x": 6,
+        "y": 18,
+        "w": 84,
+        "h": 40
+      }
+    },
+    {
+      "frame": 17,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-17.png",
+      "content": {
+        "x": 6,
+        "y": 21,
+        "w": 84,
+        "h": 37
+      }
+    },
+    {
+      "frame": 18,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-18.png",
+      "content": {
+        "x": 6,
+        "y": 14,
+        "w": 84,
+        "h": 44
+      }
+    },
+    {
+      "frame": 19,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-19.png",
+      "content": {
+        "x": 6,
+        "y": 10,
+        "w": 84,
+        "h": 48
+      }
+    },
+    {
+      "frame": 20,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-20.png",
+      "content": {
+        "x": 6,
+        "y": 16,
+        "w": 84,
+        "h": 42
+      }
+    },
+    {
+      "frame": 21,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-21.png",
+      "content": {
+        "x": 6,
+        "y": 17,
+        "w": 84,
+        "h": 41
+      }
+    },
+    {
+      "frame": 22,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-22.png",
+      "content": {
+        "x": 6,
+        "y": 17,
+        "w": 84,
+        "h": 41
+      }
+    },
+    {
+      "frame": 23,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-23.png",
+      "content": {
+        "x": 6,
+        "y": 17,
+        "w": 84,
+        "h": 41
+      }
+    },
+    {
+      "frame": 24,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-24.png",
+      "content": {
+        "x": 6,
+        "y": 18,
+        "w": 84,
+        "h": 40
+      }
+    },
+    {
+      "frame": 25,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-25.png",
+      "content": {
+        "x": 6,
+        "y": 19,
+        "w": 84,
+        "h": 39
+      }
+    },
+    {
+      "frame": 26,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-26.png",
+      "content": {
+        "x": 6,
+        "y": 14,
+        "w": 84,
+        "h": 44
+      }
+    },
+    {
+      "frame": 27,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-27.png",
+      "content": {
+        "x": 6,
+        "y": 14,
+        "w": 84,
+        "h": 44
+      }
+    },
+    {
+      "frame": 28,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-28.png",
+      "content": {
+        "x": 6,
+        "y": 12,
+        "w": 84,
+        "h": 46
+      }
+    },
+    {
+      "frame": 29,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-29.png",
+      "content": {
+        "x": 6,
+        "y": 10,
+        "w": 84,
+        "h": 48
+      }
+    },
+    {
+      "frame": 30,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-30.png",
+      "content": {
+        "x": 6,
+        "y": 17,
+        "w": 84,
+        "h": 41
+      }
+    },
+    {
+      "frame": 31,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-31.png",
+      "content": {
+        "x": 6,
+        "y": 11,
+        "w": 84,
+        "h": 47
+      }
+    },
+    {
+      "frame": 32,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-32.png",
+      "content": {
+        "x": 10,
+        "y": 10,
+        "w": 76,
+        "h": 48
+      }
+    },
+    {
+      "frame": 33,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-33.png",
+      "content": {
+        "x": 14,
+        "y": 10,
+        "w": 68,
+        "h": 48
+      }
+    },
+    {
+      "frame": 34,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-34.png",
+      "content": {
+        "x": 10,
+        "y": 10,
+        "w": 76,
+        "h": 48
+      }
+    },
+    {
+      "frame": 35,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-35.png",
+      "content": {
+        "x": 6,
+        "y": 15,
+        "w": 84,
+        "h": 43
+      }
+    },
+    {
+      "frame": 36,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-36.png",
+      "content": {
+        "x": 6,
+        "y": 21,
+        "w": 84,
+        "h": 37
+      }
+    },
+    {
+      "frame": 37,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-37.png",
+      "content": {
+        "x": 6,
+        "y": 13,
+        "w": 84,
+        "h": 45
+      }
+    },
+    {
+      "frame": 38,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-38.png",
+      "content": {
+        "x": 6,
+        "y": 12,
+        "w": 84,
+        "h": 46
+      }
+    },
+    {
+      "frame": 39,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-39.png",
+      "content": {
+        "x": 6,
+        "y": 16,
+        "w": 84,
+        "h": 42
+      }
+    },
+    {
+      "frame": 40,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-40.png",
+      "content": {
+        "x": 6,
+        "y": 21,
+        "w": 84,
+        "h": 37
+      }
+    },
+    {
+      "frame": 41,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-41.png",
+      "content": {
+        "x": 6,
+        "y": 22,
+        "w": 84,
+        "h": 36
+      }
+    },
+    {
+      "frame": 42,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-42.png",
+      "content": {
+        "x": 6,
+        "y": 22,
+        "w": 84,
+        "h": 36
+      }
+    },
+    {
+      "frame": 43,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-43.png",
+      "content": {
+        "x": 6,
+        "y": 18,
+        "w": 84,
+        "h": 40
+      }
+    },
+    {
+      "frame": 44,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-44.png",
+      "content": {
+        "x": 6,
+        "y": 21,
+        "w": 84,
+        "h": 37
+      }
+    },
+    {
+      "frame": 45,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-45.png",
+      "content": {
+        "x": 6,
+        "y": 22,
+        "w": 84,
+        "h": 36
+      }
+    },
+    {
+      "frame": 46,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-46.png",
+      "content": {
+        "x": 6,
+        "y": 22,
+        "w": 84,
+        "h": 36
+      }
+    },
+    {
+      "frame": 47,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-47.png",
+      "content": {
+        "x": 6,
+        "y": 22,
+        "w": 84,
+        "h": 36
+      }
+    },
+    {
+      "frame": 48,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-48.png",
+      "content": {
+        "x": 6,
+        "y": 18,
+        "w": 84,
+        "h": 40
+      }
+    },
+    {
+      "frame": 49,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-49.png",
+      "content": {
+        "x": 6,
+        "y": 15,
+        "w": 84,
+        "h": 43
+      }
+    },
+    {
+      "frame": 50,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-50.png",
+      "content": {
+        "x": 6,
+        "y": 16,
+        "w": 84,
+        "h": 42
+      }
+    },
+    {
+      "frame": 51,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-51.png",
+      "content": {
+        "x": 6,
+        "y": 22,
+        "w": 84,
+        "h": 36
+      }
+    },
+    {
+      "frame": 52,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-52.png",
+      "content": {
+        "x": 6,
+        "y": 16,
+        "w": 84,
+        "h": 42
+      }
+    },
+    {
+      "frame": 53,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-53.png",
+      "content": {
+        "x": 6,
+        "y": 18,
+        "w": 84,
+        "h": 40
+      }
+    },
+    {
+      "frame": 54,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-54.png",
+      "content": {
+        "x": 6,
+        "y": 19,
+        "w": 84,
+        "h": 39
+      }
+    },
+    {
+      "frame": 55,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-55.png",
+      "content": {
+        "x": 6,
+        "y": 16,
+        "w": 84,
+        "h": 42
+      }
+    },
+    {
+      "frame": 56,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-56.png",
+      "content": {
+        "x": 6,
+        "y": 18,
+        "w": 84,
+        "h": 40
+      }
+    },
+    {
+      "frame": 57,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-57.png",
+      "content": {
+        "x": 6,
+        "y": 12,
+        "w": 84,
+        "h": 46
+      }
+    },
+    {
+      "frame": 58,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-58.png",
+      "content": {
+        "x": 6,
+        "y": 19,
+        "w": 84,
+        "h": 39
+      }
+    },
+    {
+      "frame": 59,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-59.png",
+      "content": {
+        "x": 6,
+        "y": 12,
+        "w": 84,
+        "h": 46
+      }
+    },
+    {
+      "frame": 60,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-60.png",
+      "content": {
+        "x": 6,
+        "y": 18,
+        "w": 84,
+        "h": 40
+      }
+    },
+    {
+      "frame": 61,
+      "path": "docs/art-source/domestic-shorthair-tabby-white-stocky/motion-source/accepted-frames/set00/frame-61.png",
+      "content": {
+        "x": 6,
+        "y": 17,
+        "w": 84,
+        "h": 41
+      }
+    }
+  ]
+}

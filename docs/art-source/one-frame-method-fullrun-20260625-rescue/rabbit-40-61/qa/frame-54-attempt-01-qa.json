@@ -1,0 +1,46 @@
+{
+  "source_size": [
+    1536,
+    1024
+  ],
+  "source_bbox": [
+    441,
+    95,
+    1084,
+    835
+  ],
+  "padded_bbox": [
+    429,
+    83,
+    1096,
+    847
+  ],
+  "normalized_size": [
+    47,
+    54
+  ],
+  "frame_bbox": [
+    24,
+    5,
+    70,
+    59
+  ],
+  "nonzero_alpha": 1549,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "rabbit_chestnut_agouti",
+  "frame": 54,
+  "group": "face_groom",
+  "pose": "both paws near nose grooming",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc37-515b-78a3-aacc-847ecb5c246c/ig_0c418eb3e2de5d9e016a3c801c73e0819188123b720b91b875.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/raw/frame-54-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/alpha/frame-54-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-54.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-54-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/contacts/frame-54-attempt-01-contact.png",
+  "qa_json_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/qa/frame-54-attempt-01-qa.json",
+  "prompt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/prompts/frame-54-attempt-01-prompt.txt",
+  "decision": "candidate",
+  "notes": "initial rescue candidate"
+}

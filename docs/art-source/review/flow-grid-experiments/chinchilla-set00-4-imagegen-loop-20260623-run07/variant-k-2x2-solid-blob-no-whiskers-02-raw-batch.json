@@ -1,0 +1,41 @@
+{
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "cell_width": 627,
+  "cell_height": 627,
+  "columns": 2,
+  "rows": 2,
+  "origin_x": 0,
+  "origin_y": 0,
+  "pitch_x": 627,
+  "pitch_y": 627,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "variant-k-2x2-solid-blob-no-whiskers-02.png",
+      "cell": 0,
+      "output": "frame-00.png"
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "variant-k-2x2-solid-blob-no-whiskers-02.png",
+      "cell": 1,
+      "output": "frame-01.png"
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "variant-k-2x2-solid-blob-no-whiskers-02.png",
+      "cell": 2,
+      "output": "frame-02.png"
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "variant-k-2x2-solid-blob-no-whiskers-02.png",
+      "cell": 3,
+      "output": "frame-03.png"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+rejected: parent review says bbox/scale is good but face and wing drift gray-white/pale; retry with stronger yellow/green/black color lock

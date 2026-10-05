@@ -1,0 +1,218 @@
+{
+  "manifest": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/batch-variant-g-imagegen-eight-textonly.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/parsed-variant-g-imagegen-eight-textonly",
+  "cell_width": 313,
+  "cell_height": 627,
+  "columns": 4,
+  "rows": 2,
+  "pitch_x": 313,
+  "pitch_y": 627,
+  "guard_pixels": 1,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 8,
+  "parsed": 0,
+  "rejected": 8,
+  "sources": [
+    {
+      "path": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-g-eight-textonly.png",
+      "sha256": "360774a5312bb56abae98af93a95a41049c49936b943d1a39677288ab3a64633",
+      "width": 1254,
+      "height": 1254,
+      "errors": [
+        "content exists in x-boundary guard column 312"
+      ]
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-g-eight-textonly.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "360774a5312bb56abae98af93a95a41049c49936b943d1a39677288ab3a64633",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 312"
+      ]
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-g-eight-textonly.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "360774a5312bb56abae98af93a95a41049c49936b943d1a39677288ab3a64633",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 312"
+      ]
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-g-eight-textonly.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "360774a5312bb56abae98af93a95a41049c49936b943d1a39677288ab3a64633",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 312"
+      ]
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-g-eight-textonly.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "360774a5312bb56abae98af93a95a41049c49936b943d1a39677288ab3a64633",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 312"
+      ]
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-g-eight-textonly.png",
+      "cell": 4,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "360774a5312bb56abae98af93a95a41049c49936b943d1a39677288ab3a64633",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 312"
+      ]
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-g-eight-textonly.png",
+      "cell": 5,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "360774a5312bb56abae98af93a95a41049c49936b943d1a39677288ab3a64633",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 312"
+      ]
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-g-eight-textonly.png",
+      "cell": 6,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "360774a5312bb56abae98af93a95a41049c49936b943d1a39677288ab3a64633",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 312"
+      ]
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-g-eight-textonly.png",
+      "cell": 7,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "360774a5312bb56abae98af93a95a41049c49936b943d1a39677288ab3a64633",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 312"
+      ]
+    }
+  ],
+  "errors": [
+    "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/imagegen-variant-g-eight-textonly.png: content exists in x-boundary guard column 312",
+    "set00-frame-00: content exists in x-boundary guard column 312",
+    "set00-frame-01: content exists in x-boundary guard column 312",
+    "set00-frame-02: content exists in x-boundary guard column 312",
+    "set00-frame-03: content exists in x-boundary guard column 312",
+    "set00-frame-04: content exists in x-boundary guard column 312",
+    "set00-frame-05: content exists in x-boundary guard column 312",
+    "set00-frame-06: content exists in x-boundary guard column 312",
+    "set00-frame-07: content exists in x-boundary guard column 312"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "manifest": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/variant-f-near-identical-clean-01-greenfixed-batch.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/parsed-variant-f-near-identical-clean-01-greenfixed",
+  "cell_width": 443,
+  "cell_height": 443,
+  "columns": 4,
+  "rows": 2,
+  "pitch_x": 443,
+  "pitch_y": 443,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 8,
+  "parsed": 7,
+  "rejected": 1,
+  "sources": [
+    {
+      "path": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/variant-f-near-identical-clean-01-greenfixed.png",
+      "sha256": "cfbed29bfccdbd98df2a25061aa9e3c6924c34c62bf72984ec9a9a0c940b93af",
+      "width": 1774,
+      "height": 887
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/variant-f-near-identical-clean-01-greenfixed.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/parsed-variant-f-near-identical-clean-01-greenfixed/frame-00.png",
+      "source_sha256": "cfbed29bfccdbd98df2a25061aa9e3c6924c34c62bf72984ec9a9a0c940b93af",
+      "output_sha256": "dd22dc5de75a54198bedcafed530f29a72a1338ca4705eb8f5b4db7431dd1b0e",
+      "content": {
+        "x": 56,
+        "y": 147,
+        "w": 340,
+        "h": 215
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/variant-f-near-identical-clean-01-greenfixed.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 443,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/parsed-variant-f-near-identical-clean-01-greenfixed/frame-01.png",
+      "source_sha256": "cfbed29bfccdbd98df2a25061aa9e3c6924c34c62bf72984ec9a9a0c940b93af",
+      "output_sha256": "6dd05776ab56bee40b66ca130d41ffa01b718a3d26e27c98818fab1e2186d50f",
+      "content": {
+        "x": 29,
+        "y": 144,
+        "w": 355,
+        "h": 218
+      },
+      "component_count": 2,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/variant-f-near-identical-clean-01-greenfixed.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 886,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "cfbed29bfccdbd98df2a25061aa9e3c6924c34c62bf72984ec9a9a0c940b93af",
+      "content": {
+        "x": 22,
+        "y": 146,
+        "w": 354,
+        "h": 216
+      },
+      "component_count": 1,
+      "background_holes": 1,
+      "background_hole_area": 1,
+      "largest_bg_hole": 1,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=1 area=1 largest=1"
+      ]
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/variant-f-near-identical-clean-01-greenfixed.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 1329,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/parsed-variant-f-near-identical-clean-01-greenfixed/frame-03.png",
+      "source_sha256": "cfbed29bfccdbd98df2a25061aa9e3c6924c34c62bf72984ec9a9a0c940b93af",
+      "output_sha256": "4816a9d02e45d00f62d19c69f1d49a2bfae9501a91421df03bd46bc4301254f3",
+      "content": {
+        "x": 12,
+        "y": 146,
+        "w": 357,
+        "h": 216
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/variant-f-near-identical-clean-01-greenfixed.png",
+      "cell": 4,
+      "cell_bounds": {
+        "x": 0,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/parsed-variant-f-near-identical-clean-01-greenfixed/frame-04.png",
+      "source_sha256": "cfbed29bfccdbd98df2a25061aa9e3c6924c34c62bf72984ec9a9a0c940b93af",
+      "output_sha256": "c5206137563c554b304638dfeb15afa72a37131f0e4ee9974ad0bed4d84a94e0",
+      "content": {
+        "x": 44,
+        "y": 83,
+        "w": 347,
+        "h": 216
+      },
+      "component_count": 2,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/variant-f-near-identical-clean-01-greenfixed.png",
+      "cell": 5,
+      "cell_bounds": {
+        "x": 443,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/parsed-variant-f-near-identical-clean-01-greenfixed/frame-05.png",
+      "source_sha256": "cfbed29bfccdbd98df2a25061aa9e3c6924c34c62bf72984ec9a9a0c940b93af",
+      "output_sha256": "91714bf9471ddebe4628b0fa2f1a84cf2d77a01a622ea4f70b2f068b9ed5f4bf",
+      "content": {
+        "x": 28,
+        "y": 83,
+        "w": 352,
+        "h": 216
+      },
+      "component_count": 2,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/variant-f-near-identical-clean-01-greenfixed.png",
+      "cell": 6,
+      "cell_bounds": {
+        "x": 886,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/parsed-variant-f-near-identical-clean-01-greenfixed/frame-06.png",
+      "source_sha256": "cfbed29bfccdbd98df2a25061aa9e3c6924c34c62bf72984ec9a9a0c940b93af",
+      "output_sha256": "fb5a9feb3d2d7fe06b7ba82a215975b88c3ef7a0a34c20659b193d362d381b35",
+      "content": {
+        "x": 28,
+        "y": 83,
+        "w": 348,
+        "h": 216
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/variant-f-near-identical-clean-01-greenfixed.png",
+      "cell": 7,
+      "cell_bounds": {
+        "x": 1329,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run04/parsed-variant-f-near-identical-clean-01-greenfixed/frame-07.png",
+      "source_sha256": "cfbed29bfccdbd98df2a25061aa9e3c6924c34c62bf72984ec9a9a0c940b93af",
+      "output_sha256": "f0c97ad1e5af32a3a50519ab8ff9a05d5d7ae70f83f3db31315ea27ed96f0d65",
+      "content": {
+        "x": 14,
+        "y": 83,
+        "w": 355,
+        "h": 216
+      },
+      "component_count": 1,
+      "status": "parsed"
+    }
+  ],
+  "errors": [
+    "set00-frame-02: transparent/chroma pinholes: holes=1 area=1 largest=1"
+  ]
+}

@@ -1,0 +1,2388 @@
+{
+  "families": {
+    "hamster": {
+      "frame_count": 49,
+      "missing": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        49,
+        50,
+        52,
+        53,
+        56,
+        60
+      ],
+      "bad_size": [],
+      "empty_alpha": [],
+      "edge_alpha": [],
+      "greenish_gt_12": [],
+      "frames": {
+        "00": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-00-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2557,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "01": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-01-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2679,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "02": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-02-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2604,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "03": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-03-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2461,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "04": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-04-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2594,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 8
+        },
+        "05": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-05-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2508,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 6
+        },
+        "06": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-06-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2306,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 6
+        },
+        "07": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-07-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2543,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 7
+        },
+        "08": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-08-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2255,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "09": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-09-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2572,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 4
+        },
+        "10": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-10-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2497,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "11": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-11-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2538,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "12": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-12-attempt-02.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1552,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "13": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-13-attempt-02.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2572,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "14": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-14-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1646,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "15": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-15-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2139,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "16": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-16-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1903,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 7
+        },
+        "17": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-17-attempt-02.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1939,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "18": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-18-attempt-02.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2210,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "19": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-19-attempt-02.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2011,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "20": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-20-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2444,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "21": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-21-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2191,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "22": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-22-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2686,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 7
+        },
+        "23": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-23-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2837,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "24": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-24-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2571,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "25": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-25-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2639,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "26": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-26-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2263,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "27": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-27-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2381,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "28": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-28-attempt-02.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2743,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "29": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-29-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2867,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "30": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-30-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1571,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "31": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-31-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2953,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 5
+        },
+        "32": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-32-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2552,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "33": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-33-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2139,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 4
+        },
+        "34": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-34-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1633,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "35": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-35-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1544,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "36": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-36-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2612,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "37": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-37-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2637,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "38": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-38-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1992,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "39": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-39-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1742,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "40": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-40-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2137,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 6
+        },
+        "48": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-48-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1353,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "51": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-51-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1739,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "54": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-54-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1778,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "55": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-55-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1690,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "57": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-57-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1835,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "58": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-58-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 3011,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "59": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-59-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2594,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 5
+        },
+        "61": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/hamster/frames/frame-61-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2791,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        }
+      }
+    },
+    "macaroni-mouse": {
+      "frame_count": 62,
+      "missing": [],
+      "bad_size": [],
+      "empty_alpha": [],
+      "edge_alpha": [],
+      "greenish_gt_12": [],
+      "frames": {
+        "00": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-00.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1857,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "01": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1940,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "02": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-02.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1724,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "03": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-03.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1665,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "04": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-04.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1812,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "05": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-05.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1648,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "06": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-06.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1639,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "07": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-07.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1815,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "08": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-08.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1768,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "09": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-09.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1596,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "10": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-10.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1721,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "11": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-11.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1851,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 5
+        },
+        "12": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-12.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1462,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "13": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-13.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1608,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 5
+        },
+        "14": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-14.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1513,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 4
+        },
+        "15": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-15.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1509,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "16": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-16.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1414,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "17": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-17.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1541,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "18": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-18.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1557,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "19": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-19.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1665,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 8
+        },
+        "20": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-20.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1921,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "21": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-21.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1766,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "22": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-22.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1827,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 4
+        },
+        "23": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-23.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2177,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 5
+        },
+        "24": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-24.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1866,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "25": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-25.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1786,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "26": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-26.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1813,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "27": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-27.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1776,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "28": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-28.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1764,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "29": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-29.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1756,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "30": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-30.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1874,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "31": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-31.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1797,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "32": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-32.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1994,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 4
+        },
+        "33": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-33.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2317,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 8
+        },
+        "34": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-34.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2303,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 6
+        },
+        "35": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-35.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2141,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 6
+        },
+        "36": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-36.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1863,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 4
+        },
+        "37": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-37.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2137,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "38": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-38.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1850,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "39": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-39.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1732,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "40": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-40.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1804,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "41": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-41.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1823,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "42": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-42.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1818,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "43": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-43.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1776,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "44": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-44.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1726,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 4
+        },
+        "45": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-45.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1775,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 4
+        },
+        "46": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-46.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2024,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "47": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-47.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1833,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "48": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-48.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1727,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "49": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-49.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1960,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "50": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-50.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1816,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "51": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-51.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1884,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 6
+        },
+        "52": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-52.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1919,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 5
+        },
+        "53": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-53.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1984,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "54": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-54.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1982,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "55": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-55.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1880,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 4
+        },
+        "56": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-56.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1998,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 4
+        },
+        "57": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-57.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1651,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "58": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-58.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1470,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "59": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-59.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1753,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "60": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-60.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1876,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 3
+        },
+        "61": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/macaroni-mouse/frames/frame-61.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1835,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        }
+      }
+    },
+    "sugar-glider": {
+      "frame_count": 62,
+      "missing": [],
+      "bad_size": [],
+      "empty_alpha": [],
+      "edge_alpha": [],
+      "greenish_gt_12": [],
+      "frames": {
+        "00": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-00-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2230,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "01": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-01-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1785,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "02": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-02-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2259,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "03": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-03-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2251,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "04": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-04-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1757,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "05": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-05-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1607,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "06": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-06-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1581,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "07": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-07-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1670,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "08": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-08-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1693,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "09": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-09-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1620,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "10": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-10-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1328,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "11": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-11-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1802,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "12": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-12-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1172,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "13": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-13-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1174,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "14": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-14-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1348,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "15": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-15-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1244,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "16": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-16-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1054,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "17": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-17-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1147,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "18": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-18-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1269,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "19": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-19-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1163,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "20": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-20-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1821,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "21": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-21-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1205,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "22": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-22-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2311,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "23": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-23-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1746,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "24": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-24-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1601,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "25": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-25-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1610,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "26": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-26-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2017,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "27": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-27-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1795,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "28": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-28-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2280,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "29": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-29-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2221,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "30": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-30-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1491,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "31": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-31-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1586,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "32": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-32-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2541,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "33": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-33-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2569,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "34": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-34-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2047,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "35": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-35-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2471,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "36": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-36-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1839,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "37": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-37-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1616,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "38": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-38-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2230,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "39": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-39-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1698,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "40": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-40-attempt-02.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1788,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "41": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-41-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1779,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "42": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-42-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2321,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "43": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-43-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2221,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "44": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-44-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1786,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "45": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-45-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1955,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "46": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-46-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2391,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "47": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-47-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2013,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "48": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-48-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1511,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "49": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-49-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1387,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "50": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-50-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2195,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "51": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-51-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2329,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "52": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-52-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2053,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "53": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-53-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2032,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "54": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-54-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1964,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "55": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-55-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2032,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "56": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-56-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2204,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "57": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-57-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2386,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "58": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-58-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2070,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "59": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-59-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2172,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "60": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-60-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2367,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "61": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/sugar-glider/frames/frame-61-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2160,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        }
+      }
+    },
+    "rabbit": {
+      "frame_count": 56,
+      "missing": [
+        51,
+        52,
+        55,
+        56,
+        58,
+        59
+      ],
+      "bad_size": [],
+      "empty_alpha": [],
+      "edge_alpha": [],
+      "greenish_gt_12": [],
+      "frames": {
+        "00": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-00-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1568,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "01": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-01-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1769,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "02": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-02-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1528,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "03": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-03-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2086,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "04": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-04-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2189,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "05": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-05-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1670,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "06": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-06-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2048,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "07": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-07-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1886,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "08": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-08-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2315,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "09": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-09-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2051,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "10": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-10-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2483,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "11": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-11-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2234,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "12": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-12-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1702,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "13": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-13-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2050,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "14": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-14-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1585,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "15": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-15-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2308,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "16": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-16-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1908,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "17": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-17-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2416,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "18": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-18-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2129,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "19": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-19-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2250,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "20": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-20-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2342,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "21": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-21-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2167,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "22": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-22-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2686,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "23": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-23-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2512,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "24": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-24-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1663,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "25": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-25-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2049,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "26": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-26-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1610,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "27": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-27-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1437,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "28": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-28-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2274,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "29": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-29-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2032,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "30": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-30-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1074,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "31": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-31-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2114,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "32": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-32-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1692,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "33": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-33-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1484,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "34": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-34-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1175,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "35": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-35-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1608,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 2
+        },
+        "36": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-36-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1950,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "37": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-37-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1537,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "38": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-38-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1567,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "39": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-39-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2057,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "40": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-40-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1686,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "41": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-41-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1788,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "42": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-42-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2263,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "43": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-43-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1773,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "44": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-44-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2780,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "45": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-45-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2889,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "46": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-46-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2652,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "47": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-47-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 2679,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "48": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-48-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1495,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "49": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-49-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1587,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "50": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-50-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1425,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "53": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-53-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1762,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "54": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-54-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1840,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "57": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-57-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1936,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        },
+        "60": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-60-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1934,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 0
+        },
+        "61": {
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/rabbit/frames/frame-61-attempt-01.png",
+          "size": [
+            96,
+            64
+          ],
+          "nonzero_alpha": 1613,
+          "edge_alpha_pixels": 0,
+          "greenish_pixels": 1
+        }
+      }
+    }
+  },
+  "issues": [
+    {
+      "family": "hamster",
+      "kind": "missing",
+      "items": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        49,
+        50,
+        52,
+        53,
+        56,
+        60
+      ]
+    },
+    {
+      "family": "rabbit",
+      "kind": "missing",
+      "items": [
+        51,
+        52,
+        55,
+        56,
+        58,
+        59
+      ]
+    }
+  ]
+}

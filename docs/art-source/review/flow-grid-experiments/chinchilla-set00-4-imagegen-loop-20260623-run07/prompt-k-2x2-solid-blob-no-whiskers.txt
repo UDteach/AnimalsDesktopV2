@@ -1,0 +1,76 @@
+Create one review-only 4-frame sprite sheet for a Windows desktop pet app.
+
+Primary goal:
+- Extraction cleanliness and stable closed shapes are more important than animation detail.
+- Make a clean parser-friendly 4-frame review sheet with no pinholes, no stray marks, no detached fragments, and no background contamination.
+- This is for visual review and fixed-cell diagnostics only, not final production assets.
+
+Canvas and layout:
+- Square canvas, target 1024x1024.
+- Use an invisible 2 rows x 2 columns layout.
+- Intended cell size: 512x512 per cell.
+- Place exactly one complete right-facing standard gray chinchilla in each cell.
+- Keep every chinchilla fully inside its own cell, centered, with consistent camera distance, scale, and contact baseline.
+- Each chinchilla should occupy about 40-45% of its cell width.
+- Leave clean green margin around every animal on all sides.
+- No visible grid lines, no labels, no numbers, no text.
+
+Background:
+- The entire background must be a flat, solid, pure chroma green color: #00ff00.
+- Use #00ff00 only for the background.
+- Do not use green anywhere inside the chinchilla.
+- No gradients, no texture, no noise, no background shading, no vignette.
+- No floor, no ground line, no shadow, no shelf, no scenery.
+
+Style:
+- Clean compact 2D game sprite style.
+- Flat icon-like mascot proportions with solid block colors only.
+- Minimalist closed-shape design.
+- Low detail, readable closed silhouette.
+- Not pixel art.
+- Not realistic fur.
+- Not a large detailed character illustration.
+- No painterly shading, no fur texture, no fuzzy fur edges, no individual hair strands.
+- Standard gray chinchilla: medium neutral gray coat, simple cream belly patch, rounded ears, compact body, attached curled thick tail.
+- Clean black eye, small simple muzzle, closed mouth.
+- No whiskers at all.
+- Keep the same character identity, proportions, head size, ear size, body size, tail size, and color palette in all 4 frames.
+
+Solid shape constraints:
+- The chinchilla must read as one thick chunky mass.
+- Body, head, ears, belly patch, feet, and tail must be solid closed shapes.
+- No internal negative space.
+- No thin strokes, no small gaps, no hairline cuts, no tiny holes.
+- Limbs and tail must sit completely flush against the body.
+- Tail must be one continuous attached thick curled shape, like a filled bean shape connected to the body.
+- Feet must be tiny filled pads fused to the underside of the body, not separate objects.
+- Belly patch must be a single solid cream area with no green openings.
+
+Feet and underside:
+- Each foot must be a small filled oval pad.
+- Foot pads must be attached to and slightly overlapping the underside of the body.
+- Keep foot pads simple, solid, closed, and chunky.
+- Do not show lifted feet, separated feet, long thin legs, toes, toe gaps, or open green spaces between feet and belly.
+- Keep the belly underside as one continuous closed shape.
+
+Pose requirement:
+- Create 4 controlled near-identical silhouette-safe pose phases, not a full walking cycle.
+- Pose 1: neutral compact pose.
+- Pose 2: tiny forward lean, same fused foot pads.
+- Pose 3: tiny opposite lean, same fused foot pads.
+- Pose 4: soft recovery pose leading back to pose 1.
+- Pose differences should be subtle but visible in body lean and tail balance.
+- Do not create a strong stride, passing pose, lifted feet, separated leg motion, or complex foot placement.
+- Prioritize clean filled shapes over motion differences.
+
+Hard constraints:
+- Exactly 4 complete chinchillas total.
+- Exactly one complete right-facing chinchilla per cell.
+- No duplicate animals inside a cell.
+- No extra animals, no cropped animals.
+- No missing tail, no detached ears, no separated limbs.
+- No sitting, no grooming, no jumping, no running, no scenery actions.
+- No white fringe, no pale halo, no green halo, no semi-transparent-looking rim.
+- No tiny green holes inside or between body parts.
+- No transparent-looking gaps inside the animal.
+- Final image must contain only the 4 chinchilla sprites on pure #00ff00 background.

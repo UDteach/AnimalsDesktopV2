@@ -1,0 +1,46 @@
+{
+  "source_size": [
+    1536,
+    1024
+  ],
+  "source_bbox": [
+    345,
+    226,
+    1168,
+    771
+  ],
+  "padded_bbox": [
+    333,
+    214,
+    1180,
+    783
+  ],
+  "normalized_size": [
+    80,
+    54
+  ],
+  "frame_bbox": [
+    8,
+    5,
+    87,
+    59
+  ],
+  "nonzero_alpha": 2632,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 1,
+  "family": "rabbit_chestnut_agouti",
+  "frame": 51,
+  "group": "alert_rest_ear_twitch",
+  "pose": "alert crouch ready to hop, facing right",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc37-515b-78a3-aacc-847ecb5c246c/ig_0a85f4f898e93121016a3c7dc399e081919a4066578b8e6f06.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/raw/frame-51-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/alpha/frame-51-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-51.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-51-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/contacts/frame-51-attempt-01-contact.png",
+  "qa_json_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/qa/frame-51-attempt-01-qa.json",
+  "prompt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/prompts/frame-51-attempt-01-prompt.txt",
+  "decision": "candidate",
+  "notes": "initial rescue candidate"
+}

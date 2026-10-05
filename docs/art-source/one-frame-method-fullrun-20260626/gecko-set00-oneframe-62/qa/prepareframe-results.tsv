@@ -1,0 +1,62 @@
+00	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-00.png
+01	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-01.png
+02	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-02.png
+03	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-03-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=17 largest=17 exit status 1
+04	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-04.png
+05	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-05.png
+06	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-06-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=19 largest=19 exit status 1
+07	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-07-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=45 largest=45 exit status 1
+08	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-08.png
+09	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-09.png
+10	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-10.png
+11	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-11.png
+12	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-12.png
+13	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-13-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=5 largest=5 exit status 1
+14	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-14-attempt-01-raw.png has transparent pinholes after background preparation: holes=4 area=26 largest=18 exit status 1
+15	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-15-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=15 largest=15 exit status 1
+16	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-16.png
+17	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-17.png
+18	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-18.png
+19	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-19.png
+20	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-20.png
+21	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-21.png
+22	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-22-attempt-01-raw.png has transparent pinholes after background preparation: holes=2 area=66 largest=64 exit status 1
+23	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-23-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=6 largest=6 exit status 1
+24	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-24.png
+25	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-25.png
+26	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-26-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=28 largest=28 exit status 1
+27	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-27.png
+28	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-28-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=19 largest=19 exit status 1
+29	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-29-attempt-01-raw.png has transparent pinholes after background preparation: holes=2 area=56 largest=33 exit status 1
+30	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-30-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=171 largest=171 exit status 1
+31	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-31.png
+32	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-32.png
+33	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-33.png
+34	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-34.png
+35	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-35.png
+36	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-36.png
+37	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-37-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=15 largest=15 exit status 1
+38	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-38.png
+39	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-39.png
+40	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-40.png
+41	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-41.png
+42	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-42.png
+43	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-43.png
+44	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-44.png
+45	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-45-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=3 largest=3 exit status 1
+46	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-46.png
+47	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-47-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=15 largest=15 exit status 1
+48	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-48.png
+49	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-49.png
+50	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-50-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=1728 largest=1728 exit status 1
+51	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-51-attempt-01-raw.png has transparent pinholes after background preparation: holes=2 area=618 largest=612 exit status 1
+52	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-52-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=526 largest=526 exit status 1
+53	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-53-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=38 largest=38 exit status 1
+54	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-54-attempt-01-raw.png has transparent pinholes after background preparation: holes=1 area=71 largest=71 exit status 1
+55	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-55.png
+56	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-56.png
+57	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-57.png
+58	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-58.png
+59	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-59.png
+60	pass	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-60.png
+61	fail	docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-61-attempt-01-raw.png has transparent pinholes after background preparation: holes=2 area=27 largest=17 exit status 1

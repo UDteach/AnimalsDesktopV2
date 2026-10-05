@@ -1,0 +1,30 @@
+{
+  "source_bbox": [
+    887,
+    735,
+    1013,
+    858
+  ],
+  "source_component_pixels": 8330,
+  "normalized_size": [
+    55,
+    54
+  ],
+  "frame_bbox": [
+    20,
+    5,
+    75,
+    59
+  ],
+  "nonzero_alpha": 1847,
+  "partial_alpha": 574,
+  "edge_alpha_pixels": 0,
+  "family": "sugar_glider",
+  "frame": 39,
+  "source_path": "/Users/kyota/.codex/generated_images/019efb9a-b711-77f2-b098-5dce8ddc678d/ig_091f4f5a3b518aa3016a3c5dc025ac8191827903af07ff43db.png",
+  "sheet_path": "docs/art-source/sugar-glider/motion-source/raw-imagegen/set00/set00-components-ig_091f4f5a3b518aa3016a3c5dc025ac8191827903af07ff43db-raw.png",
+  "alpha_sheet_path": "docs/art-source/sugar-glider/motion-source/raw-imagegen/set00/set00-components-ig_091f4f5a3b518aa3016a3c5dc025ac8191827903af07ff43db-alpha.png",
+  "frame_path": "docs/art-source/sugar-glider/motion-source/accepted-candidates/set00/frame-39.png",
+  "contact_path": "docs/art-source/sugar-glider/motion-source/contacts/set00/frame-39-contact.png",
+  "status": "candidate-components-sheet"
+}

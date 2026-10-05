@@ -1,0 +1,521 @@
+{
+  "manifest": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/batch-pro-02.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/parsed-pro-02",
+  "cell_width": 476,
+  "cell_height": 476,
+  "columns": 4,
+  "rows": 4,
+  "origin_x": 48,
+  "origin_y": 48,
+  "pitch_x": 492,
+  "pitch_y": 492,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 16,
+  "parsed": 0,
+  "rejected": 16,
+  "sources": [
+    {
+      "path": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell_bounds": {
+        "x": 48,
+        "y": 48,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 0,
+        "y": 55,
+        "w": 476,
+        "h": 304
+      },
+      "component_count": 15,
+      "detached_components": 3,
+      "detached_area": 162,
+      "largest_detached": 142,
+      "background_holes": 1,
+      "background_hole_area": 1,
+      "largest_bg_hole": 1,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "disconnected alpha components: components=15 detached=3 detached_area=162 largest_detached=142",
+        "transparent/chroma pinholes: holes=1 area=1 largest=1"
+      ]
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 540,
+        "y": 48,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 0,
+        "y": 55,
+        "w": 467,
+        "h": 304
+      },
+      "component_count": 7,
+      "background_holes": 6,
+      "background_hole_area": 7,
+      "largest_bg_hole": 2,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "transparent/chroma pinholes: holes=6 area=7 largest=2"
+      ]
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 1032,
+        "y": 48,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 0,
+        "y": 55,
+        "w": 476,
+        "h": 303
+      },
+      "component_count": 17,
+      "background_holes": 7,
+      "background_hole_area": 16,
+      "largest_bg_hole": 9,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "transparent/chroma pinholes: holes=7 area=16 largest=9"
+      ]
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 1524,
+        "y": 48,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 16,
+        "y": 56,
+        "w": 460,
+        "h": 308
+      },
+      "component_count": 12,
+      "detached_components": 1,
+      "detached_area": 5,
+      "largest_detached": 5,
+      "background_holes": 3,
+      "background_hole_area": 3,
+      "largest_bg_hole": 1,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "disconnected alpha components: components=12 detached=1 detached_area=5 largest_detached=5",
+        "transparent/chroma pinholes: holes=3 area=3 largest=1"
+      ]
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 4,
+      "cell_bounds": {
+        "x": 48,
+        "y": 540,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 0,
+        "y": 29,
+        "w": 476,
+        "h": 414
+      },
+      "component_count": 23,
+      "detached_components": 2,
+      "detached_area": 276,
+      "largest_detached": 234,
+      "background_holes": 3,
+      "background_hole_area": 3,
+      "largest_bg_hole": 1,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "disconnected alpha components: components=23 detached=2 detached_area=276 largest_detached=234",
+        "transparent/chroma pinholes: holes=3 area=3 largest=1"
+      ]
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 5,
+      "cell_bounds": {
+        "x": 540,
+        "y": 540,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 0,
+        "y": 35,
+        "w": 468,
+        "h": 365
+      },
+      "component_count": 22,
+      "background_holes": 2,
+      "background_hole_area": 3,
+      "largest_bg_hole": 2,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "transparent/chroma pinholes: holes=2 area=3 largest=2"
+      ]
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 6,
+      "cell_bounds": {
+        "x": 1032,
+        "y": 540,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 0,
+        "y": 75,
+        "w": 476,
+        "h": 348
+      },
+      "component_count": 27,
+      "detached_components": 1,
+      "detached_area": 4,
+      "largest_detached": 4,
+      "background_holes": 3,
+      "background_hole_area": 5,
+      "largest_bg_hole": 3,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "disconnected alpha components: components=27 detached=1 detached_area=4 largest_detached=4",
+        "transparent/chroma pinholes: holes=3 area=5 largest=3"
+      ]
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 7,
+      "cell_bounds": {
+        "x": 1524,
+        "y": 540,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 13,
+        "y": 83,
+        "w": 463,
+        "h": 372
+      },
+      "component_count": 15,
+      "background_holes": 4,
+      "background_hole_area": 4,
+      "largest_bg_hole": 1,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "transparent/chroma pinholes: holes=4 area=4 largest=1"
+      ]
+    },
+    {
+      "id": "set00-frame-08",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 8,
+      "cell_bounds": {
+        "x": 48,
+        "y": 1032,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 0,
+        "y": 98,
+        "w": 476,
+        "h": 301
+      },
+      "component_count": 14,
+      "detached_components": 3,
+      "detached_area": 219,
+      "largest_detached": 196,
+      "background_holes": 4,
+      "background_hole_area": 5,
+      "largest_bg_hole": 2,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "disconnected alpha components: components=14 detached=3 detached_area=219 largest_detached=196",
+        "transparent/chroma pinholes: holes=4 area=5 largest=2"
+      ]
+    },
+    {
+      "id": "set00-frame-09",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 9,
+      "cell_bounds": {
+        "x": 540,
+        "y": 1032,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 0,
+        "y": 102,
+        "w": 472,
+        "h": 358
+      },
+      "component_count": 11,
+      "background_holes": 4,
+      "background_hole_area": 314,
+      "largest_bg_hole": 310,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "transparent/chroma pinholes: holes=4 area=314 largest=310"
+      ]
+    },
+    {
+      "id": "set00-frame-10",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 10,
+      "cell_bounds": {
+        "x": 1032,
+        "y": 1032,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 0,
+        "y": 103,
+        "w": 476,
+        "h": 373
+      },
+      "component_count": 26,
+      "detached_components": 3,
+      "detached_area": 17,
+      "largest_detached": 7,
+      "background_holes": 10,
+      "background_hole_area": 12,
+      "largest_bg_hole": 3,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "alpha touches vertical canvas edge",
+        "disconnected alpha components: components=26 detached=3 detached_area=17 largest_detached=7",
+        "transparent/chroma pinholes: holes=10 area=12 largest=3"
+      ]
+    },
+    {
+      "id": "set00-frame-11",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 11,
+      "cell_bounds": {
+        "x": 1524,
+        "y": 1032,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 14,
+        "y": 102,
+        "w": 462,
+        "h": 301
+      },
+      "component_count": 17,
+      "detached_components": 1,
+      "detached_area": 4,
+      "largest_detached": 4,
+      "background_holes": 2,
+      "background_hole_area": 2,
+      "largest_bg_hole": 1,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "disconnected alpha components: components=17 detached=1 detached_area=4 largest_detached=4",
+        "transparent/chroma pinholes: holes=2 area=2 largest=1"
+      ]
+    },
+    {
+      "id": "set00-frame-12",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 12,
+      "cell_bounds": {
+        "x": 48,
+        "y": 1524,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 0,
+        "y": 37,
+        "w": 476,
+        "h": 389
+      },
+      "component_count": 24,
+      "detached_components": 1,
+      "detached_area": 737,
+      "largest_detached": 737,
+      "background_holes": 4,
+      "background_hole_area": 5,
+      "largest_bg_hole": 2,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "disconnected alpha components: components=24 detached=1 detached_area=737 largest_detached=737",
+        "transparent/chroma pinholes: holes=4 area=5 largest=2"
+      ]
+    },
+    {
+      "id": "set00-frame-13",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 13,
+      "cell_bounds": {
+        "x": 540,
+        "y": 1524,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 0,
+        "y": 31,
+        "w": 476,
+        "h": 394
+      },
+      "component_count": 24,
+      "background_holes": 1,
+      "background_hole_area": 1,
+      "largest_bg_hole": 1,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "transparent/chroma pinholes: holes=1 area=1 largest=1"
+      ]
+    },
+    {
+      "id": "set00-frame-14",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 14,
+      "cell_bounds": {
+        "x": 1032,
+        "y": 1524,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 0,
+        "y": 55,
+        "w": 476,
+        "h": 370
+      },
+      "component_count": 12,
+      "detached_components": 1,
+      "detached_area": 9,
+      "largest_detached": 9,
+      "background_holes": 6,
+      "background_hole_area": 11,
+      "largest_bg_hole": 3,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "disconnected alpha components: components=12 detached=1 detached_area=9 largest_detached=9",
+        "transparent/chroma pinholes: holes=6 area=11 largest=3"
+      ]
+    },
+    {
+      "id": "set00-frame-15",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-16-anchor-frame50-clean/flow-nanobanana-pro-2ref-output-02.png",
+      "cell": 15,
+      "cell_bounds": {
+        "x": 1524,
+        "y": 1524,
+        "w": 476,
+        "h": 476
+      },
+      "source_sha256": "c32b07389e066b01871304c34c389ab5df388ad96075281536cedf182a54f7b1",
+      "content": {
+        "x": 0,
+        "y": 32,
+        "w": 476,
+        "h": 393
+      },
+      "component_count": 15,
+      "detached_components": 1,
+      "detached_area": 6,
+      "largest_detached": 6,
+      "background_holes": 3,
+      "background_hole_area": 4,
+      "largest_bg_hole": 2,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "disconnected alpha components: components=15 detached=1 detached_area=6 largest_detached=6",
+        "transparent/chroma pinholes: holes=3 area=4 largest=2"
+      ]
+    }
+  ],
+  "errors": [
+    "set00-frame-00: alpha touches horizontal canvas edge; disconnected alpha components: components=15 detached=3 detached_area=162 largest_detached=142; transparent/chroma pinholes: holes=1 area=1 largest=1",
+    "set00-frame-01: alpha touches horizontal canvas edge; transparent/chroma pinholes: holes=6 area=7 largest=2",
+    "set00-frame-02: alpha touches horizontal canvas edge; transparent/chroma pinholes: holes=7 area=16 largest=9",
+    "set00-frame-03: alpha touches horizontal canvas edge; disconnected alpha components: components=12 detached=1 detached_area=5 largest_detached=5; transparent/chroma pinholes: holes=3 area=3 largest=1",
+    "set00-frame-04: alpha touches horizontal canvas edge; disconnected alpha components: components=23 detached=2 detached_area=276 largest_detached=234; transparent/chroma pinholes: holes=3 area=3 largest=1",
+    "set00-frame-05: alpha touches horizontal canvas edge; transparent/chroma pinholes: holes=2 area=3 largest=2",
+    "set00-frame-06: alpha touches horizontal canvas edge; disconnected alpha components: components=27 detached=1 detached_area=4 largest_detached=4; transparent/chroma pinholes: holes=3 area=5 largest=3",
+    "set00-frame-07: alpha touches horizontal canvas edge; transparent/chroma pinholes: holes=4 area=4 largest=1",
+    "set00-frame-08: alpha touches horizontal canvas edge; disconnected alpha components: components=14 detached=3 detached_area=219 largest_detached=196; transparent/chroma pinholes: holes=4 area=5 largest=2",
+    "set00-frame-09: alpha touches horizontal canvas edge; transparent/chroma pinholes: holes=4 area=314 largest=310",
+    "set00-frame-10: alpha touches horizontal canvas edge; alpha touches vertical canvas edge; disconnected alpha components: components=26 detached=3 detached_area=17 largest_detached=7; transparent/chroma pinholes: holes=10 area=12 largest=3",
+    "set00-frame-11: alpha touches horizontal canvas edge; disconnected alpha components: components=17 detached=1 detached_area=4 largest_detached=4; transparent/chroma pinholes: holes=2 area=2 largest=1",
+    "set00-frame-12: alpha touches horizontal canvas edge; disconnected alpha components: components=24 detached=1 detached_area=737 largest_detached=737; transparent/chroma pinholes: holes=4 area=5 largest=2",
+    "set00-frame-13: alpha touches horizontal canvas edge; transparent/chroma pinholes: holes=1 area=1 largest=1",
+    "set00-frame-14: alpha touches horizontal canvas edge; disconnected alpha components: components=12 detached=1 detached_area=9 largest_detached=9; transparent/chroma pinholes: holes=6 area=11 largest=3",
+    "set00-frame-15: alpha touches horizontal canvas edge; disconnected alpha components: components=15 detached=1 detached_area=6 largest_detached=6; transparent/chroma pinholes: holes=3 area=4 largest=2"
+  ]
+}

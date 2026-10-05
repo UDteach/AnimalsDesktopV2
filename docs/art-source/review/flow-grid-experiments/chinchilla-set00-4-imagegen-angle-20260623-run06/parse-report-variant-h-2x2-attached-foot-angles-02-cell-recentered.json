@@ -1,0 +1,123 @@
+{
+  "manifest": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-02-cell-recentered-batch.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/parsed-variant-h-2x2-attached-foot-angles-02-cell-recentered",
+  "cell_width": 512,
+  "cell_height": 512,
+  "columns": 2,
+  "rows": 2,
+  "pitch_x": 512,
+  "pitch_y": 512,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 4,
+  "parsed": 3,
+  "rejected": 1,
+  "sources": [
+    {
+      "path": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-02-cell-recentered-1024x1024.png",
+      "sha256": "75e8c42ad8de5c0090ea9f587bb4f4b8fcb031c6ab094e711a63db456f3bfb84",
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-02-cell-recentered-1024x1024.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 512
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/parsed-variant-h-2x2-attached-foot-angles-02-cell-recentered/frame-00.png",
+      "source_sha256": "75e8c42ad8de5c0090ea9f587bb4f4b8fcb031c6ab094e711a63db456f3bfb84",
+      "output_sha256": "898c6d049f534acdbcc4ad9b74b011255e2038420ed50ad01fe1f84de8390060",
+      "content": {
+        "x": 13,
+        "y": 110,
+        "w": 486,
+        "h": 292
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-02-cell-recentered-1024x1024.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 512,
+        "y": 0,
+        "w": 512,
+        "h": 512
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/parsed-variant-h-2x2-attached-foot-angles-02-cell-recentered/frame-01.png",
+      "source_sha256": "75e8c42ad8de5c0090ea9f587bb4f4b8fcb031c6ab094e711a63db456f3bfb84",
+      "output_sha256": "a5fcbe25dd15fc255865d5040f92f7fc716b1ea3792dc942de55633fa41e8b24",
+      "content": {
+        "x": 4,
+        "y": 111,
+        "w": 504,
+        "h": 289
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-02-cell-recentered-1024x1024.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 0,
+        "y": 512,
+        "w": 512,
+        "h": 512
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/parsed-variant-h-2x2-attached-foot-angles-02-cell-recentered/frame-02.png",
+      "source_sha256": "75e8c42ad8de5c0090ea9f587bb4f4b8fcb031c6ab094e711a63db456f3bfb84",
+      "output_sha256": "26625ca6a65981114844593f5adc5015de7c948e5be8962927e19550cc12405d",
+      "content": {
+        "x": 10,
+        "y": 111,
+        "w": 491,
+        "h": 290
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-02-cell-recentered-1024x1024.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 512,
+        "y": 512,
+        "w": 512,
+        "h": 512
+      },
+      "source_sha256": "75e8c42ad8de5c0090ea9f587bb4f4b8fcb031c6ab094e711a63db456f3bfb84",
+      "content": {
+        "x": 16,
+        "y": 111,
+        "w": 480,
+        "h": 289
+      },
+      "component_count": 1,
+      "background_holes": 1,
+      "background_hole_area": 1,
+      "largest_bg_hole": 1,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=1 area=1 largest=1"
+      ]
+    }
+  ],
+  "errors": [
+    "set00-frame-03: transparent/chroma pinholes: holes=1 area=1 largest=1"
+  ]
+}

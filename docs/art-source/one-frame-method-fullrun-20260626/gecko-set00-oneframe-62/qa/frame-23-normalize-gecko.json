@@ -1,0 +1,43 @@
+{
+  "source": "docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/raw/frame-23-attempt-01-raw.png",
+  "alpha": "docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/alpha/frame-23-attempt-01-alpha.png",
+  "output": "docs/art-source/one-frame-method-fullrun-20260626/gecko-set00-oneframe-62/frames/frame-23.png",
+  "method": "chroma-green largest-component internal-hole-fill fit-96x64",
+  "source_size": [
+    1536,
+    1024
+  ],
+  "component_stats": {
+    "component_count": 1,
+    "kept_area": 135311,
+    "removed_area": 0
+  },
+  "hole_stats": {
+    "holes_filled": 1,
+    "hole_area": 6,
+    "largest_hole": 6
+  },
+  "fit": {
+    "source_content": [
+      179,
+      369,
+      1141,
+      307
+    ],
+    "output_content": [
+      4,
+      34,
+      92,
+      58
+    ],
+    "scale": 0.07712532865907099,
+    "placed_at": [
+      4,
+      34
+    ],
+    "output_size": [
+      96,
+      64
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "source_bbox": [
+    310,
+    348,
+    1193,
+    707
+  ],
+  "normalized_size": [
+    86,
+    35
+  ],
+  "frame_bbox": [
+    5,
+    24,
+    90,
+    59
+  ],
+  "nonzero_alpha": 1801,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "canvas_size": [
+    96,
+    64
+  ],
+  "family": "macaroni_mouse_tan",
+  "frame": "60",
+  "pose": "return-to-idle transition; feet align to baseline",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc43-f614-78a3-8f80-c0295aae9fbc/ig_0f270876ec10befc016a3c7cdb2b8081919dc8d8d5879b71cf.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/raw/frame-60-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/alpha/frame-60-attempt-01-alpha.png",
+  "frame_attempt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/frames/frame-60-attempt-01.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/frames/frame-60.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/contacts/frame-60-attempt-01-contact.png",
+  "prompt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/prompts/frame-60-attempt-01-prompt.txt",
+  "decision": "accepted",
+  "notes": "mechanical pass; visual species/pose reviewed via contact sheet"
+}

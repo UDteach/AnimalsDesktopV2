@@ -1,0 +1,44 @@
+{
+  "source_size": [
+    1254,
+    1254
+  ],
+  "source_bbox": [
+    244,
+    331,
+    1074,
+    911
+  ],
+  "padded_bbox": [
+    232,
+    319,
+    1086,
+    923
+  ],
+  "normalized_size": [
+    71,
+    50
+  ],
+  "frame_bbox": [
+    12,
+    8,
+    83,
+    58
+  ],
+  "nonzero_alpha": 2488,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "hamster_golden_syrian",
+  "frame": 61,
+  "group": "reaction",
+  "pose": "calm return after reaction, facing right",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc36-f49e-7400-a241-c813be169de6/ig_046e030a7b589de6016a3c853de4d481918f0e2fdeb55f51da.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/raw/frame-61-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/alpha/frame-61-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-61.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-61-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/contacts/frame-61-attempt-01-contact.png",
+  "decision": "candidate",
+  "notes": "prompt:prompts/frame-61-attempt-01-prompt.txt"
+}

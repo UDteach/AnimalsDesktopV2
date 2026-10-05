@@ -1,0 +1,397 @@
+[
+  {
+    "id": "chinchilla_standard_gray",
+    "method": "Least-squares backward sweep of the leading edge of the rightmost >=3px solid forepaw component within a continuous stance interval; bottom 3 source rows, alpha>=180, preserved presentation scale. Pixel quantization and paw roll limit precision.",
+    "points": [
+      {
+        "frame": 0,
+        "seconds": 0.0,
+        "sourceToeX": 110
+      },
+      {
+        "frame": 1,
+        "seconds": 0.042,
+        "sourceToeX": 109
+      },
+      {
+        "frame": 2,
+        "seconds": 0.083,
+        "sourceToeX": 109
+      },
+      {
+        "frame": 3,
+        "seconds": 0.125,
+        "sourceToeX": 108
+      },
+      {
+        "frame": 4,
+        "seconds": 0.167,
+        "sourceToeX": 108
+      },
+      {
+        "frame": 5,
+        "seconds": 0.208,
+        "sourceToeX": 107
+      },
+      {
+        "frame": 6,
+        "seconds": 0.25,
+        "sourceToeX": 106
+      },
+      {
+        "frame": 7,
+        "seconds": 0.292,
+        "sourceToeX": 105
+      },
+      {
+        "frame": 8,
+        "seconds": 0.333,
+        "sourceToeX": 105
+      },
+      {
+        "frame": 9,
+        "seconds": 0.375,
+        "sourceToeX": 104
+      },
+      {
+        "frame": 10,
+        "seconds": 0.417,
+        "sourceToeX": 103
+      },
+      {
+        "frame": 11,
+        "seconds": 0.458,
+        "sourceToeX": 102
+      },
+      {
+        "frame": 12,
+        "seconds": 0.5,
+        "sourceToeX": 101
+      },
+      {
+        "frame": 13,
+        "seconds": 0.542,
+        "sourceToeX": 100
+      },
+      {
+        "frame": 14,
+        "seconds": 0.583,
+        "sourceToeX": 99
+      }
+    ],
+    "previousSpeedAt96": 24.0,
+    "measuredSpeedAt96": 18.291,
+    "stride": 0.238162,
+    "meanAbsoluteWorldToeDriftPixels": 0.351
+  },
+  {
+    "id": "chinchilla_beige",
+    "method": "Least-squares backward sweep of the leading edge of the rightmost >=3px solid forepaw component within a continuous stance interval; bottom 3 source rows, alpha>=180, preserved presentation scale. Pixel quantization and paw roll limit precision.",
+    "points": [
+      {
+        "frame": 3,
+        "seconds": 0.333,
+        "sourceToeX": 107
+      },
+      {
+        "frame": 4,
+        "seconds": 0.458,
+        "sourceToeX": 106
+      },
+      {
+        "frame": 5,
+        "seconds": 0.542,
+        "sourceToeX": 102
+      },
+      {
+        "frame": 6,
+        "seconds": 0.667,
+        "sourceToeX": 99
+      },
+      {
+        "frame": 7,
+        "seconds": 0.792,
+        "sourceToeX": 95
+      }
+    ],
+    "previousSpeedAt96": 24.000000000000004,
+    "measuredSpeedAt96": 29.047,
+    "stride": 0.277461,
+    "meanAbsoluteWorldToeDriftPixels": 0.69
+  },
+  {
+    "id": "chinchilla_ebony",
+    "method": "Least-squares backward sweep of the leading edge of the rightmost >=3px solid forepaw component within a continuous stance interval; bottom 3 source rows, alpha>=180, preserved presentation scale. Pixel quantization and paw roll limit precision.",
+    "points": [
+      {
+        "frame": 3,
+        "seconds": 0.333,
+        "sourceToeX": 107
+      },
+      {
+        "frame": 4,
+        "seconds": 0.458,
+        "sourceToeX": 102
+      },
+      {
+        "frame": 5,
+        "seconds": 0.542,
+        "sourceToeX": 103
+      },
+      {
+        "frame": 6,
+        "seconds": 0.667,
+        "sourceToeX": 97
+      },
+      {
+        "frame": 7,
+        "seconds": 0.792,
+        "sourceToeX": 95
+      }
+    ],
+    "previousSpeedAt96": 24.000000000000004,
+    "measuredSpeedAt96": 29.192,
+    "stride": 0.278842,
+    "meanAbsoluteWorldToeDriftPixels": 1.07
+  },
+  {
+    "id": "hamster_golden_syrian",
+    "method": "Least-squares backward sweep of the leading edge of the rightmost >=3px solid forepaw component within a continuous stance interval; bottom 3 source rows, alpha>=180, preserved presentation scale. Pixel quantization and paw roll limit precision.",
+    "points": [
+      {
+        "frame": 0,
+        "seconds": 0.0,
+        "sourceToeX": 98
+      },
+      {
+        "frame": 1,
+        "seconds": 0.042,
+        "sourceToeX": 97
+      },
+      {
+        "frame": 2,
+        "seconds": 0.083,
+        "sourceToeX": 95
+      },
+      {
+        "frame": 3,
+        "seconds": 0.125,
+        "sourceToeX": 94
+      },
+      {
+        "frame": 4,
+        "seconds": 0.167,
+        "sourceToeX": 92
+      },
+      {
+        "frame": 5,
+        "seconds": 0.208,
+        "sourceToeX": 91
+      },
+      {
+        "frame": 6,
+        "seconds": 0.25,
+        "sourceToeX": 89
+      },
+      {
+        "frame": 7,
+        "seconds": 0.292,
+        "sourceToeX": 88
+      },
+      {
+        "frame": 8,
+        "seconds": 0.333,
+        "sourceToeX": 87
+      },
+      {
+        "frame": 9,
+        "seconds": 0.375,
+        "sourceToeX": 85
+      },
+      {
+        "frame": 10,
+        "seconds": 0.417,
+        "sourceToeX": 84
+      },
+      {
+        "frame": 11,
+        "seconds": 0.458,
+        "sourceToeX": 82
+      }
+    ],
+    "previousSpeedAt96": 36.0,
+    "measuredSpeedAt96": 34.548,
+    "stride": 0.449839,
+    "meanAbsoluteWorldToeDriftPixels": 0.242
+  },
+  {
+    "id": "macaroni_mouse_tan",
+    "method": "Least-squares backward sweep of the leading edge of the rightmost >=3px solid forepaw component within a continuous stance interval; bottom 3 source rows, alpha>=180, preserved presentation scale. Pixel quantization and paw roll limit precision.",
+    "points": [
+      {
+        "frame": 0,
+        "seconds": 0.0,
+        "sourceToeX": 103
+      },
+      {
+        "frame": 1,
+        "seconds": 0.042,
+        "sourceToeX": 102
+      },
+      {
+        "frame": 2,
+        "seconds": 0.083,
+        "sourceToeX": 101
+      },
+      {
+        "frame": 3,
+        "seconds": 0.125,
+        "sourceToeX": 100
+      },
+      {
+        "frame": 4,
+        "seconds": 0.167,
+        "sourceToeX": 99
+      },
+      {
+        "frame": 5,
+        "seconds": 0.208,
+        "sourceToeX": 98
+      },
+      {
+        "frame": 6,
+        "seconds": 0.25,
+        "sourceToeX": 97
+      },
+      {
+        "frame": 7,
+        "seconds": 0.292,
+        "sourceToeX": 96
+      }
+    ],
+    "previousSpeedAt96": 36.0,
+    "measuredSpeedAt96": 25.67,
+    "stride": 0.33425,
+    "meanAbsoluteWorldToeDriftPixels": 0.006
+  },
+  {
+    "id": "chipmunk_striped",
+    "method": "Least-squares backward sweep of the leading edge of the rightmost >=3px solid forepaw component within a continuous stance interval; bottom 3 source rows, alpha>=180, preserved presentation scale. Pixel quantization and paw roll limit precision.",
+    "points": [
+      {
+        "frame": 0,
+        "seconds": 0.0,
+        "sourceToeX": 113
+      },
+      {
+        "frame": 1,
+        "seconds": 0.042,
+        "sourceToeX": 112
+      },
+      {
+        "frame": 2,
+        "seconds": 0.083,
+        "sourceToeX": 111
+      },
+      {
+        "frame": 3,
+        "seconds": 0.125,
+        "sourceToeX": 110
+      },
+      {
+        "frame": 4,
+        "seconds": 0.167,
+        "sourceToeX": 109
+      },
+      {
+        "frame": 5,
+        "seconds": 0.208,
+        "sourceToeX": 108
+      },
+      {
+        "frame": 6,
+        "seconds": 0.25,
+        "sourceToeX": 107
+      },
+      {
+        "frame": 7,
+        "seconds": 0.292,
+        "sourceToeX": 106
+      }
+    ],
+    "previousSpeedAt96": 33.0,
+    "measuredSpeedAt96": 23.269,
+    "stride": 0.302988,
+    "meanAbsoluteWorldToeDriftPixels": 0.005
+  },
+  {
+    "id": "ferret_sable",
+    "method": "Least-squares backward sweep of the leading edge of the rightmost >=3px solid forepaw component within a continuous stance interval; bottom 3 source rows, alpha>=180, preserved presentation scale. Pixel quantization and paw roll limit precision.",
+    "points": [
+      {
+        "frame": 0,
+        "seconds": 0.0,
+        "sourceToeX": 110
+      },
+      {
+        "frame": 1,
+        "seconds": 0.042,
+        "sourceToeX": 109
+      },
+      {
+        "frame": 2,
+        "seconds": 0.083,
+        "sourceToeX": 108
+      },
+      {
+        "frame": 3,
+        "seconds": 0.125,
+        "sourceToeX": 107
+      },
+      {
+        "frame": 4,
+        "seconds": 0.167,
+        "sourceToeX": 106
+      },
+      {
+        "frame": 5,
+        "seconds": 0.208,
+        "sourceToeX": 105
+      },
+      {
+        "frame": 6,
+        "seconds": 0.25,
+        "sourceToeX": 104
+      },
+      {
+        "frame": 7,
+        "seconds": 0.292,
+        "sourceToeX": 103
+      },
+      {
+        "frame": 8,
+        "seconds": 0.333,
+        "sourceToeX": 103
+      },
+      {
+        "frame": 9,
+        "seconds": 0.375,
+        "sourceToeX": 102
+      },
+      {
+        "frame": 10,
+        "seconds": 0.417,
+        "sourceToeX": 101
+      },
+      {
+        "frame": 11,
+        "seconds": 0.458,
+        "sourceToeX": 100
+      }
+    ],
+    "previousSpeedAt96": 33.0,
+    "measuredSpeedAt96": 20.803,
+    "stride": 0.270876,
+    "meanAbsoluteWorldToeDriftPixels": 0.224
+  }
+]

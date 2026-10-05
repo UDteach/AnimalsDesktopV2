@@ -1,0 +1,72 @@
+{
+  "target_frames": [
+    56,
+    57,
+    58,
+    59
+  ],
+  "target_mean_rgb": [
+    157.17046696860845,
+    134.75636420427924,
+    119.41339996876464
+  ],
+  "target_std_rgb": [
+    50.556971911617914,
+    49.97707858546073,
+    52.83368988113275
+  ],
+  "fixed_frames": [
+    {
+      "frame": 60,
+      "before_mean_rgb": [
+        179.81167979002623,
+        136.30708661417322,
+        114.39009186351706
+      ],
+      "before_std_rgb": [
+        54.682818760624535,
+        52.81505267392529,
+        51.8433149133605
+      ],
+      "after_mean_rgb": [
+        159.91601049868765,
+        134.9481627296588,
+        118.81988188976378
+      ],
+      "after_std_rgb": [
+        50.99606637045788,
+        50.300735912914796,
+        52.708267929162496
+      ],
+      "backup": "docs/art-source/one-frame-method-fullrun-20260626/campbell-hamster-set00-oneframe-62/qa/color-correction-20260626/frame-60-before.png",
+      "after_copy": "docs/art-source/one-frame-method-fullrun-20260626/campbell-hamster-set00-oneframe-62/qa/color-correction-20260626/frame-60-after.png",
+      "method": "visible-pixel RGB mean/std transfer from frames 56-59, blend=0.88"
+    },
+    {
+      "frame": 61,
+      "before_mean_rgb": [
+        178.62924757281553,
+        141.76122572815535,
+        121.33313106796116
+      ],
+      "before_std_rgb": [
+        55.93130118602965,
+        54.50577250728124,
+        56.4464165644762
+      ],
+      "after_mean_rgb": [
+        159.78276699029126,
+        135.59344660194174,
+        119.63865291262135
+      ],
+      "after_std_rgb": [
+        51.13422623760012,
+        50.53799549751062,
+        53.2707649301422
+      ],
+      "backup": "docs/art-source/one-frame-method-fullrun-20260626/campbell-hamster-set00-oneframe-62/qa/color-correction-20260626/frame-61-before.png",
+      "after_copy": "docs/art-source/one-frame-method-fullrun-20260626/campbell-hamster-set00-oneframe-62/qa/color-correction-20260626/frame-61-after.png",
+      "method": "visible-pixel RGB mean/std transfer from frames 56-59, blend=0.88"
+    }
+  ]
+}

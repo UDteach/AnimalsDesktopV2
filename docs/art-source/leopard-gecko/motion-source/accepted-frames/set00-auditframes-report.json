@@ -1,0 +1,993 @@
+{
+  "frames_dir": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00",
+  "pattern": "frame-%02d.png",
+  "strict": true,
+  "frame_width": 96,
+  "frame_height": 64,
+  "set_count": 1,
+  "frame_count": 62,
+  "valid": 62,
+  "missing": 0,
+  "invalid": 0,
+  "warnings": 15,
+  "sets": [
+    {
+      "set": "set00",
+      "dir": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00",
+      "valid": 62,
+      "missing": 0,
+      "invalid": 0,
+      "warnings": 15,
+      "frames": [
+        {
+          "frame": 0,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-00.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 39,
+            "w": 84,
+            "h": 19
+          },
+          "body": {
+            "alpha_pixels": 1014,
+            "fill_per_mille": 635
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 36 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 1,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-01.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 40,
+            "w": 84,
+            "h": 18
+          },
+          "body": {
+            "alpha_pixels": 937,
+            "fill_per_mille": 619
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 2,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-02.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 41,
+            "w": 84,
+            "h": 17
+          },
+          "body": {
+            "alpha_pixels": 929,
+            "fill_per_mille": 650
+          }
+        },
+        {
+          "frame": 3,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-03.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 861,
+            "fill_per_mille": 640
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 33 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 4,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-04.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 915,
+            "fill_per_mille": 680
+          }
+        },
+        {
+          "frame": 5,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-05.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 41,
+            "w": 84,
+            "h": 17
+          },
+          "body": {
+            "alpha_pixels": 907,
+            "fill_per_mille": 635
+          }
+        },
+        {
+          "frame": 6,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-06.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 43,
+            "w": 84,
+            "h": 15
+          },
+          "body": {
+            "alpha_pixels": 850,
+            "fill_per_mille": 674
+          }
+        },
+        {
+          "frame": 7,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-07.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 43,
+            "w": 84,
+            "h": 15
+          },
+          "body": {
+            "alpha_pixels": 841,
+            "fill_per_mille": 667
+          }
+        },
+        {
+          "frame": 8,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-08.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 847,
+            "fill_per_mille": 630
+          }
+        },
+        {
+          "frame": 9,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-09.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 858,
+            "fill_per_mille": 638
+          }
+        },
+        {
+          "frame": 10,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-10.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 847,
+            "fill_per_mille": 630
+          }
+        },
+        {
+          "frame": 11,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-11.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 841,
+            "fill_per_mille": 625
+          }
+        },
+        {
+          "frame": 12,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-12.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 837,
+            "fill_per_mille": 622
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 13,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-13.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 43,
+            "w": 84,
+            "h": 15
+          },
+          "body": {
+            "alpha_pixels": 807,
+            "fill_per_mille": 640
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 14,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-14.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 43,
+            "w": 84,
+            "h": 15
+          },
+          "body": {
+            "alpha_pixels": 815,
+            "fill_per_mille": 646
+          }
+        },
+        {
+          "frame": 15,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-15.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 43,
+            "w": 84,
+            "h": 15
+          },
+          "body": {
+            "alpha_pixels": 813,
+            "fill_per_mille": 645
+          }
+        },
+        {
+          "frame": 16,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-16.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 43,
+            "w": 84,
+            "h": 15
+          },
+          "body": {
+            "alpha_pixels": 800,
+            "fill_per_mille": 634
+          }
+        },
+        {
+          "frame": 17,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-17.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 874,
+            "fill_per_mille": 650
+          }
+        },
+        {
+          "frame": 18,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-18.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 44,
+            "w": 84,
+            "h": 14
+          },
+          "body": {
+            "alpha_pixels": 791,
+            "fill_per_mille": 672
+          }
+        },
+        {
+          "frame": 19,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-19.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 43,
+            "w": 84,
+            "h": 15
+          },
+          "body": {
+            "alpha_pixels": 824,
+            "fill_per_mille": 653
+          }
+        },
+        {
+          "frame": 20,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-20.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 41,
+            "w": 84,
+            "h": 17
+          },
+          "body": {
+            "alpha_pixels": 848,
+            "fill_per_mille": 593
+          }
+        },
+        {
+          "frame": 21,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-21.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 41,
+            "w": 84,
+            "h": 17
+          },
+          "body": {
+            "alpha_pixels": 854,
+            "fill_per_mille": 598
+          }
+        },
+        {
+          "frame": 22,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-22.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 40,
+            "w": 84,
+            "h": 18
+          },
+          "body": {
+            "alpha_pixels": 878,
+            "fill_per_mille": 580
+          }
+        },
+        {
+          "frame": 23,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-23.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 43,
+            "w": 84,
+            "h": 15
+          },
+          "body": {
+            "alpha_pixels": 803,
+            "fill_per_mille": 637
+          }
+        },
+        {
+          "frame": 24,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-24.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 39,
+            "w": 84,
+            "h": 19
+          },
+          "body": {
+            "alpha_pixels": 840,
+            "fill_per_mille": 526
+          }
+        },
+        {
+          "frame": 25,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-25.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 43,
+            "w": 84,
+            "h": 15
+          },
+          "body": {
+            "alpha_pixels": 818,
+            "fill_per_mille": 649
+          }
+        },
+        {
+          "frame": 26,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-26.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 41,
+            "w": 84,
+            "h": 17
+          },
+          "body": {
+            "alpha_pixels": 842,
+            "fill_per_mille": 589
+          }
+        },
+        {
+          "frame": 27,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-27.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 41,
+            "w": 84,
+            "h": 17
+          },
+          "body": {
+            "alpha_pixels": 872,
+            "fill_per_mille": 610
+          }
+        },
+        {
+          "frame": 28,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-28.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 44,
+            "w": 84,
+            "h": 14
+          },
+          "body": {
+            "alpha_pixels": 749,
+            "fill_per_mille": 636
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 29,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-29.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 39,
+            "w": 84,
+            "h": 19
+          },
+          "body": {
+            "alpha_pixels": 949,
+            "fill_per_mille": 594
+          }
+        },
+        {
+          "frame": 30,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-30.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 41,
+            "w": 84,
+            "h": 17
+          },
+          "body": {
+            "alpha_pixels": 850,
+            "fill_per_mille": 595
+          }
+        },
+        {
+          "frame": 31,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-31.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 827,
+            "fill_per_mille": 615
+          }
+        },
+        {
+          "frame": 32,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-32.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 35,
+            "w": 84,
+            "h": 23
+          },
+          "body": {
+            "alpha_pixels": 1169,
+            "fill_per_mille": 605
+          }
+        },
+        {
+          "frame": 33,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-33.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 28,
+            "w": 66,
+            "h": 30
+          },
+          "body": {
+            "alpha_pixels": 1207,
+            "fill_per_mille": 609
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 34,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-34.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 28,
+            "w": 63,
+            "h": 30
+          },
+          "body": {
+            "alpha_pixels": 925,
+            "fill_per_mille": 489
+          }
+        },
+        {
+          "frame": 35,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-35.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 29,
+            "w": 70,
+            "h": 29
+          },
+          "body": {
+            "alpha_pixels": 1221,
+            "fill_per_mille": 601
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 28 at y=55 near lower content",
+            "transparent pinholes: holes=1 area=1 largest=1",
+            "motion consistency: isolated body alpha area outlier at frame 35 (1221 vs neighbor avg 866)"
+          ]
+        },
+        {
+          "frame": 36,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-36.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 43,
+            "w": 84,
+            "h": 15
+          },
+          "body": {
+            "alpha_pixels": 806,
+            "fill_per_mille": 639
+          },
+          "warnings": [
+            "motion consistency: bbox height jumps from previous frame 35 to 36 (29 -\u003e 15)",
+            "motion consistency: body alpha area jumps from previous frame 35 to 36 (1221 -\u003e 806)"
+          ]
+        },
+        {
+          "frame": 37,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-37.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 41,
+            "w": 84,
+            "h": 17
+          },
+          "body": {
+            "alpha_pixels": 919,
+            "fill_per_mille": 643
+          }
+        },
+        {
+          "frame": 38,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-38.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 38,
+            "w": 84,
+            "h": 20
+          },
+          "body": {
+            "alpha_pixels": 1008,
+            "fill_per_mille": 600
+          }
+        },
+        {
+          "frame": 39,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-39.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 839,
+            "fill_per_mille": 624
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 40,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-40.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 41,
+            "w": 84,
+            "h": 17
+          },
+          "body": {
+            "alpha_pixels": 864,
+            "fill_per_mille": 605
+          }
+        },
+        {
+          "frame": 41,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-41.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 43,
+            "w": 84,
+            "h": 15
+          },
+          "body": {
+            "alpha_pixels": 801,
+            "fill_per_mille": 635
+          }
+        },
+        {
+          "frame": 42,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-42.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 40,
+            "w": 84,
+            "h": 18
+          },
+          "body": {
+            "alpha_pixels": 874,
+            "fill_per_mille": 578
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 43,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-43.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 40,
+            "w": 84,
+            "h": 18
+          },
+          "body": {
+            "alpha_pixels": 872,
+            "fill_per_mille": 576
+          }
+        },
+        {
+          "frame": 44,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-44.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 39,
+            "w": 84,
+            "h": 19
+          },
+          "body": {
+            "alpha_pixels": 900,
+            "fill_per_mille": 563
+          }
+        },
+        {
+          "frame": 45,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-45.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 40,
+            "w": 84,
+            "h": 18
+          },
+          "body": {
+            "alpha_pixels": 871,
+            "fill_per_mille": 576
+          }
+        },
+        {
+          "frame": 46,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-46.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 43,
+            "w": 84,
+            "h": 15
+          },
+          "body": {
+            "alpha_pixels": 805,
+            "fill_per_mille": 638
+          }
+        },
+        {
+          "frame": 47,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-47.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 832,
+            "fill_per_mille": 619
+          }
+        },
+        {
+          "frame": 48,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-48.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 40,
+            "w": 84,
+            "h": 18
+          },
+          "body": {
+            "alpha_pixels": 841,
+            "fill_per_mille": 556
+          }
+        },
+        {
+          "frame": 49,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-49.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 38,
+            "w": 84,
+            "h": 20
+          },
+          "body": {
+            "alpha_pixels": 857,
+            "fill_per_mille": 510
+          }
+        },
+        {
+          "frame": 50,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-50.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 41,
+            "w": 84,
+            "h": 17
+          },
+          "body": {
+            "alpha_pixels": 848,
+            "fill_per_mille": 593
+          }
+        },
+        {
+          "frame": 51,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-51.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 837,
+            "fill_per_mille": 622
+          }
+        },
+        {
+          "frame": 52,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-52.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 43,
+            "w": 84,
+            "h": 15
+          },
+          "body": {
+            "alpha_pixels": 816,
+            "fill_per_mille": 647
+          }
+        },
+        {
+          "frame": 53,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-53.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 860,
+            "fill_per_mille": 639
+          }
+        },
+        {
+          "frame": 54,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-54.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 854,
+            "fill_per_mille": 635
+          }
+        },
+        {
+          "frame": 55,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-55.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 41,
+            "w": 84,
+            "h": 17
+          },
+          "body": {
+            "alpha_pixels": 875,
+            "fill_per_mille": 612
+          }
+        },
+        {
+          "frame": 56,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-56.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 37,
+            "w": 84,
+            "h": 21
+          },
+          "body": {
+            "alpha_pixels": 845,
+            "fill_per_mille": 479
+          }
+        },
+        {
+          "frame": 57,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-57.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 847,
+            "fill_per_mille": 630
+          }
+        },
+        {
+          "frame": 58,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-58.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 41,
+            "w": 84,
+            "h": 17
+          },
+          "body": {
+            "alpha_pixels": 845,
+            "fill_per_mille": 591
+          }
+        },
+        {
+          "frame": 59,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-59.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 828,
+            "fill_per_mille": 616
+          }
+        },
+        {
+          "frame": 60,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-60.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 810,
+            "fill_per_mille": 602
+          }
+        },
+        {
+          "frame": 61,
+          "path": "docs/art-source/leopard-gecko/motion-source/accepted-frames/set00/frame-61.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 42,
+            "w": 84,
+            "h": 16
+          },
+          "body": {
+            "alpha_pixels": 818,
+            "fill_per_mille": 608
+          }
+        }
+      ],
+      "completed": true
+    }
+  ]
+}

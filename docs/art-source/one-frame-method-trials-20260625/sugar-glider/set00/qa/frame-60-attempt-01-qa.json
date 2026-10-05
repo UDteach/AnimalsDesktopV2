@@ -1,0 +1,32 @@
+{
+  "source_bbox": [
+    399,
+    196,
+    1145,
+    841
+  ],
+  "normalized_size": [
+    62,
+    54
+  ],
+  "frame_bbox": [
+    17,
+    5,
+    79,
+    59
+  ],
+  "nonzero_alpha": 2069,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "sugar_glider",
+  "frame": 60,
+  "pose": "front-membrane-spread-reaction",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efb9a-b711-77f2-b098-5dce8ddc678d/ig_062d849a42924ed2016a3c66c18d188191bae0c3601c4ca38e.png",
+  "raw_path": "docs/art-source/one-frame-method-trials-20260625/sugar-glider/set00/raw/frame-60-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-trials-20260625/sugar-glider/set00/alpha/frame-60-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-trials-20260625/sugar-glider/set00/frames/frame-60-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-trials-20260625/sugar-glider/set00/contacts/frame-60-attempt-01-contact.png",
+  "decision": "pilot-pass-mechanical",
+  "notes": "single-frame pilot; membrane complete and pose readable; detail level higher than sheet baseline"
+}

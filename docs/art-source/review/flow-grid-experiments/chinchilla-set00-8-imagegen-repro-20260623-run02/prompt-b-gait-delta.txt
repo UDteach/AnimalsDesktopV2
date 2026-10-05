@@ -1,0 +1,40 @@
+Create one 2048x1024 image as a review-only 8-frame sprite sheet for later fixed-cell extraction.
+
+Canvas and layout:
+- Exact canvas: 2048x1024.
+- Use an invisible 2 rows x 4 columns layout.
+- Each invisible cell is exactly 512x512 pixels.
+- Place exactly one complete right-facing standard gray chinchilla in each cell.
+- Keep every chinchilla centered inside its own cell with the same scale and same contact baseline.
+- No visible grid lines, no labels, no numbers, no text.
+
+Background and extraction:
+- The entire background must be a flat, solid, pure chroma green color: #00ff00.
+- No gradients, no texture, no shadow, no floor, no scenery.
+- No white fringe, no green holes inside the animal, no detached specks, no loose pixels or debris.
+
+Animal style:
+- Clean small 2D game sprite style, not pixel art.
+- Flat cel-shaded, simple, compact, cute desktop mascot sprite.
+- Avoid realistic fur, avoid painterly texture, avoid detailed hair strands.
+- Standard gray chinchilla: medium neutral gray coat, cream belly, rounded ears, compact body, curled bushy tail, small separated feet.
+- Clean black eye, small muzzle, closed mouth, short simple whiskers.
+- Keep the exact same character identity, face, head size, ear size, body size, tail size, color palette, and camera distance in all 8 frames.
+
+Animation requirement:
+- Make the 8 frames a clearly readable right-facing walk cycle.
+- Vary only the walking pose: front foot, rear foot, tucked forepaw position, body bob, and tail counter-balance.
+- Frame 1: neutral standing contact pose.
+- Frame 2: front foot slightly forward, rear foot slightly back, body a little lower.
+- Frame 3: passing pose, feet closer under body, body slightly raised.
+- Frame 4: opposite step, front foot slightly back, rear foot slightly forward.
+- Frame 5: neutral contact pose similar to frame 1 but not identical.
+- Frame 6: stronger forward step with small body dip.
+- Frame 7: passing pose with body slightly raised.
+- Frame 8: recovery pose leading naturally back to frame 1.
+- The gait differences must be visible at small size, but the chinchilla must remain the same animal.
+
+Hard constraints:
+- No extra animals, no duplicated body parts, no cropped animal, no missing tail, no detached ears, no separate limbs.
+- No exaggerated jumping, no running, no sitting, no grooming.
+- Every cell must contain exactly one complete chinchilla on pure #00ff00.

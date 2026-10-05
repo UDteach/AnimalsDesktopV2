@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="K / 個人開発の作品置き場です。" />
+    <title>K / 個人開発</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family:
+          "Segoe UI",
+          system-ui,
+          -apple-system,
+          sans-serif;
+        color: #151c18;
+        background: #f7f7f2;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+      }
+
+      main {
+        max-width: 1040px;
+        margin: 0 auto;
+        padding: 42px 24px 70px;
+      }
+
+      a {
+        color: #245d47;
+      }
+
+      nav {
+        display: flex;
+        justify-content: space-between;
+        gap: 14px;
+        margin-bottom: 54px;
+        color: #5a625b;
+      }
+
+      nav div {
+        display: flex;
+        gap: 14px;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: clamp(2.5rem, 6vw, 5.1rem);
+        line-height: 1;
+        letter-spacing: 0;
+      }
+
+      h2 {
+        margin: 46px 0 14px;
+        font-size: 1.2rem;
+      }
+
+      p {
+        max-width: 720px;
+        line-height: 1.7;
+      }
+
+      .lead {
+        font-size: 1.08rem;
+      }
+
+      .works {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 16px;
+      }
+
+      article {
+        border: 1px solid #d7ddd3;
+        border-radius: 8px;
+        padding: 18px;
+        background: #fff;
+      }
+
+      article h3 {
+        margin: 0 0 8px;
+        font-size: 1.05rem;
+      }
+
+      .links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 14px;
+      }
+
+      .links a {
+        border: 1px solid #aab6a5;
+        border-radius: 6px;
+        padding: 8px 10px;
+        text-decoration: none;
+        font-weight: 700;
+      }
+
+      .status {
+        display: inline-block;
+        margin-bottom: 10px;
+        color: #5b665d;
+        font-size: 0.9rem;
+      }
+
+      @media (max-width: 620px) {
+        main {
+          padding: 30px 18px 54px;
+        }
+
+        nav {
+          flex-direction: column;
+          margin-bottom: 38px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <nav aria-label="ページ内リンク">
+        <strong>K / 個人開発</strong>
+        <div>
+          <a href="#works">MY WORKS</a>
+          <a href="#about">ABOUT</a>
+        </div>
+      </nav>
+
+      <h1>K / 個人開発</h1>
+      <p class="lead">
+        Web、ゲーム、Windowsアプリと、小さき家族たちの作品置き場です。
+        現在はDeguDesktopから広げたAnimalsDesktopを重点的に育てています。
+      </p>
+
+      <section id="works">
+        <h2>MY WORKS</h2>
+        <div class="works">
+          <article>
+            <span class="status">Windows desktop pet / active</span>
+            <h3>Animals Desktop</h3>
+            <p>
+              タスクバー上を100種類の動物バリアントが歩き回るWindowsデスクトップペットです。
+              チンチラ、マカロニマウス、ハムスター、ヤモリ、モモンガ、小鳥系を、1動物ずつDeguDesktop相当の枚数とQAまで進めています。
+            </p>
+            <div class="links">
+              <a href="https://udteach.github.io/AnimalsDesktop/">Page</a>
+              <a href="https://github.com/UDteach/AnimalsDesktop/releases/latest">Download</a>
+              <a href="https://github.com/UDteach/AnimalsDesktop">GitHub</a>
+            </div>
+          </article>
+
+          <article>
+            <span class="status">Windows desktop pet</span>
+            <h3>DeguDesktop</h3>
+            <p>
+              Windowsのタスクバー上をデグーが歩き回るデスクトップペットです。
+              AnimalsDesktopの原型になった軽量Win32アプリです。
+            </p>
+            <div class="links">
+              <a href="https://udteach.github.io/DeguDesktop/">Page</a>
+              <a href="https://github.com/UDteach/DeguDesktop">GitHub</a>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="about">
+        <h2>ABOUT</h2>
+        <p>
+          小さく触れるアプリ、動物モチーフのツール、Web上で遊べる作品を中心に作っています。
+          AnimalsDesktopは、今後も動物の種類、カラー、種ごとの自然なモーションを増やしていきます。
+        </p>
+      </section>
+    </main>
+  </body>
+</html>

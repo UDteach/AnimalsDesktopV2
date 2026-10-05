@@ -1,0 +1,79 @@
+{
+  "animal": "standard gray chinchilla",
+  "purpose": "review-only pose blueprint for angle-table prompting; not accepted source art",
+  "layout": {
+    "columns": 4,
+    "rows": 2,
+    "cell_width": 512,
+    "cell_height": 512,
+    "canvas_width": 2048,
+    "canvas_height": 1024
+  },
+  "pose_rules": [
+    {
+      "frame": 1,
+      "body_y": 0,
+      "tail_angle": 15,
+      "near_front_foot_angle": 90,
+      "near_rear_foot_angle": 90,
+      "description": "neutral contact; both visible feet attached under body"
+    },
+    {
+      "frame": 2,
+      "body_y": 6,
+      "tail_angle": 10,
+      "near_front_foot_angle": 65,
+      "near_rear_foot_angle": 110,
+      "description": "small step; front foot tilts forward, rear foot tilts back, no lifted gaps"
+    },
+    {
+      "frame": 3,
+      "body_y": -4,
+      "tail_angle": 12,
+      "near_front_foot_angle": 85,
+      "near_rear_foot_angle": 95,
+      "description": "passing-like but closed; both feet tucked under body as attached ovals"
+    },
+    {
+      "frame": 4,
+      "body_y": 4,
+      "tail_angle": 18,
+      "near_front_foot_angle": 112,
+      "near_rear_foot_angle": 68,
+      "description": "opposite small step; front foot tilts back, rear foot tilts forward"
+    },
+    {
+      "frame": 5,
+      "body_y": 0,
+      "tail_angle": 15,
+      "near_front_foot_angle": 90,
+      "near_rear_foot_angle": 90,
+      "description": "neutral contact, similar to frame 1"
+    },
+    {
+      "frame": 6,
+      "body_y": 6,
+      "tail_angle": 9,
+      "near_front_foot_angle": 62,
+      "near_rear_foot_angle": 112,
+      "description": "small forward step, same closed silhouette rule as frame 2"
+    },
+    {
+      "frame": 7,
+      "body_y": -4,
+      "tail_angle": 12,
+      "near_front_foot_angle": 85,
+      "near_rear_foot_angle": 95,
+      "description": "second passing-like closed pose, no separated leg shapes"
+    },
+    {
+      "frame": 8,
+      "body_y": 3,
+      "tail_angle": 18,
+      "near_front_foot_angle": 108,
+      "near_rear_foot_angle": 72,
+      "description": "recovery toward frame 1; subtle opposite step"
+    }
+  ]
+}
+

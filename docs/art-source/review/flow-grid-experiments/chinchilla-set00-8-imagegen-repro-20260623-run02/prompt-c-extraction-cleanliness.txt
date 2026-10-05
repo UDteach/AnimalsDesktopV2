@@ -1,0 +1,50 @@
+Create one 2048x1024 image as a review-only 8-frame sprite sheet for later fixed-cell extraction.
+
+Primary goal:
+- Extraction cleanliness is more important than artistic detail.
+- Make a clean, parser-friendly 8-frame sprite sheet with no matte defects, no pinholes, no stray marks, and no background contamination.
+
+Canvas and layout:
+- Exact canvas: 2048x1024.
+- Use an invisible 2 rows x 4 columns layout.
+- Each invisible cell is exactly 512x512 pixels.
+- Place exactly one complete right-facing standard gray chinchilla in each cell.
+- Keep every chinchilla centered inside its own cell with consistent scale and contact baseline.
+- Leave clear pure green space around every animal inside each cell.
+- No visible grid lines, no labels, no numbers, no text.
+
+Background:
+- The entire background must be one flat, solid, pure chroma green color: #00ff00.
+- Use #00ff00 only for the background.
+- Do not use green anywhere inside the chinchilla.
+- No gradients, no texture, no compression-like noise, no semi-transparent edges, no shadow, no floor, no scenery.
+- No alternate greens, no yellow-green, no dark green, no blue-green.
+
+Matte and edge cleanliness:
+- The animal must have a clean solid silhouette.
+- No white fringe around the animal.
+- No pale halo, no gray-green edge contamination, no transparent-looking rim.
+- No 1px pinholes inside the body, ears, belly, feet, or tail.
+- No tiny green holes inside the chinchilla.
+- No detached specks, no loose whisker fragments, no isolated dots, no dust-like marks outside the animal.
+- Keep whiskers short, simple, and attached to the muzzle.
+
+Animal style:
+- Clean small 2D game sprite style, not pixel art.
+- Simple flat cel-shaded shapes with minimal texture.
+- Standard gray chinchilla: medium neutral gray coat, cream belly, rounded ears, compact body, curled bushy tail, small separated feet.
+- Cute desktop pet mascot style.
+- Clean black eye, small muzzle, closed mouth.
+- Avoid realistic fur rendering and avoid fine hair detail that could create extraction noise.
+- Keep the same character, same proportions, same camera distance, same body size, same color palette across all 8 frames.
+
+Frame content:
+- Show an 8-frame right-facing walking animation sequence.
+- Use modest, readable pose changes.
+- Keep each animal complete and fully inside its cell.
+- No extra animals, no duplicated body parts, no cropped animal, no missing tail, no detached ears, no separate limbs.
+
+Final image:
+- Only 8 complete right-facing chinchilla sprites.
+- Pure #00ff00 background everywhere else.
+- No text, no grid, no scenery, no shadow, no floor.

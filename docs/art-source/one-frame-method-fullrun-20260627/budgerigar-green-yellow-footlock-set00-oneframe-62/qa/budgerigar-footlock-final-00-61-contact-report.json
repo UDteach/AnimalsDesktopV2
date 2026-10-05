@@ -1,0 +1,113 @@
+{
+  "contact_55_61": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/contact/budgerigar-footlock-55-61-final-gate-6x.png",
+  "contact_00_61": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/contact/budgerigar-footlock-00-61-full-review-4x.png",
+  "frames_55_61": [
+    {
+      "frame": "55",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-55.png",
+      "bbox": [
+        6,
+        16,
+        90,
+        58
+      ],
+      "height": 42,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "56",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-56.png",
+      "bbox": [
+        6,
+        14,
+        90,
+        58
+      ],
+      "height": 44,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "57",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-57.png",
+      "bbox": [
+        6,
+        15,
+        90,
+        58
+      ],
+      "height": 43,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "58",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-58.png",
+      "bbox": [
+        6,
+        15,
+        90,
+        58
+      ],
+      "height": 43,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "59",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-59.png",
+      "bbox": [
+        6,
+        13,
+        90,
+        58
+      ],
+      "height": 45,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "60",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-60.png",
+      "bbox": [
+        6,
+        14,
+        90,
+        58
+      ],
+      "height": 44,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "61",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-61.png",
+      "bbox": [
+        6,
+        16,
+        90,
+        58
+      ],
+      "height": 42,
+      "size": [
+        96,
+        64
+      ]
+    }
+  ],
+  "frame_count": 62,
+  "notes": "Final review contacts after frame-60-attempt-04 no-white-face color retry; no catalog/runtime/page/release/Git changes."
+}

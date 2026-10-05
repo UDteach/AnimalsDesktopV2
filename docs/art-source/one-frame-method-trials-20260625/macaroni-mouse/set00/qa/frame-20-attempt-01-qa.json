@@ -1,0 +1,32 @@
+{
+  "source_bbox": [
+    368,
+    331,
+    1176,
+    667
+  ],
+  "normalized_size": [
+    86,
+    36
+  ],
+  "frame_bbox": [
+    5,
+    23,
+    90,
+    59
+  ],
+  "nonzero_alpha": 1914,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "macaroni_mouse",
+  "frame": 20,
+  "pose": "low-fast-scurry-thick-tail",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efb9a-b711-77f2-b098-5dce8ddc678d/ig_0f7adab26fac3abc016a3c66601aa08191a8d1c32d0ef83b9b.png",
+  "raw_path": "docs/art-source/one-frame-method-trials-20260625/macaroni-mouse/set00/raw/frame-20-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-trials-20260625/macaroni-mouse/set00/alpha/frame-20-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-trials-20260625/macaroni-mouse/set00/frames/frame-20-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-trials-20260625/macaroni-mouse/set00/contacts/frame-20-attempt-01-contact.png",
+  "decision": "pilot-pass-mechanical",
+  "notes": "single-frame pilot; tail complete; style larger/sharper and more character-like than sheet baseline"
+}

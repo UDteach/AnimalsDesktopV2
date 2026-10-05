@@ -1,0 +1,683 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>AnimalsDesktop Asset Review</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family:
+          "Segoe UI",
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          sans-serif;
+        color: #24292f;
+        background: #f6f8fa;
+        --border: #d0d7de;
+        --muted: #57606a;
+        --panel: #ffffff;
+        --panel-soft: #f6f8fa;
+        --accent: #0969da;
+        --success: #1a7f37;
+        --warning: #9a6700;
+        --danger: #cf222e;
+        --dark-preview: #1f2428;
+        --light-preview: #f5f5f2;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+      }
+
+      a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      header {
+        border-bottom: 1px solid var(--border);
+        background: var(--panel);
+      }
+
+      .topbar,
+      main {
+        width: min(1440px, 100%);
+        margin: 0 auto;
+        padding-inline: 24px;
+      }
+
+      .topbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        min-height: 64px;
+      }
+
+      .repo {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 8px;
+        min-width: 0;
+      }
+
+      .repo strong {
+        font-size: 1.04rem;
+      }
+
+      .slash {
+        color: var(--muted);
+      }
+
+      .pill {
+        display: inline-flex;
+        align-items: center;
+        min-height: 22px;
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        padding: 0 8px;
+        color: var(--muted);
+        font-size: 0.78rem;
+        font-weight: 600;
+        white-space: nowrap;
+      }
+
+      .pill.success {
+        border-color: #aceebb;
+        color: var(--success);
+        background: #dafbe1;
+      }
+
+      .pill.warning {
+        border-color: #f0d98c;
+        color: var(--warning);
+        background: #fff8c5;
+      }
+
+      .navlinks {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 14px;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      main {
+        padding-top: 24px;
+        padding-bottom: 56px;
+      }
+
+      .summary {
+        display: grid;
+        grid-template-columns: minmax(280px, 1fr) minmax(320px, 2fr);
+        gap: 16px;
+        align-items: stretch;
+      }
+
+      .box {
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        background: var(--panel);
+      }
+
+      .box-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        border-bottom: 1px solid var(--border);
+        padding: 12px 16px;
+        background: var(--panel-soft);
+      }
+
+      .box-head h1,
+      .box-head h2 {
+        margin: 0;
+        font-size: 1rem;
+      }
+
+      .box-body {
+        padding: 16px;
+      }
+
+      .meta-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+      }
+
+      .metric {
+        min-height: 76px;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        padding: 10px 12px;
+        background: #fff;
+      }
+
+      .metric b {
+        display: block;
+        font-size: 1.35rem;
+      }
+
+      .metric span {
+        color: var(--muted);
+        font-size: 0.82rem;
+      }
+
+      .check-list {
+        display: grid;
+        gap: 8px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      .check-list li {
+        display: grid;
+        grid-template-columns: 18px 1fr auto;
+        gap: 10px;
+        align-items: center;
+        min-height: 34px;
+        border-bottom: 1px solid #d8dee4;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      .check-list li:last-child {
+        border-bottom: 0;
+      }
+
+      .dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: var(--success);
+      }
+
+      .dot.warning {
+        background: #bf8700;
+      }
+
+      .tabs {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin: 20px 0 16px;
+      }
+
+      .tab {
+        min-height: 36px;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        padding: 7px 11px;
+        background: #fff;
+        color: #24292f;
+        font: inherit;
+        font-size: 0.92rem;
+        cursor: pointer;
+      }
+
+      .tab[aria-selected="true"] {
+        border-color: #0969da;
+        color: #0969da;
+        background: #ddf4ff;
+        font-weight: 700;
+      }
+
+      .animal-panel {
+        display: grid;
+        gap: 16px;
+      }
+
+      .animal-head {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        gap: 12px;
+        align-items: start;
+      }
+
+      .animal-head h2 {
+        margin: 0 0 6px;
+        font-size: 1.25rem;
+      }
+
+      .animal-head p {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.6;
+      }
+
+      .links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        justify-content: flex-end;
+      }
+
+      .link-button {
+        display: inline-flex;
+        align-items: center;
+        min-height: 32px;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        padding: 6px 10px;
+        background: #fff;
+        color: #24292f;
+        font-size: 0.86rem;
+        font-weight: 600;
+      }
+
+      .set-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.88rem;
+      }
+
+      .set-table th,
+      .set-table td {
+        border-bottom: 1px solid #d8dee4;
+        padding: 9px 10px;
+        text-align: left;
+      }
+
+      .set-table th {
+        color: var(--muted);
+        font-weight: 600;
+      }
+
+      .bar {
+        width: 100%;
+        height: 8px;
+        overflow: hidden;
+        border-radius: 999px;
+        background: #eaeef2;
+      }
+
+      .bar span {
+        display: block;
+        height: 100%;
+        border-radius: inherit;
+        background: var(--success);
+      }
+
+      .frame-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(248px, 1fr));
+        gap: 10px;
+      }
+
+      .frame {
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        overflow: hidden;
+        background: #fff;
+      }
+
+      .frame-title {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+        border-bottom: 1px solid #d8dee4;
+        padding: 7px 8px;
+        font-size: 0.78rem;
+        font-weight: 700;
+      }
+
+      .motion {
+        color: var(--muted);
+        font-weight: 600;
+      }
+
+      .previews {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .preview {
+        display: grid;
+        place-items: center;
+        min-width: 112px;
+        min-height: 88px;
+        padding: 8px;
+      }
+
+      .preview.light {
+        background: var(--light-preview);
+      }
+
+      .preview.dark {
+        background: var(--dark-preview);
+      }
+
+      .preview img {
+        width: 96px;
+        height: 64px;
+        object-fit: contain;
+        image-rendering: pixelated;
+      }
+
+      .sprite-frame {
+        width: 96px;
+        height: 64px;
+        background-repeat: no-repeat;
+        image-rendering: pixelated;
+      }
+
+      .sheet-preview {
+        overflow: auto;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        background: #fff;
+      }
+
+      .sheet-preview img {
+        display: block;
+        width: 100%;
+        min-width: 720px;
+        height: auto;
+        image-rendering: pixelated;
+      }
+
+      .frame-foot {
+        border-top: 1px solid #d8dee4;
+        padding: 7px 8px;
+        color: var(--muted);
+        font-size: 0.75rem;
+      }
+
+      .note {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.65;
+        font-size: 0.93rem;
+      }
+
+      @media (max-width: 860px) {
+        .topbar,
+        main {
+          padding-inline: 16px;
+        }
+
+        .topbar,
+        .animal-head {
+          grid-template-columns: 1fr;
+        }
+
+        .summary {
+          grid-template-columns: 1fr;
+        }
+
+        .links {
+          justify-content: flex-start;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="topbar">
+        <div class="repo">
+          <span>UDteach</span>
+          <span class="slash">/</span>
+          <strong>AnimalsDesktop</strong>
+          <span class="pill">asset review</span>
+          <span class="pill success">set00 filled</span>
+          <span class="pill warning">draft runtime</span>
+        </div>
+        <nav class="navlinks" aria-label="Review links">
+          <a href="../../index.html">Docs Home</a>
+          <a href="assets/chinchilla_standard_gray_set00.png">Chinchilla Sheet</a>
+          <a href="assets/gecko_gray_brown_set00.png">Gecko Sheet</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="summary" aria-label="Asset summary">
+        <div class="box">
+          <div class="box-head">
+            <h1>Review Summary</h1>
+            <span class="pill">2026-06-23</span>
+          </div>
+          <div class="box-body">
+            <div class="meta-grid">
+              <div class="metric">
+                <b>5 / 5</b>
+                <span>active animals have complete set00</span>
+              </div>
+              <div class="metric">
+                <b>421</b>
+                <span>accepted frames across active animals</span>
+              </div>
+              <div class="metric">
+                <b>62 / 620</b>
+                <span>chinchilla full expansion coverage</span>
+              </div>
+              <div class="metric">
+                <b>13</b>
+                <span>chinchilla attention warnings, visually reviewed</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="box">
+          <div class="box-head">
+            <h2>Current Checks</h2>
+            <span class="pill warning">release gated</span>
+          </div>
+          <div class="box-body">
+            <ul class="check-list">
+              <li><span class="dot"></span><span>chinchilla set00 accepted frames</span><strong>62 / 62</strong></li>
+              <li><span class="dot"></span><span>runtime sprite sheet uses draft motion source</span><strong>connected</strong></li>
+              <li><span class="dot"></span><span>local Go test, vet, Windows GUI build, diff check</span><strong>passed</strong></li>
+              <li><span class="dot warning"></span><span>single set00 is duplicated across runtime sets</span><strong>draft only</strong></li>
+              <li><span class="dot warning"></span><span>visual style differs between frame blocks</span><strong>review</strong></li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <div class="tabs" id="animal-tabs" role="tablist" aria-label="Animals"></div>
+
+      <section class="animal-panel" id="animal-panel" aria-live="polite"></section>
+    </main>
+
+    <script>
+      const motionMap = [
+        [0, 3, "idle"],
+        [4, 11, "walk"],
+        [12, 19, "scurry"],
+        [20, 25, "forage"],
+        [26, 31, "action"],
+        [32, 39, "turn"],
+        [40, 43, "eat"],
+        [44, 47, "ground check"],
+        [48, 51, "rest"],
+        [52, 55, "groom"],
+        [56, 61, "reaction"]
+      ];
+
+      const animals = [
+        {
+          id: "chinchilla",
+          label: "Chinchilla standard gray",
+          sprite: "assets/chinchilla_standard_gray_set00.png",
+          accepted: 62,
+          full: "62 / 620",
+          next: "set01/frame-00",
+          note:
+            "set00 is complete and wired to runtime as a draft motion source. The new frame-47 came from a ChatGPT Pro reference-upload candidate.",
+          links: []
+        },
+        {
+          id: "sugar-glider",
+          label: "Sugar glider gray",
+          sprite: "assets/sugar_glider_gray_set00.png",
+          accepted: 62,
+          full: "101 / 620",
+          next: "set01/frame-39",
+          note: "Current MVP set00 is complete. Full expansion continues from set01/frame-39.",
+          links: []
+        },
+        {
+          id: "hamster",
+          label: "Golden Syrian hamster",
+          sprite: "assets/hamster_golden_syrian_set00.png",
+          accepted: 62,
+          full: "92 / 620",
+          next: "set01/frame-14",
+          note: "Current MVP set00 is complete. Full expansion has a held gap at set01/frame-14.",
+          links: []
+        },
+        {
+          id: "rabbit",
+          label: "Rabbit chestnut agouti",
+          sprite: "assets/rabbit_chestnut_agouti_set00.png",
+          accepted: 62,
+          full: "78 / 620",
+          next: "set01/frame-10",
+          note: "Current MVP set00 is complete. Full expansion has a held gap at set01/frame-10.",
+          links: []
+        },
+        {
+          id: "gecko",
+          label: "Gecko gray brown",
+          sprite: "assets/gecko_gray_brown_set00.png",
+          accepted: 62,
+          full: "88 / 620",
+          next: "set01/frame-26",
+          note: "Current MVP set00 is complete. Full expansion continues from set01/frame-26.",
+          links: []
+        }
+      ];
+
+      const tabs = document.querySelector("#animal-tabs");
+      const panel = document.querySelector("#animal-panel");
+      let activeAnimal = animals[0];
+
+      function motionFor(frame) {
+        const match = motionMap.find(([start, end]) => frame >= start && frame <= end);
+        return match ? match[2] : "frame";
+      }
+
+      function frameName(frame) {
+        return `frame-${String(frame).padStart(2, "0")}.png`;
+      }
+
+      function renderTabs() {
+        tabs.innerHTML = "";
+        for (const animal of animals) {
+          const button = document.createElement("button");
+          button.className = "tab";
+          button.type = "button";
+          button.role = "tab";
+          button.ariaSelected = String(animal.id === activeAnimal.id);
+          button.textContent = `${animal.label} (${animal.accepted}/62)`;
+          button.addEventListener("click", () => {
+            activeAnimal = animal;
+            renderTabs();
+            renderPanel();
+          });
+          tabs.appendChild(button);
+        }
+      }
+
+      function renderPanel() {
+        const animal = activeAnimal;
+        const linkHtml = animal.links
+          .map(([label, href]) => `<a class="link-button" href="${href}">${label}</a>`)
+          .join("");
+        const frames = Array.from({ length: 62 }, (_, frame) => {
+          const name = frameName(frame);
+          const position = `-${frame * 96}px 0`;
+          return `
+            <article class="frame">
+              <div class="frame-title">
+                <span>${name}</span>
+                <span class="motion">${motionFor(frame)}</span>
+              </div>
+              <div class="previews">
+                <div class="preview light"><div class="sprite-frame" role="img" aria-label="${animal.label} ${name} on light background" style="background-image: url('${animal.sprite}'); background-position: ${position};"></div></div>
+                <div class="preview dark"><div class="sprite-frame" role="img" aria-label="${animal.label} ${name} on dark background" style="background-image: url('${animal.sprite}'); background-position: ${position};"></div></div>
+              </div>
+              <div class="frame-foot">${animal.sprite} / ${name}</div>
+            </article>`;
+        }).join("");
+
+        panel.innerHTML = `
+          <div class="box">
+            <div class="box-head">
+              <div class="animal-head">
+                <div>
+                  <h2>${animal.label}</h2>
+                  <p>${animal.note}</p>
+                </div>
+                <div class="links">
+                  <a class="link-button" href="${animal.sprite}">Sprite sheet</a>
+                  ${linkHtml}
+                </div>
+              </div>
+            </div>
+            <div class="box-body">
+              <table class="set-table" aria-label="${animal.label} progress">
+                <thead>
+                  <tr>
+                    <th>Scope</th>
+                    <th>Accepted</th>
+                    <th>Next</th>
+                    <th>Progress</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>set00 MVP</td>
+                    <td>${animal.accepted} / 62</td>
+                    <td>done</td>
+                    <td><div class="bar"><span style="width: 100%"></span></div></td>
+                  </tr>
+                  <tr>
+                    <td>full expansion</td>
+                    <td>${animal.full}</td>
+                    <td>${animal.next}</td>
+                    <td><div class="bar"><span style="width: ${(animal.full.split(" / ")[0] / 620) * 100}%"></span></div></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="box">
+            <div class="box-head">
+              <h2>set00 Frame List</h2>
+              <span class="pill success">one PNG per frame</span>
+            </div>
+            <div class="box-body">
+              <p class="note">Each cell slices the public 62-frame sprite sheet and shows it on light and dark backgrounds for residue, floor-line, face, and source-family checks.</p>
+              <div class="sheet-preview" style="margin-top: 12px;">
+                <img src="${animal.sprite}" alt="${animal.label} set00 public sprite sheet" />
+              </div>
+            </div>
+          </div>
+          <div class="frame-grid">${frames}</div>
+        `;
+      }
+
+      renderTabs();
+      renderPanel();
+    </script>
+  </body>
+</html>

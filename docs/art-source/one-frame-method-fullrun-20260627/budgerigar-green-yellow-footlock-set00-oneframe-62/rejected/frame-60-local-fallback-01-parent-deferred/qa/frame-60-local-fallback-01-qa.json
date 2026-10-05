@@ -1,0 +1,33 @@
+{
+  "variant": "budgerigar_green_yellow",
+  "frame": "60",
+  "attempt": "local-fallback-01",
+  "status": "candidate",
+  "method": "local fallback from accepted frames 59 and 61; base frame 59 with limited 61 body/wing mixing and explicit yellow-face/pink-feet color lock",
+  "source_frames": [
+    "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-59.png",
+    "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-61.png"
+  ],
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/raw/frame-60-local-fallback-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/alpha/frame-60-local-fallback-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-60.png",
+  "mechanical_qa": {
+    "size": [
+      96,
+      64
+    ],
+    "alpha_bbox": [
+      6,
+      13,
+      90,
+      58
+    ],
+    "height": 45,
+    "edge_alpha_pixels": 0,
+    "greenish_pixels": 488,
+    "lower_pinkish_pixels": 74,
+    "nonzero_alpha": 1627
+  },
+  "sha256": "3f2ee80537c45a1bc0251aef6bcb2d249fda8469455f4de1d3fefc879acb0e5a",
+  "notes": "ImageGen attempts 01-05 rejected for gray/white face or gray feet; fallback avoids exact duplication with local color/region adjustments."
+}

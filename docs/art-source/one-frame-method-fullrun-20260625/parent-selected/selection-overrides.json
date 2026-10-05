@@ -1,0 +1,24 @@
+{
+  "hamster": {
+    "35": {
+      "source": "rescue/hamster-32-61",
+      "path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-35-attempt-01.png",
+      "reason": "main candidate drifted into rabbit silhouette; rescue candidate preserves hamster identity"
+    },
+    "39": {
+      "source": "rescue/hamster-32-61",
+      "path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-39-attempt-01.png",
+      "reason": "main candidate drifted into sugar-glider silhouette; rescue candidate preserves hamster identity"
+    },
+    "48": {
+      "source": "rescue/hamster-32-61",
+      "path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-48-attempt-01.png",
+      "reason": "main candidate drifted into rabbit silhouette; rescue candidate preserves hamster identity"
+    },
+    "55": {
+      "source": "rescue/hamster-32-61",
+      "path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-55-attempt-01.png",
+      "reason": "main candidate drifted into rabbit silhouette; rescue candidate preserves hamster identity"
+    }
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "manifest": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/variant-g-angle-blueprint-01-cell-recentered-batch.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/parsed-variant-g-angle-blueprint-01-cell-recentered",
+  "cell_width": 512,
+  "cell_height": 512,
+  "columns": 4,
+  "rows": 2,
+  "pitch_x": 512,
+  "pitch_y": 512,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 8,
+  "parsed": 7,
+  "rejected": 1,
+  "sources": [
+    {
+      "path": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/variant-g-angle-blueprint-01-cell-recentered-2048x1024.png",
+      "sha256": "c546b6102438b44fc1320359b80fbae6114130f1b1dba638b023464b218de065",
+      "width": 2048,
+      "height": 1024
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/variant-g-angle-blueprint-01-cell-recentered-2048x1024.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 512
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/parsed-variant-g-angle-blueprint-01-cell-recentered/frame-00.png",
+      "source_sha256": "c546b6102438b44fc1320359b80fbae6114130f1b1dba638b023464b218de065",
+      "output_sha256": "d7d569eca0e63c56bbca18763459201c05c6267eaca70a4c3416071aa7ed691c",
+      "content": {
+        "x": 83,
+        "y": 142,
+        "w": 346,
+        "h": 228
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/variant-g-angle-blueprint-01-cell-recentered-2048x1024.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 512,
+        "y": 0,
+        "w": 512,
+        "h": 512
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/parsed-variant-g-angle-blueprint-01-cell-recentered/frame-01.png",
+      "source_sha256": "c546b6102438b44fc1320359b80fbae6114130f1b1dba638b023464b218de065",
+      "output_sha256": "75555559819b223068c7f494d9561512f26e55aa73860f34cd3364faf6b7eb22",
+      "content": {
+        "x": 73,
+        "y": 146,
+        "w": 366,
+        "h": 220
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/variant-g-angle-blueprint-01-cell-recentered-2048x1024.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 1024,
+        "y": 0,
+        "w": 512,
+        "h": 512
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/parsed-variant-g-angle-blueprint-01-cell-recentered/frame-02.png",
+      "source_sha256": "c546b6102438b44fc1320359b80fbae6114130f1b1dba638b023464b218de065",
+      "output_sha256": "ec993145fa80ed3c0e7e112f7cf7bb7aa17b35a3a358291266b12c43980a5deb",
+      "content": {
+        "x": 79,
+        "y": 144,
+        "w": 353,
+        "h": 223
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/variant-g-angle-blueprint-01-cell-recentered-2048x1024.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 1536,
+        "y": 0,
+        "w": 512,
+        "h": 512
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/parsed-variant-g-angle-blueprint-01-cell-recentered/frame-03.png",
+      "source_sha256": "c546b6102438b44fc1320359b80fbae6114130f1b1dba638b023464b218de065",
+      "output_sha256": "814de9b68084925fed9320d65b6c20021734aeabfdc6f282946e2c0776cb4495",
+      "content": {
+        "x": 79,
+        "y": 143,
+        "w": 354,
+        "h": 225
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/variant-g-angle-blueprint-01-cell-recentered-2048x1024.png",
+      "cell": 4,
+      "cell_bounds": {
+        "x": 0,
+        "y": 512,
+        "w": 512,
+        "h": 512
+      },
+      "source_sha256": "c546b6102438b44fc1320359b80fbae6114130f1b1dba638b023464b218de065",
+      "content": {
+        "x": 85,
+        "y": 143,
+        "w": 342,
+        "h": 225
+      },
+      "component_count": 1,
+      "background_holes": 1,
+      "background_hole_area": 4,
+      "largest_bg_hole": 4,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=1 area=4 largest=4"
+      ]
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/variant-g-angle-blueprint-01-cell-recentered-2048x1024.png",
+      "cell": 5,
+      "cell_bounds": {
+        "x": 512,
+        "y": 512,
+        "w": 512,
+        "h": 512
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/parsed-variant-g-angle-blueprint-01-cell-recentered/frame-05.png",
+      "source_sha256": "c546b6102438b44fc1320359b80fbae6114130f1b1dba638b023464b218de065",
+      "output_sha256": "699dee5cd6ab863eeb1d13bf66d6aa1929f8732fde7838291f813586dc697265",
+      "content": {
+        "x": 80,
+        "y": 144,
+        "w": 352,
+        "h": 224
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/variant-g-angle-blueprint-01-cell-recentered-2048x1024.png",
+      "cell": 6,
+      "cell_bounds": {
+        "x": 1024,
+        "y": 512,
+        "w": 512,
+        "h": 512
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/parsed-variant-g-angle-blueprint-01-cell-recentered/frame-06.png",
+      "source_sha256": "c546b6102438b44fc1320359b80fbae6114130f1b1dba638b023464b218de065",
+      "output_sha256": "e55634aa153c9a1a01304ba7408d758e43f3d098cb216e5573906b020fc60a8a",
+      "content": {
+        "x": 81,
+        "y": 142,
+        "w": 349,
+        "h": 228
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/variant-g-angle-blueprint-01-cell-recentered-2048x1024.png",
+      "cell": 7,
+      "cell_bounds": {
+        "x": 1536,
+        "y": 512,
+        "w": 512,
+        "h": 512
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run05/parsed-variant-g-angle-blueprint-01-cell-recentered/frame-07.png",
+      "source_sha256": "c546b6102438b44fc1320359b80fbae6114130f1b1dba638b023464b218de065",
+      "output_sha256": "34c1006f71c98398e9beb16b290a6bbc06971ae27ccbe6080bad23176813fc4f",
+      "content": {
+        "x": 83,
+        "y": 142,
+        "w": 346,
+        "h": 227
+      },
+      "component_count": 1,
+      "status": "parsed"
+    }
+  ],
+  "errors": [
+    "set00-frame-04: transparent/chroma pinholes: holes=1 area=4 largest=4"
+  ]
+}

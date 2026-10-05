@@ -1,0 +1,30 @@
+{
+  "source_bbox": [
+    1312,
+    320,
+    1449,
+    488
+  ],
+  "source_component_pixels": 14979,
+  "normalized_size": [
+    44,
+    54
+  ],
+  "frame_bbox": [
+    26,
+    5,
+    70,
+    59
+  ],
+  "nonzero_alpha": 1798,
+  "partial_alpha": 537,
+  "edge_alpha_pixels": 0,
+  "family": "hamster",
+  "frame": 60,
+  "source_path": "/Users/kyota/.codex/generated_images/019efb9a-b711-77f2-b098-5dce8ddc678d/ig_0d196b7621edb01c016a3c5d0410e88191b77ef0d501721263.png",
+  "sheet_path": "docs/art-source/hamster/motion-source/raw-imagegen/set00/set00-components-ig_0d196b7621edb01c016a3c5d0410e88191b77ef0d501721263-raw.png",
+  "alpha_sheet_path": "docs/art-source/hamster/motion-source/raw-imagegen/set00/set00-components-ig_0d196b7621edb01c016a3c5d0410e88191b77ef0d501721263-alpha.png",
+  "frame_path": "docs/art-source/hamster/motion-source/accepted-candidates/set00/frame-60.png",
+  "contact_path": "docs/art-source/hamster/motion-source/contacts/set00/frame-60-contact.png",
+  "status": "candidate-components-sheet"
+}

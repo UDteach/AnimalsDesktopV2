@@ -1,0 +1,2198 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Animals Desktop</title>
+    <meta
+      name="description"
+      content="Animals Desktopは、フェレット3種を含む60種類から選べるWindows / Mac向けデスクトップペットアプリです。"
+    />
+    <link rel="icon" href="assets/animal-icons/current-chinchilla_standard_gray.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Font Awesome Free 7.2.0: https://fontawesome.com/license/free -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css"
+    />
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #20251f;
+        --muted: #5c665f;
+        --paper: #f8f8f3;
+        --surface: #fffdf7;
+        --line: #d8d8ce;
+        --leaf: #3e6f52;
+        --leaf-dark: #2f573f;
+        --slate: #63788a;
+        --gold: #b9852d;
+        --rust: #a95f36;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      [hidden] {
+        display: none !important;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: "Segoe UI", system-ui, sans-serif;
+        color: var(--ink);
+        background: var(--paper);
+      }
+
+      main {
+        width: min(1080px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 28px 0 40px;
+      }
+
+      nav {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        min-height: 48px;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .brand {
+        font-weight: 700;
+      }
+
+      .navlinks {
+        display: flex;
+        gap: 14px;
+        flex-wrap: wrap;
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .navlinks a {
+        color: var(--muted);
+        text-decoration: none;
+        font-size: 14px;
+      }
+
+      header {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(260px, 420px);
+        gap: 42px;
+        align-items: center;
+        min-height: calc(100vh - 92px);
+        padding: 34px 0;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: clamp(42px, 8vw, 82px);
+        line-height: 0.96;
+        letter-spacing: 0;
+      }
+
+      .lead {
+        margin: 22px 0 0;
+        max-width: 690px;
+        color: var(--muted);
+        font-size: 18px;
+        line-height: 1.7;
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 28px;
+      }
+
+      .button {
+        display: inline-flex;
+        max-width: 100%;
+        min-height: 46px;
+        align-items: center;
+        justify-content: center;
+        padding: 0 18px;
+        border: 1px solid var(--ink);
+        background: var(--surface);
+        text-decoration: none;
+        text-align: center;
+        font-weight: 650;
+        line-height: 1.25;
+      }
+
+      .button.primary {
+        border-color: var(--leaf);
+        background: var(--leaf);
+        color: white;
+      }
+
+      .button.primary:hover {
+        background: var(--leaf-dark);
+      }
+
+      .button.disabled {
+        border-color: var(--line);
+        background: #eceee8;
+        color: var(--muted);
+        cursor: not-allowed;
+      }
+
+      .download-note,
+      .note,
+      article p,
+      .section-head p {
+        color: var(--muted);
+        line-height: 1.7;
+      }
+
+      .download-note {
+        margin: 12px 0 0;
+        font-size: 13px;
+      }
+
+      .release-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 16px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .release-meta span {
+        display: inline-flex;
+        gap: 6px;
+        align-items: center;
+        min-height: 28px;
+        padding: 0 10px;
+        border: 1px solid var(--line);
+        background: rgba(255, 253, 247, 0.72);
+      }
+
+      .release-meta strong {
+        color: var(--ink);
+        font-weight: 650;
+      }
+
+      .preview-wrap {
+        display: grid;
+        gap: 14px;
+        align-items: center;
+      }
+
+      .preview {
+        width: 100%;
+        height: auto;
+        background: #fff;
+        border: 1px solid var(--line);
+        box-shadow: 0 18px 50px rgba(42, 49, 43, 0.1);
+      }
+
+      .note {
+        font-size: 13px;
+      }
+
+      section {
+        border-top: 1px solid var(--line);
+        padding-top: 26px;
+      }
+
+      section + section {
+        margin-top: 30px;
+      }
+
+      .section-head {
+        display: flex;
+        align-items: end;
+        justify-content: space-between;
+        gap: 18px;
+        margin-bottom: 12px;
+      }
+
+      h2 {
+        margin: 0;
+        font-size: 22px;
+      }
+
+      .section-head p,
+      article p {
+        margin: 0;
+      }
+
+      .current-grid,
+      .future-grid,
+      .features,
+      .version-list {
+        display: grid;
+        gap: 16px;
+      }
+
+      .current-grid {
+        grid-template-columns: repeat(auto-fit, minmax(104px, 1fr));
+        gap: 8px;
+        align-items: stretch;
+      }
+
+      .future-grid {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        align-items: stretch;
+      }
+
+      .features {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .version-list {
+        grid-template-columns: minmax(0, 1fr);
+      }
+
+      .release-archive-link {
+        display: inline-flex;
+        min-height: 44px;
+        align-items: center;
+        gap: 8px;
+        margin-top: 10px;
+        color: #356549;
+        font-size: 14px;
+        font-weight: 700;
+        text-decoration: none;
+      }
+
+      .release-archive-link:hover {
+        text-decoration: underline;
+        text-underline-offset: 4px;
+      }
+
+      .content-disclosure {
+        margin-top: 10px;
+        border-top: 1px solid #d8d5ce;
+      }
+
+      .content-disclosure > summary {
+        display: flex;
+        min-height: 44px;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        color: #356549;
+        font-size: 13px;
+        font-weight: 700;
+        cursor: pointer;
+        list-style: none;
+      }
+
+      .content-disclosure > summary::-webkit-details-marker {
+        display: none;
+      }
+
+      .content-disclosure > summary::after {
+        content: "+";
+        font-size: 18px;
+        font-weight: 500;
+      }
+
+      .content-disclosure[open] > summary::after {
+        content: "−";
+      }
+
+      .disclosure-body {
+        padding: 0 0 14px;
+        color: #5d655f;
+        font-size: 13px;
+        line-height: 1.75;
+      }
+
+      .disclosure-body p {
+        margin: 0;
+      }
+
+      .disclosure-body a {
+        color: #2f5b41;
+        font-weight: 600;
+      }
+
+      .history-list {
+        display: grid;
+      }
+
+      .history-item {
+        display: grid;
+        grid-template-columns: 150px minmax(0, 1fr);
+        gap: 16px;
+        padding: 12px 0;
+        border-top: 1px solid #e2e1da;
+      }
+
+      .history-item:first-child {
+        border-top: 0;
+      }
+
+      .history-item h3,
+      .history-item p {
+        margin: 0;
+      }
+
+      .history-item h3 {
+        color: #26332c;
+        font-size: 13px;
+      }
+
+      .history-item p {
+        color: #5d655f;
+        font-size: 12px;
+        line-height: 1.65;
+      }
+
+      .catalog-note {
+        margin: 10px 0 0;
+        color: #697169;
+        font-size: 12px;
+        line-height: 1.6;
+      }
+
+      .english > h2:not(:first-child) {
+        margin-top: 28px;
+      }
+
+      .english > p,
+      .english .english-animal-list {
+        margin: 8px 0 0;
+        color: #5d655f;
+        font-size: 13px;
+        line-height: 1.75;
+      }
+
+      .english-animal-list {
+        padding: 14px;
+        border: 1px solid #d8d5ce;
+        background: rgba(255, 254, 250, 0.76);
+      }
+
+      .animal-card,
+      .features article,
+      .version-card {
+        border-top: 2px solid var(--gold);
+        padding-top: 10px;
+      }
+
+      .animal-card {
+        background: rgba(255, 253, 247, 0.7);
+        display: flex;
+        min-height: 82px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 5px 5px 6px;
+        min-width: 0;
+        text-align: center;
+      }
+
+      .current-grid.is-collapsed .animal-card:nth-child(n + 11) {
+        display: none;
+      }
+
+      .catalog-filters {
+        display: grid;
+        grid-template-columns: repeat(7, minmax(0, 1fr));
+        gap: 6px;
+        margin-bottom: 6px;
+      }
+
+      .catalog-filter {
+        min-height: 38px;
+        padding: 6px 8px;
+        border: 1px solid #d0d2cb;
+        border-radius: 3px;
+        background: rgba(255, 254, 250, 0.76);
+        color: #414b45;
+        font: inherit;
+        font-size: 12px;
+        font-weight: 700;
+        cursor: pointer;
+      }
+
+      .catalog-filter span {
+        margin-left: 3px;
+        color: #707970;
+        font-size: 10px;
+        font-weight: 600;
+      }
+
+      .catalog-filter[aria-pressed="true"] {
+        border-color: #356549;
+        background: #356549;
+        color: #fff;
+      }
+
+      .catalog-filter[aria-pressed="true"] span {
+        color: #fff;
+      }
+
+      .catalog-filter:focus-visible {
+        outline: 3px solid #a5681c;
+        outline-offset: 2px;
+      }
+
+      .catalog-status {
+        margin: 0 0 8px;
+        color: #667068;
+        font-size: 12px;
+      }
+
+      .animal-card:nth-child(2),
+      .features article:nth-child(5) {
+        border-color: var(--rust);
+      }
+
+      .animal-card:nth-child(3),
+      .features article:nth-child(2) {
+        border-color: var(--slate);
+      }
+
+      .animal-card:nth-child(4),
+      .features article:nth-child(3),
+      .features article:nth-child(6) {
+        border-color: var(--leaf);
+      }
+
+      .animal-card:nth-child(5) {
+        border-color: #7e6541;
+      }
+
+      .animal-card:nth-child(6) {
+        border-color: #6f756d;
+      }
+
+      .animal-card:nth-child(7) {
+        border-color: #8d7048;
+      }
+
+      .animal-card:nth-child(8) {
+        border-color: #5f4d3d;
+      }
+
+      .animal-card:nth-child(9) {
+        border-color: #c48d4f;
+      }
+
+      .animal-card:nth-child(10) {
+        border-color: #9b7b4d;
+      }
+
+      .animal-card:nth-child(11) {
+        border-color: #87613f;
+      }
+
+      .animal-card img {
+        display: block;
+        width: 48px;
+        height: 48px;
+        object-fit: contain;
+        margin: 0 auto 4px;
+        image-rendering: pixelated;
+      }
+
+      .animal-card div {
+        min-width: 0;
+      }
+
+      .animal-card h3,
+      .features h3,
+      .version-card h3 {
+        margin: 0 0 5px;
+        font-size: 16px;
+      }
+
+      .animal-card h3 {
+        display: flex;
+        min-height: 24px;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+        font-size: 10.5px;
+        line-height: 1.25;
+        overflow-wrap: anywhere;
+      }
+
+      .catalog-toggle {
+        display: flex;
+        min-height: 42px;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        margin: 12px auto 0;
+        padding: 0 20px;
+        border: 1px solid #356549;
+        border-radius: 4px;
+        background: transparent;
+        color: #2f5b41;
+        font: inherit;
+        font-size: 14px;
+        font-weight: 700;
+        cursor: pointer;
+      }
+
+      .catalog-toggle:hover {
+        background: #e9efe9;
+      }
+
+      .catalog-toggle:focus-visible {
+        outline: 3px solid #a5681c;
+        outline-offset: 4px;
+      }
+
+      .version-card time {
+        display: block;
+        margin-bottom: 7px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .features article {
+        min-height: 0;
+      }
+
+      .features article p,
+      .version-card p {
+        color: var(--muted);
+        font-size: 13px;
+        line-height: 1.65;
+      }
+
+      .version-card {
+        display: grid;
+        grid-template-columns: 112px minmax(0, 1fr);
+        align-items: start;
+        gap: 18px;
+      }
+
+      .version-card h3 {
+        margin-bottom: 2px;
+      }
+
+      .version-card ul {
+        margin: 0;
+        padding-left: 18px;
+        color: var(--muted);
+        font-size: 13px;
+        line-height: 1.65;
+      }
+
+      .future-card {
+        display: grid;
+        min-width: 0;
+        grid-template-rows: 150px auto;
+        padding: 14px 12px 16px;
+        border: 1px solid var(--line);
+        border-top: 4px solid var(--slate);
+        background: #fffef9;
+        text-align: center;
+      }
+
+      .future-card:nth-child(2) {
+        border-color: var(--gold);
+      }
+
+      .future-card:nth-child(3) {
+        border-color: var(--rust);
+      }
+
+      .future-card:nth-child(4) {
+        border-color: var(--leaf);
+      }
+
+      .future-card img {
+        display: block;
+        width: 100%;
+        max-width: 220px;
+        height: 140px;
+        object-fit: contain;
+        margin: 0 auto 8px;
+        filter: contrast(1.12);
+      }
+
+      .future-card h3 {
+        margin: 0;
+        font-size: 16px;
+      }
+
+      .future-art {
+        display: block;
+        width: 100%;
+        aspect-ratio: 3 / 2;
+        height: auto;
+        object-fit: cover;
+        border: 1px solid var(--line);
+        background: var(--surface);
+      }
+
+      .future-note {
+        margin: 10px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+        line-height: 1.7;
+      }
+
+      code {
+        font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+        font-size: 0.92em;
+      }
+
+      @media (max-width: 900px) {
+        header,
+        .features,
+        .version-list,
+        .future-grid {
+          grid-template-columns: 1fr;
+        }
+
+        header {
+          min-height: auto;
+          padding: 34px 0 28px;
+        }
+
+        nav,
+        .section-head {
+          align-items: flex-start;
+          flex-direction: column;
+        }
+
+        nav {
+          padding-bottom: 12px;
+        }
+
+        .future-card {
+          display: grid;
+          grid-template-columns: 124px minmax(0, 1fr);
+          grid-template-rows: auto;
+          gap: 12px;
+          align-items: center;
+          text-align: left;
+        }
+
+        .future-card img {
+          margin: 0;
+          width: 124px;
+          height: 124px;
+        }
+      }
+
+      @media (max-width: 520px) {
+        main {
+          width: min(100% - 24px, 1080px);
+        }
+
+        .actions {
+          display: grid;
+        }
+
+        .button {
+          width: 100%;
+        }
+
+        .release-meta {
+          display: grid;
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          gap: 8px;
+        }
+
+        .release-meta span {
+          justify-content: center;
+          min-width: 0;
+        }
+
+        .animal-card,
+        .future-card {
+          grid-template-columns: 96px minmax(0, 1fr);
+        }
+
+        .future-card img {
+          width: 96px;
+          height: 96px;
+        }
+
+        .current-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          gap: 10px;
+        }
+
+        .animal-card {
+          min-height: 128px;
+          padding: 12px 8px;
+        }
+
+        .animal-card img {
+          width: 86px;
+          height: 86px;
+          margin-bottom: 8px;
+        }
+      }
+
+      /* 2026 Top: preserve the detailed page below while matching the selected two-PC reference. */
+      html {
+        scroll-behavior: smooth;
+        scroll-padding-top: 92px;
+      }
+
+      body {
+        font-family: "Noto Sans JP", "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+        color: #17212a;
+        background: #f7f5f0;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .site-header {
+        display: block;
+        width: min(1340px, calc(100% - 48px));
+        min-height: 0;
+        margin: 0 auto;
+        padding: 0;
+      }
+
+      .site-nav {
+        display: flex;
+        flex-direction: row;
+        min-height: 78px;
+        align-items: center;
+        justify-content: space-between;
+        gap: 28px;
+        padding: 0;
+        border-bottom: 1px solid #d8d5ce;
+      }
+
+      .site-nav .brand {
+        font-family: "Inter", "Segoe UI", sans-serif;
+        font-size: 22px;
+        font-weight: 800;
+        letter-spacing: -0.035em;
+        text-decoration: none;
+      }
+
+      .site-nav .navlinks,
+      .site-nav .nav-main,
+      .site-nav .language-nav {
+        display: flex;
+        align-items: center;
+      }
+
+      .site-nav .navlinks {
+        gap: 40px;
+      }
+
+      .site-nav .nav-main {
+        gap: 38px;
+      }
+
+      .site-nav .language-nav {
+        gap: 8px;
+      }
+
+      .site-nav .navlinks a,
+      .site-nav .language-nav span,
+      .site-nav .language-nav button {
+        color: #17212a;
+        font-size: 16px;
+        font-weight: 500;
+        text-decoration: none;
+        white-space: nowrap;
+      }
+
+      .site-nav .language-nav a,
+      .site-nav .language-nav span,
+      .site-nav .language-nav button {
+        display: inline-flex;
+        min-width: 48px;
+        min-height: 40px;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+        border: 0;
+        background: transparent;
+        font-family: inherit;
+        cursor: pointer;
+      }
+
+      .site-nav .language-nav [aria-current="page"] {
+        border: 1px solid #356549;
+        border-radius: 4px;
+        color: #356549;
+        font-weight: 700;
+      }
+
+      html[lang="en"] .content-shell > section:not(.english),
+      html[lang="en"] .shortcut-nav,
+      html[lang="en"] .site-nav .nav-main {
+        display: none;
+      }
+
+      .top-main {
+        width: auto;
+        margin: 0;
+        padding: 0 0 56px;
+      }
+
+      .top-hero {
+        margin: 0;
+        padding: 0;
+        border: 0;
+      }
+
+      .hero-copy {
+        width: min(1340px, calc(100% - 48px));
+        margin: 0 auto;
+        padding: 48px 18px 42px;
+      }
+
+      .hero-copy h1 {
+        margin: 0;
+        font-family: "Inter", "Segoe UI", sans-serif;
+        font-size: clamp(52px, 6.2vw, 76px);
+        font-weight: 800;
+        line-height: 1;
+        letter-spacing: -0.055em;
+      }
+
+      .hero-copy .lead {
+        max-width: none;
+        margin: 14px 0 0;
+        color: #17212a;
+        font-size: clamp(17px, 1.55vw, 22px);
+        font-weight: 500;
+        line-height: 1.65;
+      }
+
+      .hero-copy .release-boundary {
+        margin: 8px 0 0;
+        color: #4b5a50;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 1.5;
+      }
+
+      .hero-copy .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 22px;
+        margin-top: 18px;
+      }
+
+      .hero-copy .button {
+        display: inline-flex;
+        min-width: min(318px, 100%);
+        min-height: 68px;
+        align-items: center;
+        justify-content: center;
+        gap: 16px;
+        padding: 0 28px;
+        border: 1px solid #356549;
+        border-radius: 4px;
+        background: #356549;
+        color: #fff;
+        font-size: 17px;
+        font-weight: 700;
+        line-height: 1.25;
+        text-decoration: none;
+        transition: background-color 160ms ease, border-color 160ms ease, transform 160ms ease;
+      }
+
+      .hero-copy .button i {
+        width: 28px;
+        font-size: 28px;
+        text-align: center;
+      }
+
+      .hero-copy .button:hover {
+        border-color: #274e38;
+        background: #274e38;
+        transform: translateY(-1px);
+      }
+
+      a:focus-visible,
+      summary:focus-visible {
+        outline: 3px solid #a5681c;
+        outline-offset: 4px;
+      }
+
+      .hero-visual {
+        position: absolute;
+        inset: 0;
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: 50% 51%;
+        background: #ece7df;
+      }
+
+      .hero-stage {
+        position: relative;
+        aspect-ratio: 2.75 / 1;
+        overflow: hidden;
+        background: #ece7df;
+      }
+
+      .pet-stage {
+        position: absolute;
+        pointer-events: none;
+      }
+
+      .windows-stage {
+        top: 14.6%;
+        left: 8.9%;
+        width: 40%;
+        height: 56.1%;
+      }
+
+      .mac-stage {
+        top: 14.7%;
+        left: 51.5%;
+        width: 39.6%;
+        height: 56.5%;
+      }
+
+      .web-pet {
+        position: absolute;
+        bottom: 10.5%;
+        left: 0;
+        width: 13.56%;
+        aspect-ratio: 3 / 2;
+        padding: 0;
+        border: 0;
+        border-radius: 8px;
+        background-color: transparent;
+        background-image: var(--pet-image);
+        background-repeat: no-repeat;
+        background-position: 0 0;
+        background-size: 1400% 100%;
+        cursor: pointer;
+        filter: drop-shadow(0 4px 4px rgba(21, 25, 24, 0.18));
+        pointer-events: auto;
+        transform-origin: 50% 100%;
+        will-change: left, background-position, transform;
+      }
+
+      .web-pet:hover {
+        filter: drop-shadow(0 5px 5px rgba(21, 25, 24, 0.26));
+      }
+
+      .web-pet:focus-visible {
+        outline: 3px solid #f1a533;
+        outline-offset: 1px;
+      }
+
+      .web-pet.is-reacting {
+        animation: pet-bounce 280ms ease-in-out 2 alternate;
+      }
+
+      .hero-demo-hint {
+        position: absolute;
+        right: 3.2%;
+        bottom: 2.4%;
+        display: inline-flex;
+        align-items: center;
+        gap: 7px;
+        margin: 0;
+        padding: 7px 10px;
+        border: 1px solid rgba(23, 33, 42, 0.22);
+        border-radius: 4px;
+        background: rgba(255, 254, 250, 0.84);
+        color: #274e38;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 1;
+        pointer-events: none;
+      }
+
+      .pet-announcement {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+      }
+
+      @keyframes pet-bounce {
+        from {
+          translate: 0 0;
+        }
+        to {
+          translate: 0 -7%;
+        }
+      }
+
+      .shortcut-nav {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        width: 100%;
+        min-height: 148px;
+        border-bottom: 1px solid #d8d5ce;
+        background: rgba(255, 254, 250, 0.9);
+      }
+
+      .shortcut-nav a {
+        display: flex;
+        min-height: 148px;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 10px;
+        color: #17212a;
+        font-size: 20px;
+        font-weight: 600;
+        text-decoration: none;
+      }
+
+      .shortcut-nav i {
+        color: #356549;
+        font-size: 34px;
+      }
+
+      .shortcut-nav a:hover {
+        background: #e9efe9;
+      }
+
+      .content-shell {
+        width: min(1120px, calc(100% - 48px));
+        margin: 0 auto;
+        padding-top: 54px;
+      }
+
+      .release-overview {
+        display: grid;
+        grid-template-columns: minmax(0, 1.4fr) minmax(280px, 0.6fr);
+        gap: 52px;
+        padding: 34px;
+        border: 1px solid #d8d5ce;
+        background: rgba(255, 254, 250, 0.76);
+      }
+
+      .release-overview .intro-copy,
+      .release-overview .download-note {
+        margin: 0;
+        color: #5d655f;
+        line-height: 1.8;
+      }
+
+      .release-overview .download-note {
+        margin-top: 14px;
+        font-size: 13px;
+      }
+
+      .download-alternatives-title {
+        margin: 0;
+        color: #356549;
+        font-size: 15px;
+        font-weight: 700;
+      }
+
+      .detail-links {
+        display: grid;
+        gap: 10px;
+        margin-top: 16px;
+      }
+
+      .detail-links a {
+        display: inline-flex;
+        min-height: 42px;
+        align-items: center;
+        gap: 10px;
+        padding: 0 14px;
+        border: 1px solid #d8d5ce;
+        background: #fffefa;
+        font-size: 13px;
+        font-weight: 600;
+        text-decoration: none;
+      }
+
+      .release-overview .release-meta {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 8px;
+        margin-top: 18px;
+        color: #5d655f;
+        font-size: 12px;
+      }
+
+      .release-overview .release-meta span {
+        display: flex;
+        min-height: 44px;
+        align-items: center;
+        justify-content: center;
+        gap: 5px;
+        padding: 6px 9px;
+        border: 1px solid #d8d5ce;
+        background: #fffefa;
+        text-align: center;
+      }
+
+      .content-shell > section {
+        border-top: 1px solid #d8d5ce;
+        padding-top: 18px;
+      }
+
+      .content-shell > section + section {
+        margin-top: 28px;
+      }
+
+      .content-shell h2 {
+        font-family: "Inter", "Noto Sans JP", sans-serif;
+        font-size: clamp(22px, 2vw, 28px);
+        line-height: 1.25;
+        letter-spacing: -0.025em;
+      }
+
+      .site-footer {
+        width: min(1120px, calc(100% - 48px));
+        margin: 48px auto 0;
+        padding: 24px 0 0;
+        border-top: 1px solid #d8d5ce;
+        color: #5d655f;
+        font-size: 13px;
+      }
+
+      @media (max-width: 900px) {
+        .site-nav .nav-main {
+          gap: 20px;
+        }
+
+        .site-nav .nav-main a[href="#features"] {
+          display: none;
+        }
+
+        .hero-copy {
+          padding-inline: 0;
+        }
+
+        .hero-visual {
+          height: 100%;
+        }
+
+        .release-overview {
+          grid-template-columns: 1fr;
+          gap: 28px;
+        }
+      }
+
+      @media (max-width: 520px) {
+        html {
+          scroll-padding-top: 76px;
+        }
+
+        .site-header,
+        .hero-copy {
+          width: calc(100% - 24px);
+        }
+
+        .site-nav {
+          min-height: 70px;
+          gap: 12px;
+        }
+
+        .site-nav .brand {
+          font-size: 18px;
+        }
+
+        .site-nav .navlinks {
+          gap: 10px;
+        }
+
+        .site-nav .nav-main {
+          display: none;
+        }
+
+        .site-nav .language-nav a,
+        .site-nav .language-nav span,
+        .site-nav .language-nav button {
+          min-width: 42px;
+          min-height: 40px;
+          font-size: 14px;
+        }
+
+        .hero-copy {
+          padding: 32px 0 30px;
+        }
+
+        .hero-copy h1 {
+          font-size: clamp(42px, 12vw, 54px);
+          line-height: 0.98;
+        }
+
+        .hero-copy .lead {
+          margin-top: 12px;
+          font-size: 16px;
+          line-height: 1.7;
+        }
+
+        .hero-copy .actions {
+          display: grid;
+          gap: 12px;
+          margin-top: 22px;
+        }
+
+        .hero-copy .button {
+          width: 100%;
+          min-width: 0;
+          min-height: 58px;
+          gap: 10px;
+          padding: 0 12px;
+          font-size: 14px;
+          text-align: center;
+        }
+
+        .hero-copy .button i {
+          width: 22px;
+          flex: 0 0 22px;
+          font-size: 22px;
+        }
+
+        .hero-copy .button [data-language-copy="windows"] {
+          white-space: nowrap;
+        }
+
+        .hero-visual {
+          height: 100%;
+          object-position: 50% 51%;
+        }
+
+        .hero-demo-hint {
+          display: none;
+        }
+
+        .web-pet {
+          bottom: 9.5%;
+          min-width: 0;
+        }
+
+        .shortcut-nav {
+          min-height: 104px;
+        }
+
+        .shortcut-nav a {
+          min-height: 104px;
+          gap: 7px;
+          font-size: 14px;
+        }
+
+        .shortcut-nav i {
+          font-size: 25px;
+        }
+
+        .content-shell,
+        .site-footer {
+          width: calc(100% - 24px);
+        }
+
+        .content-shell {
+          padding-top: 36px;
+        }
+
+        .release-overview {
+          padding: 22px 18px;
+        }
+
+        .release-overview .release-meta {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .content-shell .section-head {
+          align-items: flex-start;
+          flex-direction: column;
+        }
+
+        .current-grid {
+          grid-template-columns: repeat(auto-fit, minmax(84px, 1fr));
+          gap: 6px;
+        }
+
+        .catalog-filters {
+          display: flex;
+          padding-bottom: 4px;
+          overflow-x: auto;
+          overscroll-behavior-inline: contain;
+        }
+
+        .catalog-filter {
+          flex: 0 0 auto;
+          min-height: 40px;
+          padding-inline: 12px;
+        }
+
+        .current-grid.is-collapsed .animal-card:nth-child(n + 11) {
+          display: none;
+        }
+
+        .animal-card {
+          min-height: 78px;
+        }
+
+        .animal-card img {
+          width: 44px;
+          height: 44px;
+        }
+
+        .version-card {
+          grid-template-columns: 1fr;
+          gap: 2px;
+        }
+
+        .history-item {
+          grid-template-columns: 1fr;
+          gap: 4px;
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        html {
+          scroll-behavior: auto;
+        }
+
+        .hero-copy .button {
+          transition: none;
+        }
+
+        .web-pet.is-reacting {
+          animation: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="site-nav" aria-label="メインナビゲーション">
+        <a class="brand" href="#top">Animals Desktop</a>
+        <div class="navlinks">
+          <div class="nav-main">
+            <a href="#animals">動物</a>
+            <a href="#features">できること</a>
+            <a href="https://github.com/UDteach/AnimalsDesktop">GitHub</a>
+          </div>
+          <div class="language-nav" aria-label="言語">
+            <button type="button" data-language="ja" aria-current="page">JP</button>
+            <button type="button" data-language="en">EN</button>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="top-main" id="top">
+      <section class="top-hero" aria-labelledby="top-heading">
+        <div class="hero-copy">
+          <h1 id="top-heading">Animals Desktop</h1>
+          <p class="lead" data-language-copy="lead">60種類の動物から選べます。</p>
+          <p class="release-boundary" data-language-copy="releaseBoundary">公開版 v0.2.16：60種類</p>
+          <div id="download" class="actions">
+            <a class="button" data-testid="download-windows-primary" href="https://github.com/UDteach/AnimalsDesktop/releases/download/v0.2.16/AnimalsDesktop-windows-amd64.zip">
+              <i class="fa-brands fa-windows" aria-hidden="true"></i>
+              <span data-language-copy="windows">Windows版 x64をダウンロード</span>
+            </a>
+            <a class="button" data-testid="download-mac-primary" href="https://github.com/UDteach/AnimalsDesktop/releases/download/v0.2.16/AnimalsDesktop-macos-arm64.zip">
+              <i class="fa-brands fa-apple" aria-hidden="true"></i>
+              <span data-language-copy="mac">Mac版 Apple Silicon（macOS 12+）をダウンロード</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="hero-stage" aria-label="WindowsのタスクバーとMacのDockの上を動物が歩くデモ">
+          <img
+            class="hero-visual"
+            src="assets/top-dual-monitor-hero.png?v=20260711b"
+            alt="WindowsとMacの2台のモニターを並べた作業机"
+            width="1774"
+            height="887"
+          />
+          <div class="pet-stage windows-stage" aria-label="Windows画面の動物">
+            <button class="web-pet" type="button" aria-label="チンチラをクリック" data-start="0.04" data-speed="24" data-direction="1" style="--pet-image: url('assets/web-demo/chinchilla_standard_gray.png')"></button>
+            <button class="web-pet" type="button" aria-label="ハムスターをクリック" data-start="0.28" data-speed="29" data-direction="1" style="--pet-image: url('assets/web-demo/hamster_golden_syrian.png')"></button>
+            <button class="web-pet" type="button" aria-label="マカロニマウスをクリック" data-start="0.54" data-speed="31" data-direction="1" style="--pet-image: url('assets/web-demo/macaroni_mouse_tan.png')"></button>
+            <button class="web-pet" type="button" aria-label="シマリスをクリック" data-start="0.66" data-speed="27" data-direction="-1" style="--pet-image: url('assets/web-demo/chipmunk_striped.png')"></button>
+            <button class="web-pet" type="button" aria-label="うさぎをクリック" data-start="0.78" data-speed="22" data-direction="-1" style="--pet-image: url('assets/web-demo/rabbit_chestnut_agouti.png')"></button>
+          </div>
+          <div class="pet-stage mac-stage" aria-label="Mac画面の動物">
+            <button class="web-pet" type="button" aria-label="モルモットをクリック" data-start="0.06" data-speed="21" data-direction="1" style="--pet-image: url('assets/web-demo/guinea_pig_tricolor.png')"></button>
+            <button class="web-pet" type="button" aria-label="モモンガをクリック" data-start="0.34" data-speed="28" data-direction="1" data-facing="-1" style="--pet-image: url('assets/web-demo/sugar_glider_gray.png')"></button>
+            <button class="web-pet" type="button" aria-label="ファンシーラットをクリック" data-start="0.60" data-speed="30" data-direction="-1" style="--pet-image: url('assets/web-demo/fancy_rat_hooded.png')"></button>
+            <button class="web-pet" type="button" aria-label="ヒョウモントカゲモドキをクリック" data-start="0.72" data-speed="20" data-direction="1" style="--pet-image: url('assets/web-demo/gecko_leopard.png')"></button>
+            <button class="web-pet" type="button" aria-label="ホーランドロップをクリック" data-start="0.82" data-speed="23" data-direction="-1" style="--pet-image: url('assets/web-demo/holland_lop_broken_orange.png')"></button>
+          </div>
+          <p class="hero-demo-hint"><i class="fa-solid fa-arrow-pointer" aria-hidden="true"></i> <span data-language-copy="hint">動物をクリック</span></p>
+          <div class="pet-announcement" aria-live="polite"></div>
+        </div>
+
+        <nav class="shortcut-nav" aria-label="ページ内リンク">
+          <a href="#animals"><i class="fa-solid fa-paw" aria-hidden="true"></i><span>動物</span></a>
+          <a href="#features"><i class="fa-solid fa-display" aria-hidden="true"></i><span>できること</span></a>
+          <a href="#versions"><i class="fa-regular fa-rectangle-list" aria-hidden="true"></i><span>更新内容</span></a>
+        </nav>
+      </section>
+
+      <div class="content-shell">
+        <section class="release-overview" aria-labelledby="download-details-heading">
+          <div>
+            <h2 id="download-details-heading">Animals Desktopについて</h2>
+            <p class="intro-copy">
+              セーブルパンダ、セーブル、アルビノのフェレット3種を追加し、選べる動物が60種類になりました。表示数や1匹ごとのサイズを選び、歩き、待機、クリック反応を楽しめます。
+            </p>
+            <p class="download-note">
+              v0.2.16 は、60種類の動物と基本モーションを試せる先行お試し版です。Windows版では固定表示とランダム表示を組み合わせられ、1匹ごとのランダム対象を全体または種類別に選べます。全体ランダムも、うさぎやフェレットなどの種類で絞り込めます。
+              Windows版はトレイの Language メニューから表示言語を切り替えられます。Windows 10/11ではZIPを展開して <code>AnimalsDesktop.exe</code> を起動してください。
+              Mac版はApple Silicon版またはIntel版のZIPを展開し、<code>AnimalsDesktop.app</code> を起動してください。
+            </p>
+            <div class="release-meta" aria-label="Build information">
+              <span>先行お試し版 <strong data-release-version>v0.2.16</strong></span>
+              <span>Windows版 <strong>v0.2.16</strong></span>
+              <span>Mac版 <strong>v0.2.16</strong></span>
+              <span>動物 <strong>60種</strong></span>
+              <span>追加 <strong>フェレット3種</strong></span>
+              <span>更新日 <strong data-build-date>2026-07-27</strong></span>
+            </div>
+          </div>
+          <div class="download-alternatives">
+            <h3 class="download-alternatives-title">その他のダウンロード</h3>
+            <div class="detail-links">
+              <a data-testid="download-windows-no-network" href="https://github.com/UDteach/AnimalsDesktop/releases/download/v0.2.16/AnimalsDesktop-windows-amd64-no-network.zip"><i class="fa-brands fa-windows" aria-hidden="true"></i> Windows版 x64 / ネットワーク無効</a>
+              <a data-testid="download-windows-x86" href="https://github.com/UDteach/AnimalsDesktop/releases/download/v0.2.16/AnimalsDesktop-windows-386.zip"><i class="fa-brands fa-windows" aria-hidden="true"></i> Windows版 x86 / 32-bit</a>
+              <a data-testid="download-mac-intel" href="https://github.com/UDteach/AnimalsDesktop/releases/download/v0.2.16/AnimalsDesktop-macos-amd64.zip"><i class="fa-brands fa-apple" aria-hidden="true"></i> Mac版 Intel / macOS 12+</a>
+              <a href="https://github.com/UDteach/AnimalsDesktop/releases/download/v0.2.16/SHA256SUMS.txt"><i class="fa-solid fa-shield-halved" aria-hidden="true"></i> SHA256SUMS</a>
+            </div>
+            <details class="content-disclosure">
+              <summary>Mac版の選び方</summary>
+              <div class="disclosure-body">
+                <p>
+                  どちらもmacOS 12 Monterey以降に対応しています。M1以降のApple製チップを搭載したMacはApple Silicon版、Intelプロセッサを搭載したMacはIntel版を選んでください。
+                </p>
+              </div>
+            </details>
+            <details class="content-disclosure">
+              <summary>ネットワーク無効版について</summary>
+              <div class="disclosure-body">
+                <p>
+                  v0.2.16のWindows版は未署名のため、Smart App Control / SmartScreen などに警告またはブロックされる場合があります。ネットワーク無効版は、自動更新確認、トレイからの更新確認、更新ZIPのダウンロードを無効化したWindows 64-bit向け検証版であり、警告を回避するものではありません。詳しくは
+                  <a href="https://support.microsoft.com/en-us/windows/security/threat-malware-protection/smart-app-control-frequently-asked-questions">Smart App Control FAQ</a>、
+                  <a href="https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation">SmartScreen reputation</a>、日本語の補足事例として
+                  <a href="https://college.globalsign.com/blog/smartappcontrol_20260423/">GlobalSignのSmart App Control事例</a>を参照してください。
+                </p>
+              </div>
+            </details>
+          </div>
+        </section>
+
+      <section id="animals" aria-labelledby="animals-heading">
+        <div class="section-head">
+          <div>
+            <h2 id="animals-heading">登場する動物</h2>
+            <p>公開版では、鳥、猫、犬、爬虫類、小動物を含む60種類から選べます。</p>
+          </div>
+        </div>
+        <div class="catalog-filters" role="group" aria-label="動物のカテゴリ">
+          <button class="catalog-filter" type="button" data-category="all" aria-pressed="true">すべて <span>60</span></button>
+          <button class="catalog-filter" type="button" data-category="small" aria-pressed="false">小動物 <span>29</span></button>
+          <button class="catalog-filter" type="button" data-category="rabbit" aria-pressed="false">うさぎ <span>7</span></button>
+          <button class="catalog-filter" type="button" data-category="bird" aria-pressed="false">鳥 <span>8</span></button>
+          <button class="catalog-filter" type="button" data-category="cat" aria-pressed="false">猫 <span>7</span></button>
+          <button class="catalog-filter" type="button" data-category="dog" aria-pressed="false">犬 <span>4</span></button>
+          <button class="catalog-filter" type="button" data-category="reptile" aria-pressed="false">爬虫・両生類 <span>5</span></button>
+        </div>
+        <p class="catalog-status" aria-live="polite">先頭10種類を表示しています。</p>
+        <div class="current-grid is-collapsed" id="animal-grid">
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-chinchilla_standard_gray.png" alt="チンチラのアイコン" />
+            <div>
+              <h3>チンチラ</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-hamster_golden_syrian.png" alt="ハムスターのアイコン" />
+            <div>
+              <h3>ハムスター</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-djungarian_hamster.png" alt="ジャンガリアンハムスターのアイコン" />
+            <div>
+              <h3>ジャンガリアンハムスター</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-campbell_hamster.png" alt="キャンベルハムスターのアイコン" />
+            <div>
+              <h3>キャンベルハムスター</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-macaroni_mouse_tan.png" alt="マカロニマウスのアイコン" />
+            <div>
+              <h3>マカロニマウス</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-sugar_glider_gray.png" alt="モモンガのアイコン" />
+            <div>
+              <h3>モモンガ</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-rabbit_chestnut_agouti.png" alt="うさぎのアイコン" />
+            <div>
+              <h3>うさぎ</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-holland_lop_broken_orange.png" alt="ホーランドロップのアイコン" />
+            <div>
+              <h3>ホーランドロップ</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-netherland_dwarf_chestnut.png" alt="ネザーランドドワーフのアイコン" />
+            <div>
+              <h3>ネザーランドドワーフ</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-himalayan_rabbit.png" alt="ヒマラヤンうさぎのアイコン" />
+            <div>
+              <h3>ヒマラヤンうさぎ</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-gecko_gray_brown.png" alt="ヤモリのアイコン" />
+            <div>
+              <h3>ヤモリ</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-guinea_pig_tricolor.png" alt="モルモットのアイコン" />
+            <div>
+              <h3>モルモット</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-fancy_rat_hooded.png" alt="ファンシーラットのアイコン" />
+            <div>
+              <h3>ファンシーラット</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-true_albino_chipmunk.png" alt="真のアルビノシマリスのアイコン" />
+            <div>
+              <h3>真のアルビノシマリス</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-richardsons_ground_squirrel.png" alt="リチャードソンジリスのアイコン" />
+            <div>
+              <h3>リチャードソンジリス</h3>
+            </div>
+          </article>
+          <article class="animal-card">
+            <img src="assets/animal-icons/current-yorkshire_terrier_longcoat.png" alt="ヨークシャーテリアのアイコン" />
+            <div>
+              <h3>ヨークシャーテリア</h3>
+            </div>
+          </article>
+        </div>
+        <button class="catalog-toggle" type="button" aria-controls="animal-grid" aria-expanded="false">
+          <span>60種類すべて見る</span>
+          <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+        </button>
+        <p class="catalog-note">v0.2.16で、セーブルパンダ、セーブル、アルビノのフェレット3種を追加しました。</p>
+      </section>
+
+      <section id="features" aria-labelledby="features-heading">
+        <div class="section-head">
+          <div>
+            <h2 id="features-heading">できること</h2>
+          </div>
+        </div>
+        <div class="features">
+          <article>
+            <h3>お散歩とクリック反応</h3>
+            <p>Windowsではタスクバー付近、MacではDock付近に表示します。クリックすると小さく反応し、作業中のクリック操作をできるだけ妨げません。</p>
+          </article>
+          <article>
+            <h3>表示数・サイズ・位置</h3>
+            <p>最大10匹までの表示数と1匹ごとのサイズを変更できます。Windowsでは画面、歩く範囲、縦位置を調整でき、Macでは表示先ディスプレイを選べます。</p>
+          </article>
+          <article>
+            <h3>シンプルなWindows / Mac版</h3>
+            <p>Windows版とMac版のv0.2.16を入手できます。現行プレビューでは木、種、餌などは表示せず、動物本体のしぐさを中心に楽しめます。</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="versions" aria-labelledby="versions-heading">
+        <div class="section-head">
+          <div>
+            <h2 id="versions-heading">更新内容</h2>
+            <p>公開中の主な変更点です。Windows版とMac版は現在 v0.2.16 です。</p>
+          </div>
+        </div>
+        <div class="version-list">
+          <article class="version-card">
+            <div>
+              <h3>v0.2.16</h3>
+              <time datetime="2026-07-27">2026-07-27</time>
+            </div>
+            <p>セーブルパンダ、セーブル、アルビノのフェレット3種を追加しました。選べる動物は60種類です。Windows版とMac版の動物選択、歩行、待機、クリック反応に対応しています。</p>
+          </article>
+        </div>
+        <details class="content-disclosure">
+          <summary>v0.2.15以前の更新内容</summary>
+          <div class="history-list">
+            <article class="history-item">
+              <h3>v0.2.15 / 2026-07-04</h3>
+              <p>Windows版の動物設定で、固定表示とランダム表示を1匹ごとに組み合わせられるようにしました。ランダム枠は全動物または種類別に絞り込め、全体ランダムも種類指定に対応しました。選べる動物は57種類です。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.14 / 2026-07-03</h3>
+              <p>動物選択の保存を安定したID方式へ切り替え、過去設定でハシビロコウが別の動物として復元されることがある問題を修正しました。Windows版とMac版の動物選択メニューを種類別に整理しています。選べる動物は57種類のままです。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.13 / 2026-07-03</h3>
+              <p>Windows版の動物選択の保存を安定したID方式へ切り替え、名簿追加で選択がずれる問題を修正しました。選べる動物は57種類のままです。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.12 / 2026-07-03</h3>
+              <p>白黒長毛ハムスター2と、作り直した赤目・無模様の真のアルビノシマリスを追加しました。選べる動物は57種類です。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.11 / 2026-07-02</h3>
+              <p>アルビノシマリス枠を新しい素材の確認まで公開選択肢から外しました。チンチラのベージュ/エボニーとブルーフーディッドのファンシーラット色調補正は維持し、選べる動物は55種類です。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.10 / 2026-07-02</h3>
+              <p>チンチラのベージュ/エボニーを追加し、黒目の白いシマリス枠を赤目で無模様の真のアルビノシマリスへ差し替え、ブルーフーディッドのファンシーラットの色調をグレー寄りに整えました。選べる動物は56種類です。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.9 / 2026-07-02</h3>
+              <p>候補の動物12種類を追加し、選べる動物を54種類に増やしました。真のアルビノシマリスは白背景での見え方修正まで一時的に外しています。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.8 / 2026-07-01</h3>
+              <p>ライオンラビットと、動きが控えめなハシビロコウを追加し、選べる動物を42種類に増やしました。真のアルビノシマリスは白背景での見え方を直すまで一時的に外しています。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.7 / 2026-07-01</h3>
+              <p>真のアルビノシマリスを白背景での視認性修正まで一時的に外し、公開runtimeを40種類に整理しました。Windows版とMac版の動物選択、サイズ変更、表示数、言語、表示先ディスプレイ設定は継続しています。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.6 / 2026-06-30</h3>
+              <p>青緑マメルリハ、真のアルビノシマリス、ミニチュアシュナウザー、オオサンショウウオ、ハクセキレイ、キジ白猫を追加し、選べる動物を41種類に増やしました。既存のインコ、クアッカ、ロボロフスキー、猫・犬アセットも見直し、ヒョウモントカゲモドキのターン中のサイズを補正しています。Windowsのmixed-DPIマルチモニター表示も修正しました。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.5 / 2026-06-29</h3>
+              <p>Windowsのマルチモニター表示で、4KとフルHDなど解像度やDPIスケールが異なる環境でも、動物が小さくなったり位置がずれたりしにくいように修正しました。動物数は35種類のままです。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.4 / 2026-06-28</h3>
+              <p>19種類の動物を追加し、選べる動物を35種類に増やしました。シマリス、ヒョウモントカゲモドキ、水色イエアメガエル、鳥類、猫種、犬種、ロボロフスキー、ロシアンスモーク白のモルモット、クアッカワラビーを追加しています。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.3 / 2026-06-28</h3>
+              <p>Windows版の設定UIで、名前変更ダイアログと設定フッターのボタンが見切れないようにした修正版です。動物数は16種類のままです。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.2 / 2026-06-27</h3>
+              <p>Mac版にWindows版と同じ16種類の動物選択、1匹ごとのサイズ変更、表示数、言語切り替え、表示先ディスプレイ設定を反映しました。Windows版にはトレイの Language メニューを追加しました。PagesもJP/EN切り替えと動物グリッド表示に更新しています。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.2.1 / 2026-06-27</h3>
+              <p>Windows版のセキュリティと信頼性を整え、Mac版のZIPも v0.2.1 として公開した更新です。Windows用のバージョン情報、アプリアイコン、更新処理、SHA256検証情報を追加しました。動物数は16種類のままです。</p>
+            </article>
+            <article class="history-item">
+              <h3>v0.1.5 / 2026-06-21</h3>
+              <p>16種類の小動物を先行公開したプレビュー版です。Windows版とMac版で、歩き、待機、クリック反応、表示数変更を試せます。</p>
+            </article>
+          </div>
+        </details>
+        <details class="content-disclosure">
+          <summary>v0.2.16の詳細</summary>
+          <div class="disclosure-body">
+            <p>v0.2.16 は、60種類の動物を試せるWindows / Macプレビュー版です。白地に茶色のセーブルパンダ、一般的なセーブル、白い毛と赤い目のアルビノのフェレット3種を追加しました。Windows版では固定枠とランダム枠の組み合わせ、1匹ごとの種類別ランダム、全体ランダムの種類絞り込みを設定できます。動物選択、サイズ変更、表示数、言語、表示先ディスプレイ設定も利用できます。木、種、餌などの追加アイテムはこの版では表示しません。</p>
+          </div>
+        </details>
+        <a class="release-archive-link" href="https://github.com/UDteach/AnimalsDesktop/releases">
+          過去のリリースを見る <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+        </a>
+      </section>
+
+      <section class="english" id="english" hidden>
+        <h2>About Animals Desktop</h2>
+        <p>Animals Desktop is a small desktop pet app for Windows and macOS. It includes sixty animals, including Sable Panda, Sable, and Albino ferrets, that walk near the Windows taskbar or above the Mac Dock. You can change the visible count and each animal's size, then enjoy walking, idle motion, and click reactions.</p>
+        <p>v0.2.16 is an early preview with sixty animals and core motion. On Windows, fixed animals and random slots can be mixed per pet. Random slots can target all animals or one animal type, and global random mode can also be filtered by type. The tray Language menu changes the Windows app language. On Windows 10/11, extract the ZIP and run <code>AnimalsDesktop.exe</code>. On Mac, extract the Apple Silicon or Intel ZIP and run <code>AnimalsDesktop.app</code>.</p>
+        <h3 class="download-alternatives-title">Other downloads</h3>
+        <div class="detail-links">
+          <a href="https://github.com/UDteach/AnimalsDesktop/releases/download/v0.2.16/AnimalsDesktop-windows-amd64-no-network.zip"><i class="fa-brands fa-windows" aria-hidden="true"></i> Windows x64 / no-network</a>
+          <a href="https://github.com/UDteach/AnimalsDesktop/releases/download/v0.2.16/AnimalsDesktop-windows-386.zip"><i class="fa-brands fa-windows" aria-hidden="true"></i> Windows x86 / 32-bit</a>
+          <a href="https://github.com/UDteach/AnimalsDesktop/releases/download/v0.2.16/AnimalsDesktop-macos-amd64.zip"><i class="fa-brands fa-apple" aria-hidden="true"></i> Mac Intel / macOS 12+</a>
+          <a href="https://github.com/UDteach/AnimalsDesktop/releases/download/v0.2.16/SHA256SUMS.txt"><i class="fa-solid fa-shield-halved" aria-hidden="true"></i> SHA256SUMS</a>
+        </div>
+        <details class="content-disclosure">
+          <summary>Choose a Mac build</summary>
+          <div class="disclosure-body">
+            <p>Both ZIPs support macOS 12 Monterey or later. Choose Apple Silicon for a Mac with an M1 or later Apple chip, and choose Intel for an Intel-based Mac.</p>
+          </div>
+        </details>
+        <details class="content-disclosure">
+          <summary>About the no-network edition</summary>
+          <div class="disclosure-body">
+            <p>The v0.2.16 Windows packages are unsigned, so Smart App Control, SmartScreen, or security software may warn about or block them. The Windows 64-bit no-network edition disables automatic startup update checks, tray update checks, and update ZIP downloads for security review; it does not bypass these warnings. See the <a href="https://support.microsoft.com/en-us/windows/security/threat-malware-protection/smart-app-control-frequently-asked-questions">Smart App Control FAQ</a>, <a href="https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation">SmartScreen reputation</a>, and the Japanese supplemental <a href="https://college.globalsign.com/blog/smartappcontrol_20260423/">GlobalSign Smart App Control case study</a>.</p>
+          </div>
+        </details>
+
+        <h2>Available animals</h2>
+        <p>The public catalog includes sixty animals: birds, cats, dogs, reptiles, amphibians, rabbits, and small mammals.</p>
+        <div class="english-animal-list" aria-label="Sixty available animals"></div>
+        <p>v0.2.16 adds Sable Panda, Sable, and Albino ferrets.</p>
+
+        <h2>Features</h2>
+        <div class="features">
+          <article>
+            <h3>Walking and click reactions</h3>
+            <p>Animals appear near the Windows taskbar or above the Mac Dock. Click an animal for a small reaction while keeping normal work clicks out of the way.</p>
+          </article>
+          <article>
+            <h3>Count, size, and position</h3>
+            <p>Show up to 10 animals and adjust each animal's size. On Windows, choose the display, walking range, and vertical placement. On Mac, choose the target display.</p>
+          </article>
+          <article>
+            <h3>Simple Windows and Mac preview</h3>
+          <p>Windows v0.2.16 and Mac v0.2.16 are available here. This preview focuses on animal motion and does not show trees, seeds, food, or other props.</p>
+          </article>
+        </div>
+
+        <h2>Version Changes</h2>
+        <p>Windows and Mac are currently on v0.2.16.</p>
+        <div class="version-list">
+          <article class="version-card">
+            <div>
+              <h3>v0.2.16</h3>
+              <time datetime="2026-07-27">July 27, 2026</time>
+            </div>
+            <p>Adds Sable Panda, Sable, and Albino ferrets. The selectable roster now contains sixty animals, with animal selection, walking, idle motion, and click reactions on Windows and Mac.</p>
+          </article>
+        </div>
+        <details class="content-disclosure">
+          <summary>Changes before v0.2.16</summary>
+          <div class="history-list english-history-list"></div>
+        </details>
+        <details class="content-disclosure">
+          <summary>About v0.2.16</summary>
+          <div class="disclosure-body">
+            <p>v0.2.16 is a Windows and Mac preview for trying sixty animals. It adds a white-and-brown Sable Panda ferret, a common Sable ferret, and a white, red-eyed Albino ferret. On Windows, fixed animals and random slots can be mixed per pet, per-slot random can target an animal type, and global random mode can be filtered by type. Other controls cover animal selection, size changes, visible count, language, and display settings. Extra props such as trees, seeds, and food are not shown in this version.</p>
+          </div>
+        </details>
+        <a class="release-archive-link" href="https://github.com/UDteach/AnimalsDesktop/releases">View past releases <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+      </section>
+      </div>
+
+      <footer class="site-footer">
+        <span>Animals Desktop</span>
+        <p class="creator-links"><a href="https://x.com/kdevelopk" target="_blank" rel="noopener noreferrer">kdevelopk (X)</a> · <a href="https://kdevelopk.pages.dev/" target="_blank" rel="noopener noreferrer">kdevelopk.pages.dev</a></p>
+      </footer>
+    </main>
+
+    <script>
+      (() => {
+        const languageCopy = {
+          ja: {
+            lead: "60種類の動物から選べます。",
+            releaseBoundary: "公開版 v0.2.16：60種類",
+            windows: "Windows版 x64をダウンロード",
+            mac: "Mac版 Apple Silicon（macOS 12+）をダウンロード",
+            hint: "動物をクリック",
+          },
+          en: {
+            lead: "Choose from 60 animals.",
+            releaseBoundary: "Public v0.2.16: 60 animals",
+            windows: "Download Windows x64",
+            mac: "Download Mac Apple Silicon (macOS 12+)",
+            hint: "Click an animal",
+          },
+        };
+        const englishSection = document.querySelector(".english");
+        const languageButtons = Array.from(document.querySelectorAll("[data-language]"));
+        const setPageLanguage = (language) => {
+          const safeLanguage = language === "en" ? "en" : "ja";
+          document.documentElement.lang = safeLanguage;
+          document.querySelectorAll("[data-language-copy]").forEach((element) => {
+            element.textContent = languageCopy[safeLanguage][element.dataset.languageCopy];
+          });
+          languageButtons.forEach((button) => {
+            if (button.dataset.language === safeLanguage) {
+              button.setAttribute("aria-current", "page");
+            } else {
+              button.removeAttribute("aria-current");
+            }
+          });
+          if (englishSection) englishSection.hidden = safeLanguage !== "en";
+        };
+        languageButtons.forEach((button) => {
+          button.addEventListener("click", () => {
+            setPageLanguage(button.dataset.language);
+            try {
+              localStorage.setItem("animalsDesktopLanguage", button.dataset.language);
+            } catch (error) {
+            }
+          });
+        });
+        let savedLanguage = "ja";
+        try {
+          savedLanguage = localStorage.getItem("animalsDesktopLanguage") || "ja";
+        } catch (error) {
+        }
+        setPageLanguage(savedLanguage);
+
+        const animalCatalog = [
+          ["chinchilla_standard_gray", "チンチラ"],
+          ["chinchilla_beige", "チンチラ（ベージュ）"],
+          ["chinchilla_ebony", "チンチラ（エボニー）"],
+          ["hamster_golden_syrian", "ハムスター"],
+          ["djungarian_hamster", "ジャンガリアンハムスター"],
+          ["campbell_hamster", "キャンベルハムスター"],
+          ["macaroni_mouse_tan", "マカロニマウス"],
+          ["sugar_glider_gray", "モモンガ"],
+          ["rabbit_chestnut_agouti", "うさぎ"],
+          ["holland_lop_broken_orange", "ホーランドロップ"],
+          ["netherland_dwarf_chestnut", "ネザーランドドワーフ"],
+          ["himalayan_rabbit", "ヒマラヤンうさぎ"],
+          ["gecko_gray_brown", "ヤモリ"],
+          ["guinea_pig_tricolor", "モルモット"],
+          ["fancy_rat_hooded", "ファンシーラット"],
+          ["richardsons_ground_squirrel", "リチャードソンジリス"],
+          ["yorkshire_terrier_longcoat", "ヨークシャーテリア"],
+          ["chipmunk_striped", "シマリス"],
+          ["true_albino_chipmunk", "真のアルビノシマリス"],
+          ["gecko_leopard", "ヒョウモントカゲモドキ"],
+          ["whites_tree_frog_blue", "水色イエアメガエル"],
+          ["budgerigar_green_yellow", "セキセイインコ"],
+          ["cockatiel_normal_gray", "オカメインコ"],
+          ["java_sparrow_normal", "文鳥"],
+          ["parrotlet_green", "マメルリハ"],
+          ["parrotlet_blue_green", "マメルリハ（青緑）"],
+          ["lovebird_peach_faced", "コザクラインコ"],
+          ["ragdoll_seal_bicolor", "ラグドール"],
+          ["scottish_fold_silver_tabby", "スコティッシュフォールド"],
+          ["french_bulldog_fawn", "フレンチブルドッグ"],
+          ["maine_coon_brown_tabby", "メインクーン"],
+          ["domestic_shorthair_calico", "三毛猫"],
+          ["british_shorthair_blue", "ブリティッシュショートヘア"],
+          ["toy_poodle_apricot", "トイプードル"],
+          ["munchkin_brown_tabby", "マンチカン"],
+          ["roborovski_hamster", "ロボロフスキー"],
+          ["guinea_pig_russian_smoke_white", "モルモット（ロシアンスモーク白）"],
+          ["quokka", "クアッカワラビー"],
+          ["miniature_schnauzer_salt_pepper", "ミニチュアシュナウザー"],
+          ["japanese_giant_salamander", "オオサンショウウオ"],
+          ["white_wagtail", "ハクセキレイ"],
+          ["domestic_shorthair_tabby_white_stocky", "キジ白猫"],
+          ["lionhead_rabbit_brown_white", "ライオンラビット"],
+          ["shoebill_stork", "ハシビロコウ"],
+          ["leucistic_sugar_glider", "リューシスティックモモンガ"],
+          ["african_dormouse", "アフリカヤマネ"],
+          ["netherland_dwarf_himalayan", "ネザーランドドワーフ（ヒマラヤン）"],
+          ["american_flying_squirrel", "アメリカモモンガ"],
+          ["longhair_hamster_black_white", "白黒長毛ハムスター"],
+          ["longhair_hamster_black_white_masked", "白黒長毛ハムスター2"],
+          ["djungarian_hamster_yellow", "イエロージャンガリアン"],
+          ["djungarian_hamster_pearl_white", "パールホワイトジャンガリアン"],
+          ["fancy_rat_blue_hooded", "ファンシーラット（ブルーフーディッド）"],
+          ["fancy_rat_chocolate_self", "ファンシーラット（チョコレートセルフ）"],
+          ["fancy_rat_cream_agouti", "ファンシーラット（クリームアグーチ）"],
+          ["rabbit_gray", "グレーうさぎ"],
+          ["african_fat_tailed_gecko", "ニシアフリカトカゲモドキ"],
+          ["ferret_sable_panda", "フェレット（セーブルパンダ）"],
+          ["ferret_sable", "フェレット（セーブル）"],
+          ["ferret_albino", "フェレット（アルビノ）"],
+        ];
+        const animalTextEn = [
+          "Chinchilla", "Chinchilla - beige", "Chinchilla - ebony", "Hamster", "Djungarian hamster", "Campbell hamster", "Macaroni mouse", "Sugar glider", "Rabbit", "Holland Lop - broken orange", "Netherland Dwarf - chestnut", "Himalayan Rabbit", "Gecko", "Guinea pig - tricolor", "Fancy rat - hooded", "Richardson's ground squirrel", "Yorkshire Terrier - long coat", "Chipmunk - striped", "True albino chipmunk", "Leopard gecko", "Blue White's tree frog", "Budgerigar - green yellow", "Cockatiel - normal gray", "Java sparrow - normal", "Parrotlet - green", "Parrotlet - blue green", "Lovebird - peach faced", "Ragdoll - seal bicolor", "Scottish Fold - silver tabby", "French Bulldog - fawn", "Maine Coon - brown tabby", "Domestic Shorthair - calico", "British Shorthair - blue", "Toy Poodle - apricot", "Munchkin - brown tabby", "Roborovski hamster", "Guinea pig - Russian smoke white", "Quokka", "Miniature Schnauzer - salt and pepper", "Japanese giant salamander", "White wagtail", "Domestic Shorthair - tabby white", "Lionhead rabbit - brown white", "Shoebill", "Leucistic sugar glider", "African dormouse", "Netherland Dwarf Himalayan", "American flying squirrel", "Black-and-white long-haired hamster", "Black-and-white long-haired hamster 2", "Yellow Djungarian hamster", "Pearl white Djungarian hamster", "Fancy rat - blue hooded", "Fancy rat - chocolate self", "Fancy rat - cream agouti", "Gray rabbit", "African fat-tailed gecko", "Sable panda ferret", "Sable ferret", "Albino ferret",
+        ];
+        const releaseHistoryEn = [
+          ["v0.2.15 / July 4, 2026", "Adds Windows settings for mixing fixed animals with random slots per pet. Random slots can target all animals or a selected animal type, and global random mode can also be filtered by animal type. The selectable roster remains fifty-seven animals."],
+          ["v0.2.14 / July 3, 2026", "Saves animal selections by stable IDs, fixes legacy settings that could restore the shoebill as another animal, and groups the Windows and Mac animal pickers by type. The selectable roster remains fifty-seven animals."],
+          ["v0.2.13 / July 3, 2026", "Switches the Windows animal selection settings to stable IDs so roster additions do not remap saved choices. The selectable roster remains fifty-seven animals."],
+          ["v0.2.12 / July 3, 2026", "Adds a second black-and-white long-haired hamster and a rebuilt red-eyed, no-marking true albino chipmunk. The selectable roster is now fifty-seven animals."],
+          ["v0.2.11 / July 2, 2026", "Removes the albino chipmunk slot from the public picker until replacement art passes review. The beige and ebony chinchilla variants and blue hooded fancy rat tone fix remain available. The selectable roster is now fifty-five animals."],
+          ["v0.2.10 / July 2, 2026", "Adds beige and ebony chinchilla variants, replaces the black-eyed white chipmunk slot with the red-eyed no-marking true albino chipmunk, and tunes the blue hooded fancy rat toward a cooler gray-blue tone. The selectable roster is now fifty-six animals."],
+          ["v0.2.9 / July 2, 2026", "Adds 12 more animals, expanding the selectable roster to fifty-four animals. The true albino chipmunk is temporarily held until its white-background readability is repaired."],
+          ["v0.2.8 / July 1, 2026", "Adds lionhead rabbit and a special low-motion shoebill, expanding the selectable roster to forty-two animals. The true albino chipmunk is temporarily held until its white-background readability is repaired."],
+          ["v0.2.7 / July 1, 2026", "Temporarily removes the true albino chipmunk from the public runtime while its white-background readability is repaired, bringing the public selectable roster to forty animals. Windows and Mac selection, size, count, language, and display controls continue to work."],
+          ["v0.2.6 / June 30, 2026", "Adds blue-green parrotlet, true albino chipmunk, Miniature Schnauzer, Japanese giant salamander, white wagtail, and a tabby-white domestic shorthair, expanding the selectable roster to forty-one. It also refreshes selected bird, quokka, Roborovski hamster, cat, and dog assets, corrects leopard gecko turn-frame sizing, and fixes Windows mixed-DPI multi-monitor display behavior."],
+          ["v0.2.5 / June 29, 2026", "Fixes Windows multi-monitor display with mixed resolutions or DPI scaling, such as 4K plus Full HD, so animals keep the expected apparent size and bottom position. The selectable animal count remains thirty-five."],
+          ["v0.2.4 / June 28, 2026", "Adds nineteen animals and expands the selectable roster to thirty-five. New additions include chipmunk, leopard gecko, blue White's tree frog, birds, cats, dog breeds, Roborovski hamster, Russian smoke white guinea pig, and quokka."],
+          ["v0.2.3 / June 28, 2026", "Fixes Windows settings UI clipping in the rename dialog and settings footer. The selectable animal count remains sixteen."],
+          ["v0.2.2 / June 27, 2026", "Adds Mac parity for the sixteen selectable animals, per-pet size changes, visible count, language switching, and display selection. Windows now has a tray Language menu. Pages now include JP/EN switching and a compact animal grid."],
+          ["v0.2.1 / June 27, 2026", "A Windows security and reliability update that also published Mac ZIPs as v0.2.1. It adds Windows version metadata, app icons, updater hardening, and SHA256 verification files. The available animal count stays at sixteen."],
+          ["v0.1.5 / June 21, 2026", "The preview release that introduced sixteen small animals. Windows and Mac can try walking, idle motion, click reactions, and visible-count settings."],
+        ];
+        const englishAnimalList = document.querySelector(".english-animal-list");
+        if (englishAnimalList) englishAnimalList.textContent = animalTextEn.join(" · ");
+        const englishHistoryList = document.querySelector(".english-history-list");
+        if (englishHistoryList) {
+          releaseHistoryEn.forEach(([title, body]) => {
+            const item = document.createElement("article");
+            item.className = "history-item";
+            const heading = document.createElement("h3");
+            heading.textContent = title;
+            const copy = document.createElement("p");
+            copy.textContent = body;
+            item.append(heading, copy);
+            englishHistoryList.append(item);
+          });
+        }
+        const categoryGroups = {
+          rabbit: new Set([
+            "rabbit_chestnut_agouti",
+            "holland_lop_broken_orange",
+            "netherland_dwarf_chestnut",
+            "himalayan_rabbit",
+            "lionhead_rabbit_brown_white",
+            "netherland_dwarf_himalayan",
+            "rabbit_gray",
+          ]),
+          bird: new Set([
+            "budgerigar_green_yellow",
+            "cockatiel_normal_gray",
+            "java_sparrow_normal",
+            "parrotlet_green",
+            "parrotlet_blue_green",
+            "lovebird_peach_faced",
+            "white_wagtail",
+            "shoebill_stork",
+          ]),
+          cat: new Set([
+            "ragdoll_seal_bicolor",
+            "scottish_fold_silver_tabby",
+            "maine_coon_brown_tabby",
+            "domestic_shorthair_calico",
+            "british_shorthair_blue",
+            "munchkin_brown_tabby",
+            "domestic_shorthair_tabby_white_stocky",
+          ]),
+          dog: new Set([
+            "yorkshire_terrier_longcoat",
+            "french_bulldog_fawn",
+            "toy_poodle_apricot",
+            "miniature_schnauzer_salt_pepper",
+          ]),
+          reptile: new Set([
+            "gecko_gray_brown",
+            "gecko_leopard",
+            "whites_tree_frog_blue",
+            "japanese_giant_salamander",
+            "african_fat_tailed_gecko",
+          ]),
+        };
+        const categoryFor = (id) =>
+          Object.entries(categoryGroups).find(([, ids]) => ids.has(id))?.[0] || "small";
+        const animalGrid = document.querySelector(".current-grid");
+        if (animalGrid) {
+          const cards = animalCatalog.map(([id, name]) => {
+            const card = document.createElement("article");
+            card.className = "animal-card";
+            card.dataset.category = categoryFor(id);
+            const icon = document.createElement("img");
+            icon.src = `assets/animal-icons/current-${id}.png`;
+            icon.alt = `${name}のアイコン`;
+            const heading = document.createElement("h3");
+            heading.textContent = name;
+            card.append(icon, heading);
+            return card;
+          });
+          animalGrid.replaceChildren(...cards);
+        }
+        const catalogToggle = document.querySelector(".catalog-toggle");
+        const catalogStatus = document.querySelector(".catalog-status");
+        const catalogFilters = Array.from(document.querySelectorAll(".catalog-filter"));
+        const categoryLabels = {
+          small: "小動物",
+          rabbit: "うさぎ",
+          bird: "鳥",
+          cat: "猫",
+          dog: "犬",
+          reptile: "爬虫・両生類",
+        };
+        if (animalGrid && catalogToggle) {
+          const toggleLabel = catalogToggle.querySelector("span");
+          const toggleIcon = catalogToggle.querySelector("i");
+          catalogToggle.addEventListener("click", () => {
+            const expanded = catalogToggle.getAttribute("aria-expanded") !== "true";
+            catalogToggle.setAttribute("aria-expanded", String(expanded));
+            animalGrid.classList.toggle("is-collapsed", !expanded);
+            toggleLabel.textContent = expanded ? "先頭だけ表示" : "60種類すべて見る";
+            toggleIcon.className = expanded ? "fa-solid fa-chevron-up" : "fa-solid fa-chevron-down";
+            catalogStatus.textContent = expanded ? "60種類すべてを表示しています。" : "先頭10種類を表示しています。";
+          });
+        }
+        if (animalGrid && catalogToggle && catalogStatus) {
+          catalogFilters.forEach((filter) => {
+            filter.addEventListener("click", () => {
+              const category = filter.dataset.category;
+              catalogFilters.forEach((item) => item.setAttribute("aria-pressed", String(item === filter)));
+              if (category === "all") {
+                animalGrid.classList.add("is-collapsed");
+                animalGrid.querySelectorAll(".animal-card").forEach((card) => { card.hidden = false; });
+                catalogToggle.hidden = false;
+                catalogToggle.setAttribute("aria-expanded", "false");
+                catalogToggle.querySelector("span").textContent = "60種類すべて見る";
+                catalogToggle.querySelector("i").className = "fa-solid fa-chevron-down";
+                catalogStatus.textContent = "先頭10種類を表示しています。";
+                return;
+              }
+              animalGrid.classList.remove("is-collapsed");
+              let visibleCount = 0;
+              animalGrid.querySelectorAll(".animal-card").forEach((card) => {
+                card.hidden = card.dataset.category !== category;
+                if (!card.hidden) visibleCount += 1;
+              });
+              catalogToggle.hidden = true;
+              catalogStatus.textContent = `${categoryLabels[category]}を${visibleCount}種類表示しています。`;
+            });
+          });
+        }
+
+        const FRAME_MAX = 13;
+        const WALK_SEQUENCE = [3, 4, 5, 4];
+        const IDLE_SEQUENCE = [0, 1, 2, 1];
+        const REACTION_SEQUENCE = [6, 7, 8, 9, 10, 11, 12, 13, 12, 11];
+        const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+        const announcement = document.querySelector(".pet-announcement");
+        const records = Array.from(document.querySelectorAll(".web-pet")).map((element, index) => ({
+          element,
+          stage: element.parentElement,
+          start: Number(element.dataset.start || 0),
+          speed: Number(element.dataset.speed || 24),
+          direction: Number(element.dataset.direction || 1),
+          facing: Number(element.dataset.facing || 1),
+          x: 0,
+          initialized: false,
+          reactingSince: 0,
+          pauseUntil: 0,
+          nextPause: 3500 + index * 730,
+        }));
+
+        const setFrame = (record, frame) => {
+          const safeFrame = Math.max(0, Math.min(FRAME_MAX, frame));
+          record.element.style.backgroundPosition = `${(safeFrame / FRAME_MAX) * 100}% 0`;
+        };
+
+        const placeRecord = (record) => {
+          const stageWidth = record.stage.clientWidth;
+          const petWidth = record.element.getBoundingClientRect().width;
+          const maxX = Math.max(0, stageWidth - petWidth);
+          if (!record.initialized) {
+            record.x = record.start * maxX;
+            record.initialized = true;
+          }
+          record.x = Math.max(0, Math.min(maxX, record.x));
+          record.element.style.left = `${record.x}px`;
+          record.element.style.transform = `scaleX(${record.direction * record.facing})`;
+          return { maxX, stageWidth };
+        };
+
+        records.forEach((record) => {
+          record.element.addEventListener("click", () => {
+            record.reactingSince = performance.now();
+            record.element.classList.remove("is-reacting");
+            void record.element.offsetWidth;
+            record.element.classList.add("is-reacting");
+            if (announcement) {
+              announcement.textContent = `${record.element.getAttribute("aria-label").replace("をクリック", "")}が反応しました`;
+            }
+          });
+        });
+
+        const renderReducedMotion = () => {
+          records.forEach((record) => {
+            placeRecord(record);
+            setFrame(record, 0);
+          });
+        };
+
+        let previousTime = performance.now();
+        const tick = (now) => {
+          const deltaSeconds = Math.min(0.05, Math.max(0, (now - previousTime) / 1000));
+          previousTime = now;
+
+          if (reducedMotion.matches) {
+            renderReducedMotion();
+            requestAnimationFrame(tick);
+            return;
+          }
+
+          if (!document.hidden) {
+            records.forEach((record, index) => {
+              const { maxX, stageWidth } = placeRecord(record);
+              let frame;
+
+              if (record.reactingSince) {
+                const reactionStep = Math.floor((now - record.reactingSince) / 110);
+                if (reactionStep >= REACTION_SEQUENCE.length) {
+                  record.reactingSince = 0;
+                  record.element.classList.remove("is-reacting");
+                  record.nextPause = now + 2800 + index * 190;
+                  frame = WALK_SEQUENCE[0];
+                } else {
+                  frame = REACTION_SEQUENCE[reactionStep];
+                }
+              } else if (now < record.pauseUntil) {
+                frame = IDLE_SEQUENCE[Math.floor(now / 380) % IDLE_SEQUENCE.length];
+              } else {
+                if (now > record.nextPause) {
+                  record.pauseUntil = now + 750 + (index % 3) * 280;
+                  record.nextPause = now + 4300 + (index % 4) * 940;
+                  frame = IDLE_SEQUENCE[0];
+                } else {
+                  const scale = stageWidth / 708;
+                  record.x += record.direction * record.speed * scale * deltaSeconds;
+                  if (record.x >= maxX) {
+                    record.x = maxX;
+                    record.direction = -1;
+                    record.pauseUntil = now + 420;
+                  } else if (record.x <= 0) {
+                    record.x = 0;
+                    record.direction = 1;
+                    record.pauseUntil = now + 420;
+                  }
+                  frame = WALK_SEQUENCE[Math.floor(now / 135) % WALK_SEQUENCE.length];
+                }
+              }
+
+              record.element.style.left = `${record.x}px`;
+              record.element.style.transform = `scaleX(${record.direction * record.facing})`;
+              setFrame(record, frame);
+            });
+          }
+
+          requestAnimationFrame(tick);
+        };
+
+        window.addEventListener("resize", () => {
+          records.forEach((record) => {
+            record.initialized = false;
+          });
+        });
+
+        renderReducedMotion();
+        requestAnimationFrame(tick);
+      })();
+    </script>
+  </body>
+</html>

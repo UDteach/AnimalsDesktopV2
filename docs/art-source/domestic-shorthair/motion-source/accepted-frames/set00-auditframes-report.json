@@ -1,0 +1,1232 @@
+{
+  "frames_dir": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00",
+  "pattern": "frame-%02d.png",
+  "strict": true,
+  "frame_width": 96,
+  "frame_height": 64,
+  "set_count": 1,
+  "frame_count": 62,
+  "valid": 62,
+  "missing": 0,
+  "invalid": 0,
+  "warnings": 182,
+  "sets": [
+    {
+      "set": "set00",
+      "dir": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00",
+      "valid": 62,
+      "missing": 0,
+      "invalid": 0,
+      "warnings": 182,
+      "frames": [
+        {
+          "frame": 0,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-00.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 6,
+            "w": 87,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2144,
+            "fill_per_mille": 473
+          }
+        },
+        {
+          "frame": 1,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-01.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 6,
+            "w": 88,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2135,
+            "fill_per_mille": 466
+          }
+        },
+        {
+          "frame": 2,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-02.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 8,
+            "w": 88,
+            "h": 50
+          },
+          "body": {
+            "alpha_pixels": 2057,
+            "fill_per_mille": 467
+          }
+        },
+        {
+          "frame": 3,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-03.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 7,
+            "w": 88,
+            "h": 51
+          },
+          "body": {
+            "alpha_pixels": 2054,
+            "fill_per_mille": 457
+          }
+        },
+        {
+          "frame": 4,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-04.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 17,
+            "w": 88,
+            "h": 41
+          },
+          "body": {
+            "alpha_pixels": 1834,
+            "fill_per_mille": 508
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 5,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-05.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 17,
+            "w": 88,
+            "h": 41
+          },
+          "body": {
+            "alpha_pixels": 1833,
+            "fill_per_mille": 508
+          }
+        },
+        {
+          "frame": 6,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-06.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 20,
+            "w": 88,
+            "h": 38
+          },
+          "body": {
+            "alpha_pixels": 1740,
+            "fill_per_mille": 520
+          }
+        },
+        {
+          "frame": 7,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-07.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 28,
+            "w": 66,
+            "h": 30
+          },
+          "body": {
+            "alpha_pixels": 1100,
+            "fill_per_mille": 555
+          },
+          "warnings": [
+            "disconnected alpha components: components=21 detached=2 detached_area=13 largest_detached=8",
+            "motion consistency: body alpha area jumps from previous frame 06 to 07 (1740 -\u003e 1100)",
+            "motion consistency: isolated bbox width outlier at frame 07 (66 vs neighbor avg 88)",
+            "motion consistency: isolated body alpha area outlier at frame 07 (1100 vs neighbor avg 1722)"
+          ]
+        },
+        {
+          "frame": 8,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-08.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 20,
+            "w": 88,
+            "h": 38
+          },
+          "body": {
+            "alpha_pixels": 1704,
+            "fill_per_mille": 509
+          },
+          "warnings": [
+            "motion consistency: body alpha area jumps from previous frame 07 to 08 (1100 -\u003e 1704)"
+          ]
+        },
+        {
+          "frame": 9,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-09.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 24,
+            "w": 88,
+            "h": 34
+          },
+          "body": {
+            "alpha_pixels": 1671,
+            "fill_per_mille": 558
+          }
+        },
+        {
+          "frame": 10,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-10.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 10,
+            "w": 87,
+            "h": 47
+          },
+          "body": {
+            "alpha_pixels": 1647,
+            "fill_per_mille": 402
+          },
+          "warnings": [
+            "disconnected alpha components: components=17 detached=4 detached_area=26 largest_detached=11",
+            "motion consistency: bbox height jumps from previous frame 09 to 10 (34 -\u003e 47)",
+            "motion consistency: isolated bbox height outlier at frame 10 (47 vs neighbor avg 36)"
+          ]
+        },
+        {
+          "frame": 11,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-11.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 20,
+            "w": 88,
+            "h": 38
+          },
+          "body": {
+            "alpha_pixels": 1713,
+            "fill_per_mille": 512
+          },
+          "warnings": [
+            "motion consistency: isolated bbox height outlier at frame 11 (38 vs neighbor avg 50)",
+            "motion consistency: isolated body alpha area outlier at frame 11 (1713 vs neighbor avg 2740)",
+            "motion consistency: isolated body fill ratio outlier at frame 11 (512 vs neighbor avg 673 permille)"
+          ]
+        },
+        {
+          "frame": 12,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-12.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3832,
+            "fill_per_mille": 944
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 77 at y=55 near lower content",
+            "transparent pinholes: holes=29 area=163 largest=18",
+            "motion consistency: bbox height jumps from previous frame 11 to 12 (38 -\u003e 52)",
+            "motion consistency: body alpha area jumps from previous frame 11 to 12 (1713 -\u003e 3832)",
+            "motion consistency: body fill ratio jumps from previous frame 11 to 12 (512 -\u003e 944 permille)",
+            "motion consistency: isolated bbox height outlier at frame 12 (52 vs neighbor avg 35)",
+            "motion consistency: isolated body alpha area outlier at frame 12 (3832 vs neighbor avg 1602)",
+            "motion consistency: isolated body fill ratio outlier at frame 12 (944 vs neighbor avg 529 permille)"
+          ]
+        },
+        {
+          "frame": 13,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-13.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 27,
+            "w": 88,
+            "h": 31
+          },
+          "body": {
+            "alpha_pixels": 1491,
+            "fill_per_mille": 546
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 70 at y=47 with 38px row drop below",
+            "transparent pinholes: holes=1 area=2 largest=2",
+            "motion consistency: bbox height jumps from previous frame 12 to 13 (52 -\u003e 31)",
+            "motion consistency: body alpha area jumps from previous frame 12 to 13 (3832 -\u003e 1491)",
+            "motion consistency: body fill ratio jumps from previous frame 12 to 13 (944 -\u003e 546 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 13 (1491 vs neighbor avg 2628)",
+            "motion consistency: isolated body fill ratio outlier at frame 13 (546 vs neighbor avg 772 permille)"
+          ]
+        },
+        {
+          "frame": 14,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-14.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 31,
+            "w": 88,
+            "h": 27
+          },
+          "body": {
+            "alpha_pixels": 1424,
+            "fill_per_mille": 599
+          }
+        },
+        {
+          "frame": 15,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-15.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 28,
+            "w": 85,
+            "h": 30
+          },
+          "body": {
+            "alpha_pixels": 1411,
+            "fill_per_mille": 553
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 71 at y=48 with 29px row drop below"
+          ]
+        },
+        {
+          "frame": 16,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-16.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 32,
+            "w": 88,
+            "h": 26
+          },
+          "body": {
+            "alpha_pixels": 1457,
+            "fill_per_mille": 636
+          }
+        },
+        {
+          "frame": 17,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-17.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 29,
+            "w": 88,
+            "h": 29
+          },
+          "body": {
+            "alpha_pixels": 1474,
+            "fill_per_mille": 577
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 18,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-18.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 30,
+            "w": 83,
+            "h": 28
+          },
+          "body": {
+            "alpha_pixels": 1366,
+            "fill_per_mille": 587
+          }
+        },
+        {
+          "frame": 19,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-19.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 19,
+            "w": 88,
+            "h": 39
+          },
+          "body": {
+            "alpha_pixels": 1708,
+            "fill_per_mille": 497
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 20,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-20.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 26,
+            "w": 88,
+            "h": 32
+          },
+          "body": {
+            "alpha_pixels": 1636,
+            "fill_per_mille": 580
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 21,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-21.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 29,
+            "w": 88,
+            "h": 29
+          },
+          "body": {
+            "alpha_pixels": 1446,
+            "fill_per_mille": 566
+          }
+        },
+        {
+          "frame": 22,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-22.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 28,
+            "w": 88,
+            "h": 30
+          },
+          "body": {
+            "alpha_pixels": 1531,
+            "fill_per_mille": 579
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 66 at y=48 with 49px row drop below",
+            "motion consistency: isolated bbox height outlier at frame 22 (30 vs neighbor avg 41)",
+            "motion consistency: isolated body alpha area outlier at frame 22 (1531 vs neighbor avg 2639)",
+            "motion consistency: isolated body fill ratio outlier at frame 22 (579 vs neighbor avg 755 permille)"
+          ]
+        },
+        {
+          "frame": 23,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-23.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3831,
+            "fill_per_mille": 944
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 78 at y=53 with 36px row drop below",
+            "transparent pinholes: holes=16 area=181 largest=34",
+            "motion consistency: bbox height jumps from previous frame 22 to 23 (30 -\u003e 52)",
+            "motion consistency: body alpha area jumps from previous frame 22 to 23 (1531 -\u003e 3831)",
+            "motion consistency: body fill ratio jumps from previous frame 22 to 23 (579 -\u003e 944 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 23 (3831 vs neighbor avg 2739)"
+          ]
+        },
+        {
+          "frame": 24,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-24.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3946,
+            "fill_per_mille": 972
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=41 area=110 largest=9",
+            "motion consistency: isolated body alpha area outlier at frame 24 (3946 vs neighbor avg 2735)",
+            "motion consistency: isolated body fill ratio outlier at frame 24 (972 vs neighbor avg 746 permille)"
+          ]
+        },
+        {
+          "frame": 25,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-25.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 24,
+            "w": 88,
+            "h": 34
+          },
+          "body": {
+            "alpha_pixels": 1639,
+            "fill_per_mille": 547
+          },
+          "warnings": [
+            "motion consistency: bbox height jumps from previous frame 24 to 25 (52 -\u003e 34)",
+            "motion consistency: body alpha area jumps from previous frame 24 to 25 (3946 -\u003e 1639)",
+            "motion consistency: body fill ratio jumps from previous frame 24 to 25 (972 -\u003e 547 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 25 (1639 vs neighbor avg 2703)",
+            "motion consistency: isolated body fill ratio outlier at frame 25 (547 vs neighbor avg 751 permille)"
+          ]
+        },
+        {
+          "frame": 26,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-26.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 26,
+            "w": 86,
+            "h": 32
+          },
+          "body": {
+            "alpha_pixels": 1459,
+            "fill_per_mille": 530
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 36 at y=55 near lower content",
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 27,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-27.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 34,
+            "w": 69,
+            "h": 24
+          },
+          "body": {
+            "alpha_pixels": 978,
+            "fill_per_mille": 590
+          },
+          "warnings": [
+            "disconnected alpha components: components=16 detached=1 detached_area=8 largest_detached=8",
+            "motion consistency: body alpha area jumps from previous frame 26 to 27 (1459 -\u003e 978)",
+            "motion consistency: isolated body alpha area outlier at frame 27 (978 vs neighbor avg 1566)"
+          ]
+        },
+        {
+          "frame": 28,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-28.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 25,
+            "w": 88,
+            "h": 33
+          },
+          "body": {
+            "alpha_pixels": 1672,
+            "fill_per_mille": 575
+          },
+          "warnings": [
+            "motion consistency: body alpha area jumps from previous frame 27 to 28 (978 -\u003e 1672)",
+            "motion consistency: isolated body alpha area outlier at frame 28 (1672 vs neighbor avg 2408)",
+            "motion consistency: isolated body fill ratio outlier at frame 28 (575 vs neighbor avg 768 permille)"
+          ]
+        },
+        {
+          "frame": 29,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-29.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3837,
+            "fill_per_mille": 946
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=20 area=176 largest=25",
+            "motion consistency: bbox height jumps from previous frame 28 to 29 (33 -\u003e 52)",
+            "motion consistency: body alpha area jumps from previous frame 28 to 29 (1672 -\u003e 3837)",
+            "motion consistency: body fill ratio jumps from previous frame 28 to 29 (575 -\u003e 946 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 29 (3837 vs neighbor avg 2641)"
+          ]
+        },
+        {
+          "frame": 30,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-30.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 77,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3610,
+            "fill_per_mille": 901
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 51 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=53 with 68px row drop below",
+            "transparent pinholes: holes=19 area=267 largest=82"
+          ]
+        },
+        {
+          "frame": 31,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-31.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 76,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2365,
+            "fill_per_mille": 598
+          },
+          "warnings": [
+            "disconnected alpha components: components=24 detached=5 detached_area=43 largest_detached=18",
+            "transparent pinholes: holes=14 area=77 largest=18",
+            "motion consistency: body alpha area jumps from previous frame 30 to 31 (3610 -\u003e 2365)",
+            "motion consistency: body fill ratio jumps from previous frame 30 to 31 (901 -\u003e 598 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 31 (2365 vs neighbor avg 3760)",
+            "motion consistency: isolated body fill ratio outlier at frame 31 (598 vs neighbor avg 932 permille)"
+          ]
+        },
+        {
+          "frame": 32,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-32.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3909,
+            "fill_per_mille": 963
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=32 area=146 largest=15",
+            "motion consistency: body alpha area jumps from previous frame 31 to 32 (2365 -\u003e 3909)",
+            "motion consistency: body fill ratio jumps from previous frame 31 to 32 (598 -\u003e 963 permille)"
+          ]
+        },
+        {
+          "frame": 33,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-33.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3942,
+            "fill_per_mille": 971
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=38 area=112 largest=10",
+            "motion consistency: isolated body alpha area outlier at frame 33 (3942 vs neighbor avg 2866)",
+            "motion consistency: isolated body fill ratio outlier at frame 33 (971 vs neighbor avg 720 permille)"
+          ]
+        },
+        {
+          "frame": 34,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-34.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 6,
+            "w": 75,
+            "h": 51
+          },
+          "body": {
+            "alpha_pixels": 1823,
+            "fill_per_mille": 476
+          },
+          "warnings": [
+            "disconnected alpha components: components=61 detached=16 detached_area=400 largest_detached=166",
+            "transparent pinholes: holes=2 area=2 largest=1",
+            "motion consistency: body alpha area jumps from previous frame 33 to 34 (3942 -\u003e 1823)",
+            "motion consistency: body fill ratio jumps from previous frame 33 to 34 (971 -\u003e 476 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 34 (1823 vs neighbor avg 3937)",
+            "motion consistency: isolated body fill ratio outlier at frame 34 (476 vs neighbor avg 970 permille)"
+          ]
+        },
+        {
+          "frame": 35,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-35.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3932,
+            "fill_per_mille": 969
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=43 area=124 largest=8",
+            "motion consistency: body alpha area jumps from previous frame 34 to 35 (1823 -\u003e 3932)",
+            "motion consistency: body fill ratio jumps from previous frame 34 to 35 (476 -\u003e 969 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 35 (3932 vs neighbor avg 2848)",
+            "motion consistency: isolated body fill ratio outlier at frame 35 (969 vs neighbor avg 715 permille)"
+          ]
+        },
+        {
+          "frame": 36,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-36.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3873,
+            "fill_per_mille": 954
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=18 area=180 largest=34"
+          ]
+        },
+        {
+          "frame": 37,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-37.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3945,
+            "fill_per_mille": 972
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=38 area=110 largest=13"
+          ]
+        },
+        {
+          "frame": 38,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-38.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3903,
+            "fill_per_mille": 962
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=42 area=146 largest=17",
+            "motion consistency: isolated body alpha area outlier at frame 38 (3903 vs neighbor avg 2815)",
+            "motion consistency: isolated body fill ratio outlier at frame 38 (962 vs neighbor avg 728 permille)"
+          ]
+        },
+        {
+          "frame": 39,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-39.png",
+          "status": "valid",
+          "content": {
+            "x": 5,
+            "y": 15,
+            "w": 81,
+            "h": 43
+          },
+          "body": {
+            "alpha_pixels": 1685,
+            "fill_per_mille": 483
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=3 largest=3",
+            "motion consistency: body alpha area jumps from previous frame 38 to 39 (3903 -\u003e 1685)",
+            "motion consistency: body fill ratio jumps from previous frame 38 to 39 (962 -\u003e 483 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 39 (1685 vs neighbor avg 3349)",
+            "motion consistency: isolated body fill ratio outlier at frame 39 (483 vs neighbor avg 834 permille)"
+          ]
+        },
+        {
+          "frame": 40,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-40.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 76,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2794,
+            "fill_per_mille": 706
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 41 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 57 at y=53 with 72px row drop below",
+            "disconnected alpha components: components=13 detached=8 detached_area=74 largest_detached=22",
+            "transparent pinholes: holes=27 area=65 largest=19",
+            "motion consistency: body alpha area jumps from previous frame 39 to 40 (1685 -\u003e 2794)",
+            "motion consistency: body fill ratio jumps from previous frame 39 to 40 (483 -\u003e 706 permille)"
+          ]
+        },
+        {
+          "frame": 41,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-41.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3892,
+            "fill_per_mille": 959
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=25 area=164 largest=20",
+            "motion consistency: body fill ratio jumps from previous frame 40 to 41 (706 -\u003e 959 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 41 (3892 vs neighbor avg 1993)",
+            "motion consistency: isolated body fill ratio outlier at frame 41 (959 vs neighbor avg 544 permille)"
+          ]
+        },
+        {
+          "frame": 42,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-42.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 12,
+            "w": 71,
+            "h": 44
+          },
+          "body": {
+            "alpha_pixels": 1192,
+            "fill_per_mille": 381
+          },
+          "warnings": [
+            "disconnected alpha components: components=34 detached=5 detached_area=24 largest_detached=8",
+            "transparent pinholes: holes=2 area=3 largest=2",
+            "motion consistency: body alpha area jumps from previous frame 41 to 42 (3892 -\u003e 1192)",
+            "motion consistency: body fill ratio jumps from previous frame 41 to 42 (959 -\u003e 381 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 42 (1192 vs neighbor avg 3904)",
+            "motion consistency: isolated body fill ratio outlier at frame 42 (381 vs neighbor avg 962 permille)"
+          ]
+        },
+        {
+          "frame": 43,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-43.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3915,
+            "fill_per_mille": 965
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=35 area=141 largest=16",
+            "motion consistency: body alpha area jumps from previous frame 42 to 43 (1192 -\u003e 3915)",
+            "motion consistency: body fill ratio jumps from previous frame 42 to 43 (381 -\u003e 965 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 43 (3915 vs neighbor avg 2610)",
+            "motion consistency: isolated body fill ratio outlier at frame 43 (965 vs neighbor avg 687 permille)"
+          ]
+        },
+        {
+          "frame": 44,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-44.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 4028,
+            "fill_per_mille": 993
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=18 area=28 largest=3"
+          ]
+        },
+        {
+          "frame": 45,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-45.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3840,
+            "fill_per_mille": 946
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 77 at y=55 near lower content",
+            "transparent pinholes: holes=21 area=157 largest=37"
+          ]
+        },
+        {
+          "frame": 46,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-46.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 76,
+            "h": 51
+          },
+          "body": {
+            "alpha_pixels": 2521,
+            "fill_per_mille": 650
+          },
+          "warnings": [
+            "disconnected alpha components: components=16 detached=6 detached_area=42 largest_detached=10",
+            "transparent pinholes: holes=24 area=88 largest=33",
+            "motion consistency: body alpha area jumps from previous frame 45 to 46 (3840 -\u003e 2521)",
+            "motion consistency: body fill ratio jumps from previous frame 45 to 46 (946 -\u003e 650 permille)"
+          ]
+        },
+        {
+          "frame": 47,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-47.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 6,
+            "w": 84,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1995,
+            "fill_per_mille": 456
+          },
+          "warnings": [
+            "motion consistency: body fill ratio jumps from previous frame 46 to 47 (650 -\u003e 456 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 47 (1995 vs neighbor avg 3126)",
+            "motion consistency: isolated body fill ratio outlier at frame 47 (456 vs neighbor avg 785 permille)"
+          ]
+        },
+        {
+          "frame": 48,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-48.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3731,
+            "fill_per_mille": 919
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 68 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 77 at y=52 with 26px row drop below",
+            "transparent pinholes: holes=17 area=179 largest=34",
+            "motion consistency: body alpha area jumps from previous frame 47 to 48 (1995 -\u003e 3731)",
+            "motion consistency: body fill ratio jumps from previous frame 47 to 48 (456 -\u003e 919 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 48 (3731 vs neighbor avg 1870)",
+            "motion consistency: isolated body fill ratio outlier at frame 48 (919 vs neighbor avg 452 permille)"
+          ]
+        },
+        {
+          "frame": 49,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-49.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 75,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1744,
+            "fill_per_mille": 447
+          },
+          "warnings": [
+            "motion consistency: body alpha area jumps from previous frame 48 to 49 (3731 -\u003e 1744)",
+            "motion consistency: body fill ratio jumps from previous frame 48 to 49 (919 -\u003e 447 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 49 (1744 vs neighbor avg 2734)",
+            "motion consistency: isolated body fill ratio outlier at frame 49 (447 vs neighbor avg 666 permille)"
+          ]
+        },
+        {
+          "frame": 50,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-50.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 6,
+            "w": 81,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1736,
+            "fill_per_mille": 412
+          }
+        },
+        {
+          "frame": 51,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-51.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 6,
+            "w": 79,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1865,
+            "fill_per_mille": 453
+          }
+        },
+        {
+          "frame": 52,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-52.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 6,
+            "w": 80,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1982,
+            "fill_per_mille": 476
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=5 largest=5",
+            "motion consistency: isolated body alpha area outlier at frame 52 (1982 vs neighbor avg 1400)"
+          ]
+        },
+        {
+          "frame": 53,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-53.png",
+          "status": "valid",
+          "content": {
+            "x": 20,
+            "y": 23,
+            "w": 54,
+            "h": 35
+          },
+          "body": {
+            "alpha_pixels": 934,
+            "fill_per_mille": 494
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=3 largest=3",
+            "motion consistency: bbox width jumps from previous frame 52 to 53 (80 -\u003e 54)",
+            "motion consistency: bbox height jumps from previous frame 52 to 53 (52 -\u003e 35)",
+            "motion consistency: body alpha area jumps from previous frame 52 to 53 (1982 -\u003e 934)",
+            "motion consistency: isolated bbox width outlier at frame 53 (54 vs neighbor avg 81)",
+            "motion consistency: isolated bbox height outlier at frame 53 (35 vs neighbor avg 52)",
+            "motion consistency: isolated body alpha area outlier at frame 53 (934 vs neighbor avg 1992)"
+          ]
+        },
+        {
+          "frame": 54,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-54.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 6,
+            "w": 81,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2001,
+            "fill_per_mille": 475
+          },
+          "warnings": [
+            "motion consistency: bbox width jumps from previous frame 53 to 54 (54 -\u003e 81)",
+            "motion consistency: bbox height jumps from previous frame 53 to 54 (35 -\u003e 52)",
+            "motion consistency: body alpha area jumps from previous frame 53 to 54 (934 -\u003e 2001)",
+            "motion consistency: isolated body alpha area outlier at frame 54 (2001 vs neighbor avg 1358)"
+          ]
+        },
+        {
+          "frame": 55,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-55.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1782,
+            "fill_per_mille": 439
+          }
+        },
+        {
+          "frame": 56,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-56.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 51
+          },
+          "body": {
+            "alpha_pixels": 1570,
+            "fill_per_mille": 394
+          },
+          "warnings": [
+            "disconnected alpha components: components=47 detached=11 detached_area=82 largest_detached=17",
+            "transparent pinholes: holes=9 area=37 largest=10"
+          ]
+        },
+        {
+          "frame": 57,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-57.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 6,
+            "w": 83,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1932,
+            "fill_per_mille": 447
+          }
+        },
+        {
+          "frame": 58,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-58.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 6,
+            "w": 83,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1938,
+            "fill_per_mille": 449
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=7 largest=7",
+            "motion consistency: isolated body alpha area outlier at frame 58 (1938 vs neighbor avg 2941)",
+            "motion consistency: isolated body fill ratio outlier at frame 58 (449 vs neighbor avg 710 permille)"
+          ]
+        },
+        {
+          "frame": 59,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-59.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 3950,
+            "fill_per_mille": 973
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=36 area=106 largest=22",
+            "motion consistency: body alpha area jumps from previous frame 58 to 59 (1938 -\u003e 3950)",
+            "motion consistency: body fill ratio jumps from previous frame 58 to 59 (449 -\u003e 973 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 59 (3950 vs neighbor avg 1878)",
+            "motion consistency: isolated body fill ratio outlier at frame 59 (973 vs neighbor avg 449 permille)"
+          ]
+        },
+        {
+          "frame": 60,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-60.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 1818,
+            "fill_per_mille": 448
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=6 largest=6",
+            "motion consistency: body alpha area jumps from previous frame 59 to 60 (3950 -\u003e 1818)",
+            "motion consistency: body fill ratio jumps from previous frame 59 to 60 (973 -\u003e 448 permille)",
+            "motion consistency: isolated body alpha area outlier at frame 60 (1818 vs neighbor avg 2621)",
+            "motion consistency: isolated body fill ratio outlier at frame 60 (448 vs neighbor avg 709 permille)"
+          ]
+        },
+        {
+          "frame": 61,
+          "path": "docs/art-source/domestic-shorthair/motion-source/accepted-frames/set00/frame-61.png",
+          "status": "valid",
+          "content": {
+            "x": 17,
+            "y": 14,
+            "w": 66,
+            "h": 44
+          },
+          "body": {
+            "alpha_pixels": 1291,
+            "fill_per_mille": 444
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=4 largest=4"
+          ]
+        }
+      ],
+      "completed": true
+    }
+  ]
+}

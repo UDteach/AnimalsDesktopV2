@@ -1,0 +1,123 @@
+{
+  "manifest": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-01-cell-recentered-batch.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/parsed-variant-h-2x2-attached-foot-angles-01-cell-recentered",
+  "cell_width": 512,
+  "cell_height": 512,
+  "columns": 2,
+  "rows": 2,
+  "pitch_x": 512,
+  "pitch_y": 512,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 4,
+  "parsed": 3,
+  "rejected": 1,
+  "sources": [
+    {
+      "path": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-01-cell-recentered-1024x1024.png",
+      "sha256": "74d0186c496307ce3a982a9e6f946b5dca2b437c51db2bbdf0c1708496ad3d1d",
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-01-cell-recentered-1024x1024.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 512
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/parsed-variant-h-2x2-attached-foot-angles-01-cell-recentered/frame-00.png",
+      "source_sha256": "74d0186c496307ce3a982a9e6f946b5dca2b437c51db2bbdf0c1708496ad3d1d",
+      "output_sha256": "ffa9594042b1400729fc88b31b8dd3d84c2b42bfc487c1f0553c36d434d5e454",
+      "content": {
+        "x": 22,
+        "y": 113,
+        "w": 467,
+        "h": 286
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-01-cell-recentered-1024x1024.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 512,
+        "y": 0,
+        "w": 512,
+        "h": 512
+      },
+      "source_sha256": "74d0186c496307ce3a982a9e6f946b5dca2b437c51db2bbdf0c1708496ad3d1d",
+      "content": {
+        "x": 23,
+        "y": 116,
+        "w": 466,
+        "h": 279
+      },
+      "component_count": 1,
+      "background_holes": 1,
+      "background_hole_area": 1,
+      "largest_bg_hole": 1,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=1 area=1 largest=1"
+      ]
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-01-cell-recentered-1024x1024.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 0,
+        "y": 512,
+        "w": 512,
+        "h": 512
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/parsed-variant-h-2x2-attached-foot-angles-01-cell-recentered/frame-02.png",
+      "source_sha256": "74d0186c496307ce3a982a9e6f946b5dca2b437c51db2bbdf0c1708496ad3d1d",
+      "output_sha256": "b51a0fc77442f6385a40f8e1a82e6a024b0d8b4a6f7cf03a58af4f4bd12505c9",
+      "content": {
+        "x": 22,
+        "y": 121,
+        "w": 468,
+        "h": 269
+      },
+      "component_count": 2,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-01-cell-recentered-1024x1024.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 512,
+        "y": 512,
+        "w": 512,
+        "h": 512
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/parsed-variant-h-2x2-attached-foot-angles-01-cell-recentered/frame-03.png",
+      "source_sha256": "74d0186c496307ce3a982a9e6f946b5dca2b437c51db2bbdf0c1708496ad3d1d",
+      "output_sha256": "35c6ee05aa0eafbbf1f4541b221c45ed1e02a03a504b428dc2dd0cfda43dc391",
+      "content": {
+        "x": 25,
+        "y": 120,
+        "w": 462,
+        "h": 272
+      },
+      "component_count": 1,
+      "status": "parsed"
+    }
+  ],
+  "errors": [
+    "set00-frame-01: transparent/chroma pinholes: holes=1 area=1 largest=1"
+  ]
+}

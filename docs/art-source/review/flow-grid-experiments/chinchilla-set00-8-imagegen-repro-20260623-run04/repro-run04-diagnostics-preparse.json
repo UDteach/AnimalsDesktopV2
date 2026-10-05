@@ -1,0 +1,298 @@
+[
+  {
+    "variant": "F",
+    "sample": "01",
+    "file": "variant-f-near-identical-clean-01.png",
+    "width": 1774,
+    "height": 887,
+    "raw_cell_width": 443,
+    "raw_cell_height": 443,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1227208,
+    "exact_green_ratio_before": 0.0,
+    "greenish_ratio_before": 0.779904,
+    "components": 8,
+    "component_bboxes": [
+      [
+        56,
+        147,
+        396,
+        362
+      ],
+      [
+        472,
+        144,
+        827,
+        362
+      ],
+      [
+        908,
+        146,
+        1262,
+        362
+      ],
+      [
+        1341,
+        146,
+        1698,
+        362
+      ],
+      [
+        44,
+        526,
+        391,
+        742
+      ],
+      [
+        471,
+        526,
+        823,
+        742
+      ],
+      [
+        914,
+        526,
+        1262,
+        742
+      ],
+      [
+        1343,
+        526,
+        1698,
+        742
+      ]
+    ],
+    "component_areas": [
+      42739,
+      43601,
+      43527,
+      43568,
+      42815,
+      43338,
+      43017,
+      43715
+    ]
+  },
+  {
+    "variant": "F",
+    "sample": "02",
+    "file": "variant-f-near-identical-clean-02.png",
+    "width": 1774,
+    "height": 887,
+    "raw_cell_width": 443,
+    "raw_cell_height": 443,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1229808,
+    "exact_green_ratio_before": 0.0,
+    "greenish_ratio_before": 0.781556,
+    "components": 8,
+    "component_bboxes": [
+      [
+        55,
+        138,
+        391,
+        367
+      ],
+      [
+        483,
+        138,
+        815,
+        367
+      ],
+      [
+        914,
+        138,
+        1249,
+        367
+      ],
+      [
+        1348,
+        138,
+        1682,
+        367
+      ],
+      [
+        53,
+        522,
+        391,
+        753
+      ],
+      [
+        474,
+        522,
+        813,
+        753
+      ],
+      [
+        905,
+        523,
+        1248,
+        753
+      ],
+      [
+        1344,
+        522,
+        1680,
+        753
+      ]
+    ],
+    "component_areas": [
+      43127,
+      42697,
+      43000,
+      42842,
+      43311,
+      42899,
+      43174,
+      42642
+    ]
+  },
+  {
+    "variant": "F",
+    "sample": "03",
+    "file": "variant-f-near-identical-clean-03.png",
+    "width": 1774,
+    "height": 887,
+    "raw_cell_width": 443,
+    "raw_cell_height": 443,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1224745,
+    "exact_green_ratio_before": 0.0,
+    "greenish_ratio_before": 0.778338,
+    "components": 8,
+    "component_bboxes": [
+      [
+        53,
+        138,
+        389,
+        371
+      ],
+      [
+        476,
+        138,
+        806,
+        371
+      ],
+      [
+        904,
+        138,
+        1240,
+        371
+      ],
+      [
+        1338,
+        138,
+        1666,
+        371
+      ],
+      [
+        51,
+        521,
+        390,
+        753
+      ],
+      [
+        473,
+        521,
+        806,
+        753
+      ],
+      [
+        905,
+        521,
+        1243,
+        753
+      ],
+      [
+        1338,
+        521,
+        1665,
+        753
+      ]
+    ],
+    "component_areas": [
+      44327,
+      43607,
+      44044,
+      43077,
+      43844,
+      43342,
+      43930,
+      42603
+    ]
+  },
+  {
+    "variant": "F",
+    "sample": "04",
+    "file": "variant-f-near-identical-clean-04.png",
+    "width": 1774,
+    "height": 887,
+    "raw_cell_width": 443,
+    "raw_cell_height": 443,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1197561,
+    "exact_green_ratio_before": 0.0,
+    "greenish_ratio_before": 0.761063,
+    "components": 8,
+    "component_bboxes": [
+      [
+        38,
+        133,
+        398,
+        372
+      ],
+      [
+        472,
+        134,
+        820,
+        373
+      ],
+      [
+        903,
+        134,
+        1259,
+        372
+      ],
+      [
+        1330,
+        134,
+        1688,
+        372
+      ],
+      [
+        34,
+        524,
+        388,
+        762
+      ],
+      [
+        471,
+        524,
+        819,
+        762
+      ],
+      [
+        901,
+        524,
+        1252,
+        762
+      ],
+      [
+        1332,
+        524,
+        1688,
+        762
+      ]
+    ],
+    "component_areas": [
+      48214,
+      46088,
+      47240,
+      47394,
+      47193,
+      45842,
+      46751,
+      47253
+    ]
+  }
+]

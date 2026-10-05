@@ -1,0 +1,110 @@
+﻿[
+    {
+        "variant":  "E",
+        "sample":  "01",
+        "mode":  "cell-recentered",
+        "parsed":  4,
+        "rejected":  4,
+        "cell":  "512x512",
+        "rejects":  "set00-frame-00:transparent/chroma pinholes: holes=1 area=8 largest=8 / set00-frame-03:transparent/chroma pinholes: holes=1 area=1 largest=1 / set00-frame-04:transparent/chroma pinholes: holes=1 area=6 largest=6 / set00-frame-06:transparent/chroma pinholes: holes=1 area=11 largest=11"
+    },
+    {
+        "variant":  "E",
+        "sample":  "01",
+        "mode":  "greenfixed",
+        "parsed":  3,
+        "rejected":  5,
+        "cell":  "443x443",
+        "rejects":  "set00-frame-00:transparent/chroma pinholes: holes=1 area=8 largest=8 / set00-frame-03:transparent/chroma pinholes: holes=1 area=1 largest=1 / set00-frame-04:transparent/chroma pinholes: holes=1 area=6 largest=6 / set00-frame-06:transparent/chroma pinholes: holes=1 area=11 largest=11 / set00-frame-07:disconnected alpha components: components=4 detached=1 detached_area=5 largest_detached=5"
+    },
+    {
+        "variant":  "E",
+        "sample":  "01",
+        "mode":  "raw",
+        "parsed":  0,
+        "rejected":  8,
+        "cell":  "443x443",
+        "rejects":  "set00-frame-00:content exists in x-boundary guard column 1325 / set00-frame-01:content exists in x-boundary guard column 1325 / set00-frame-02:content exists in x-boundary guard column 1325 / set00-frame-03:content exists in x-boundary guard column 1325 / set00-frame-04:content exists in x-boundary guard column 1325 / set00-frame-05:content exists in x-boundary guard column 1325 / set00-frame-06:content exists in x-boundary guard column 1325 / set00-frame-07:content exists in x-boundary guard column 1325"
+    },
+    {
+        "variant":  "E",
+        "sample":  "02",
+        "mode":  "cell-recentered",
+        "parsed":  5,
+        "rejected":  3,
+        "cell":  "512x512",
+        "rejects":  "set00-frame-00:transparent/chroma pinholes: holes=2 area=4 largest=2 / set00-frame-02:transparent/chroma pinholes: holes=1 area=2 largest=2 / set00-frame-06:transparent/chroma pinholes: holes=1 area=1 largest=1"
+    },
+    {
+        "variant":  "E",
+        "sample":  "02",
+        "mode":  "greenfixed",
+        "parsed":  5,
+        "rejected":  3,
+        "cell":  "443x443",
+        "rejects":  "set00-frame-00:transparent/chroma pinholes: holes=2 area=4 largest=2 / set00-frame-02:transparent/chroma pinholes: holes=1 area=2 largest=2 / set00-frame-06:transparent/chroma pinholes: holes=1 area=1 largest=1"
+    },
+    {
+        "variant":  "E",
+        "sample":  "02",
+        "mode":  "raw",
+        "parsed":  0,
+        "rejected":  8,
+        "cell":  "443x443",
+        "rejects":  "set00-frame-00:content exists in x-boundary guard column 439 / set00-frame-01:content exists in x-boundary guard column 439 / set00-frame-02:content exists in x-boundary guard column 439 / set00-frame-03:content exists in x-boundary guard column 439 / set00-frame-04:content exists in x-boundary guard column 439 / set00-frame-05:content exists in x-boundary guard column 439 / set00-frame-06:content exists in x-boundary guard column 439 / set00-frame-07:content exists in x-boundary guard column 439"
+    },
+    {
+        "variant":  "E",
+        "sample":  "03",
+        "mode":  "cell-recentered",
+        "parsed":  5,
+        "rejected":  3,
+        "cell":  "512x512",
+        "rejects":  "set00-frame-00:transparent/chroma pinholes: holes=1 area=1 largest=1 / set00-frame-04:transparent/chroma pinholes: holes=1 area=1 largest=1 / set00-frame-05:disconnected alpha components: components=2 detached=1 detached_area=4 largest_detached=4"
+    },
+    {
+        "variant":  "E",
+        "sample":  "03",
+        "mode":  "greenfixed",
+        "parsed":  5,
+        "rejected":  3,
+        "cell":  "443x443",
+        "rejects":  "set00-frame-00:transparent/chroma pinholes: holes=1 area=1 largest=1 / set00-frame-04:transparent/chroma pinholes: holes=1 area=1 largest=1 / set00-frame-05:disconnected alpha components: components=2 detached=1 detached_area=4 largest_detached=4"
+    },
+    {
+        "variant":  "E",
+        "sample":  "03",
+        "mode":  "raw",
+        "parsed":  0,
+        "rejected":  8,
+        "cell":  "443x443",
+        "rejects":  "set00-frame-00:content exists in x-boundary guard column 439 / set00-frame-01:content exists in x-boundary guard column 439 / set00-frame-02:content exists in x-boundary guard column 439 / set00-frame-03:content exists in x-boundary guard column 439 / set00-frame-04:content exists in x-boundary guard column 439 / set00-frame-05:content exists in x-boundary guard column 439 / set00-frame-06:content exists in x-boundary guard column 439 / set00-frame-07:content exists in x-boundary guard column 439"
+    },
+    {
+        "variant":  "E",
+        "sample":  "04",
+        "mode":  "cell-recentered",
+        "parsed":  3,
+        "rejected":  5,
+        "cell":  "512x512",
+        "rejects":  "set00-frame-00:transparent/chroma pinholes: holes=2 area=5 largest=4 / set00-frame-02:transparent/chroma pinholes: holes=2 area=38 largest=35 / set00-frame-03:transparent/chroma pinholes: holes=1 area=2 largest=2 / set00-frame-04:transparent/chroma pinholes: holes=1 area=2 largest=2 / set00-frame-06:transparent/chroma pinholes: holes=1 area=45 largest=45"
+    },
+    {
+        "variant":  "E",
+        "sample":  "04",
+        "mode":  "greenfixed",
+        "parsed":  3,
+        "rejected":  5,
+        "cell":  "443x443",
+        "rejects":  "set00-frame-00:transparent/chroma pinholes: holes=2 area=5 largest=4 / set00-frame-02:transparent/chroma pinholes: holes=2 area=38 largest=35 / set00-frame-03:transparent/chroma pinholes: holes=1 area=2 largest=2 / set00-frame-04:transparent/chroma pinholes: holes=1 area=2 largest=2 / set00-frame-06:transparent/chroma pinholes: holes=1 area=45 largest=45"
+    },
+    {
+        "variant":  "E",
+        "sample":  "04",
+        "mode":  "raw",
+        "parsed":  0,
+        "rejected":  8,
+        "cell":  "443x443",
+        "rejects":  "set00-frame-00:content exists in x-boundary guard column 439 / set00-frame-01:content exists in x-boundary guard column 439 / set00-frame-02:content exists in x-boundary guard column 439 / set00-frame-03:content exists in x-boundary guard column 439 / set00-frame-04:content exists in x-boundary guard column 439 / set00-frame-05:content exists in x-boundary guard column 439 / set00-frame-06:content exists in x-boundary guard column 439 / set00-frame-07:content exists in x-boundary guard column 439"
+    }
+]

@@ -1,0 +1,56 @@
+﻿[
+    {
+        "variant":  "G",
+        "sample":  "01",
+        "mode":  "cell-recentered",
+        "parsed":  7,
+        "rejected":  1,
+        "cell":  "512x512",
+        "rejects":  "set00-frame-04:transparent/chroma pinholes: holes=1 area=4 largest=4"
+    },
+    {
+        "variant":  "G",
+        "sample":  "01",
+        "mode":  "greenfixed",
+        "parsed":  0,
+        "rejected":  8,
+        "cell":  "443x443",
+        "rejects":  "set00-frame-00:content exists in x-boundary guard column 1332 / set00-frame-01:content exists in x-boundary guard column 1332 / set00-frame-02:content exists in x-boundary guard column 1332 / set00-frame-03:content exists in x-boundary guard column 1332 / set00-frame-04:content exists in x-boundary guard column 1332 / set00-frame-05:content exists in x-boundary guard column 1332 / set00-frame-06:content exists in x-boundary guard column 1332 / set00-frame-07:content exists in x-boundary guard column 1332"
+    },
+    {
+        "variant":  "G",
+        "sample":  "01",
+        "mode":  "raw",
+        "parsed":  0,
+        "rejected":  8,
+        "cell":  "443x443",
+        "rejects":  "set00-frame-00:content exists in x-boundary guard column 439 / set00-frame-01:content exists in x-boundary guard column 439 / set00-frame-02:content exists in x-boundary guard column 439 / set00-frame-03:content exists in x-boundary guard column 439 / set00-frame-04:content exists in x-boundary guard column 439 / set00-frame-05:content exists in x-boundary guard column 439 / set00-frame-06:content exists in x-boundary guard column 439 / set00-frame-07:content exists in x-boundary guard column 439"
+    },
+    {
+        "variant":  "G",
+        "sample":  "02",
+        "mode":  "cell-recentered",
+        "parsed":  8,
+        "rejected":  0,
+        "cell":  "512x512",
+        "rejects":  ""
+    },
+    {
+        "variant":  "G",
+        "sample":  "02",
+        "mode":  "greenfixed",
+        "parsed":  0,
+        "rejected":  8,
+        "cell":  "443x443",
+        "rejects":  "set00-frame-00:content exists in x-boundary guard column 1331 / set00-frame-01:content exists in x-boundary guard column 1331 / set00-frame-02:content exists in x-boundary guard column 1331 / set00-frame-03:content exists in x-boundary guard column 1331 / set00-frame-04:content exists in x-boundary guard column 1331 / set00-frame-05:content exists in x-boundary guard column 1331 / set00-frame-06:content exists in x-boundary guard column 1331 / set00-frame-07:content exists in x-boundary guard column 1331"
+    },
+    {
+        "variant":  "G",
+        "sample":  "02",
+        "mode":  "raw",
+        "parsed":  0,
+        "rejected":  8,
+        "cell":  "443x443",
+        "rejects":  "set00-frame-00:content exists in x-boundary guard column 439 / set00-frame-01:content exists in x-boundary guard column 439 / set00-frame-02:content exists in x-boundary guard column 439 / set00-frame-03:content exists in x-boundary guard column 439 / set00-frame-04:content exists in x-boundary guard column 439 / set00-frame-05:content exists in x-boundary guard column 439 / set00-frame-06:content exists in x-boundary guard column 439 / set00-frame-07:content exists in x-boundary guard column 439"
+    }
+]

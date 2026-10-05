@@ -1,0 +1,290 @@
+[
+  {
+    "file": "variant-e-clean-gait-01.png",
+    "width": 1774,
+    "height": 887,
+    "raw_cell_width": 443,
+    "raw_cell_height": 443,
+    "exact_green_pixels_before": 1,
+    "greenish_pixels_before": 1237474,
+    "exact_green_ratio_before": 1e-06,
+    "greenish_ratio_before": 0.786428,
+    "components": 8,
+    "component_bboxes": [
+      [
+        45,
+        149,
+        396,
+        359
+      ],
+      [
+        463,
+        151,
+        849,
+        359
+      ],
+      [
+        919,
+        152,
+        1289,
+        359
+      ],
+      [
+        1354,
+        152,
+        1734,
+        360
+      ],
+      [
+        43,
+        533,
+        399,
+        743
+      ],
+      [
+        464,
+        536,
+        844,
+        743
+      ],
+      [
+        919,
+        537,
+        1286,
+        744
+      ],
+      [
+        1350,
+        537,
+        1727,
+        744
+      ]
+    ],
+    "component_areas": [
+      42700,
+      41637,
+      39814,
+      43224,
+      42996,
+      41857,
+      39987,
+      43774
+    ]
+  },
+  {
+    "file": "variant-e-clean-gait-02.png",
+    "width": 1774,
+    "height": 887,
+    "raw_cell_width": 443,
+    "raw_cell_height": 443,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1241572,
+    "exact_green_ratio_before": 0.0,
+    "greenish_ratio_before": 0.789032,
+    "components": 8,
+    "component_bboxes": [
+      [
+        35,
+        148,
+        397,
+        359
+      ],
+      [
+        464,
+        154,
+        842,
+        359
+      ],
+      [
+        916,
+        153,
+        1285,
+        359
+      ],
+      [
+        1362,
+        154,
+        1729,
+        359
+      ],
+      [
+        29,
+        532,
+        397,
+        741
+      ],
+      [
+        468,
+        533,
+        841,
+        743
+      ],
+      [
+        924,
+        532,
+        1284,
+        743
+      ],
+      [
+        1345,
+        537,
+        1729,
+        745
+      ]
+    ],
+    "component_areas": [
+      41869,
+      40959,
+      40077,
+      42861,
+      41442,
+      40948,
+      39764,
+      44022
+    ]
+  },
+  {
+    "file": "variant-e-clean-gait-03.png",
+    "width": 1774,
+    "height": 887,
+    "raw_cell_width": 443,
+    "raw_cell_height": 443,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1250531,
+    "exact_green_ratio_before": 0.0,
+    "greenish_ratio_before": 0.794726,
+    "components": 8,
+    "component_bboxes": [
+      [
+        37,
+        155,
+        393,
+        356
+      ],
+      [
+        454,
+        157,
+        841,
+        357
+      ],
+      [
+        907,
+        155,
+        1283,
+        353
+      ],
+      [
+        1356,
+        158,
+        1724,
+        357
+      ],
+      [
+        36,
+        535,
+        395,
+        740
+      ],
+      [
+        453,
+        538,
+        839,
+        738
+      ],
+      [
+        906,
+        536,
+        1284,
+        737
+      ],
+      [
+        1352,
+        538,
+        1724,
+        740
+      ]
+    ],
+    "component_areas": [
+      41004,
+      39693,
+      37890,
+      41221,
+      41356,
+      40805,
+      38676,
+      42338
+    ]
+  },
+  {
+    "file": "variant-e-clean-gait-04.png",
+    "width": 1774,
+    "height": 887,
+    "raw_cell_width": 443,
+    "raw_cell_height": 443,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1241730,
+    "exact_green_ratio_before": 0.0,
+    "greenish_ratio_before": 0.789133,
+    "components": 8,
+    "component_bboxes": [
+      [
+        40,
+        147,
+        396,
+        357
+      ],
+      [
+        466,
+        158,
+        841,
+        364
+      ],
+      [
+        913,
+        152,
+        1282,
+        356
+      ],
+      [
+        1359,
+        153,
+        1724,
+        358
+      ],
+      [
+        40,
+        533,
+        396,
+        741
+      ],
+      [
+        466,
+        534,
+        838,
+        741
+      ],
+      [
+        913,
+        534,
+        1282,
+        739
+      ],
+      [
+        1349,
+        535,
+        1723,
+        742
+      ]
+    ],
+    "component_areas": [
+      42657,
+      40967,
+      39861,
+      42687,
+      41806,
+      41278,
+      39536,
+      43000
+    ]
+  }
+]

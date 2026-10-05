@@ -1,0 +1,242 @@
+[
+  {
+    "file": "variant-h-2x2-attached-foot-angles-01.png",
+    "width": 1254,
+    "height": 1254,
+    "raw_cell_width": 627,
+    "raw_cell_height": 627,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1282292,
+    "exact_green_ratio_before": 0,
+    "greenish_ratio_before": 0.815439715716724,
+    "components": 4,
+    "primary_components": 4,
+    "component_bboxes": [
+      [
+        55,
+        154,
+        522,
+        440
+      ],
+      [
+        696,
+        770,
+        1158,
+        1042
+      ],
+      [
+        692,
+        164,
+        1158,
+        443
+      ],
+      [
+        56,
+        770,
+        524,
+        1039
+      ]
+    ],
+    "component_areas": [
+      75866,
+      72451,
+      72328,
+      69577
+    ],
+    "primary_component_bboxes": [
+      [
+        55,
+        154,
+        522,
+        440
+      ],
+      [
+        692,
+        164,
+        1158,
+        443
+      ],
+      [
+        56,
+        770,
+        524,
+        1039
+      ],
+      [
+        696,
+        770,
+        1158,
+        1042
+      ]
+    ],
+    "primary_component_areas": [
+      75866,
+      72328,
+      69577,
+      72451
+    ],
+    "cell_recentered_output": "variant-h-2x2-attached-foot-angles-01-cell-recentered-1024x1024.png",
+    "greenfixed_output": "variant-h-2x2-attached-foot-angles-01-greenfixed.png",
+    "components_overlay_output": "variant-h-2x2-attached-foot-angles-01-components.png"
+  },
+  {
+    "file": "variant-h-2x2-attached-foot-angles-02.png",
+    "width": 1254,
+    "height": 1254,
+    "raw_cell_width": 627,
+    "raw_cell_height": 627,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1249407,
+    "exact_green_ratio_before": 0,
+    "greenish_ratio_before": 0.7945273688789176,
+    "components": 4,
+    "primary_components": 4,
+    "component_bboxes": [
+      [
+        51,
+        158,
+        537,
+        450
+      ],
+      [
+        46,
+        759,
+        537,
+        1049
+      ],
+      [
+        681,
+        760,
+        1161,
+        1049
+      ],
+      [
+        668,
+        164,
+        1172,
+        453
+      ]
+    ],
+    "component_areas": [
+      81491,
+      81250,
+      80562,
+      79806
+    ],
+    "primary_component_bboxes": [
+      [
+        51,
+        158,
+        537,
+        450
+      ],
+      [
+        668,
+        164,
+        1172,
+        453
+      ],
+      [
+        46,
+        759,
+        537,
+        1049
+      ],
+      [
+        681,
+        760,
+        1161,
+        1049
+      ]
+    ],
+    "primary_component_areas": [
+      81491,
+      79806,
+      81250,
+      80562
+    ],
+    "cell_recentered_output": "variant-h-2x2-attached-foot-angles-02-cell-recentered-1024x1024.png",
+    "greenfixed_output": "variant-h-2x2-attached-foot-angles-02-greenfixed.png",
+    "components_overlay_output": "variant-h-2x2-attached-foot-angles-02-components.png"
+  },
+  {
+    "file": "variant-i-2x2-silhouette-safe-small-sprite-01.png",
+    "width": 1254,
+    "height": 1254,
+    "raw_cell_width": 627,
+    "raw_cell_height": 627,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1329634,
+    "exact_green_ratio_before": 0,
+    "greenish_ratio_before": 0.8455456097108074,
+    "components": 4,
+    "primary_components": 4,
+    "component_bboxes": [
+      [
+        100,
+        805,
+        541,
+        1055
+      ],
+      [
+        723,
+        800,
+        1141,
+        1055
+      ],
+      [
+        100,
+        173,
+        517,
+        428
+      ],
+      [
+        711,
+        183,
+        1144,
+        431
+      ]
+    ],
+    "component_areas": [
+      62533,
+      60673,
+      60437,
+      59236
+    ],
+    "primary_component_bboxes": [
+      [
+        100,
+        173,
+        517,
+        428
+      ],
+      [
+        711,
+        183,
+        1144,
+        431
+      ],
+      [
+        100,
+        805,
+        541,
+        1055
+      ],
+      [
+        723,
+        800,
+        1141,
+        1055
+      ]
+    ],
+    "primary_component_areas": [
+      60437,
+      59236,
+      62533,
+      60673
+    ],
+    "cell_recentered_output": "variant-i-2x2-silhouette-safe-small-sprite-01-cell-recentered-1024x1024.png",
+    "greenfixed_output": "variant-i-2x2-silhouette-safe-small-sprite-01-greenfixed.png",
+    "components_overlay_output": "variant-i-2x2-silhouette-safe-small-sprite-01-components.png"
+  }
+]

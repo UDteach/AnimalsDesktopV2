@@ -1,0 +1,19 @@
+[
+  {
+    "variant": "guinea_pig_tricolor",
+    "species": "guinea_pig",
+    "source_status": "motion_source_accepted",
+    "motion_source": "docs/art-source/guinea-pig/motion-source/sheets/guinea-pig-tricolor-source-set00.png",
+    "motion_set_sources": [
+      "docs/art-source/guinea-pig/motion-source/sheets/guinea-pig-tricolor-source-set00.png"
+    ],
+    "frames_per_set": 62,
+    "runtime_sets": 1,
+    "unique_set_hashes": 1,
+    "accepted_source": true,
+    "release_ready": false,
+    "warnings": [
+      "motion source has 1 source set(s), accepted release requires 10"
+    ]
+  }
+]

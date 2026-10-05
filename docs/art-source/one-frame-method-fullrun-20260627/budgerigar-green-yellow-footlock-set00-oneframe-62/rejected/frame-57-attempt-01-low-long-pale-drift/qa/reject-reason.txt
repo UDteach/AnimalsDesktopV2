@@ -1,0 +1,1 @@
+rejected: parent review says frame is too low/long, compressed bbox h=29, pale/gray drift, weak foot contact versus 52-55 anchors

@@ -1,0 +1,32 @@
+{
+  "source_bbox": [
+    496,
+    178,
+    1090,
+    803
+  ],
+  "normalized_size": [
+    51,
+    54
+  ],
+  "frame_bbox": [
+    22,
+    5,
+    72,
+    59
+  ],
+  "nonzero_alpha": 2073,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 1,
+  "family": "hamster",
+  "frame": 58,
+  "pose": "face-groom-whisker-clean",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efb9a-b711-77f2-b098-5dce8ddc678d/ig_03b2d0a3e6ff7acf016a3c6609c50c8191a1ad8ebb1bf4bf7d.png",
+  "raw_path": "docs/art-source/one-frame-method-trials-20260625/hamster/set00/raw/frame-58-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-trials-20260625/hamster/set00/alpha/frame-58-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-trials-20260625/hamster/set00/frames/frame-58-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-trials-20260625/hamster/set00/contacts/frame-58-attempt-01-contact.png",
+  "decision": "pilot-pass-mechanical",
+  "notes": "single-frame pilot; visually complete; style slightly larger/sharper than sheet baseline"
+}

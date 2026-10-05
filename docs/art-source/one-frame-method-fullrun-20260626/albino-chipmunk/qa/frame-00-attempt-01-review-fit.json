@@ -1,0 +1,28 @@
+{
+  "source": "docs/art-source/one-frame-method-fullrun-20260626/albino-chipmunk/alpha/frame-00-attempt-01-alpha.png",
+  "output": "docs/art-source/one-frame-method-fullrun-20260626/albino-chipmunk/frames/frame-00-attempt-01-review.png",
+  "contact": "docs/art-source/one-frame-method-fullrun-20260626/albino-chipmunk/contact/frame-00-attempt-01-contact.png",
+  "source_size": [
+    1536,
+    1024
+  ],
+  "source_alpha_bbox": [
+    241,
+    235,
+    1292,
+    805
+  ],
+  "frame_size": [
+    96,
+    64
+  ],
+  "frame_alpha_bbox": [
+    2,
+    12,
+    94,
+    62
+  ],
+  "scale": 0.08753568030447194,
+  "status": "review_candidate_only",
+  "promotion_note": "Do not promote without cmd/prepareframe/auditframes and visual QA."
+}

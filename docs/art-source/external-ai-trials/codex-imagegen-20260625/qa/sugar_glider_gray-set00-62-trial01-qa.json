@@ -1,0 +1,1995 @@
+{
+  "species": "sugar_glider_gray",
+  "raw_sheet": "docs/art-source/external-ai-trials/codex-imagegen-20260625/raw/sugar_glider_gray-set00-62sheet-raw.png",
+  "contacts": [
+    "docs/art-source/external-ai-trials/codex-imagegen-20260625/contacts/sugar_glider_gray-set00-62-trial01-light.png",
+    "docs/art-source/external-ai-trials/codex-imagegen-20260625/contacts/sugar_glider_gray-set00-62-trial01-dark.png",
+    "docs/art-source/external-ai-trials/codex-imagegen-20260625/contacts/sugar_glider_gray-set00-62-trial01-checker.png"
+  ],
+  "frames": [
+    {
+      "empty": false,
+      "source_bbox": [
+        8,
+        36,
+        156,
+        125
+      ],
+      "normalized_size": [
+        86,
+        52
+      ],
+      "frame_bbox": [
+        7,
+        9,
+        88,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1961,
+      "partial_alpha": 777,
+      "frame_index": 0,
+      "cell_box": [
+        0,
+        0,
+        175,
+        140
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-00-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-00-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-00-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        4,
+        34,
+        162,
+        125
+      ],
+      "normalized_size": [
+        88,
+        51
+      ],
+      "frame_bbox": [
+        6,
+        10,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2072,
+      "partial_alpha": 796,
+      "frame_index": 1,
+      "cell_box": [
+        175,
+        0,
+        350,
+        140
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-01-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-01-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-01-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        5,
+        37,
+        158,
+        125
+      ],
+      "normalized_size": [
+        88,
+        51
+      ],
+      "frame_bbox": [
+        6,
+        10,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1984,
+      "partial_alpha": 835,
+      "frame_index": 2,
+      "cell_box": [
+        350,
+        0,
+        525,
+        140
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-02-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-02-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-02-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        2,
+        37,
+        157,
+        125
+      ],
+      "normalized_size": [
+        88,
+        50
+      ],
+      "frame_bbox": [
+        6,
+        11,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1978,
+      "partial_alpha": 821,
+      "frame_index": 3,
+      "cell_box": [
+        525,
+        0,
+        700,
+        140
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-03-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-03-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-03-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        35,
+        150,
+        125
+      ],
+      "normalized_size": [
+        87,
+        52
+      ],
+      "frame_bbox": [
+        6,
+        9,
+        89,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2063,
+      "partial_alpha": 861,
+      "frame_index": 4,
+      "cell_box": [
+        700,
+        0,
+        875,
+        140
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-04-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-04-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-04-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        36,
+        154,
+        126
+      ],
+      "normalized_size": [
+        88,
+        51
+      ],
+      "frame_bbox": [
+        4,
+        10,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2083,
+      "partial_alpha": 862,
+      "frame_index": 5,
+      "cell_box": [
+        875,
+        0,
+        1050,
+        140
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-05-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-05-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-05-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        35,
+        160,
+        126
+      ],
+      "normalized_size": [
+        88,
+        50
+      ],
+      "frame_bbox": [
+        4,
+        11,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1985,
+      "partial_alpha": 843,
+      "frame_index": 6,
+      "cell_box": [
+        1050,
+        0,
+        1225,
+        140
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-06-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-06-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-06-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        1,
+        38,
+        155,
+        126
+      ],
+      "normalized_size": [
+        88,
+        50
+      ],
+      "frame_bbox": [
+        6,
+        11,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2021,
+      "partial_alpha": 854,
+      "frame_index": 7,
+      "cell_box": [
+        1225,
+        0,
+        1402,
+        140
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-07-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-07-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-07-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        3,
+        14,
+        160,
+        97
+      ],
+      "normalized_size": [
+        88,
+        47
+      ],
+      "frame_bbox": [
+        6,
+        14,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1924,
+      "partial_alpha": 815,
+      "frame_index": 8,
+      "cell_box": [
+        0,
+        140,
+        175,
+        280
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-08-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-08-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-08-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        15,
+        160,
+        98
+      ],
+      "normalized_size": [
+        88,
+        46
+      ],
+      "frame_bbox": [
+        5,
+        15,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1923,
+      "partial_alpha": 831,
+      "frame_index": 9,
+      "cell_box": [
+        175,
+        140,
+        350,
+        280
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-09-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-09-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-09-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        1,
+        14,
+        166,
+        98
+      ],
+      "normalized_size": [
+        88,
+        45
+      ],
+      "frame_bbox": [
+        6,
+        16,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1897,
+      "partial_alpha": 879,
+      "frame_index": 10,
+      "cell_box": [
+        350,
+        140,
+        525,
+        280
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-10-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-10-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-10-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        17,
+        166,
+        98
+      ],
+      "normalized_size": [
+        88,
+        43
+      ],
+      "frame_bbox": [
+        6,
+        18,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1819,
+      "partial_alpha": 839,
+      "frame_index": 11,
+      "cell_box": [
+        525,
+        140,
+        700,
+        280
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-11-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-11-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-11-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        19,
+        172,
+        98
+      ],
+      "normalized_size": [
+        88,
+        40
+      ],
+      "frame_bbox": [
+        6,
+        21,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1746,
+      "partial_alpha": 796,
+      "frame_index": 12,
+      "cell_box": [
+        700,
+        140,
+        875,
+        280
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-12-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-12-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-12-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        19,
+        162,
+        98
+      ],
+      "normalized_size": [
+        88,
+        43
+      ],
+      "frame_bbox": [
+        5,
+        18,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1840,
+      "partial_alpha": 800,
+      "frame_index": 13,
+      "cell_box": [
+        875,
+        140,
+        1050,
+        280
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-13-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-13-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-13-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        20,
+        162,
+        98
+      ],
+      "normalized_size": [
+        88,
+        42
+      ],
+      "frame_bbox": [
+        5,
+        19,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1798,
+      "partial_alpha": 799,
+      "frame_index": 14,
+      "cell_box": [
+        1050,
+        140,
+        1225,
+        280
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-14-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-14-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-14-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        25,
+        160,
+        98
+      ],
+      "normalized_size": [
+        88,
+        40
+      ],
+      "frame_bbox": [
+        5,
+        21,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1769,
+      "partial_alpha": 783,
+      "frame_index": 15,
+      "cell_box": [
+        1225,
+        140,
+        1402,
+        280
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-15-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-15-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-15-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        3,
+        0,
+        163,
+        140
+      ],
+      "normalized_size": [
+        59,
+        52
+      ],
+      "frame_bbox": [
+        19,
+        7,
+        76,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 971,
+      "partial_alpha": 536,
+      "frame_index": 16,
+      "cell_box": [
+        0,
+        280,
+        175,
+        420
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-16-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-16-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-16-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        2,
+        0,
+        160,
+        140
+      ],
+      "normalized_size": [
+        59,
+        52
+      ],
+      "frame_bbox": [
+        18,
+        7,
+        76,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1049,
+      "partial_alpha": 557,
+      "frame_index": 17,
+      "cell_box": [
+        175,
+        280,
+        350,
+        420
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-17-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-17-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-17-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        165,
+        140
+      ],
+      "normalized_size": [
+        61,
+        52
+      ],
+      "frame_bbox": [
+        17,
+        7,
+        77,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1079,
+      "partial_alpha": 575,
+      "frame_index": 18,
+      "cell_box": [
+        350,
+        280,
+        525,
+        420
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-18-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-18-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-18-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        1,
+        0,
+        167,
+        140
+      ],
+      "normalized_size": [
+        62,
+        52
+      ],
+      "frame_bbox": [
+        17,
+        7,
+        79,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 971,
+      "partial_alpha": 537,
+      "frame_index": 19,
+      "cell_box": [
+        525,
+        280,
+        700,
+        420
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-19-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-19-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-19-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        2,
+        4,
+        161,
+        140
+      ],
+      "normalized_size": [
+        61,
+        52
+      ],
+      "frame_bbox": [
+        18,
+        8,
+        78,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1026,
+      "partial_alpha": 568,
+      "frame_index": 20,
+      "cell_box": [
+        700,
+        280,
+        875,
+        420
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-20-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-20-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-20-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        159,
+        140
+      ],
+      "normalized_size": [
+        59,
+        52
+      ],
+      "frame_bbox": [
+        19,
+        8,
+        77,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1076,
+      "partial_alpha": 582,
+      "frame_index": 21,
+      "cell_box": [
+        875,
+        280,
+        1050,
+        420
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-21-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-21-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-21-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        3,
+        162,
+        140
+      ],
+      "normalized_size": [
+        61,
+        52
+      ],
+      "frame_bbox": [
+        17,
+        8,
+        78,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1155,
+      "partial_alpha": 622,
+      "frame_index": 22,
+      "cell_box": [
+        1050,
+        280,
+        1225,
+        420
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-22-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-22-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-22-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        3,
+        150,
+        140
+      ],
+      "normalized_size": [
+        57,
+        52
+      ],
+      "frame_bbox": [
+        19,
+        8,
+        75,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1071,
+      "partial_alpha": 594,
+      "frame_index": 23,
+      "cell_box": [
+        1225,
+        280,
+        1402,
+        420
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-23-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-23-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-23-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        5,
+        0,
+        165,
+        140
+      ],
+      "normalized_size": [
+        59,
+        52
+      ],
+      "frame_bbox": [
+        18,
+        7,
+        76,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1228,
+      "partial_alpha": 583,
+      "frame_index": 24,
+      "cell_box": [
+        0,
+        420,
+        175,
+        560
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-24-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-24-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-24-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        2,
+        0,
+        157,
+        140
+      ],
+      "normalized_size": [
+        58,
+        52
+      ],
+      "frame_bbox": [
+        20,
+        7,
+        77,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1254,
+      "partial_alpha": 600,
+      "frame_index": 25,
+      "cell_box": [
+        175,
+        420,
+        350,
+        560
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-25-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-25-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-25-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        4,
+        0,
+        151,
+        140
+      ],
+      "normalized_size": [
+        55,
+        52
+      ],
+      "frame_bbox": [
+        21,
+        7,
+        75,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1187,
+      "partial_alpha": 584,
+      "frame_index": 26,
+      "cell_box": [
+        350,
+        420,
+        525,
+        560
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-26-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-26-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-26-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        136,
+        140
+      ],
+      "normalized_size": [
+        51,
+        52
+      ],
+      "frame_bbox": [
+        22,
+        7,
+        73,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1151,
+      "partial_alpha": 543,
+      "frame_index": 27,
+      "cell_box": [
+        525,
+        420,
+        700,
+        560
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-27-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-27-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-27-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        5,
+        0,
+        145,
+        140
+      ],
+      "normalized_size": [
+        52,
+        52
+      ],
+      "frame_bbox": [
+        23,
+        7,
+        73,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1103,
+      "partial_alpha": 544,
+      "frame_index": 28,
+      "cell_box": [
+        700,
+        420,
+        875,
+        560
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-28-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-28-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-28-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        139,
+        140
+      ],
+      "normalized_size": [
+        52,
+        52
+      ],
+      "frame_bbox": [
+        22,
+        7,
+        73,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1047,
+      "partial_alpha": 493,
+      "frame_index": 29,
+      "cell_box": [
+        875,
+        420,
+        1050,
+        560
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-29-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-29-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-29-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        175,
+        140
+      ],
+      "normalized_size": [
+        65,
+        52
+      ],
+      "frame_bbox": [
+        15,
+        7,
+        80,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 960,
+      "partial_alpha": 470,
+      "frame_index": 30,
+      "cell_box": [
+        1050,
+        420,
+        1225,
+        560
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-30-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-30-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-30-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        130,
+        140
+      ],
+      "normalized_size": [
+        48,
+        52
+      ],
+      "frame_bbox": [
+        24,
+        7,
+        72,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1093,
+      "partial_alpha": 518,
+      "frame_index": 31,
+      "cell_box": [
+        1225,
+        420,
+        1402,
+        560
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-31-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-31-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-31-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        136,
+        140
+      ],
+      "normalized_size": [
+        51,
+        52
+      ],
+      "frame_bbox": [
+        22,
+        7,
+        72,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1195,
+      "partial_alpha": 650,
+      "frame_index": 32,
+      "cell_box": [
+        0,
+        560,
+        175,
+        700
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-32-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-32-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-32-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        142,
+        140
+      ],
+      "normalized_size": [
+        53,
+        52
+      ],
+      "frame_bbox": [
+        21,
+        7,
+        73,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1183,
+      "partial_alpha": 678,
+      "frame_index": 33,
+      "cell_box": [
+        175,
+        560,
+        350,
+        700
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-33-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-33-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-33-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        175,
+        140
+      ],
+      "normalized_size": [
+        65,
+        52
+      ],
+      "frame_bbox": [
+        15,
+        7,
+        80,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1191,
+      "partial_alpha": 686,
+      "frame_index": 34,
+      "cell_box": [
+        350,
+        560,
+        525,
+        700
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-34-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-34-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-34-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        131,
+        140
+      ],
+      "normalized_size": [
+        49,
+        52
+      ],
+      "frame_bbox": [
+        23,
+        7,
+        71,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1122,
+      "partial_alpha": 611,
+      "frame_index": 35,
+      "cell_box": [
+        525,
+        560,
+        700,
+        700
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-35-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-35-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-35-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        136,
+        140
+      ],
+      "normalized_size": [
+        51,
+        52
+      ],
+      "frame_bbox": [
+        22,
+        7,
+        72,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1199,
+      "partial_alpha": 701,
+      "frame_index": 36,
+      "cell_box": [
+        700,
+        560,
+        875,
+        700
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-36-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-36-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-36-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        144,
+        140
+      ],
+      "normalized_size": [
+        53,
+        52
+      ],
+      "frame_bbox": [
+        21,
+        7,
+        73,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1186,
+      "partial_alpha": 663,
+      "frame_index": 37,
+      "cell_box": [
+        875,
+        560,
+        1050,
+        700
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-37-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-37-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-37-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        175,
+        140
+      ],
+      "normalized_size": [
+        65,
+        52
+      ],
+      "frame_bbox": [
+        15,
+        7,
+        80,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1241,
+      "partial_alpha": 685,
+      "frame_index": 38,
+      "cell_box": [
+        1050,
+        560,
+        1225,
+        700
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-38-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-38-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-38-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        128,
+        140
+      ],
+      "normalized_size": [
+        48,
+        52
+      ],
+      "frame_bbox": [
+        24,
+        7,
+        71,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1222,
+      "partial_alpha": 621,
+      "frame_index": 39,
+      "cell_box": [
+        1225,
+        560,
+        1402,
+        700
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-39-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-39-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-39-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        2,
+        0,
+        139,
+        123
+      ],
+      "normalized_size": [
+        58,
+        52
+      ],
+      "frame_bbox": [
+        20,
+        7,
+        76,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1068,
+      "partial_alpha": 514,
+      "frame_index": 40,
+      "cell_box": [
+        0,
+        700,
+        175,
+        840
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-40-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-40-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-40-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        138,
+        125
+      ],
+      "normalized_size": [
+        57,
+        52
+      ],
+      "frame_bbox": [
+        19,
+        7,
+        73,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 965,
+      "partial_alpha": 503,
+      "frame_index": 41,
+      "cell_box": [
+        175,
+        700,
+        350,
+        840
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-41-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-41-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-41-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        38,
+        175,
+        125
+      ],
+      "normalized_size": [
+        88,
+        44
+      ],
+      "frame_bbox": [
+        4,
+        17,
+        92,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1447,
+      "partial_alpha": 652,
+      "frame_index": 42,
+      "cell_box": [
+        350,
+        700,
+        525,
+        840
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-42-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-42-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-42-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        38,
+        116,
+        125
+      ],
+      "normalized_size": [
+        69,
+        52
+      ],
+      "frame_bbox": [
+        13,
+        9,
+        80,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1845,
+      "partial_alpha": 719,
+      "frame_index": 43,
+      "cell_box": [
+        525,
+        700,
+        700,
+        840
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-43-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-43-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-43-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        39,
+        123,
+        126
+      ],
+      "normalized_size": [
+        74,
+        52
+      ],
+      "frame_bbox": [
+        12,
+        9,
+        83,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1818,
+      "partial_alpha": 747,
+      "frame_index": 44,
+      "cell_box": [
+        700,
+        700,
+        875,
+        840
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-44-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-44-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-44-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        40,
+        126,
+        128
+      ],
+      "normalized_size": [
+        74,
+        52
+      ],
+      "frame_bbox": [
+        13,
+        9,
+        83,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1798,
+      "partial_alpha": 705,
+      "frame_index": 45,
+      "cell_box": [
+        875,
+        700,
+        1050,
+        840
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-45-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-45-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-45-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        126,
+        129
+      ],
+      "normalized_size": [
+        51,
+        52
+      ],
+      "frame_bbox": [
+        22,
+        7,
+        72,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 945,
+      "partial_alpha": 476,
+      "frame_index": 46,
+      "cell_box": [
+        1050,
+        700,
+        1225,
+        840
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-46-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-46-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-46-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        122,
+        129
+      ],
+      "normalized_size": [
+        49,
+        52
+      ],
+      "frame_bbox": [
+        23,
+        7,
+        71,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 934,
+      "partial_alpha": 458,
+      "frame_index": 47,
+      "cell_box": [
+        1225,
+        700,
+        1402,
+        840
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-47-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-47-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-47-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        4,
+        11,
+        123,
+        107
+      ],
+      "normalized_size": [
+        64,
+        52
+      ],
+      "frame_bbox": [
+        18,
+        9,
+        78,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1503,
+      "partial_alpha": 657,
+      "frame_index": 48,
+      "cell_box": [
+        0,
+        840,
+        175,
+        980
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-48-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-48-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-48-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        12,
+        119,
+        108
+      ],
+      "normalized_size": [
+        64,
+        52
+      ],
+      "frame_bbox": [
+        16,
+        9,
+        78,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1532,
+      "partial_alpha": 658,
+      "frame_index": 49,
+      "cell_box": [
+        175,
+        840,
+        350,
+        980
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-49-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-49-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-49-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        13,
+        175,
+        108
+      ],
+      "normalized_size": [
+        88,
+        48
+      ],
+      "frame_bbox": [
+        4,
+        13,
+        92,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1361,
+      "partial_alpha": 615,
+      "frame_index": 50,
+      "cell_box": [
+        350,
+        840,
+        525,
+        980
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-50-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-50-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-50-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        14,
+        175,
+        108
+      ],
+      "normalized_size": [
+        88,
+        47
+      ],
+      "frame_bbox": [
+        4,
+        14,
+        92,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1352,
+      "partial_alpha": 578,
+      "frame_index": 51,
+      "cell_box": [
+        525,
+        840,
+        700,
+        980
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-51-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-51-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-51-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        12,
+        175,
+        109
+      ],
+      "normalized_size": [
+        88,
+        49
+      ],
+      "frame_bbox": [
+        4,
+        12,
+        92,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1362,
+      "partial_alpha": 608,
+      "frame_index": 52,
+      "cell_box": [
+        700,
+        840,
+        875,
+        980
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-52-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-52-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-52-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        13,
+        175,
+        108
+      ],
+      "normalized_size": [
+        88,
+        48
+      ],
+      "frame_bbox": [
+        4,
+        13,
+        92,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1299,
+      "partial_alpha": 550,
+      "frame_index": 53,
+      "cell_box": [
+        875,
+        840,
+        1050,
+        980
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-53-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-53-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-53-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        17,
+        107,
+        108
+      ],
+      "normalized_size": [
+        61,
+        52
+      ],
+      "frame_bbox": [
+        17,
+        10,
+        75,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1566,
+      "partial_alpha": 611,
+      "frame_index": 54,
+      "cell_box": [
+        1050,
+        840,
+        1225,
+        980
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-54-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-54-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-54-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        13,
+        116,
+        107
+      ],
+      "normalized_size": [
+        64,
+        52
+      ],
+      "frame_bbox": [
+        16,
+        9,
+        78,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1672,
+      "partial_alpha": 667,
+      "frame_index": 55,
+      "cell_box": [
+        1225,
+        840,
+        1402,
+        980
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-55-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-55-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-55-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        8,
+        0,
+        140,
+        83
+      ],
+      "normalized_size": [
+        83,
+        52
+      ],
+      "frame_bbox": [
+        9,
+        7,
+        86,
+        56
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2174,
+      "partial_alpha": 790,
+      "frame_index": 56,
+      "cell_box": [
+        0,
+        980,
+        175,
+        1122
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-56-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-56-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-56-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        138,
+        82
+      ],
+      "normalized_size": [
+        88,
+        52
+      ],
+      "frame_bbox": [
+        5,
+        7,
+        89,
+        56
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2158,
+      "partial_alpha": 855,
+      "frame_index": 57,
+      "cell_box": [
+        175,
+        980,
+        350,
+        1122
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-57-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-57-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-57-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        175,
+        77
+      ],
+      "normalized_size": [
+        88,
+        39
+      ],
+      "frame_bbox": [
+        4,
+        21,
+        92,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1374,
+      "partial_alpha": 661,
+      "frame_index": 58,
+      "cell_box": [
+        350,
+        980,
+        525,
+        1122
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-58-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-58-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-58-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        3,
+        153,
+        79
+      ],
+      "normalized_size": [
+        88,
+        44
+      ],
+      "frame_bbox": [
+        4,
+        17,
+        90,
+        57
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1928,
+      "partial_alpha": 836,
+      "frame_index": 59,
+      "cell_box": [
+        525,
+        980,
+        700,
+        1122
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-59-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-59-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-59-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        7,
+        3,
+        141,
+        82
+      ],
+      "normalized_size": [
+        88,
+        52
+      ],
+      "frame_bbox": [
+        7,
+        10,
+        89,
+        56
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2137,
+      "partial_alpha": 904,
+      "frame_index": 60,
+      "cell_box": [
+        700,
+        980,
+        875,
+        1122
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-60-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-60-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-60-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        4,
+        157,
+        82
+      ],
+      "normalized_size": [
+        88,
+        44
+      ],
+      "frame_bbox": [
+        4,
+        17,
+        90,
+        56
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1908,
+      "partial_alpha": 840,
+      "frame_index": 61,
+      "cell_box": [
+        875,
+        980,
+        1050,
+        1122
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/raw-cells/frame-61-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/alpha-cells/frame-61-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/sugar_glider_gray/set00-62-trial01/frames-96x64/frame-61-96x64.png"
+    }
+  ]
+}

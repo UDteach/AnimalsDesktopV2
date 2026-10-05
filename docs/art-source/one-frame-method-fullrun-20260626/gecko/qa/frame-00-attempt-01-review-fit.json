@@ -1,0 +1,28 @@
+{
+  "source": "docs/art-source/one-frame-method-fullrun-20260626/gecko/alpha/frame-00-attempt-01-alpha.png",
+  "output": "docs/art-source/one-frame-method-fullrun-20260626/gecko/frames/frame-00-attempt-01-review.png",
+  "contact": "docs/art-source/one-frame-method-fullrun-20260626/gecko/contact/frame-00-attempt-01-contact.png",
+  "source_size": [
+    1536,
+    1024
+  ],
+  "source_alpha_bbox": [
+    77,
+    394,
+    1372,
+    667
+  ],
+  "frame_size": [
+    96,
+    64
+  ],
+  "frame_alpha_bbox": [
+    2,
+    43,
+    94,
+    62
+  ],
+  "scale": 0.07104247104247104,
+  "status": "review_candidate_only",
+  "promotion_note": "Do not promote without cmd/prepareframe/auditframes and visual QA."
+}

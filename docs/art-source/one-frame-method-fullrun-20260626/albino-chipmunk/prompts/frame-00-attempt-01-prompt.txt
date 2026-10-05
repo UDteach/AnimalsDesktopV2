@@ -1,0 +1,11 @@
+Create exactly one complete flat 2D desktop-pet sprite frame of an albino chipmunk on a perfectly flat solid #00ff00 chroma-key background.
+
+Frame 00 pose: neutral compact side-view stance facing right, paws near one shared baseline, calm idle start.
+
+Required identity: chipmunk, small squirrel-like body, pointed muzzle, rounded ears, bright pale cream-white albino coat, subtle very light cream dorsal stripe hints, red or pinkish eye, slim furry tail arcing behind but fully inside the canvas. It must not look like a hamster, rabbit, rat, degu, or ordinary squirrel.
+
+Style: clean illustrated taskbar sprite, soft natural fur, readable at 96x64, crisp complete silhouette, gentle shading, no pixelated jagged edge.
+
+Keep the whole animal centered with generous padding around ears, nose, feet, and full tail. No cropped anatomy.
+
+No text, watermark, border, grid, scenery, props, food, tree, cage, floor, shadows, reflections, gradients, texture in the background, costume, human-like pose, or multiple animals. Do not use #00ff00 anywhere in the animal.

@@ -1,0 +1,88 @@
+{
+  "range": [
+    0,
+    4
+  ],
+  "frames": [
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-00.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        4,
+        10,
+        92,
+        58
+      ],
+      "visible_alpha_pixels": 2445,
+      "has_alpha": true
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-01.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        4,
+        9,
+        92,
+        58
+      ],
+      "visible_alpha_pixels": 2455,
+      "has_alpha": true
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-02.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        4,
+        8,
+        92,
+        58
+      ],
+      "visible_alpha_pixels": 2524,
+      "has_alpha": true
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-03.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        4,
+        8,
+        92,
+        58
+      ],
+      "visible_alpha_pixels": 2480,
+      "has_alpha": true
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-04.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        4,
+        22,
+        92,
+        58
+      ],
+      "visible_alpha_pixels": 2104,
+      "has_alpha": true
+    }
+  ],
+  "contacts": [
+    "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/contact/ragdoll-seal-bicolor-set00-frames-00-04-light-contact.png",
+    "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/contact/ragdoll-seal-bicolor-set00-frames-00-04-dark-contact.png",
+    "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/contact/ragdoll-seal-bicolor-set00-frames-00-04-checker-contact.png"
+  ]
+}

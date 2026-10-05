@@ -1,0 +1,150 @@
+[
+  {
+    "variant": "G",
+    "sample": "01",
+    "file": "variant-g-angle-blueprint-01.png",
+    "width": 1774,
+    "height": 887,
+    "raw_cell_width": 443,
+    "raw_cell_height": 443,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1219409,
+    "exact_green_ratio_before": 0.0,
+    "greenish_ratio_before": 0.774947,
+    "components": 8,
+    "component_bboxes": [
+      [
+        52,
+        137,
+        398,
+        365
+      ],
+      [
+        463,
+        144,
+        829,
+        364
+      ],
+      [
+        903,
+        141,
+        1256,
+        364
+      ],
+      [
+        1332,
+        139,
+        1686,
+        364
+      ],
+      [
+        51,
+        526,
+        393,
+        751
+      ],
+      [
+        467,
+        526,
+        819,
+        750
+      ],
+      [
+        904,
+        525,
+        1253,
+        753
+      ],
+      [
+        1334,
+        523,
+        1680,
+        750
+      ]
+    ],
+    "component_areas": [
+      44435,
+      43924,
+      44604,
+      44598,
+      43659,
+      44106,
+      44662,
+      44141
+    ]
+  },
+  {
+    "variant": "G",
+    "sample": "02",
+    "file": "variant-g-angle-blueprint-02.png",
+    "width": 1774,
+    "height": 887,
+    "raw_cell_width": 443,
+    "raw_cell_height": 443,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1212619,
+    "exact_green_ratio_before": 0.0,
+    "greenish_ratio_before": 0.770632,
+    "components": 8,
+    "component_bboxes": [
+      [
+        56,
+        134,
+        400,
+        364
+      ],
+      [
+        470,
+        136,
+        826,
+        365
+      ],
+      [
+        905,
+        135,
+        1254,
+        365
+      ],
+      [
+        1331,
+        135,
+        1668,
+        365
+      ],
+      [
+        42,
+        521,
+        394,
+        754
+      ],
+      [
+        462,
+        523,
+        813,
+        755
+      ],
+      [
+        902,
+        522,
+        1254,
+        754
+      ],
+      [
+        1332,
+        522,
+        1679,
+        754
+      ]
+    ],
+    "component_areas": [
+      45540,
+      44410,
+      46190,
+      44366,
+      45795,
+      44629,
+      44693,
+      45283
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "source_size": [
+    1254,
+    1254
+  ],
+  "source_bbox": [
+    236,
+    277,
+    1088,
+    1036
+  ],
+  "padded_bbox": [
+    224,
+    265,
+    1100,
+    1048
+  ],
+  "normalized_size": [
+    56,
+    50
+  ],
+  "frame_bbox": [
+    20,
+    8,
+    76,
+    58
+  ],
+  "nonzero_alpha": 1970,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "hamster_golden_syrian",
+  "frame": 56,
+  "group": "reaction",
+  "pose": "startled flinch, compact body, facing right",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc36-f49e-7400-a241-c813be169de6/ig_01bf44a7c1e50302016a3c825108dc8191bdcf47f54b3a8fc0.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/raw/frame-56-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/alpha/frame-56-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-56.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-56-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/contacts/frame-56-attempt-01-contact.png",
+  "decision": "rejected",
+  "notes": "prompt:prompts/frame-56-attempt-01-prompt.txt; reject: extra_symbol_marks"
+}

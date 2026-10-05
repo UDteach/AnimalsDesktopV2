@@ -1,0 +1,1199 @@
+{
+  "frames_dir": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00",
+  "pattern": "frame-%02d.png",
+  "strict": true,
+  "frame_width": 96,
+  "frame_height": 64,
+  "set_count": 1,
+  "frame_count": 62,
+  "valid": 62,
+  "missing": 0,
+  "invalid": 0,
+  "warnings": 119,
+  "sets": [
+    {
+      "set": "set00",
+      "dir": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00",
+      "valid": 62,
+      "missing": 0,
+      "invalid": 0,
+      "warnings": 119,
+      "frames": [
+        {
+          "frame": 0,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-00.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 11,
+            "w": 84,
+            "h": 47
+          },
+          "body": {
+            "alpha_pixels": 3147,
+            "fill_per_mille": 797
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 60 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 60 at y=52 with 33px row drop below"
+          ]
+        },
+        {
+          "frame": 1,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-01.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 9,
+            "w": 84,
+            "h": 49
+          },
+          "body": {
+            "alpha_pixels": 3205,
+            "fill_per_mille": 778
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 60 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=52 with 36px row drop below"
+          ]
+        },
+        {
+          "frame": 2,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-02.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 12,
+            "w": 84,
+            "h": 46
+          },
+          "body": {
+            "alpha_pixels": 3064,
+            "fill_per_mille": 792
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 57 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 60 at y=52 with 34px row drop below"
+          ]
+        },
+        {
+          "frame": 3,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-03.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 14,
+            "w": 84,
+            "h": 44
+          },
+          "body": {
+            "alpha_pixels": 3064,
+            "fill_per_mille": 829
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 62 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 66 at y=52 with 35px row drop below"
+          ]
+        },
+        {
+          "frame": 4,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-04.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 13,
+            "w": 84,
+            "h": 45
+          },
+          "body": {
+            "alpha_pixels": 3037,
+            "fill_per_mille": 803
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 45 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=52 with 39px row drop below"
+          ]
+        },
+        {
+          "frame": 5,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-05.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 15,
+            "w": 84,
+            "h": 43
+          },
+          "body": {
+            "alpha_pixels": 2962,
+            "fill_per_mille": 820
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 41 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=52 with 43px row drop below"
+          ]
+        },
+        {
+          "frame": 6,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-06.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 14,
+            "w": 84,
+            "h": 44
+          },
+          "body": {
+            "alpha_pixels": 3015,
+            "fill_per_mille": 815
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=52 with 43px row drop below"
+          ]
+        },
+        {
+          "frame": 7,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-07.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 13,
+            "w": 84,
+            "h": 45
+          },
+          "body": {
+            "alpha_pixels": 3036,
+            "fill_per_mille": 803
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 62 at y=51 with 33px row drop below"
+          ]
+        },
+        {
+          "frame": 8,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-08.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 16,
+            "w": 84,
+            "h": 42
+          },
+          "body": {
+            "alpha_pixels": 2889,
+            "fill_per_mille": 818
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=52 with 44px row drop below"
+          ]
+        },
+        {
+          "frame": 9,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-09.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 14,
+            "w": 84,
+            "h": 44
+          },
+          "body": {
+            "alpha_pixels": 3019,
+            "fill_per_mille": 816
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 61 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=52 with 32px row drop below"
+          ]
+        },
+        {
+          "frame": 10,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-10.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 16,
+            "w": 84,
+            "h": 42
+          },
+          "body": {
+            "alpha_pixels": 2882,
+            "fill_per_mille": 816
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 33 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=52 with 36px row drop below"
+          ]
+        },
+        {
+          "frame": 11,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-11.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 14,
+            "w": 84,
+            "h": 44
+          },
+          "body": {
+            "alpha_pixels": 3050,
+            "fill_per_mille": 825
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 62 at y=52 with 34px row drop below"
+          ]
+        },
+        {
+          "frame": 12,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-12.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2682,
+            "fill_per_mille": 798
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=51 with 35px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 13,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-13.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2814,
+            "fill_per_mille": 837
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 44 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 66 at y=52 with 41px row drop below"
+          ]
+        },
+        {
+          "frame": 14,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-14.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2785,
+            "fill_per_mille": 828
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 34 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=52 with 35px row drop below"
+          ]
+        },
+        {
+          "frame": 15,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-15.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 21,
+            "w": 84,
+            "h": 37
+          },
+          "body": {
+            "alpha_pixels": 2624,
+            "fill_per_mille": 844
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 62 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 67 at y=53 with 50px row drop below"
+          ]
+        },
+        {
+          "frame": 16,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-16.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 21,
+            "w": 84,
+            "h": 37
+          },
+          "body": {
+            "alpha_pixels": 2604,
+            "fill_per_mille": 837
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 51 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=53 with 47px row drop below"
+          ]
+        },
+        {
+          "frame": 17,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-17.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 21,
+            "w": 84,
+            "h": 37
+          },
+          "body": {
+            "alpha_pixels": 2652,
+            "fill_per_mille": 853
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 67 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=53 with 40px row drop below"
+          ]
+        },
+        {
+          "frame": 18,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-18.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 19,
+            "w": 84,
+            "h": 39
+          },
+          "body": {
+            "alpha_pixels": 2752,
+            "fill_per_mille": 840
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 47 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=53 with 50px row drop below"
+          ]
+        },
+        {
+          "frame": 19,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-19.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2824,
+            "fill_per_mille": 840
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 44 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=52 with 29px row drop below"
+          ]
+        },
+        {
+          "frame": 20,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-20.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "body": {
+            "alpha_pixels": 2877,
+            "fill_per_mille": 835
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 71 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 77 at y=53 with 60px row drop below"
+          ]
+        },
+        {
+          "frame": 21,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-21.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 21,
+            "w": 84,
+            "h": 37
+          },
+          "body": {
+            "alpha_pixels": 2582,
+            "fill_per_mille": 830
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 81 at y=53 with 42px row drop below"
+          ]
+        },
+        {
+          "frame": 22,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-22.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 20,
+            "w": 84,
+            "h": 38
+          },
+          "body": {
+            "alpha_pixels": 2678,
+            "fill_per_mille": 838
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 74 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 79 at y=53 with 58px row drop below"
+          ]
+        },
+        {
+          "frame": 23,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-23.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 21,
+            "w": 84,
+            "h": 37
+          },
+          "body": {
+            "alpha_pixels": 2569,
+            "fill_per_mille": 826
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 63 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 68 at y=53 with 51px row drop below"
+          ]
+        },
+        {
+          "frame": 24,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-24.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2772,
+            "fill_per_mille": 825
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 72 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 80 at y=52 with 41px row drop below"
+          ]
+        },
+        {
+          "frame": 25,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-25.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2808,
+            "fill_per_mille": 835
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 44 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=53 with 49px row drop below"
+          ]
+        },
+        {
+          "frame": 26,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-26.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2810,
+            "fill_per_mille": 836
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 59 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 60 at y=53 with 44px row drop below"
+          ]
+        },
+        {
+          "frame": 27,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-27.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2795,
+            "fill_per_mille": 831
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 45 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=53 with 47px row drop below"
+          ]
+        },
+        {
+          "frame": 28,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-28.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2812,
+            "fill_per_mille": 836
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 45 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=52 with 30px row drop below"
+          ]
+        },
+        {
+          "frame": 29,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-29.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2796,
+            "fill_per_mille": 832
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 60 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=52 with 29px row drop below"
+          ]
+        },
+        {
+          "frame": 30,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-30.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 19,
+            "w": 84,
+            "h": 39
+          },
+          "body": {
+            "alpha_pixels": 2749,
+            "fill_per_mille": 839
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 63 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 71 at y=53 with 57px row drop below"
+          ]
+        },
+        {
+          "frame": 31,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-31.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 19,
+            "w": 84,
+            "h": 39
+          },
+          "body": {
+            "alpha_pixels": 2752,
+            "fill_per_mille": 840
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 60 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=53 with 44px row drop below"
+          ]
+        },
+        {
+          "frame": 32,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-32.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 9,
+            "w": 84,
+            "h": 49
+          },
+          "body": {
+            "alpha_pixels": 3501,
+            "fill_per_mille": 850
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 61 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 62 at y=53 with 39px row drop below"
+          ]
+        },
+        {
+          "frame": 33,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-33.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 7,
+            "w": 84,
+            "h": 51
+          },
+          "body": {
+            "alpha_pixels": 3604,
+            "fill_per_mille": 841
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 36 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 66 at y=52 with 47px row drop below"
+          ]
+        },
+        {
+          "frame": 34,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-34.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 11,
+            "w": 84,
+            "h": 47
+          },
+          "body": {
+            "alpha_pixels": 3240,
+            "fill_per_mille": 820
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 57 at y=52 with 29px row drop below"
+          ]
+        },
+        {
+          "frame": 35,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-35.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2824,
+            "fill_per_mille": 840
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 62 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=53 with 42px row drop below"
+          ]
+        },
+        {
+          "frame": 36,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-36.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "body": {
+            "alpha_pixels": 2898,
+            "fill_per_mille": 841
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 61 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=53 with 40px row drop below"
+          ]
+        },
+        {
+          "frame": 37,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-37.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 15,
+            "w": 84,
+            "h": 43
+          },
+          "body": {
+            "alpha_pixels": 2997,
+            "fill_per_mille": 829
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 62 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=52 with 31px row drop below"
+          ]
+        },
+        {
+          "frame": 38,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-38.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2821,
+            "fill_per_mille": 839
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 64 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=52 with 36px row drop below"
+          ]
+        },
+        {
+          "frame": 39,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-39.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2865,
+            "fill_per_mille": 852
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 63 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=53 with 48px row drop below"
+          ]
+        },
+        {
+          "frame": 40,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-40.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 16,
+            "w": 84,
+            "h": 42
+          },
+          "body": {
+            "alpha_pixels": 2984,
+            "fill_per_mille": 845
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 73 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 77 at y=53 with 54px row drop below"
+          ]
+        },
+        {
+          "frame": 41,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-41.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 16,
+            "w": 84,
+            "h": 42
+          },
+          "body": {
+            "alpha_pixels": 3078,
+            "fill_per_mille": 872
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 71 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 76 at y=53 with 41px row drop below"
+          ]
+        },
+        {
+          "frame": 42,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-42.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2847,
+            "fill_per_mille": 847
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 63 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=53 with 48px row drop below"
+          ]
+        },
+        {
+          "frame": 43,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-43.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "body": {
+            "alpha_pixels": 2923,
+            "fill_per_mille": 848
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 62 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=53 with 52px row drop below"
+          ]
+        },
+        {
+          "frame": 44,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-44.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 16,
+            "w": 84,
+            "h": 42
+          },
+          "body": {
+            "alpha_pixels": 2978,
+            "fill_per_mille": 844
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 76 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 79 at y=53 with 54px row drop below"
+          ]
+        },
+        {
+          "frame": 45,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-45.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2799,
+            "fill_per_mille": 833
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 76 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 80 at y=53 with 55px row drop below"
+          ]
+        },
+        {
+          "frame": 46,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-46.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 19,
+            "w": 84,
+            "h": 39
+          },
+          "body": {
+            "alpha_pixels": 2727,
+            "fill_per_mille": 832
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 74 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 78 at y=53 with 54px row drop below"
+          ]
+        },
+        {
+          "frame": 47,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-47.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2852,
+            "fill_per_mille": 848
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 63 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=53 with 53px row drop below"
+          ]
+        },
+        {
+          "frame": 48,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-48.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "body": {
+            "alpha_pixels": 2909,
+            "fill_per_mille": 844
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 63 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=53 with 53px row drop below"
+          ]
+        },
+        {
+          "frame": 49,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-49.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "body": {
+            "alpha_pixels": 2892,
+            "fill_per_mille": 839
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 63 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=53 with 54px row drop below"
+          ]
+        },
+        {
+          "frame": 50,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-50.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 14,
+            "w": 84,
+            "h": 44
+          },
+          "body": {
+            "alpha_pixels": 2981,
+            "fill_per_mille": 806
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 51 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 66 at y=53 with 53px row drop below"
+          ]
+        },
+        {
+          "frame": 51,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-51.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2847,
+            "fill_per_mille": 847
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 63 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=53 with 53px row drop below"
+          ]
+        },
+        {
+          "frame": 52,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-52.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 13,
+            "w": 84,
+            "h": 45
+          },
+          "body": {
+            "alpha_pixels": 3100,
+            "fill_per_mille": 820
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 50 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=53 with 30px row drop below"
+          ]
+        },
+        {
+          "frame": 53,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-53.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 14,
+            "w": 84,
+            "h": 44
+          },
+          "body": {
+            "alpha_pixels": 3033,
+            "fill_per_mille": 820
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 49 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=53 with 28px row drop below"
+          ]
+        },
+        {
+          "frame": 54,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-54.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 13,
+            "w": 84,
+            "h": 45
+          },
+          "body": {
+            "alpha_pixels": 3091,
+            "fill_per_mille": 817
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 50 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=53 with 39px row drop below"
+          ]
+        },
+        {
+          "frame": 55,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-55.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "body": {
+            "alpha_pixels": 2935,
+            "fill_per_mille": 852
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 64 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=53 with 54px row drop below"
+          ]
+        },
+        {
+          "frame": 56,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-56.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 12,
+            "w": 84,
+            "h": 46
+          },
+          "body": {
+            "alpha_pixels": 3044,
+            "fill_per_mille": 787
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 53 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 66 at y=53 with 53px row drop below"
+          ]
+        },
+        {
+          "frame": 57,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-57.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 14,
+            "w": 84,
+            "h": 44
+          },
+          "body": {
+            "alpha_pixels": 2907,
+            "fill_per_mille": 786
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 50 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=53 with 46px row drop below"
+          ]
+        },
+        {
+          "frame": 58,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-58.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 19,
+            "w": 84,
+            "h": 39
+          },
+          "body": {
+            "alpha_pixels": 2778,
+            "fill_per_mille": 847
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 63 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=53 with 50px row drop below"
+          ]
+        },
+        {
+          "frame": 59,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-59.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2854,
+            "fill_per_mille": 849
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 64 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=53 with 53px row drop below"
+          ]
+        },
+        {
+          "frame": 60,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-60.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2860,
+            "fill_per_mille": 851
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 62 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=53 with 51px row drop below"
+          ]
+        },
+        {
+          "frame": 61,
+          "path": "docs/art-source/guinea-pig-russian-smoke-white/motion-source/accepted-frames/set00/frame-61.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2869,
+            "fill_per_mille": 853
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 64 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=53 with 52px row drop below"
+          ]
+        }
+      ],
+      "completed": true
+    }
+  ]
+}

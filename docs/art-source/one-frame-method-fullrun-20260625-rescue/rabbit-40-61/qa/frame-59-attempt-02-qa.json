@@ -1,0 +1,46 @@
+{
+  "source_size": [
+    1536,
+    1024
+  ],
+  "source_bbox": [
+    369,
+    351,
+    1179,
+    761
+  ],
+  "padded_bbox": [
+    357,
+    339,
+    1191,
+    773
+  ],
+  "normalized_size": [
+    82,
+    43
+  ],
+  "frame_bbox": [
+    7,
+    16,
+    88,
+    59
+  ],
+  "nonzero_alpha": 2479,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "rabbit_chestnut_agouti",
+  "frame": 59,
+  "group": "reaction",
+  "pose": "ducking reaction, low body and ears back",
+  "attempt": 2,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc37-515b-78a3-aacc-847ecb5c246c/ig_0f7ca2179ecf1c14016a3c820b7dec8191bbe82222627abb71.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/raw/frame-59-attempt-02-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/alpha/frame-59-attempt-02-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-59.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-59-attempt-02.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/contacts/frame-59-attempt-02-contact.png",
+  "qa_json_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/qa/frame-59-attempt-02-qa.json",
+  "prompt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/prompts/frame-59-attempt-02-prompt.txt",
+  "decision": "candidate",
+  "notes": "retry: stronger visible swept-back ears"
+}

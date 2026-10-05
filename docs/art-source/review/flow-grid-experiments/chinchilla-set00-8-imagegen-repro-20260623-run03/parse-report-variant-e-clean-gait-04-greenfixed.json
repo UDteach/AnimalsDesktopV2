@@ -1,0 +1,231 @@
+{
+  "manifest": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04-greenfixed-batch.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/parsed-variant-e-clean-gait-04-greenfixed",
+  "cell_width": 443,
+  "cell_height": 443,
+  "columns": 4,
+  "rows": 2,
+  "pitch_x": 443,
+  "pitch_y": 443,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 8,
+  "parsed": 3,
+  "rejected": 5,
+  "sources": [
+    {
+      "path": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04-greenfixed.png",
+      "sha256": "ec73307482462775d160ec2f6fa42fa40949c22dff82e8148e03b6bdd5cab1e8",
+      "width": 1774,
+      "height": 887
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04-greenfixed.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "ec73307482462775d160ec2f6fa42fa40949c22dff82e8148e03b6bdd5cab1e8",
+      "content": {
+        "x": 40,
+        "y": 147,
+        "w": 356,
+        "h": 210
+      },
+      "component_count": 1,
+      "background_holes": 2,
+      "background_hole_area": 5,
+      "largest_bg_hole": 4,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=2 area=5 largest=4"
+      ]
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04-greenfixed.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 443,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/parsed-variant-e-clean-gait-04-greenfixed/frame-01.png",
+      "source_sha256": "ec73307482462775d160ec2f6fa42fa40949c22dff82e8148e03b6bdd5cab1e8",
+      "output_sha256": "e8b9f833965d0559621befb5998aee3cb90774fbc241ee4aab039efa1f3e2595",
+      "content": {
+        "x": 23,
+        "y": 158,
+        "w": 375,
+        "h": 206
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04-greenfixed.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 886,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "ec73307482462775d160ec2f6fa42fa40949c22dff82e8148e03b6bdd5cab1e8",
+      "content": {
+        "x": 27,
+        "y": 152,
+        "w": 369,
+        "h": 204
+      },
+      "component_count": 1,
+      "background_holes": 2,
+      "background_hole_area": 38,
+      "largest_bg_hole": 35,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=2 area=38 largest=35"
+      ]
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04-greenfixed.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 1329,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "ec73307482462775d160ec2f6fa42fa40949c22dff82e8148e03b6bdd5cab1e8",
+      "content": {
+        "x": 30,
+        "y": 153,
+        "w": 365,
+        "h": 205
+      },
+      "component_count": 1,
+      "background_holes": 1,
+      "background_hole_area": 2,
+      "largest_bg_hole": 2,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=1 area=2 largest=2"
+      ]
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04-greenfixed.png",
+      "cell": 4,
+      "cell_bounds": {
+        "x": 0,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "ec73307482462775d160ec2f6fa42fa40949c22dff82e8148e03b6bdd5cab1e8",
+      "content": {
+        "x": 40,
+        "y": 90,
+        "w": 356,
+        "h": 208
+      },
+      "component_count": 1,
+      "background_holes": 1,
+      "background_hole_area": 2,
+      "largest_bg_hole": 2,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=1 area=2 largest=2"
+      ]
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04-greenfixed.png",
+      "cell": 5,
+      "cell_bounds": {
+        "x": 443,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/parsed-variant-e-clean-gait-04-greenfixed/frame-05.png",
+      "source_sha256": "ec73307482462775d160ec2f6fa42fa40949c22dff82e8148e03b6bdd5cab1e8",
+      "output_sha256": "156716e2915251002c4ded9f82dae1871626009a2539bf322b2c3ba32793d2d9",
+      "content": {
+        "x": 23,
+        "y": 91,
+        "w": 372,
+        "h": 207
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04-greenfixed.png",
+      "cell": 6,
+      "cell_bounds": {
+        "x": 886,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "ec73307482462775d160ec2f6fa42fa40949c22dff82e8148e03b6bdd5cab1e8",
+      "content": {
+        "x": 27,
+        "y": 91,
+        "w": 369,
+        "h": 205
+      },
+      "component_count": 1,
+      "background_holes": 1,
+      "background_hole_area": 45,
+      "largest_bg_hole": 45,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=1 area=45 largest=45"
+      ]
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04-greenfixed.png",
+      "cell": 7,
+      "cell_bounds": {
+        "x": 1329,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/parsed-variant-e-clean-gait-04-greenfixed/frame-07.png",
+      "source_sha256": "ec73307482462775d160ec2f6fa42fa40949c22dff82e8148e03b6bdd5cab1e8",
+      "output_sha256": "188fb417df9b9b917d8f786e9554426f7f51eda4275ee2c5d6b0d84d24b56218",
+      "content": {
+        "x": 20,
+        "y": 92,
+        "w": 374,
+        "h": 207
+      },
+      "component_count": 1,
+      "status": "parsed"
+    }
+  ],
+  "errors": [
+    "set00-frame-00: transparent/chroma pinholes: holes=2 area=5 largest=4",
+    "set00-frame-02: transparent/chroma pinholes: holes=2 area=38 largest=35",
+    "set00-frame-03: transparent/chroma pinholes: holes=1 area=2 largest=2",
+    "set00-frame-04: transparent/chroma pinholes: holes=1 area=2 largest=2",
+    "set00-frame-06: transparent/chroma pinholes: holes=1 area=45 largest=45"
+  ]
+}

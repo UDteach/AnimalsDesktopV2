@@ -1,0 +1,519 @@
+{
+  "species": "macaroni_mouse_tan",
+  "raw_sheet": "docs/art-source/external-ai-trials/codex-imagegen-20260625/raw/macaroni_mouse_tan-16sheet-raw.png",
+  "contact": "docs/art-source/external-ai-trials/codex-imagegen-20260625/contacts/macaroni_mouse_tan-trial01-16cells-contact.png",
+  "cells": [
+    {
+      "empty": false,
+      "source_bbox": [
+        68,
+        65,
+        384,
+        239
+      ],
+      "normalized_size": [
+        88,
+        48
+      ],
+      "frame_bbox": [
+        4,
+        11,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2332,
+      "partial_alpha": 797,
+      "cell": 0,
+      "cell_box": [
+        0,
+        0,
+        384,
+        256
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-00-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-00-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-00-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        72,
+        357,
+        239
+      ],
+      "normalized_size": [
+        88,
+        41
+      ],
+      "frame_bbox": [
+        4,
+        18,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1877,
+      "partial_alpha": 717,
+      "cell": 1,
+      "cell_box": [
+        384,
+        0,
+        768,
+        256
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-01-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-01-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-01-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        20,
+        78,
+        384,
+        240
+      ],
+      "normalized_size": [
+        88,
+        39
+      ],
+      "frame_bbox": [
+        4,
+        20,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1635,
+      "partial_alpha": 621,
+      "cell": 2,
+      "cell_box": [
+        768,
+        0,
+        1152,
+        256
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-02-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-02-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-02-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        68,
+        289,
+        245
+      ],
+      "normalized_size": [
+        85,
+        52
+      ],
+      "frame_bbox": [
+        5,
+        7,
+        90,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2476,
+      "partial_alpha": 807,
+      "cell": 3,
+      "cell_box": [
+        1152,
+        0,
+        1536,
+        256
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-03-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-03-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-03-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        57,
+        54,
+        384,
+        212
+      ],
+      "normalized_size": [
+        88,
+        43
+      ],
+      "frame_bbox": [
+        4,
+        16,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2286,
+      "partial_alpha": 844,
+      "cell": 4,
+      "cell_box": [
+        0,
+        256,
+        384,
+        512
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-04-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-04-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-04-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        51,
+        363,
+        214
+      ],
+      "normalized_size": [
+        88,
+        40
+      ],
+      "frame_bbox": [
+        4,
+        19,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1817,
+      "partial_alpha": 748,
+      "cell": 5,
+      "cell_box": [
+        384,
+        256,
+        768,
+        512
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-05-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-05-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-05-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        17,
+        52,
+        384,
+        217
+      ],
+      "normalized_size": [
+        88,
+        40
+      ],
+      "frame_bbox": [
+        4,
+        19,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1774,
+      "partial_alpha": 729,
+      "cell": 6,
+      "cell_box": [
+        768,
+        256,
+        1152,
+        512
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-06-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-06-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-06-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        56,
+        297,
+        217
+      ],
+      "normalized_size": [
+        88,
+        48
+      ],
+      "frame_bbox": [
+        4,
+        11,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2491,
+      "partial_alpha": 875,
+      "cell": 7,
+      "cell_box": [
+        1152,
+        256,
+        1536,
+        512
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-07-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-07-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-07-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        51,
+        44,
+        384,
+        185
+      ],
+      "normalized_size": [
+        88,
+        37
+      ],
+      "frame_bbox": [
+        4,
+        22,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2102,
+      "partial_alpha": 835,
+      "cell": 8,
+      "cell_box": [
+        0,
+        512,
+        384,
+        768
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-08-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-08-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-08-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        44,
+        367,
+        185
+      ],
+      "normalized_size": [
+        88,
+        34
+      ],
+      "frame_bbox": [
+        4,
+        25,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1647,
+      "partial_alpha": 717,
+      "cell": 9,
+      "cell_box": [
+        384,
+        512,
+        768,
+        768
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-09-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-09-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-09-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        12,
+        42,
+        326,
+        188
+      ],
+      "normalized_size": [
+        88,
+        41
+      ],
+      "frame_bbox": [
+        4,
+        18,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2257,
+      "partial_alpha": 777,
+      "cell": 10,
+      "cell_box": [
+        768,
+        512,
+        1152,
+        768
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-10-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-10-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-10-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        16,
+        273,
+        194
+      ],
+      "normalized_size": [
+        80,
+        52
+      ],
+      "frame_bbox": [
+        8,
+        7,
+        88,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2195,
+      "partial_alpha": 712,
+      "cell": 11,
+      "cell_box": [
+        1152,
+        512,
+        1536,
+        768
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-11-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-11-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-11-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        61,
+        7,
+        337,
+        166
+      ],
+      "normalized_size": [
+        88,
+        51
+      ],
+      "frame_bbox": [
+        4,
+        8,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2626,
+      "partial_alpha": 829,
+      "cell": 12,
+      "cell_box": [
+        0,
+        768,
+        384,
+        1024
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-12-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-12-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-12-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        38,
+        0,
+        327,
+        169
+      ],
+      "normalized_size": [
+        88,
+        51
+      ],
+      "frame_bbox": [
+        4,
+        8,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2549,
+      "partial_alpha": 819,
+      "cell": 13,
+      "cell_box": [
+        384,
+        768,
+        768,
+        1024
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-13-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-13-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-13-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        18,
+        28,
+        384,
+        169
+      ],
+      "normalized_size": [
+        88,
+        34
+      ],
+      "frame_bbox": [
+        4,
+        25,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1617,
+      "partial_alpha": 653,
+      "cell": 14,
+      "cell_box": [
+        768,
+        768,
+        1152,
+        1024
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-14-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-14-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-14-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        0,
+        303,
+        172
+      ],
+      "normalized_size": [
+        88,
+        50
+      ],
+      "frame_bbox": [
+        4,
+        9,
+        92,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2411,
+      "partial_alpha": 821,
+      "cell": 15,
+      "cell_box": [
+        1152,
+        768,
+        1536,
+        1024
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/raw-cells/cell-15-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/alpha-cells/cell-15-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/macaroni_mouse_tan/trial01/frames-96x64/cell-15-96x64.png"
+    }
+  ]
+}

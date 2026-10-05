@@ -1,0 +1,7 @@
+Create one square 4 by 4 sprite sheet, 2048 by 2048. Use attached chinchilla image only for identity, face, coat, outline, shading, and camera size. Use attached green grid only for placement. Pure chroma green background. One complete right facing standard gray chinchilla per cell. Do not copy the same pose. All 16 cells must be different motion frames. Keep face stable. Keep scale and baseline stable. No text, no labels, no grid lines, no borders, no floor, no shadow, no scenery, no props.
+
+Cells 1 to 4 are idle micro movement with tiny head, ear, weight, and tail changes.
+Cells 5 to 12 are a grounded walk cycle. Every cell must visibly change front paw position, rear paw position, shoulder height, hip height, or tail curve.
+Cells 13 to 16 are fast low scurry. Show stretch, compress, reach, and push off. Body length and paw reach must change.
+
+Clean smooth sprite edges. No white fringe, no green halo, no missing pixels, no green dots inside the animal, no detached specks, no cropped ears, feet, whiskers, tail, or toes.

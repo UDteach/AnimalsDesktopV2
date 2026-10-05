@@ -1,0 +1,519 @@
+{
+  "species": "rabbit_chestnut_agouti",
+  "raw_sheet": "docs/art-source/external-ai-trials/codex-imagegen-20260625/raw/rabbit_chestnut_agouti-16sheet-raw.png",
+  "contact": "docs/art-source/external-ai-trials/codex-imagegen-20260625/contacts/rabbit_chestnut_agouti-trial01-16cells-contact.png",
+  "cells": [
+    {
+      "empty": false,
+      "source_bbox": [
+        54,
+        36,
+        308,
+        252
+      ],
+      "normalized_size": [
+        64,
+        54
+      ],
+      "frame_bbox": [
+        16,
+        5,
+        80,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2088,
+      "partial_alpha": 637,
+      "cell": 0,
+      "cell_box": [
+        0,
+        0,
+        350,
+        280
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-00-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-00-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-00-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        46,
+        39,
+        308,
+        253
+      ],
+      "normalized_size": [
+        66,
+        54
+      ],
+      "frame_bbox": [
+        15,
+        5,
+        81,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2204,
+      "partial_alpha": 648,
+      "cell": 1,
+      "cell_box": [
+        350,
+        0,
+        700,
+        280
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-01-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-01-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-01-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        55,
+        46,
+        257,
+        259
+      ],
+      "normalized_size": [
+        51,
+        54
+      ],
+      "frame_bbox": [
+        22,
+        5,
+        73,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1942,
+      "partial_alpha": 681,
+      "cell": 2,
+      "cell_box": [
+        700,
+        0,
+        1050,
+        280
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-02-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-02-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-02-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        17,
+        38,
+        281,
+        253
+      ],
+      "normalized_size": [
+        66,
+        54
+      ],
+      "frame_bbox": [
+        15,
+        5,
+        81,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2149,
+      "partial_alpha": 655,
+      "cell": 3,
+      "cell_box": [
+        1050,
+        0,
+        1402,
+        280
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-03-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-03-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-03-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        43,
+        11,
+        313,
+        238
+      ],
+      "normalized_size": [
+        64,
+        54
+      ],
+      "frame_bbox": [
+        16,
+        5,
+        80,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1967,
+      "partial_alpha": 745,
+      "cell": 4,
+      "cell_box": [
+        0,
+        280,
+        350,
+        560
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-04-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-04-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-04-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        54,
+        21,
+        310,
+        235
+      ],
+      "normalized_size": [
+        65,
+        54
+      ],
+      "frame_bbox": [
+        15,
+        5,
+        80,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1877,
+      "partial_alpha": 609,
+      "cell": 5,
+      "cell_box": [
+        350,
+        280,
+        700,
+        560
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-05-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-05-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-05-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        16,
+        30,
+        328,
+        207
+      ],
+      "normalized_size": [
+        82,
+        47
+      ],
+      "frame_bbox": [
+        7,
+        12,
+        89,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1986,
+      "partial_alpha": 781,
+      "cell": 6,
+      "cell_box": [
+        700,
+        280,
+        1050,
+        560
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-06-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-06-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-06-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        42,
+        34,
+        293,
+        234
+      ],
+      "normalized_size": [
+        68,
+        54
+      ],
+      "frame_bbox": [
+        14,
+        5,
+        82,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2101,
+      "partial_alpha": 673,
+      "cell": 7,
+      "cell_box": [
+        1050,
+        280,
+        1402,
+        560
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-07-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-07-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-07-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        36,
+        37,
+        319,
+        280
+      ],
+      "normalized_size": [
+        63,
+        54
+      ],
+      "frame_bbox": [
+        16,
+        5,
+        79,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1611,
+      "partial_alpha": 731,
+      "cell": 8,
+      "cell_box": [
+        0,
+        560,
+        350,
+        840
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-08-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-08-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-08-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        61,
+        28,
+        300,
+        280
+      ],
+      "normalized_size": [
+        51,
+        54
+      ],
+      "frame_bbox": [
+        22,
+        5,
+        73,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1363,
+      "partial_alpha": 615,
+      "cell": 9,
+      "cell_box": [
+        350,
+        560,
+        700,
+        840
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-09-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-09-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-09-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        40,
+        31,
+        304,
+        209
+      ],
+      "normalized_size": [
+        80,
+        54
+      ],
+      "frame_bbox": [
+        8,
+        5,
+        88,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 3044,
+      "partial_alpha": 787,
+      "cell": 10,
+      "cell_box": [
+        700,
+        560,
+        1050,
+        840
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-10-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-10-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-10-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        32,
+        0,
+        249,
+        222
+      ],
+      "normalized_size": [
+        53,
+        54
+      ],
+      "frame_bbox": [
+        21,
+        5,
+        74,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1676,
+      "partial_alpha": 593,
+      "cell": 11,
+      "cell_box": [
+        1050,
+        560,
+        1402,
+        840
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-11-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-11-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-11-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        52,
+        0,
+        254,
+        232
+      ],
+      "normalized_size": [
+        47,
+        54
+      ],
+      "frame_bbox": [
+        24,
+        5,
+        71,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1596,
+      "partial_alpha": 525,
+      "cell": 12,
+      "cell_box": [
+        0,
+        840,
+        350,
+        1122
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-12-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-12-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-12-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        46,
+        0,
+        237,
+        230
+      ],
+      "normalized_size": [
+        45,
+        54
+      ],
+      "frame_bbox": [
+        25,
+        5,
+        70,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 1618,
+      "partial_alpha": 508,
+      "cell": 13,
+      "cell_box": [
+        350,
+        840,
+        700,
+        1122
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-13-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-13-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-13-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        0,
+        25,
+        326,
+        218
+      ],
+      "normalized_size": [
+        82,
+        49
+      ],
+      "frame_bbox": [
+        7,
+        10,
+        89,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2423,
+      "partial_alpha": 895,
+      "cell": 14,
+      "cell_box": [
+        700,
+        840,
+        1050,
+        1122
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-14-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-14-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-14-96x64.png"
+    },
+    {
+      "empty": false,
+      "source_bbox": [
+        30,
+        1,
+        286,
+        214
+      ],
+      "normalized_size": [
+        65,
+        54
+      ],
+      "frame_bbox": [
+        15,
+        5,
+        80,
+        59
+      ],
+      "edge_alpha_pixels": 0,
+      "nonzero_alpha": 2095,
+      "partial_alpha": 627,
+      "cell": 15,
+      "cell_box": [
+        1050,
+        840,
+        1402,
+        1122
+      ],
+      "raw_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/raw-cells/cell-15-raw.png",
+      "alpha_cell": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/alpha-cells/cell-15-alpha.png",
+      "frame": "docs/art-source/external-ai-trials/codex-imagegen-20260625/processed/rabbit_chestnut_agouti/trial01/frames-96x64/cell-15-96x64.png"
+    }
+  ]
+}

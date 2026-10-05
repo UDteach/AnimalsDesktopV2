@@ -1,0 +1,177 @@
+{
+  "variant": "budgerigar_green_yellow",
+  "scope": "selected canonical frames 05-12 only",
+  "frame_count": 8,
+  "frames": [
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "contact_sheet_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/contact/budgerigar-footlock-selected-05-12-full-and-footcrop-5x.png",
+  "crop_box": [
+    16,
+    34,
+    80,
+    64
+  ],
+  "frame_summaries": [
+    {
+      "frame": "05",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-05.png",
+      "sha256": "455b6465ba52911408e6f89b02e233a0870aebc5c91576c42c3ec3edc8a85cd8",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        9,
+        90,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "greenish_pixels": 540,
+      "lower_body_pinkish_pixels": 56,
+      "source": "canonical frames directory; no new frame generation in this step"
+    },
+    {
+      "frame": "06",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-06.png",
+      "sha256": "67ede11ff49ab1f8112120dee74615608531719ecf81782d6675a396be3110b4",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        9,
+        90,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "greenish_pixels": 562,
+      "lower_body_pinkish_pixels": 58,
+      "source": "canonical frames directory; no new frame generation in this step"
+    },
+    {
+      "frame": "07",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-07.png",
+      "sha256": "7e60a0114e0c6411cc2323eb6835f38d5228621c199960b5323c3c6e64737df8",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        7,
+        7,
+        88,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "greenish_pixels": 560,
+      "lower_body_pinkish_pixels": 54,
+      "source": "canonical frames directory; no new frame generation in this step"
+    },
+    {
+      "frame": "08",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-08.png",
+      "sha256": "74cf2780803b338739aeb86fc6d93e8c9abd71a96f33eec2ddadad75e11c06ae",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        9,
+        90,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "greenish_pixels": 568,
+      "lower_body_pinkish_pixels": 51,
+      "source": "canonical frames directory; no new frame generation in this step"
+    },
+    {
+      "frame": "09",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-09.png",
+      "sha256": "6f1fbf8546f2565a2565f489d49b05056d0dccaa01860e509dfac3607415db26",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        26,
+        90,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "greenish_pixels": 515,
+      "lower_body_pinkish_pixels": 22,
+      "source": "canonical frames directory; no new frame generation in this step"
+    },
+    {
+      "frame": "10",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-10.png",
+      "sha256": "49557dec3df20b6bcbfa5b6140aa00448f1c9c2b3e200e1734638eea195e1566",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        23,
+        90,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "greenish_pixels": 450,
+      "lower_body_pinkish_pixels": 36,
+      "source": "canonical frames directory; no new frame generation in this step"
+    },
+    {
+      "frame": "11",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-11.png",
+      "sha256": "badaf76b28a886fc637fceba1fdeebb8667d2d6ffaf2471810a72e6a5122302b",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        21,
+        90,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "greenish_pixels": 499,
+      "lower_body_pinkish_pixels": 36,
+      "source": "canonical frames directory; no new frame generation in this step"
+    },
+    {
+      "frame": "12",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-12.png",
+      "sha256": "fdbf7cb68930e4f87c3416544a7c7ad52921d101dda0b59a01f84073221a39c9",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        26,
+        90,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "greenish_pixels": 411,
+      "lower_body_pinkish_pixels": 27,
+      "source": "canonical frames directory; no new frame generation in this step"
+    }
+  ],
+  "notes": "Built from existing canonical frames only; no new frame generation. Parent had accepted 00-12 fresh foot-lock lane gate before this sheet was created."
+}

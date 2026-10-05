@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: 96x64 desktop-pet sprite source frame
+Primary request: Regenerate frame 28 for budgerigar_green_yellow, subtle species action peak without scale jump.
+Scene/backdrop: perfectly flat solid #ff00ff chroma-key background only.
+Subject: one complete right-facing green-yellow budgerigar desktop-pet sprite, same 96x64 camera, same body scale and margins as frames 26-27, compact side-view.
+Color lock: saturated lime-green body and belly, bright lemon-yellow head and face, black scalloped wing markings, tiny blue cheek accents, long blue-green tail, tiny pink or pink-gray attached toes. No gray-white head/face drift.
+Species lock: clear budgerigar/parakeet, small hooked beak, compact body, folded wings, slim tail. No cockatiel crest, no sparrow/finch shape.
+Pose: subtle peak of a tiny feather fluff or wing ruffle, body only slightly puffed, head fully inside the frame with right-side margin, tail fully inside the frame, two tiny attached feet or toe contacts visible at 96x64.
+Avoid: larger body than frames 26-27, face touching the right edge, open flying pose, raised detached wing, cropped head/tail/feet, food, floor, perch, gray foot smears, long floor or underside arcs, thread-like legs, detached marks, branch, shadow, props, scenery, text, duplicate bird, left-facing pose.

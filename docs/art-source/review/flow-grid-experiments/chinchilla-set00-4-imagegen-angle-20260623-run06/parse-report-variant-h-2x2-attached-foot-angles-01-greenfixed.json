@@ -1,0 +1,123 @@
+{
+  "manifest": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-01-greenfixed-batch.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/parsed-variant-h-2x2-attached-foot-angles-01-greenfixed",
+  "cell_width": 627,
+  "cell_height": 627,
+  "columns": 2,
+  "rows": 2,
+  "pitch_x": 627,
+  "pitch_y": 627,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 4,
+  "parsed": 3,
+  "rejected": 1,
+  "sources": [
+    {
+      "path": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-01-greenfixed.png",
+      "sha256": "3c78c64edf944a8539afa062a0849ff1376275d5caf803ed4cfe85eafd84b1db",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-01-greenfixed.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 627,
+        "h": 627
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/parsed-variant-h-2x2-attached-foot-angles-01-greenfixed/frame-00.png",
+      "source_sha256": "3c78c64edf944a8539afa062a0849ff1376275d5caf803ed4cfe85eafd84b1db",
+      "output_sha256": "b8092037873407ace1e64a5c10020cd7ad3e83f3a9a57560f88e53955dad9bcf",
+      "content": {
+        "x": 55,
+        "y": 154,
+        "w": 467,
+        "h": 286
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-01-greenfixed.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 627,
+        "y": 0,
+        "w": 627,
+        "h": 627
+      },
+      "source_sha256": "3c78c64edf944a8539afa062a0849ff1376275d5caf803ed4cfe85eafd84b1db",
+      "content": {
+        "x": 65,
+        "y": 164,
+        "w": 466,
+        "h": 279
+      },
+      "component_count": 1,
+      "background_holes": 1,
+      "background_hole_area": 1,
+      "largest_bg_hole": 1,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=1 area=1 largest=1"
+      ]
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-01-greenfixed.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 0,
+        "y": 627,
+        "w": 627,
+        "h": 627
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/parsed-variant-h-2x2-attached-foot-angles-01-greenfixed/frame-02.png",
+      "source_sha256": "3c78c64edf944a8539afa062a0849ff1376275d5caf803ed4cfe85eafd84b1db",
+      "output_sha256": "4296dff018e74ac162c688681f6dd81a9801e4a8f76318f6e70beaff5321aed1",
+      "content": {
+        "x": 56,
+        "y": 143,
+        "w": 468,
+        "h": 269
+      },
+      "component_count": 2,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/variant-h-2x2-attached-foot-angles-01-greenfixed.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 627,
+        "y": 627,
+        "w": 627,
+        "h": 627
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-angle-20260623-run06/parsed-variant-h-2x2-attached-foot-angles-01-greenfixed/frame-03.png",
+      "source_sha256": "3c78c64edf944a8539afa062a0849ff1376275d5caf803ed4cfe85eafd84b1db",
+      "output_sha256": "0179c01cefba64ad704f8019d156cae96fc3122993685826f966c11ee28cb0b8",
+      "content": {
+        "x": 69,
+        "y": 143,
+        "w": 462,
+        "h": 272
+      },
+      "component_count": 1,
+      "status": "parsed"
+    }
+  ],
+  "errors": [
+    "set00-frame-01: transparent/chroma pinholes: holes=1 area=1 largest=1"
+  ]
+}

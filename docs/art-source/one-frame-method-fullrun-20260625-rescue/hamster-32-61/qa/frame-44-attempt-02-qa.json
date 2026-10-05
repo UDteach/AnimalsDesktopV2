@@ -1,0 +1,44 @@
+{
+  "source_size": [
+    1536,
+    1024
+  ],
+  "source_bbox": [
+    342,
+    265,
+    1198,
+    815
+  ],
+  "padded_bbox": [
+    330,
+    253,
+    1210,
+    827
+  ],
+  "normalized_size": [
+    77,
+    50
+  ],
+  "frame_bbox": [
+    9,
+    8,
+    85,
+    58
+  ],
+  "nonzero_alpha": 2785,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "hamster_golden_syrian",
+  "frame": 44,
+  "group": "ground_check",
+  "pose": "nose to floor checking ground, facing right",
+  "attempt": 2,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc36-f49e-7400-a241-c813be169de6/ig_06bd93316c7038b7016a3c7da3400c8191804e8b8bf3e937d9.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/raw/frame-44-attempt-02-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/alpha/frame-44-attempt-02-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-44.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-44-attempt-02.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/contacts/frame-44-attempt-02-contact.png",
+  "decision": "candidate",
+  "notes": "prompt:prompts/frame-44-attempt-02-prompt.txt"
+}

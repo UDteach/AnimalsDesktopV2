@@ -1,0 +1,46 @@
+{
+  "source_size": [
+    1536,
+    1024
+  ],
+  "source_bbox": [
+    455,
+    121,
+    1065,
+    821
+  ],
+  "padded_bbox": [
+    443,
+    109,
+    1077,
+    833
+  ],
+  "normalized_size": [
+    47,
+    54
+  ],
+  "frame_bbox": [
+    24,
+    5,
+    70,
+    59
+  ],
+  "nonzero_alpha": 1537,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "rabbit_chestnut_agouti",
+  "frame": 53,
+  "group": "face_groom",
+  "pose": "one paw over cheek, compact sitting rabbit pose",
+  "attempt": 2,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc37-515b-78a3-aacc-847ecb5c246c/ig_019f8c4c06ab11fe016a3c7fc923c88191b1e4f089e0ac3f89.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/raw/frame-53-attempt-02-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/alpha/frame-53-attempt-02-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-53.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/frames/frame-53-attempt-02.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/contacts/frame-53-attempt-02-contact.png",
+  "qa_json_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/qa/frame-53-attempt-02-qa.json",
+  "prompt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/rabbit-40-61/prompts/frame-53-attempt-02-prompt.txt",
+  "decision": "candidate",
+  "notes": "retry: thread-local source and remove green residue"
+}

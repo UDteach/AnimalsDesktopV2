@@ -1,0 +1,20 @@
+{
+  "source": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/alpha/frame-07-attempt-01-alpha-preholes.png",
+  "output": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/alpha/frame-07-attempt-01-alpha.png",
+  "source_size": [
+    1536,
+    1024
+  ],
+  "alpha_bbox": [
+    95,
+    270,
+    1417,
+    789
+  ],
+  "max_hole_area": 128,
+  "holes_filled": 5,
+  "hole_area": 19,
+  "largest_hole": 14,
+  "skipped_holes": 0,
+  "status": "run_local_matte_repair"
+}

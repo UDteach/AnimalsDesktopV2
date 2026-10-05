@@ -1,0 +1,966 @@
+{
+  "frames_dir": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00",
+  "pattern": "frame-%02d.png",
+  "strict": true,
+  "motion_boundaries": [
+    4,
+    12,
+    20,
+    26,
+    32,
+    40,
+    48,
+    56
+  ],
+  "frame_width": 96,
+  "frame_height": 64,
+  "set_count": 1,
+  "frame_count": 62,
+  "valid": 62,
+  "missing": 0,
+  "invalid": 0,
+  "warnings": 0,
+  "sets": [
+    {
+      "set": "set00",
+      "dir": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00",
+      "valid": 62,
+      "missing": 0,
+      "invalid": 0,
+      "warnings": 0,
+      "frames": [
+        {
+          "frame": 0,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-00.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 29,
+            "w": 88,
+            "h": 29
+          },
+          "body": {
+            "alpha_pixels": 1390,
+            "fill_per_mille": 544
+          }
+        },
+        {
+          "frame": 1,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-01.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 28,
+            "w": 88,
+            "h": 30
+          },
+          "body": {
+            "alpha_pixels": 1429,
+            "fill_per_mille": 541
+          }
+        },
+        {
+          "frame": 2,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-02.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 29,
+            "w": 88,
+            "h": 29
+          },
+          "body": {
+            "alpha_pixels": 1380,
+            "fill_per_mille": 540
+          }
+        },
+        {
+          "frame": 3,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-03.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 24,
+            "w": 88,
+            "h": 34
+          },
+          "body": {
+            "alpha_pixels": 1413,
+            "fill_per_mille": 472
+          }
+        },
+        {
+          "frame": 4,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-04.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 35,
+            "w": 88,
+            "h": 23
+          },
+          "body": {
+            "alpha_pixels": 1253,
+            "fill_per_mille": 619
+          }
+        },
+        {
+          "frame": 5,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-05.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 37,
+            "w": 88,
+            "h": 21
+          },
+          "body": {
+            "alpha_pixels": 1192,
+            "fill_per_mille": 645
+          }
+        },
+        {
+          "frame": 6,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-06.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 36,
+            "w": 88,
+            "h": 22
+          },
+          "body": {
+            "alpha_pixels": 1237,
+            "fill_per_mille": 638
+          }
+        },
+        {
+          "frame": 7,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-07.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 37,
+            "w": 88,
+            "h": 21
+          },
+          "body": {
+            "alpha_pixels": 1164,
+            "fill_per_mille": 629
+          }
+        },
+        {
+          "frame": 8,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-08.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 33,
+            "w": 88,
+            "h": 25
+          },
+          "body": {
+            "alpha_pixels": 1277,
+            "fill_per_mille": 580
+          }
+        },
+        {
+          "frame": 9,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-09.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 32,
+            "w": 88,
+            "h": 26
+          },
+          "body": {
+            "alpha_pixels": 1313,
+            "fill_per_mille": 573
+          }
+        },
+        {
+          "frame": 10,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-10.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 33,
+            "w": 88,
+            "h": 25
+          },
+          "body": {
+            "alpha_pixels": 1242,
+            "fill_per_mille": 564
+          }
+        },
+        {
+          "frame": 11,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-11.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 34,
+            "w": 88,
+            "h": 24
+          },
+          "body": {
+            "alpha_pixels": 1225,
+            "fill_per_mille": 580
+          }
+        },
+        {
+          "frame": 12,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-12.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 38,
+            "w": 88,
+            "h": 20
+          },
+          "body": {
+            "alpha_pixels": 1145,
+            "fill_per_mille": 650
+          }
+        },
+        {
+          "frame": 13,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-13.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 40,
+            "w": 88,
+            "h": 18
+          },
+          "body": {
+            "alpha_pixels": 1047,
+            "fill_per_mille": 660
+          }
+        },
+        {
+          "frame": 14,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-14.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 38,
+            "w": 88,
+            "h": 20
+          },
+          "body": {
+            "alpha_pixels": 1059,
+            "fill_per_mille": 601
+          }
+        },
+        {
+          "frame": 15,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-15.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 36,
+            "w": 88,
+            "h": 22
+          },
+          "body": {
+            "alpha_pixels": 1145,
+            "fill_per_mille": 591
+          }
+        },
+        {
+          "frame": 16,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-16.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 36,
+            "w": 88,
+            "h": 22
+          },
+          "body": {
+            "alpha_pixels": 1154,
+            "fill_per_mille": 596
+          }
+        },
+        {
+          "frame": 17,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-17.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 36,
+            "w": 88,
+            "h": 22
+          },
+          "body": {
+            "alpha_pixels": 1169,
+            "fill_per_mille": 603
+          }
+        },
+        {
+          "frame": 18,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-18.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 40,
+            "w": 88,
+            "h": 18
+          },
+          "body": {
+            "alpha_pixels": 1044,
+            "fill_per_mille": 659
+          }
+        },
+        {
+          "frame": 19,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-19.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 35,
+            "w": 88,
+            "h": 23
+          },
+          "body": {
+            "alpha_pixels": 1129,
+            "fill_per_mille": 557
+          }
+        },
+        {
+          "frame": 20,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-20.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 35,
+            "w": 88,
+            "h": 23
+          },
+          "body": {
+            "alpha_pixels": 1182,
+            "fill_per_mille": 583
+          }
+        },
+        {
+          "frame": 21,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-21.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 33,
+            "w": 88,
+            "h": 25
+          },
+          "body": {
+            "alpha_pixels": 1162,
+            "fill_per_mille": 528
+          }
+        },
+        {
+          "frame": 22,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-22.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 30,
+            "w": 88,
+            "h": 28
+          },
+          "body": {
+            "alpha_pixels": 1247,
+            "fill_per_mille": 506
+          }
+        },
+        {
+          "frame": 23,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-23.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 30,
+            "w": 88,
+            "h": 28
+          },
+          "body": {
+            "alpha_pixels": 1301,
+            "fill_per_mille": 528
+          }
+        },
+        {
+          "frame": 24,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-24.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 30,
+            "w": 88,
+            "h": 28
+          },
+          "body": {
+            "alpha_pixels": 1269,
+            "fill_per_mille": 515
+          }
+        },
+        {
+          "frame": 25,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-25.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 26,
+            "w": 88,
+            "h": 32
+          },
+          "body": {
+            "alpha_pixels": 1389,
+            "fill_per_mille": 493
+          }
+        },
+        {
+          "frame": 26,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-26.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 29,
+            "w": 88,
+            "h": 29
+          },
+          "body": {
+            "alpha_pixels": 1478,
+            "fill_per_mille": 579
+          }
+        },
+        {
+          "frame": 27,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-27.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 20,
+            "w": 88,
+            "h": 38
+          },
+          "body": {
+            "alpha_pixels": 1814,
+            "fill_per_mille": 542
+          }
+        },
+        {
+          "frame": 28,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-28.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 16,
+            "w": 88,
+            "h": 42
+          },
+          "body": {
+            "alpha_pixels": 2031,
+            "fill_per_mille": 549
+          }
+        },
+        {
+          "frame": 29,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-29.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 14,
+            "w": 88,
+            "h": 44
+          },
+          "body": {
+            "alpha_pixels": 2130,
+            "fill_per_mille": 550
+          }
+        },
+        {
+          "frame": 30,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-30.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 12,
+            "w": 88,
+            "h": 46
+          },
+          "body": {
+            "alpha_pixels": 2220,
+            "fill_per_mille": 548
+          }
+        },
+        {
+          "frame": 31,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-31.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 10,
+            "w": 88,
+            "h": 48
+          },
+          "body": {
+            "alpha_pixels": 2344,
+            "fill_per_mille": 554
+          }
+        },
+        {
+          "frame": 32,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-32.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 24,
+            "w": 88,
+            "h": 34
+          },
+          "body": {
+            "alpha_pixels": 1711,
+            "fill_per_mille": 571
+          }
+        },
+        {
+          "frame": 33,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-33.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 22,
+            "w": 88,
+            "h": 36
+          },
+          "body": {
+            "alpha_pixels": 1802,
+            "fill_per_mille": 568
+          }
+        },
+        {
+          "frame": 34,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-34.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 23,
+            "w": 88,
+            "h": 35
+          },
+          "body": {
+            "alpha_pixels": 1661,
+            "fill_per_mille": 539
+          }
+        },
+        {
+          "frame": 35,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-35.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 20,
+            "w": 88,
+            "h": 38
+          },
+          "body": {
+            "alpha_pixels": 1742,
+            "fill_per_mille": 520
+          }
+        },
+        {
+          "frame": 36,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-36.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 27,
+            "w": 88,
+            "h": 31
+          },
+          "body": {
+            "alpha_pixels": 1521,
+            "fill_per_mille": 557
+          }
+        },
+        {
+          "frame": 37,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-37.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 29,
+            "w": 88,
+            "h": 29
+          },
+          "body": {
+            "alpha_pixels": 1453,
+            "fill_per_mille": 569
+          }
+        },
+        {
+          "frame": 38,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-38.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 35,
+            "w": 88,
+            "h": 23
+          },
+          "body": {
+            "alpha_pixels": 1217,
+            "fill_per_mille": 601
+          }
+        },
+        {
+          "frame": 39,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-39.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 31,
+            "w": 88,
+            "h": 27
+          },
+          "body": {
+            "alpha_pixels": 1225,
+            "fill_per_mille": 515
+          }
+        },
+        {
+          "frame": 40,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-40.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 32,
+            "w": 88,
+            "h": 26
+          },
+          "body": {
+            "alpha_pixels": 1317,
+            "fill_per_mille": 575
+          }
+        },
+        {
+          "frame": 41,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-41.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 31,
+            "w": 88,
+            "h": 27
+          },
+          "body": {
+            "alpha_pixels": 1309,
+            "fill_per_mille": 550
+          }
+        },
+        {
+          "frame": 42,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-42.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 33,
+            "w": 88,
+            "h": 25
+          },
+          "body": {
+            "alpha_pixels": 1171,
+            "fill_per_mille": 532
+          }
+        },
+        {
+          "frame": 43,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-43.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 34,
+            "w": 88,
+            "h": 24
+          },
+          "body": {
+            "alpha_pixels": 1181,
+            "fill_per_mille": 559
+          }
+        },
+        {
+          "frame": 44,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-44.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 34,
+            "w": 88,
+            "h": 24
+          },
+          "body": {
+            "alpha_pixels": 1185,
+            "fill_per_mille": 561
+          }
+        },
+        {
+          "frame": 45,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-45.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 32,
+            "w": 88,
+            "h": 26
+          },
+          "body": {
+            "alpha_pixels": 1187,
+            "fill_per_mille": 518
+          }
+        },
+        {
+          "frame": 46,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-46.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 33,
+            "w": 88,
+            "h": 25
+          },
+          "body": {
+            "alpha_pixels": 1175,
+            "fill_per_mille": 534
+          }
+        },
+        {
+          "frame": 47,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-47.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 33,
+            "w": 88,
+            "h": 25
+          },
+          "body": {
+            "alpha_pixels": 1223,
+            "fill_per_mille": 555
+          }
+        },
+        {
+          "frame": 48,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-48.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 37,
+            "w": 88,
+            "h": 21
+          },
+          "body": {
+            "alpha_pixels": 1142,
+            "fill_per_mille": 617
+          }
+        },
+        {
+          "frame": 49,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-49.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 36,
+            "w": 88,
+            "h": 22
+          },
+          "body": {
+            "alpha_pixels": 1163,
+            "fill_per_mille": 600
+          }
+        },
+        {
+          "frame": 50,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-50.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 36,
+            "w": 88,
+            "h": 22
+          },
+          "body": {
+            "alpha_pixels": 1185,
+            "fill_per_mille": 612
+          }
+        },
+        {
+          "frame": 51,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-51.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 35,
+            "w": 88,
+            "h": 23
+          },
+          "body": {
+            "alpha_pixels": 1238,
+            "fill_per_mille": 611
+          }
+        },
+        {
+          "frame": 52,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-52.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 35,
+            "w": 88,
+            "h": 23
+          },
+          "body": {
+            "alpha_pixels": 1219,
+            "fill_per_mille": 602
+          }
+        },
+        {
+          "frame": 53,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-53.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 35,
+            "w": 88,
+            "h": 23
+          },
+          "body": {
+            "alpha_pixels": 1302,
+            "fill_per_mille": 643
+          }
+        },
+        {
+          "frame": 54,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-54.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 36,
+            "w": 88,
+            "h": 22
+          },
+          "body": {
+            "alpha_pixels": 1151,
+            "fill_per_mille": 594
+          }
+        },
+        {
+          "frame": 55,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-55.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 36,
+            "w": 88,
+            "h": 22
+          },
+          "body": {
+            "alpha_pixels": 1189,
+            "fill_per_mille": 614
+          }
+        },
+        {
+          "frame": 56,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-56.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 32,
+            "w": 88,
+            "h": 26
+          },
+          "body": {
+            "alpha_pixels": 1156,
+            "fill_per_mille": 505
+          }
+        },
+        {
+          "frame": 57,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-57.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 27,
+            "w": 88,
+            "h": 31
+          },
+          "body": {
+            "alpha_pixels": 1254,
+            "fill_per_mille": 459
+          }
+        },
+        {
+          "frame": 58,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-58.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 21,
+            "w": 88,
+            "h": 37
+          },
+          "body": {
+            "alpha_pixels": 1391,
+            "fill_per_mille": 427
+          }
+        },
+        {
+          "frame": 59,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-59.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 18,
+            "w": 88,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 1485,
+            "fill_per_mille": 421
+          }
+        },
+        {
+          "frame": 60,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-60.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 27,
+            "w": 88,
+            "h": 31
+          },
+          "body": {
+            "alpha_pixels": 1413,
+            "fill_per_mille": 517
+          }
+        },
+        {
+          "frame": 61,
+          "path": "docs/art-source/ferret-albino/motion-source/accepted-frames/set00/frame-61.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 32,
+            "w": 88,
+            "h": 26
+          },
+          "body": {
+            "alpha_pixels": 1179,
+            "fill_per_mille": 515
+          }
+        }
+      ],
+      "completed": true
+    }
+  ]
+}

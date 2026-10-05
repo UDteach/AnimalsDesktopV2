@@ -1,0 +1,65 @@
+{
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "cell_width": 512,
+  "cell_height": 512,
+  "columns": 4,
+  "rows": 2,
+  "origin_x": 0,
+  "origin_y": 0,
+  "pitch_x": 512,
+  "pitch_y": 512,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "variant-b-gait-delta-02-cell-recentered-2048x1024.png",
+      "cell": 0,
+      "output": "frame-00.png"
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "variant-b-gait-delta-02-cell-recentered-2048x1024.png",
+      "cell": 1,
+      "output": "frame-01.png"
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "variant-b-gait-delta-02-cell-recentered-2048x1024.png",
+      "cell": 2,
+      "output": "frame-02.png"
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "variant-b-gait-delta-02-cell-recentered-2048x1024.png",
+      "cell": 3,
+      "output": "frame-03.png"
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "variant-b-gait-delta-02-cell-recentered-2048x1024.png",
+      "cell": 4,
+      "output": "frame-04.png"
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "variant-b-gait-delta-02-cell-recentered-2048x1024.png",
+      "cell": 5,
+      "output": "frame-05.png"
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "variant-b-gait-delta-02-cell-recentered-2048x1024.png",
+      "cell": 6,
+      "output": "frame-06.png"
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "variant-b-gait-delta-02-cell-recentered-2048x1024.png",
+      "cell": 7,
+      "output": "frame-07.png"
+    }
+  ]
+}

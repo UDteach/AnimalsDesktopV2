@@ -1,0 +1,218 @@
+{
+  "manifest": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04-raw-batch.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/parsed-variant-e-clean-gait-04-raw",
+  "cell_width": 443,
+  "cell_height": 443,
+  "columns": 4,
+  "rows": 2,
+  "pitch_x": 443,
+  "pitch_y": 443,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 8,
+  "parsed": 0,
+  "rejected": 8,
+  "sources": [
+    {
+      "path": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04.png",
+      "sha256": "350ce37980b82c9611cd526e23398771bbd95dba7d710baaa3767f94a9889f7c",
+      "width": 1774,
+      "height": 887,
+      "errors": [
+        "content exists in x-boundary guard column 439"
+      ]
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "350ce37980b82c9611cd526e23398771bbd95dba7d710baaa3767f94a9889f7c",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 439"
+      ]
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "350ce37980b82c9611cd526e23398771bbd95dba7d710baaa3767f94a9889f7c",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 439"
+      ]
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "350ce37980b82c9611cd526e23398771bbd95dba7d710baaa3767f94a9889f7c",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 439"
+      ]
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "350ce37980b82c9611cd526e23398771bbd95dba7d710baaa3767f94a9889f7c",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 439"
+      ]
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04.png",
+      "cell": 4,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "350ce37980b82c9611cd526e23398771bbd95dba7d710baaa3767f94a9889f7c",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 439"
+      ]
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04.png",
+      "cell": 5,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "350ce37980b82c9611cd526e23398771bbd95dba7d710baaa3767f94a9889f7c",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 439"
+      ]
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04.png",
+      "cell": 6,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "350ce37980b82c9611cd526e23398771bbd95dba7d710baaa3767f94a9889f7c",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 439"
+      ]
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04.png",
+      "cell": 7,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "350ce37980b82c9611cd526e23398771bbd95dba7d710baaa3767f94a9889f7c",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 439"
+      ]
+    }
+  ],
+  "errors": [
+    "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run03/variant-e-clean-gait-04.png: content exists in x-boundary guard column 439",
+    "set00-frame-00: content exists in x-boundary guard column 439",
+    "set00-frame-01: content exists in x-boundary guard column 439",
+    "set00-frame-02: content exists in x-boundary guard column 439",
+    "set00-frame-03: content exists in x-boundary guard column 439",
+    "set00-frame-04: content exists in x-boundary guard column 439",
+    "set00-frame-05: content exists in x-boundary guard column 439",
+    "set00-frame-06: content exists in x-boundary guard column 439",
+    "set00-frame-07: content exists in x-boundary guard column 439"
+  ]
+}

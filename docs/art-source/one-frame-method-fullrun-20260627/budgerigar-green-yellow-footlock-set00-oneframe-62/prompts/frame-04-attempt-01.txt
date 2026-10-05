@@ -1,0 +1,12 @@
+Use case: stylized-concept
+Asset type: 96x64 desktop-pet sprite source frame
+Primary request: Generate frame 04 for budgerigar_green_yellow / セキセイインコ, first walk step.
+Scene/backdrop: perfectly flat solid #ff00ff chroma-key background only.
+Subject: one complete right-facing compact side-view green-yellow budgerigar.
+Required markings: yellow face and head, tiny blue cheek accents, black scalloped wing markings, green belly/body, tapered blue-green tail, small hooked beak.
+Pose: first short walking step with one front foot planted and one rear foot or rear toe contact visible; feet are tiny, attached, and directly under the body.
+Style/medium: clean 2D pixel-friendly game sprite, crisp silhouette, no outline texturing, no realism.
+Composition/framing: centered with generous padding; full tail, beak, head, wings, feet, and toes inside frame.
+Constraints: two short attached feet are preferred; one foot plus rear contact is acceptable; no thread-like legs or floor marks.
+Avoid: perch, branch, floor, shadow, underside arc, long curved line, thread-like legs, scenery, props, seed, food, text, labels, border, duplicate bird, cropped body parts, left-facing pose.
+

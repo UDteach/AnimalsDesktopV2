@@ -1,0 +1,30 @@
+{
+  "source_bbox": [
+    806,
+    438,
+    904,
+    539
+  ],
+  "source_component_pixels": 5071,
+  "normalized_size": [
+    52,
+    54
+  ],
+  "frame_bbox": [
+    23,
+    6,
+    73,
+    58
+  ],
+  "nonzero_alpha": 1693,
+  "partial_alpha": 594,
+  "edge_alpha_pixels": 0,
+  "family": "macaroni_mouse",
+  "frame": 32,
+  "source_path": "/Users/kyota/.codex/generated_images/019efb9a-b711-77f2-b098-5dce8ddc678d/ig_01d5613bcb360562016a3c5d6659688191b771741d7c05dc8f.png",
+  "sheet_path": "docs/art-source/macaroni-mouse/motion-source/raw-imagegen/set00/set00-components-ig_01d5613bcb360562016a3c5d6659688191b771741d7c05dc8f-raw.png",
+  "alpha_sheet_path": "docs/art-source/macaroni-mouse/motion-source/raw-imagegen/set00/set00-components-ig_01d5613bcb360562016a3c5d6659688191b771741d7c05dc8f-alpha.png",
+  "frame_path": "docs/art-source/macaroni-mouse/motion-source/accepted-candidates/set00/frame-32.png",
+  "contact_path": "docs/art-source/macaroni-mouse/motion-source/contacts/set00/frame-32-contact.png",
+  "status": "candidate-components-sheet"
+}

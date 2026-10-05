@@ -1,0 +1,1 @@
+rejected locally after final-gate contact: face still reads white-gray despite stronger prompt; retry with solid lemon-yellow head/no white face mask

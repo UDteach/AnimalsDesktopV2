@@ -1,0 +1,44 @@
+{
+  "source": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/raw/frame-04-attempt-01-raw.png",
+  "alpha": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/alpha/frame-04-attempt-01-alpha.png",
+  "output": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-04.png",
+  "method": "magenta-key remove_chroma_key source-alpha no-hole-fill fit-96x64",
+  "source_content": [
+    217,
+    193,
+    1011,
+    622
+  ],
+  "fit": {
+    "scale": 0.0830860534124629,
+    "placed_at": [
+      6,
+      6
+    ],
+    "output_size": [
+      96,
+      64
+    ],
+    "output_content": [
+      6,
+      6,
+      90,
+      58
+    ]
+  },
+  "qa": {
+    "size": [
+      96,
+      64
+    ],
+    "nonzero_alpha": 2065,
+    "edge_alpha_pixels": 0,
+    "greenish_pixels": 660,
+    "alpha_bbox": [
+      6,
+      6,
+      90,
+      58
+    ]
+  }
+}

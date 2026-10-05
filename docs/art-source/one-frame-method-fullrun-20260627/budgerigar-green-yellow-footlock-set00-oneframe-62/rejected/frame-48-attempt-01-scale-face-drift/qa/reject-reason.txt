@@ -1,0 +1,1 @@
+rejected: scale jump/body too tall versus 45-47 and face reads pale in parent QA comparison

@@ -1,0 +1,96 @@
+{
+  "contact_sheet_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/contact/budgerigar-footlock-52-57-parent-gate-10x.png",
+  "frames": [
+    {
+      "frame": "52",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-52.png",
+      "bbox": [
+        6,
+        10,
+        90,
+        58
+      ],
+      "height": 48,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "53",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-53.png",
+      "bbox": [
+        6,
+        11,
+        90,
+        58
+      ],
+      "height": 47,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "54",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-54.png",
+      "bbox": [
+        6,
+        14,
+        90,
+        58
+      ],
+      "height": 44,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "55",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-55.png",
+      "bbox": [
+        6,
+        16,
+        90,
+        58
+      ],
+      "height": 42,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "56",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-56.png",
+      "bbox": [
+        6,
+        14,
+        90,
+        58
+      ],
+      "height": 44,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "57",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-57.png",
+      "bbox": [
+        6,
+        15,
+        90,
+        58
+      ],
+      "height": 43,
+      "size": [
+        96,
+        64
+      ]
+    }
+  ],
+  "notes": "Parent gate contact for corrected 56 and 57; no 58-61 generation in this gate step."
+}

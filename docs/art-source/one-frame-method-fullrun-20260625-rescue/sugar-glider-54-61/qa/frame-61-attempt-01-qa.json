@@ -1,0 +1,44 @@
+{
+  "source_size": [
+    1536,
+    1024
+  ],
+  "source_bbox": [
+    217,
+    306,
+    1248,
+    816
+  ],
+  "padded_bbox": [
+    205,
+    294,
+    1260,
+    828
+  ],
+  "normalized_size": [
+    88,
+    45
+  ],
+  "frame_bbox": [
+    4,
+    14,
+    91,
+    59
+  ],
+  "nonzero_alpha": 1912,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "sugar_glider_gray",
+  "frame": 61,
+  "group": "membrane_reaction",
+  "pose": "settle after reaction",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc44-3a4c-7063-850f-b3c11ac545b4/ig_01312a371a501a51016a3c7f66321c81918c486917f1bb621b.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/raw/frame-61-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/alpha/frame-61-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/frames/frame-61.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/frames/frame-61-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/contacts/frame-61-attempt-01-contact.png",
+  "decision": "candidate",
+  "notes": "prompt:prompts/frame-61-attempt-01-prompt.txt"
+}

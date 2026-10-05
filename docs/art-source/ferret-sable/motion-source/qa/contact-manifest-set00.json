@@ -1,0 +1,91 @@
+{
+  "schema": "animalsdesktop.motion-contact-evidence.v1",
+  "variant": "ferret_sable",
+  "count": 12,
+  "contacts": [
+    {
+      "destination": "docs/art-source/ferret-sable/motion-source/contacts/full-00-61-light.png",
+      "sha256": "b5572e1df8b3f73604dff5d442bfb530a7337d7a4510ffd0099e9e12006d98aa",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-set00-oneframe-62/oneframe-coat-56-61-20260726/review/full-00-61-light.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-set00-oneframe-62/oneframe-coat-56-61-20260726/review/full-00-61-light.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable/motion-source/contacts/alert-loop-56-61-light.png",
+      "sha256": "1d80a4f3196c126e1ae34563cffb44ea7b767e146773bab91060accda6e38243",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-set00-oneframe-62/oneframe-coat-56-61-20260726/review/alert-loop-56-to-61-to-56-light.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-set00-oneframe-62/oneframe-coat-56-61-20260726/review/alert-loop-56-to-61-to-56-light.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable/motion-source/contacts/rest-loop-48-55-light.png",
+      "sha256": "37276a7ce5ccd2f9efdfc93574b245eb180848348ee1a07c4645345af428bbe5",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-set00-oneframe-62/oneframe-coat-48-55-20260725/review/rest-loop-48-to-55-to-48-light.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-set00-oneframe-62/oneframe-coat-48-55-20260725/review/rest-loop-48-to-55-to-48-light.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable/motion-source/contacts/turn-exit-38-39-to-mirrored04-05-light.png",
+      "sha256": "7cd6532a5e37df2f599f575792397752dfc15d49095e29123435c0c12613e5e1",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-set00-oneframe-62/oneframe-coat-32-39-20260725/review/runtime-exit-38-39-to-mirrored-walk04-05-light.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-set00-oneframe-62/oneframe-coat-32-39-20260725/review/runtime-exit-38-39-to-mirrored-walk04-05-light.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable/motion-source/contacts/full-00-61-checker.png",
+      "sha256": "d02206a12b2be359c2f930fa3cc38fdef4c365d89382448c7ffc15f13bcf4008",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-set00-oneframe-62/oneframe-coat-56-61-20260726/review/full-00-61-checker.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-set00-oneframe-62/oneframe-coat-56-61-20260726/review/full-00-61-checker.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable/motion-source/contacts/alert-loop-56-61-checker.png",
+      "sha256": "ea1c7f9656591f59e942add0a0f27ddd209e9cd7ce51ba53b3406da12d3327d7",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-set00-oneframe-62/oneframe-coat-56-61-20260726/review/alert-loop-56-to-61-to-56-checker.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-set00-oneframe-62/oneframe-coat-56-61-20260726/review/alert-loop-56-to-61-to-56-checker.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable/motion-source/contacts/rest-loop-48-55-checker.png",
+      "sha256": "63235f8dbf9253e491b2b73dcf4fc585a23256e9eb48f798548bb12c82f49280",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-set00-oneframe-62/oneframe-coat-48-55-20260725/review/rest-loop-48-to-55-to-48-checker.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-set00-oneframe-62/oneframe-coat-48-55-20260725/review/rest-loop-48-to-55-to-48-checker.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable/motion-source/contacts/turn-exit-38-39-to-mirrored04-05-checker.png",
+      "sha256": "4f55860b1a1aab6ecbc864ad5d9bef675698b37aab7b9bb7ac113b695e99e46a",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-set00-oneframe-62/oneframe-coat-32-39-20260725/review/runtime-exit-38-39-to-mirrored-walk04-05-checker.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-set00-oneframe-62/oneframe-coat-32-39-20260725/review/runtime-exit-38-39-to-mirrored-walk04-05-checker.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable/motion-source/contacts/full-00-61-dark.png",
+      "sha256": "7635c15a8b60745a3ca76a3c820dedae4cc6008dc4ae826c01a6498dca575d1a",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-set00-oneframe-62/oneframe-coat-56-61-20260726/review/full-00-61-dark.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-set00-oneframe-62/oneframe-coat-56-61-20260726/review/full-00-61-dark.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable/motion-source/contacts/alert-loop-56-61-dark.png",
+      "sha256": "348ac6513c6c7b7e0ed9d7b6fe2aadc096e2ad873dbeba7fa01984ccbfa7be01",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-set00-oneframe-62/oneframe-coat-56-61-20260726/review/alert-loop-56-to-61-to-56-dark.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-set00-oneframe-62/oneframe-coat-56-61-20260726/review/alert-loop-56-to-61-to-56-dark.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable/motion-source/contacts/rest-loop-48-55-dark.png",
+      "sha256": "92d03d587d777c77312907f8fe0f76c7f231619419b721764f1ec002a4d3aefd",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-set00-oneframe-62/oneframe-coat-48-55-20260725/review/rest-loop-48-to-55-to-48-dark.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-set00-oneframe-62/oneframe-coat-48-55-20260725/review/rest-loop-48-to-55-to-48-dark.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable/motion-source/contacts/turn-exit-38-39-to-mirrored04-05-dark.png",
+      "sha256": "4459bba31ba0f52cd7906f29f7cf5b7bc7a4c730cd4879e930ff33f80b33c88a",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-set00-oneframe-62/oneframe-coat-32-39-20260725/review/runtime-exit-38-39-to-mirrored-walk04-05-dark.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-set00-oneframe-62/oneframe-coat-32-39-20260725/review/runtime-exit-38-39-to-mirrored-walk04-05-dark.png",
+      "source_matches_destination": "true"
+    }
+  ]
+}

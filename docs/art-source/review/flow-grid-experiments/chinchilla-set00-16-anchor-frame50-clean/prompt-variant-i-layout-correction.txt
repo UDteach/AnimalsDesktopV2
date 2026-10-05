@@ -1,0 +1,13 @@
+Layout correction pass for a review-only desktop pet sprite sheet. Create exactly one 2048 by 1024 image containing exactly 8 right-facing standard gray chinchilla sprites. The sheet has an invisible 2 row by 4 column layout. Each invisible cell is exactly 512 by 512 pixels. Do not draw cell borders, grid lines, dividers, labels, numbers, or text.
+
+Critical layout rule: keep each chinchilla fully inside its own 512 by 512 invisible cell. Center each animal inside the cell. Leave at least 80 pixels of pure green padding between the animal and every cell edge. Ears, whiskers, feet, toes, tail, and body must not touch or cross cell edges.
+
+Background: pure flat chroma green #00ff00 across all empty areas. No gradients, no texture, no checkerboard, no shadows, no floor, no scenery, no props.
+
+Subject style: compact small 2D game sprite, soft shaded, clean antialiased outline, stable calm face, large rounded ears, fluffy curled tail, medium neutral gray chinchilla coat. Keep the same camera distance, body size, head size, coat value, outline, baseline, and source family across all 8 frames.
+
+Motion: all 8 cells are one grounded walk cycle. Every cell must be a distinct gait phase. Change front paw position, rear paw position, shoulder height, hip height, tail curve, or slight body compression in every neighboring frame. Do not repeat the same pose.
+
+Frame order left to right then top to bottom: 1 front right paw forward and rear right paw back. 2 front paw under chest and rear paw lifting. 3 front left paw forward and rear left paw back. 4 paws pass under body. 5 opposite contact, not duplicate of frame 1. 6 one front paw lifted and one rear paw pushing. 7 low contact step, head slightly forward. 8 recovery step, tail slightly curled upward.
+
+Pixel quality guard: no green dots inside the animal, no green holes inside body or tail, no missing pixels, no transparent pinholes, no detached specks, no white fringe, no green halo, no rough matte, no cropped anatomy. This must be suitable for later fixed-cell extraction; do not merge animals and do not add extra animals.

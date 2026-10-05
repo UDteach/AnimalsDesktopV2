@@ -1,0 +1,38 @@
+{
+  "source_bbox": [
+    324,
+    344,
+    1149,
+    697
+  ],
+  "normalized_size": [
+    86,
+    37
+  ],
+  "frame_bbox": [
+    5,
+    22,
+    90,
+    59
+  ],
+  "nonzero_alpha": 1880,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "canvas_size": [
+    96,
+    64
+  ],
+  "family": "macaroni_mouse_tan",
+  "frame": "57",
+  "pose": "quick recoil backward but low quadruped; no jump",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc43-f614-78a3-8f80-c0295aae9fbc/ig_0f270876ec10befc016a3c7c3cd4a481919f71575cdfd0de09.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/raw/frame-57-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/alpha/frame-57-attempt-01-alpha.png",
+  "frame_attempt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/frames/frame-57-attempt-01.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/frames/frame-57.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/contacts/frame-57-attempt-01-contact.png",
+  "prompt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/prompts/frame-57-attempt-01-prompt.txt",
+  "decision": "accepted",
+  "notes": "mechanical pass; visual species/pose reviewed via contact sheet"
+}

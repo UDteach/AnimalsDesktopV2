@@ -1,0 +1,1125 @@
+{
+  "variant": "budgerigar_green_yellow",
+  "frame_count": 62,
+  "issues": [
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-00.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2121,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 653,
+        "alpha_bbox": [
+          6,
+          4,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-01.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2122,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 639,
+        "alpha_bbox": [
+          6,
+          4,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-02.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1860,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 593,
+        "alpha_bbox": [
+          6,
+          11,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-03.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1925,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 622,
+        "alpha_bbox": [
+          6,
+          7,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-04.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 2065,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 660,
+        "alpha_bbox": [
+          6,
+          6,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-05.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1904,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 540,
+        "alpha_bbox": [
+          6,
+          9,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-06.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1940,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 562,
+        "alpha_bbox": [
+          6,
+          9,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-07.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1908,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 560,
+        "alpha_bbox": [
+          7,
+          7,
+          88,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-08.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1895,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 568,
+        "alpha_bbox": [
+          6,
+          9,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-09.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1204,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 515,
+        "alpha_bbox": [
+          6,
+          26,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-10.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1330,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 450,
+        "alpha_bbox": [
+          6,
+          23,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-11.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1366,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 499,
+        "alpha_bbox": [
+          6,
+          21,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-12.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1220,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 411,
+        "alpha_bbox": [
+          6,
+          26,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-13.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1145,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 368,
+        "alpha_bbox": [
+          6,
+          31,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-14.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1102,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 331,
+        "alpha_bbox": [
+          6,
+          35,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-15.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1151,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 344,
+        "alpha_bbox": [
+          6,
+          32,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-16.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1195,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 372,
+        "alpha_bbox": [
+          6,
+          33,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-17.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1174,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 376,
+        "alpha_bbox": [
+          6,
+          33,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-18.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1078,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 381,
+        "alpha_bbox": [
+          6,
+          37,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-19.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1229,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 393,
+        "alpha_bbox": [
+          6,
+          29,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-20.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1358,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 393,
+        "alpha_bbox": [
+          6,
+          33,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-21.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1422,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 403,
+        "alpha_bbox": [
+          6,
+          31,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-22.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1355,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 352,
+        "alpha_bbox": [
+          6,
+          33,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-23.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1355,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 346,
+        "alpha_bbox": [
+          6,
+          32,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-24.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1482,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 444,
+        "alpha_bbox": [
+          6,
+          22,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-25.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1373,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 349,
+        "alpha_bbox": [
+          6,
+          33,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-26.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1358,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 350,
+        "alpha_bbox": [
+          6,
+          33,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-27.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1399,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 380,
+        "alpha_bbox": [
+          6,
+          31,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-28.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1859,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 500,
+        "alpha_bbox": [
+          6,
+          17,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-29.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1931,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 634,
+        "alpha_bbox": [
+          6,
+          17,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-30.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1456,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 447,
+        "alpha_bbox": [
+          6,
+          23,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-31.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1648,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 557,
+        "alpha_bbox": [
+          6,
+          14,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-32.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1850,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 658,
+        "alpha_bbox": [
+          6,
+          11,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-33.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1977,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 613,
+        "alpha_bbox": [
+          11,
+          4,
+          85,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-34.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1886,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 596,
+        "alpha_bbox": [
+          12,
+          4,
+          84,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-35.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1554,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 507,
+        "alpha_bbox": [
+          6,
+          18,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-36.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1576,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 514,
+        "alpha_bbox": [
+          6,
+          17,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-37.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1650,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 543,
+        "alpha_bbox": [
+          6,
+          15,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-38.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1589,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 542,
+        "alpha_bbox": [
+          6,
+          16,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-39.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1603,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 527,
+        "alpha_bbox": [
+          6,
+          17,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-40.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1355,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 371,
+        "alpha_bbox": [
+          6,
+          33,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-41.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1356,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 367,
+        "alpha_bbox": [
+          6,
+          33,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-42.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1348,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 365,
+        "alpha_bbox": [
+          6,
+          33,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-43.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1451,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 433,
+        "alpha_bbox": [
+          6,
+          26,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-44.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1409,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 383,
+        "alpha_bbox": [
+          6,
+          32,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-45.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1323,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 355,
+        "alpha_bbox": [
+          6,
+          34,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-46.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1496,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 469,
+        "alpha_bbox": [
+          6,
+          23,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-47.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1501,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 475,
+        "alpha_bbox": [
+          6,
+          22,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-48.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1506,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 473,
+        "alpha_bbox": [
+          6,
+          22,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-49.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1497,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 440,
+        "alpha_bbox": [
+          6,
+          23,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-50.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1445,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 437,
+        "alpha_bbox": [
+          6,
+          25,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-51.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1496,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 465,
+        "alpha_bbox": [
+          6,
+          22,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-52.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1588,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 498,
+        "alpha_bbox": [
+          6,
+          20,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-53.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1696,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 524,
+        "alpha_bbox": [
+          6,
+          17,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-54.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1537,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 457,
+        "alpha_bbox": [
+          6,
+          20,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-55.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1508,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 458,
+        "alpha_bbox": [
+          6,
+          22,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-56.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1387,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 411,
+        "alpha_bbox": [
+          6,
+          28,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-57.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1449,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 442,
+        "alpha_bbox": [
+          6,
+          25,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-58.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1559,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 466,
+        "alpha_bbox": [
+          6,
+          20,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-59.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1493,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 473,
+        "alpha_bbox": [
+          6,
+          25,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-60.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1536,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 513,
+        "alpha_bbox": [
+          6,
+          20,
+          90,
+          58
+        ]
+      }
+    },
+    {
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-61.png",
+      "qa": {
+        "size": [
+          96,
+          64
+        ],
+        "nonzero_alpha": 1553,
+        "edge_alpha_pixels": 0,
+        "greenish_pixels": 504,
+        "alpha_bbox": [
+          6,
+          19,
+          90,
+          58
+        ]
+      }
+    }
+  ],
+  "full_contact": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/contact/budgerigar_green_yellow-set00-full-contact.png",
+  "candidate_sheet": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/contact/budgerigar_green_yellow-source-set00-candidate-sheet.png",
+  "preview_gif": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/contact/budgerigar_green_yellow-set00-preview.gif"
+}

@@ -1,0 +1,20 @@
+{
+  "source": "/Users/kyota/.codex/worktrees/359e/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/alpha/frame-33-attempt-01-alpha-preholes.png",
+  "output": "/Users/kyota/.codex/worktrees/359e/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/alpha/frame-33-attempt-01-alpha.png",
+  "source_size": [
+    1536,
+    1024
+  ],
+  "alpha_bbox": [
+    35,
+    211,
+    1358,
+    769
+  ],
+  "max_hole_area": 512,
+  "holes_filled": 10,
+  "hole_area": 44,
+  "largest_hole": 11,
+  "skipped_holes": 0,
+  "status": "run_local_matte_repair"
+}

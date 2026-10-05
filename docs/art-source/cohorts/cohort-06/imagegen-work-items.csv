@@ -1,0 +1,11 @@
+variant_id,species,coat,motion_profile,source_truth,frame_dir,preview_light,preview_dark
+hedgehog_salt_pepper,African pygmy hedgehog,salt and pepper,hedgehog-shuffle,source-truth/hedgehog_salt_pepper.png,motion-source/hedgehog_salt_pepper,preview/hedgehog_salt_pepper-96x64-light.png,preview/hedgehog_salt_pepper-96x64-dark.png
+hedgehog_cinnamon,African pygmy hedgehog,cinnamon,hedgehog-shuffle,source-truth/hedgehog_cinnamon.png,motion-source/hedgehog_cinnamon,preview/hedgehog_cinnamon-96x64-light.png,preview/hedgehog_cinnamon-96x64-dark.png
+squirrel_red,red squirrel,red,squirrel-bound,source-truth/squirrel_red.png,motion-source/squirrel_red,preview/squirrel_red-96x64-light.png,preview/squirrel_red-96x64-dark.png
+squirrel_gray,gray squirrel,gray,squirrel-bound,source-truth/squirrel_gray.png,motion-source/squirrel_gray,preview/squirrel_gray-96x64-light.png,preview/squirrel_gray-96x64-dark.png
+fox_red,red fox,red,fox-trot,source-truth/fox_red.png,motion-source/fox_red,preview/fox_red-96x64-light.png,preview/fox_red-96x64-dark.png
+fox_silver,silver fox,silver,fox-trot,source-truth/fox_silver.png,motion-source/fox_silver,preview/fox_silver-96x64-light.png,preview/fox_silver-96x64-dark.png
+red_panda_classic,red panda,classic,red-panda-amble,source-truth/red_panda_classic.png,motion-source/red_panda_classic,preview/red_panda_classic-96x64-light.png,preview/red_panda_classic-96x64-dark.png
+red_panda_dark,red panda,dark,red-panda-amble,source-truth/red_panda_dark.png,motion-source/red_panda_dark,preview/red_panda_dark-96x64-light.png,preview/red_panda_dark-96x64-dark.png
+otter_brown,small-clawed otter,brown,otter-slide,source-truth/otter_brown.png,motion-source/otter_brown,preview/otter_brown-96x64-light.png,preview/otter_brown-96x64-dark.png
+sugar_glider_gray,sugar glider,gray,sugar-glider-skitter,source-truth/sugar_glider_gray.png,motion-source/sugar_glider_gray,preview/sugar_glider_gray-96x64-light.png,preview/sugar_glider_gray-96x64-dark.png

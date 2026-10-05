@@ -1,0 +1,38 @@
+{
+  "source_bbox": [
+    228,
+    308,
+    1338,
+    757
+  ],
+  "normalized_size": [
+    86,
+    35
+  ],
+  "frame_bbox": [
+    5,
+    24,
+    89,
+    59
+  ],
+  "nonzero_alpha": 1828,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "canvas_size": [
+    96,
+    64
+  ],
+  "family": "macaroni_mouse_tan",
+  "frame": "56",
+  "pose": "small surprise reaction; head lifts and ears perk; all feet grounded",
+  "attempt": 3,
+  "source_path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/raw/frame-56-attempt-02-raw.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/raw/frame-56-attempt-02-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/alpha/frame-56-attempt-03-alpha.png",
+  "frame_attempt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/frames/frame-56-attempt-03.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/frames/frame-56.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/contacts/frame-56-attempt-03-contact.png",
+  "prompt_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/macaroni-mouse-56-61/prompts/frame-56-attempt-03-prompt.txt",
+  "decision": "accepted",
+  "notes": "mechanical pass after edge-contract chroma cleanup; visual species/pose reviewed via contact sheet"
+}

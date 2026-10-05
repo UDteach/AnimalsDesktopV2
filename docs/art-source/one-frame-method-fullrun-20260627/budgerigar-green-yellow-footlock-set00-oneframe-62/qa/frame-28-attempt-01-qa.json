@@ -1,0 +1,50 @@
+{
+  "variant": "budgerigar_green_yellow",
+  "frame": "28",
+  "attempt": "01",
+  "status": "candidate",
+  "source_imagegen_path": "/Users/kyota/.codex/generated_images/019f06a8-9dba-7f50-be95-a2f55e756ba2/ig_0f333ea2b977c5d8016a3f92ad4f408191906300ee227babee.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/raw/frame-28-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/alpha/frame-28-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-28.png",
+  "prompt_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/prompts/frame-28-attempt-01.txt",
+  "method": "magenta-key remove_chroma_key source-alpha no-hole-fill fit-96x64",
+  "source_content": [
+    254,
+    322,
+    794,
+    440
+  ],
+  "fit": {
+    "scale": 0.10579345088161209,
+    "placed_at": [
+      6,
+      11
+    ],
+    "output_size": [
+      96,
+      64
+    ],
+    "output_content": [
+      6,
+      11,
+      90,
+      58
+    ]
+  },
+  "mechanical_qa": {
+    "size": [
+      96,
+      64
+    ],
+    "nonzero_alpha": 2079,
+    "edge_alpha_pixels": 0,
+    "greenish_pixels": 774,
+    "alpha_bbox": [
+      6,
+      11,
+      90,
+      58
+    ]
+  }
+}

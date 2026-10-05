@@ -1,0 +1,59 @@
+{
+  "timestamp_utc": "2026-06-24T22:56:37.438528+00:00",
+  "target_frames_per_family": 62,
+  "families": {
+    "hamster": {
+      "slug": "hamster",
+      "frame_dir": "docs/art-source/hamster/motion-source/accepted-candidates/set00",
+      "contact_sheet": "docs/art-source/hamster/motion-source/review-sheets/hamster-set00-components-contact.png",
+      "count": 62,
+      "missing": [],
+      "bad_size": [],
+      "edge_alpha": [],
+      "empty_alpha": [],
+      "greenish_pixels_gt_12": [],
+      "max_greenish_pixels": 9,
+      "min_nonzero_alpha": 1601
+    },
+    "macaroni_mouse": {
+      "slug": "macaroni-mouse",
+      "frame_dir": "docs/art-source/macaroni-mouse/motion-source/accepted-candidates/set00",
+      "contact_sheet": "docs/art-source/macaroni-mouse/motion-source/review-sheets/macaroni_mouse-set00-components-contact.png",
+      "count": 62,
+      "missing": [],
+      "bad_size": [],
+      "edge_alpha": [],
+      "empty_alpha": [],
+      "greenish_pixels_gt_12": [],
+      "max_greenish_pixels": 6,
+      "min_nonzero_alpha": 1573
+    },
+    "sugar_glider": {
+      "slug": "sugar-glider",
+      "frame_dir": "docs/art-source/sugar-glider/motion-source/accepted-candidates/set00",
+      "contact_sheet": "docs/art-source/sugar-glider/motion-source/review-sheets/sugar_glider-set00-components-contact.png",
+      "count": 62,
+      "missing": [],
+      "bad_size": [],
+      "edge_alpha": [],
+      "empty_alpha": [],
+      "greenish_pixels_gt_12": [],
+      "max_greenish_pixels": 3,
+      "min_nonzero_alpha": 1410
+    },
+    "rabbit": {
+      "slug": "rabbit",
+      "frame_dir": "docs/art-source/rabbit/motion-source/accepted-candidates/set00",
+      "contact_sheet": "docs/art-source/rabbit/motion-source/review-sheets/rabbit-set00-components-contact.png",
+      "count": 62,
+      "missing": [],
+      "bad_size": [],
+      "edge_alpha": [],
+      "empty_alpha": [],
+      "greenish_pixels_gt_12": [],
+      "max_greenish_pixels": 2,
+      "min_nonzero_alpha": 1075
+    }
+  },
+  "issues": []
+}

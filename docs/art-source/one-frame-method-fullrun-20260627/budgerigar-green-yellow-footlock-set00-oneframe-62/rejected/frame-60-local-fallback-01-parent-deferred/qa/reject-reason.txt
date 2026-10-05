@@ -1,0 +1,1 @@
+deferred: local fallback was created before parent stop/fallback-decision instruction; canonical frame-60 removed so parent can decide fallback explicitly

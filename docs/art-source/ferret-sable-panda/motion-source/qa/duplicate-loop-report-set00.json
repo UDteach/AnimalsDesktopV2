@@ -1,0 +1,81 @@
+{
+  "schema": "animalsdesktop.motion-duplicate-loop.v1",
+  "variant": "ferret_sable_panda",
+  "frame_count": 62,
+  "unique_frame_hashes": 62,
+  "exact_duplicate_groups": [],
+  "rest_loop_48_55_with_closure": [
+    {
+      "from": "48",
+      "to": "49",
+      "changed_rgba_pixels": 1212
+    },
+    {
+      "from": "49",
+      "to": "50",
+      "changed_rgba_pixels": 1225
+    },
+    {
+      "from": "50",
+      "to": "51",
+      "changed_rgba_pixels": 1274
+    },
+    {
+      "from": "51",
+      "to": "52",
+      "changed_rgba_pixels": 1276
+    },
+    {
+      "from": "52",
+      "to": "53",
+      "changed_rgba_pixels": 1385
+    },
+    {
+      "from": "53",
+      "to": "54",
+      "changed_rgba_pixels": 1354
+    },
+    {
+      "from": "54",
+      "to": "55",
+      "changed_rgba_pixels": 1220
+    },
+    {
+      "from": "55",
+      "to": "48",
+      "changed_rgba_pixels": 1237
+    }
+  ],
+  "alert_loop_56_61_with_closure": [
+    {
+      "from": "56",
+      "to": "57",
+      "changed_rgba_pixels": 1422
+    },
+    {
+      "from": "57",
+      "to": "58",
+      "changed_rgba_pixels": 1523
+    },
+    {
+      "from": "58",
+      "to": "59",
+      "changed_rgba_pixels": 1536
+    },
+    {
+      "from": "59",
+      "to": "60",
+      "changed_rgba_pixels": 1689
+    },
+    {
+      "from": "60",
+      "to": "61",
+      "changed_rgba_pixels": 1580
+    },
+    {
+      "from": "61",
+      "to": "56",
+      "changed_rgba_pixels": 1228
+    }
+  ]
+}

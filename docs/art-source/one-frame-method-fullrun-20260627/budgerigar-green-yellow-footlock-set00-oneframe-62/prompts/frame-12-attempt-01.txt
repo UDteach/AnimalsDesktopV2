@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: 96x64 desktop-pet sprite source frame
+Primary request: Generate frame 12 for budgerigar_green_yellow, fast movement start.
+Scene/backdrop: perfectly flat solid #ff00ff chroma-key background only.
+Subject: one complete right-facing green-yellow budgerigar desktop-pet sprite.
+Color lock: saturated lime-green body and belly, bright lemon-yellow face/head, black scalloped wing markings over yellow-green wing feathers, tiny blue cheek accents, long narrow blue-green tail, tiny pink-gray attached feet. No white, cream, pale gray, or gray-white feathers except a tiny eye glint.
+Species lock: clear budgerigar shape with small hooked beak, compact parakeet body, long slim tail. No cockatiel crest, no orange cheek patch, no finch/sparrow markings.
+Pose: fast movement start, body leaning forward slightly, wings folded, one tiny attached foot/toe contact point still visible under body at 96x64.
+Avoid: gray-white bird, albino look, cockatiel, Java sparrow, perch, branch, floor line, shadow, long curved underside line, thread-like legs, motion lines, scenery, props, seed, food, text, border, duplicate bird, cropped parts, left-facing pose.

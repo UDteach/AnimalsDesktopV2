@@ -1,0 +1,884 @@
+{
+  "variant": "fancy_rat_blue_hooded",
+  "date": "2026-07-02",
+  "operation": "selective low-saturation slate-gray correction for blue hood/spine pixels",
+  "basis": "AFRMA Blue standard: slate blue/dark slate gray; Hooded may be shown in recognized colors with clean white body.",
+  "target_rgb": [
+    108,
+    116,
+    124
+  ],
+  "blend": 0.62,
+  "frames_changed": 62,
+  "changed_pixels_total": 19899,
+  "frames": [
+    {
+      "frame": 0,
+      "changed_pixels": 294,
+      "avg_before_rgb": [
+        110.35,
+        125.23,
+        159.73
+      ],
+      "avg_after_rgb": [
+        108.87,
+        119.51,
+        137.56
+      ]
+    },
+    {
+      "frame": 1,
+      "changed_pixels": 289,
+      "avg_before_rgb": [
+        106.54,
+        118.17,
+        156.96
+      ],
+      "avg_after_rgb": [
+        107.47,
+        116.84,
+        136.53
+      ]
+    },
+    {
+      "frame": 2,
+      "changed_pixels": 302,
+      "avg_before_rgb": [
+        110.71,
+        121.08,
+        146.03
+      ],
+      "avg_after_rgb": [
+        109.02,
+        117.92,
+        132.38
+      ]
+    },
+    {
+      "frame": 3,
+      "changed_pixels": 240,
+      "avg_before_rgb": [
+        107.55,
+        120.5,
+        148.66
+      ],
+      "avg_after_rgb": [
+        107.82,
+        117.74,
+        133.43
+      ]
+    },
+    {
+      "frame": 4,
+      "changed_pixels": 285,
+      "avg_before_rgb": [
+        104.45,
+        117.2,
+        150.04
+      ],
+      "avg_after_rgb": [
+        106.61,
+        116.45,
+        133.88
+      ]
+    },
+    {
+      "frame": 5,
+      "changed_pixels": 347,
+      "avg_before_rgb": [
+        98.1,
+        109.8,
+        148.04
+      ],
+      "avg_after_rgb": [
+        104.24,
+        113.66,
+        133.13
+      ]
+    },
+    {
+      "frame": 6,
+      "changed_pixels": 277,
+      "avg_before_rgb": [
+        103.61,
+        107.12,
+        135.63
+      ],
+      "avg_after_rgb": [
+        106.34,
+        112.63,
+        128.43
+      ]
+    },
+    {
+      "frame": 7,
+      "changed_pixels": 321,
+      "avg_before_rgb": [
+        109.49,
+        115.58,
+        160.6
+      ],
+      "avg_after_rgb": [
+        108.56,
+        115.84,
+        137.91
+      ]
+    },
+    {
+      "frame": 8,
+      "changed_pixels": 328,
+      "avg_before_rgb": [
+        104.17,
+        116.2,
+        161.42
+      ],
+      "avg_after_rgb": [
+        106.52,
+        116.08,
+        138.22
+      ]
+    },
+    {
+      "frame": 9,
+      "changed_pixels": 298,
+      "avg_before_rgb": [
+        107.28,
+        112.1,
+        152.58
+      ],
+      "avg_after_rgb": [
+        107.71,
+        114.51,
+        134.87
+      ]
+    },
+    {
+      "frame": 10,
+      "changed_pixels": 324,
+      "avg_before_rgb": [
+        101.48,
+        109.03,
+        151.18
+      ],
+      "avg_after_rgb": [
+        105.52,
+        113.35,
+        134.31
+      ]
+    },
+    {
+      "frame": 11,
+      "changed_pixels": 337,
+      "avg_before_rgb": [
+        104.59,
+        110.33,
+        159.49
+      ],
+      "avg_after_rgb": [
+        106.67,
+        113.83,
+        137.5
+      ]
+    },
+    {
+      "frame": 12,
+      "changed_pixels": 257,
+      "avg_before_rgb": [
+        104.56,
+        111.06,
+        150.78
+      ],
+      "avg_after_rgb": [
+        106.71,
+        114.09,
+        134.18
+      ]
+    },
+    {
+      "frame": 13,
+      "changed_pixels": 314,
+      "avg_before_rgb": [
+        99.94,
+        109.62,
+        152.78
+      ],
+      "avg_after_rgb": [
+        104.96,
+        113.57,
+        134.92
+      ]
+    },
+    {
+      "frame": 14,
+      "changed_pixels": 230,
+      "avg_before_rgb": [
+        104.65,
+        110.06,
+        154.68
+      ],
+      "avg_after_rgb": [
+        106.75,
+        113.76,
+        135.63
+      ]
+    },
+    {
+      "frame": 15,
+      "changed_pixels": 268,
+      "avg_before_rgb": [
+        98.25,
+        105.61,
+        152.62
+      ],
+      "avg_after_rgb": [
+        104.28,
+        112.06,
+        134.87
+      ]
+    },
+    {
+      "frame": 16,
+      "changed_pixels": 248,
+      "avg_before_rgb": [
+        101.09,
+        109.89,
+        156.4
+      ],
+      "avg_after_rgb": [
+        105.35,
+        113.7,
+        136.3
+      ]
+    },
+    {
+      "frame": 17,
+      "changed_pixels": 275,
+      "avg_before_rgb": [
+        102.84,
+        109.73,
+        154.63
+      ],
+      "avg_after_rgb": [
+        106.02,
+        113.6,
+        135.64
+      ]
+    },
+    {
+      "frame": 18,
+      "changed_pixels": 281,
+      "avg_before_rgb": [
+        107.54,
+        116.44,
+        163.54
+      ],
+      "avg_after_rgb": [
+        107.83,
+        116.2,
+        139.0
+      ]
+    },
+    {
+      "frame": 19,
+      "changed_pixels": 289,
+      "avg_before_rgb": [
+        100.82,
+        105.78,
+        150.42
+      ],
+      "avg_after_rgb": [
+        105.27,
+        112.09,
+        134.01
+      ]
+    },
+    {
+      "frame": 20,
+      "changed_pixels": 345,
+      "avg_before_rgb": [
+        100.21,
+        110.79,
+        153.3
+      ],
+      "avg_after_rgb": [
+        105.03,
+        114.02,
+        135.14
+      ]
+    },
+    {
+      "frame": 21,
+      "changed_pixels": 339,
+      "avg_before_rgb": [
+        98.63,
+        107.95,
+        157.83
+      ],
+      "avg_after_rgb": [
+        104.44,
+        112.94,
+        136.84
+      ]
+    },
+    {
+      "frame": 22,
+      "changed_pixels": 349,
+      "avg_before_rgb": [
+        96.81,
+        105.82,
+        148.45
+      ],
+      "avg_after_rgb": [
+        103.74,
+        112.11,
+        133.3
+      ]
+    },
+    {
+      "frame": 23,
+      "changed_pixels": 406,
+      "avg_before_rgb": [
+        100.89,
+        108.93,
+        152.85
+      ],
+      "avg_after_rgb": [
+        105.28,
+        113.32,
+        134.94
+      ]
+    },
+    {
+      "frame": 24,
+      "changed_pixels": 349,
+      "avg_before_rgb": [
+        96.06,
+        107.94,
+        158.42
+      ],
+      "avg_after_rgb": [
+        103.45,
+        112.95,
+        137.12
+      ]
+    },
+    {
+      "frame": 25,
+      "changed_pixels": 342,
+      "avg_before_rgb": [
+        98.97,
+        111.13,
+        160.82
+      ],
+      "avg_after_rgb": [
+        104.59,
+        114.15,
+        137.98
+      ]
+    },
+    {
+      "frame": 26,
+      "changed_pixels": 291,
+      "avg_before_rgb": [
+        104.93,
+        115.92,
+        139.78
+      ],
+      "avg_after_rgb": [
+        106.84,
+        115.98,
+        130.01
+      ]
+    },
+    {
+      "frame": 27,
+      "changed_pixels": 233,
+      "avg_before_rgb": [
+        105.06,
+        114.36,
+        148.48
+      ],
+      "avg_after_rgb": [
+        106.87,
+        115.35,
+        133.3
+      ]
+    },
+    {
+      "frame": 28,
+      "changed_pixels": 239,
+      "avg_before_rgb": [
+        101.37,
+        112.11,
+        144.15
+      ],
+      "avg_after_rgb": [
+        105.45,
+        114.5,
+        131.64
+      ]
+    },
+    {
+      "frame": 29,
+      "changed_pixels": 318,
+      "avg_before_rgb": [
+        96.59,
+        110.8,
+        145.94
+      ],
+      "avg_after_rgb": [
+        103.65,
+        114.05,
+        132.39
+      ]
+    },
+    {
+      "frame": 30,
+      "changed_pixels": 207,
+      "avg_before_rgb": [
+        100.12,
+        110.59,
+        146.97
+      ],
+      "avg_after_rgb": [
+        105.02,
+        113.97,
+        132.72
+      ]
+    },
+    {
+      "frame": 31,
+      "changed_pixels": 242,
+      "avg_before_rgb": [
+        102.69,
+        113.09,
+        147.13
+      ],
+      "avg_after_rgb": [
+        106.01,
+        114.88,
+        132.82
+      ]
+    },
+    {
+      "frame": 32,
+      "changed_pixels": 300,
+      "avg_before_rgb": [
+        99.99,
+        108.38,
+        141.74
+      ],
+      "avg_after_rgb": [
+        104.97,
+        113.16,
+        130.74
+      ]
+    },
+    {
+      "frame": 33,
+      "changed_pixels": 312,
+      "avg_before_rgb": [
+        101.35,
+        112.19,
+        145.53
+      ],
+      "avg_after_rgb": [
+        105.48,
+        114.52,
+        132.13
+      ]
+    },
+    {
+      "frame": 34,
+      "changed_pixels": 365,
+      "avg_before_rgb": [
+        101.33,
+        110.35,
+        141.81
+      ],
+      "avg_after_rgb": [
+        105.47,
+        113.81,
+        130.77
+      ]
+    },
+    {
+      "frame": 35,
+      "changed_pixels": 538,
+      "avg_before_rgb": [
+        102.49,
+        113.28,
+        147.5
+      ],
+      "avg_after_rgb": [
+        105.95,
+        114.95,
+        132.95
+      ]
+    },
+    {
+      "frame": 36,
+      "changed_pixels": 374,
+      "avg_before_rgb": [
+        91.97,
+        95.23,
+        120.23
+      ],
+      "avg_after_rgb": [
+        101.87,
+        108.11,
+        122.56
+      ]
+    },
+    {
+      "frame": 37,
+      "changed_pixels": 420,
+      "avg_before_rgb": [
+        81.79,
+        95.74,
+        115.7
+      ],
+      "avg_after_rgb": [
+        98.01,
+        108.27,
+        120.83
+      ]
+    },
+    {
+      "frame": 38,
+      "changed_pixels": 293,
+      "avg_before_rgb": [
+        94.45,
+        102.56,
+        119.45
+      ],
+      "avg_after_rgb": [
+        102.85,
+        110.86,
+        122.28
+      ]
+    },
+    {
+      "frame": 39,
+      "changed_pixels": 287,
+      "avg_before_rgb": [
+        101.66,
+        116.93,
+        137.87
+      ],
+      "avg_after_rgb": [
+        105.57,
+        116.31,
+        129.25
+      ]
+    },
+    {
+      "frame": 40,
+      "changed_pixels": 396,
+      "avg_before_rgb": [
+        107.8,
+        116.46,
+        145.45
+      ],
+      "avg_after_rgb": [
+        107.93,
+        116.17,
+        132.18
+      ]
+    },
+    {
+      "frame": 41,
+      "changed_pixels": 289,
+      "avg_before_rgb": [
+        105.08,
+        116.24,
+        135.33
+      ],
+      "avg_after_rgb": [
+        106.87,
+        116.07,
+        128.32
+      ]
+    },
+    {
+      "frame": 42,
+      "changed_pixels": 356,
+      "avg_before_rgb": [
+        106.57,
+        116.61,
+        149.34
+      ],
+      "avg_after_rgb": [
+        107.44,
+        116.21,
+        133.65
+      ]
+    },
+    {
+      "frame": 43,
+      "changed_pixels": 373,
+      "avg_before_rgb": [
+        96.09,
+        113.4,
+        154.03
+      ],
+      "avg_after_rgb": [
+        103.46,
+        115.0,
+        135.38
+      ]
+    },
+    {
+      "frame": 44,
+      "changed_pixels": 371,
+      "avg_before_rgb": [
+        98.6,
+        115.32,
+        152.36
+      ],
+      "avg_after_rgb": [
+        104.39,
+        115.74,
+        134.78
+      ]
+    },
+    {
+      "frame": 45,
+      "changed_pixels": 338,
+      "avg_before_rgb": [
+        103.65,
+        117.14,
+        156.89
+      ],
+      "avg_after_rgb": [
+        106.34,
+        116.43,
+        136.52
+      ]
+    },
+    {
+      "frame": 46,
+      "changed_pixels": 339,
+      "avg_before_rgb": [
+        89.37,
+        111.41,
+        149.58
+      ],
+      "avg_after_rgb": [
+        100.88,
+        114.27,
+        133.72
+      ]
+    },
+    {
+      "frame": 47,
+      "changed_pixels": 330,
+      "avg_before_rgb": [
+        81.55,
+        107.31,
+        152.26
+      ],
+      "avg_after_rgb": [
+        97.91,
+        112.67,
+        134.74
+      ]
+    },
+    {
+      "frame": 48,
+      "changed_pixels": 337,
+      "avg_before_rgb": [
+        94.19,
+        108.4,
+        149.6
+      ],
+      "avg_after_rgb": [
+        102.77,
+        113.1,
+        133.71
+      ]
+    },
+    {
+      "frame": 49,
+      "changed_pixels": 342,
+      "avg_before_rgb": [
+        95.05,
+        109.62,
+        150.51
+      ],
+      "avg_after_rgb": [
+        103.07,
+        113.56,
+        134.13
+      ]
+    },
+    {
+      "frame": 50,
+      "changed_pixels": 351,
+      "avg_before_rgb": [
+        95.15,
+        109.61,
+        152.21
+      ],
+      "avg_after_rgb": [
+        103.09,
+        113.55,
+        134.74
+      ]
+    },
+    {
+      "frame": 51,
+      "changed_pixels": 342,
+      "avg_before_rgb": [
+        95.11,
+        108.98,
+        149.56
+      ],
+      "avg_after_rgb": [
+        103.06,
+        113.28,
+        133.8
+      ]
+    },
+    {
+      "frame": 52,
+      "changed_pixels": 336,
+      "avg_before_rgb": [
+        93.76,
+        109.06,
+        150.54
+      ],
+      "avg_after_rgb": [
+        102.58,
+        113.29,
+        134.13
+      ]
+    },
+    {
+      "frame": 53,
+      "changed_pixels": 317,
+      "avg_before_rgb": [
+        94.37,
+        107.85,
+        147.57
+      ],
+      "avg_after_rgb": [
+        102.83,
+        112.91,
+        132.98
+      ]
+    },
+    {
+      "frame": 54,
+      "changed_pixels": 340,
+      "avg_before_rgb": [
+        92.95,
+        106.44,
+        145.92
+      ],
+      "avg_after_rgb": [
+        102.26,
+        112.3,
+        132.35
+      ]
+    },
+    {
+      "frame": 55,
+      "changed_pixels": 342,
+      "avg_before_rgb": [
+        93.47,
+        106.01,
+        146.74
+      ],
+      "avg_after_rgb": [
+        102.46,
+        112.22,
+        132.64
+      ]
+    },
+    {
+      "frame": 56,
+      "changed_pixels": 348,
+      "avg_before_rgb": [
+        91.3,
+        105.41,
+        147.36
+      ],
+      "avg_after_rgb": [
+        101.7,
+        111.97,
+        132.88
+      ]
+    },
+    {
+      "frame": 57,
+      "changed_pixels": 330,
+      "avg_before_rgb": [
+        93.65,
+        106.93,
+        146.38
+      ],
+      "avg_after_rgb": [
+        102.54,
+        112.59,
+        132.51
+      ]
+    },
+    {
+      "frame": 58,
+      "changed_pixels": 341,
+      "avg_before_rgb": [
+        91.31,
+        107.18,
+        149.29
+      ],
+      "avg_after_rgb": [
+        101.58,
+        112.65,
+        133.61
+      ]
+    },
+    {
+      "frame": 59,
+      "changed_pixels": 339,
+      "avg_before_rgb": [
+        90.92,
+        105.51,
+        148.4
+      ],
+      "avg_after_rgb": [
+        101.51,
+        112.03,
+        133.26
+      ]
+    },
+    {
+      "frame": 60,
+      "changed_pixels": 345,
+      "avg_before_rgb": [
+        91.1,
+        107.39,
+        151.21
+      ],
+      "avg_after_rgb": [
+        101.54,
+        112.75,
+        134.33
+      ]
+    },
+    {
+      "frame": 61,
+      "changed_pixels": 344,
+      "avg_before_rgb": [
+        90.69,
+        105.78,
+        146.85
+      ],
+      "avg_after_rgb": [
+        101.44,
+        112.14,
+        132.72
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source_size": [
+    1254,
+    1254
+  ],
+  "source_bbox": [
+    144,
+    121,
+    985,
+    1145
+  ],
+  "padded_bbox": [
+    132,
+    109,
+    997,
+    1157
+  ],
+  "normalized_size": [
+    43,
+    52
+  ],
+  "frame_bbox": [
+    26,
+    7,
+    69,
+    59
+  ],
+  "nonzero_alpha": 1224,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "sugar_glider_gray",
+  "frame": 55,
+  "group": "face_groom",
+  "pose": "ear groom B",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc44-3a4c-7063-850f-b3c11ac545b4/ig_01ed2a4eec9ecc2f016a3c7cf82ca08191906450d33b4e5fb2.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/raw/frame-55-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/alpha/frame-55-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/frames/frame-55.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/frames/frame-55-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/contacts/frame-55-attempt-01-contact.png",
+  "decision": "candidate",
+  "notes": "prompt:prompts/frame-55-attempt-01-prompt.txt"
+}

@@ -1,0 +1,204 @@
+{
+  "manifest": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/variant-b-gait-delta-01-greenfixed-batch.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/parsed-variant-b-gait-delta-01-greenfixed",
+  "cell_width": 443,
+  "cell_height": 443,
+  "columns": 4,
+  "rows": 2,
+  "pitch_x": 443,
+  "pitch_y": 443,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 8,
+  "parsed": 8,
+  "rejected": 0,
+  "sources": [
+    {
+      "path": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/variant-b-gait-delta-01-greenfixed.png",
+      "sha256": "86928b2f911b652c7714f014ac1e2ba6ba6fb7a1eb9a7994f27a119a28348e1c",
+      "width": 1774,
+      "height": 887
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/variant-b-gait-delta-01-greenfixed.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/parsed-variant-b-gait-delta-01-greenfixed/frame-00.png",
+      "source_sha256": "86928b2f911b652c7714f014ac1e2ba6ba6fb7a1eb9a7994f27a119a28348e1c",
+      "output_sha256": "911a52077105fe1d3cad204c20cb915b4d5bb4a4e99c7f66af45e1f017ce3869",
+      "content": {
+        "x": 72,
+        "y": 166,
+        "w": 321,
+        "h": 177
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/variant-b-gait-delta-01-greenfixed.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 443,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/parsed-variant-b-gait-delta-01-greenfixed/frame-01.png",
+      "source_sha256": "86928b2f911b652c7714f014ac1e2ba6ba6fb7a1eb9a7994f27a119a28348e1c",
+      "output_sha256": "0226b7bf486eefcd227ae2879cb21441b1edc8040711533d1a140848bfd2b512",
+      "content": {
+        "x": 57,
+        "y": 172,
+        "w": 318,
+        "h": 174
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/variant-b-gait-delta-01-greenfixed.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 886,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/parsed-variant-b-gait-delta-01-greenfixed/frame-02.png",
+      "source_sha256": "86928b2f911b652c7714f014ac1e2ba6ba6fb7a1eb9a7994f27a119a28348e1c",
+      "output_sha256": "db209c3367468846ce6855fec72c07e7cfb374b0e6b1f29c9ac0b42cbf96cb33",
+      "content": {
+        "x": 45,
+        "y": 167,
+        "w": 314,
+        "h": 176
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/variant-b-gait-delta-01-greenfixed.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 1329,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/parsed-variant-b-gait-delta-01-greenfixed/frame-03.png",
+      "source_sha256": "86928b2f911b652c7714f014ac1e2ba6ba6fb7a1eb9a7994f27a119a28348e1c",
+      "output_sha256": "97790f389fbb649be1f101f6c93655ec447d52c2434aa4d210fc6bd97e507333",
+      "content": {
+        "x": 21,
+        "y": 166,
+        "w": 324,
+        "h": 178
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/variant-b-gait-delta-01-greenfixed.png",
+      "cell": 4,
+      "cell_bounds": {
+        "x": 0,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/parsed-variant-b-gait-delta-01-greenfixed/frame-04.png",
+      "source_sha256": "86928b2f911b652c7714f014ac1e2ba6ba6fb7a1eb9a7994f27a119a28348e1c",
+      "output_sha256": "bb2831ae90bc53673e43b3604c8c57263f94f4864fcfabed79d2a5daf539a8e0",
+      "content": {
+        "x": 61,
+        "y": 91,
+        "w": 317,
+        "h": 177
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/variant-b-gait-delta-01-greenfixed.png",
+      "cell": 5,
+      "cell_bounds": {
+        "x": 443,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/parsed-variant-b-gait-delta-01-greenfixed/frame-05.png",
+      "source_sha256": "86928b2f911b652c7714f014ac1e2ba6ba6fb7a1eb9a7994f27a119a28348e1c",
+      "output_sha256": "4131b6ee866e474e5069495aea192e078ef0c5d3ffa862547c15f571abbd1456",
+      "content": {
+        "x": 46,
+        "y": 91,
+        "w": 316,
+        "h": 177
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/variant-b-gait-delta-01-greenfixed.png",
+      "cell": 6,
+      "cell_bounds": {
+        "x": 886,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/parsed-variant-b-gait-delta-01-greenfixed/frame-06.png",
+      "source_sha256": "86928b2f911b652c7714f014ac1e2ba6ba6fb7a1eb9a7994f27a119a28348e1c",
+      "output_sha256": "f414f78272c4dc0a07bab1c9589a0e5cded669f5a28760af4ddb367f11bc4286",
+      "content": {
+        "x": 40,
+        "y": 98,
+        "w": 308,
+        "h": 170
+      },
+      "component_count": 1,
+      "status": "parsed"
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/variant-b-gait-delta-01-greenfixed.png",
+      "cell": 7,
+      "cell_bounds": {
+        "x": 1329,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "output": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-repro-20260623-run02/parsed-variant-b-gait-delta-01-greenfixed/frame-07.png",
+      "source_sha256": "86928b2f911b652c7714f014ac1e2ba6ba6fb7a1eb9a7994f27a119a28348e1c",
+      "output_sha256": "c83ae6d7b23bc02e388d94aebd149dac55f324d6bea8e8084be307890cc452fe",
+      "content": {
+        "x": 24,
+        "y": 88,
+        "w": 315,
+        "h": 180
+      },
+      "component_count": 1,
+      "status": "parsed"
+    }
+  ]
+}

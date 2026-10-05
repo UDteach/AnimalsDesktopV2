@@ -1,0 +1,782 @@
+{
+  "frames_dir": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00",
+  "pattern": "frame-%02d.png",
+  "strict": true,
+  "frame_width": 96,
+  "frame_height": 64,
+  "set_count": 1,
+  "frame_count": 62,
+  "valid": 62,
+  "missing": 0,
+  "invalid": 0,
+  "warnings": 28,
+  "sets": [
+    {
+      "set": "set00",
+      "dir": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00",
+      "valid": 62,
+      "missing": 0,
+      "invalid": 0,
+      "warnings": 28,
+      "frames": [
+        {
+          "frame": 0,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-00.png",
+          "status": "valid",
+          "content": {
+            "x": 20,
+            "y": 4,
+            "w": 56,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 21 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 1,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-01.png",
+          "status": "valid",
+          "content": {
+            "x": 20,
+            "y": 4,
+            "w": 56,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 21 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 2,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-02.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 4,
+            "w": 81,
+            "h": 54
+          }
+        },
+        {
+          "frame": 3,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-03.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 65,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 22 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 52 at y=52 with 25px row drop below"
+          ]
+        },
+        {
+          "frame": 4,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-04.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 4,
+            "w": 68,
+            "h": 54
+          }
+        },
+        {
+          "frame": 5,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-05.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 4,
+            "w": 76,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=47 with 30px row drop below"
+          ]
+        },
+        {
+          "frame": 6,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-06.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 70,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 54 at y=49 with 25px row drop below"
+          ]
+        },
+        {
+          "frame": 7,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-07.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 4,
+            "w": 64,
+            "h": 54
+          }
+        },
+        {
+          "frame": 8,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-08.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 4,
+            "w": 73,
+            "h": 54
+          }
+        },
+        {
+          "frame": 9,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-09.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 4,
+            "w": 80,
+            "h": 54
+          }
+        },
+        {
+          "frame": 10,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-10.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 66,
+            "h": 54
+          }
+        },
+        {
+          "frame": 11,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-11.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 4,
+            "w": 63,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 22 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 12,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-12.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 4,
+            "w": 78,
+            "h": 54
+          }
+        },
+        {
+          "frame": 13,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-13.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 4,
+            "w": 64,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 47 at y=46 with 21px row drop below"
+          ]
+        },
+        {
+          "frame": 14,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-14.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 4,
+            "w": 74,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 54 at y=47 with 24px row drop below"
+          ]
+        },
+        {
+          "frame": 15,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-15.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 4,
+            "w": 72,
+            "h": 54
+          }
+        },
+        {
+          "frame": 16,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-16.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 4,
+            "w": 77,
+            "h": 54
+          }
+        },
+        {
+          "frame": 17,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-17.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 4,
+            "w": 75,
+            "h": 54
+          }
+        },
+        {
+          "frame": 18,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-18.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 4,
+            "w": 67,
+            "h": 54
+          }
+        },
+        {
+          "frame": 19,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-19.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 69,
+            "h": 54
+          }
+        },
+        {
+          "frame": 20,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-20.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 7,
+            "w": 84,
+            "h": 51
+          }
+        },
+        {
+          "frame": 21,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-21.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 70,
+            "h": 54
+          }
+        },
+        {
+          "frame": 22,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-22.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 4,
+            "w": 73,
+            "h": 54
+          }
+        },
+        {
+          "frame": 23,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-23.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 7,
+            "w": 84,
+            "h": 51
+          }
+        },
+        {
+          "frame": 24,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-24.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 65,
+            "h": 54
+          }
+        },
+        {
+          "frame": 25,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-25.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 66,
+            "h": 54
+          }
+        },
+        {
+          "frame": 26,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-26.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 4,
+            "w": 80,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 78 at y=44 with 26px row drop below"
+          ]
+        },
+        {
+          "frame": 27,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-27.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 4,
+            "w": 73,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 53 at y=49 with 27px row drop below"
+          ]
+        },
+        {
+          "frame": 28,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-28.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 4,
+            "w": 82,
+            "h": 54
+          }
+        },
+        {
+          "frame": 29,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-29.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 69,
+            "h": 54
+          }
+        },
+        {
+          "frame": 30,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-30.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 4,
+            "w": 73,
+            "h": 54
+          }
+        },
+        {
+          "frame": 31,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-31.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 4,
+            "w": 78,
+            "h": 54
+          }
+        },
+        {
+          "frame": 32,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-32.png",
+          "status": "valid",
+          "content": {
+            "x": 17,
+            "y": 4,
+            "w": 61,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 20 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 33,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-33.png",
+          "status": "valid",
+          "content": {
+            "x": 24,
+            "y": 4,
+            "w": 47,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 20 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 39 at y=51 with 18px row drop below"
+          ]
+        },
+        {
+          "frame": 34,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-34.png",
+          "status": "valid",
+          "content": {
+            "x": 23,
+            "y": 4,
+            "w": 50,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 20 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 38 at y=52 with 21px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 35,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-35.png",
+          "status": "valid",
+          "content": {
+            "x": 27,
+            "y": 4,
+            "w": 42,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 18 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 35 at y=52 with 18px row drop below"
+          ]
+        },
+        {
+          "frame": 36,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-36.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 4,
+            "w": 68,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 23 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 37,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-37.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 4,
+            "w": 67,
+            "h": 54
+          }
+        },
+        {
+          "frame": 38,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-38.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 4,
+            "w": 68,
+            "h": 54
+          }
+        },
+        {
+          "frame": 39,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-39.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 4,
+            "w": 68,
+            "h": 54
+          }
+        },
+        {
+          "frame": 40,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-40.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 4,
+            "w": 68,
+            "h": 54
+          }
+        },
+        {
+          "frame": 41,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-41.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 4,
+            "w": 68,
+            "h": 54
+          }
+        },
+        {
+          "frame": 42,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-42.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 4,
+            "w": 64,
+            "h": 54
+          }
+        },
+        {
+          "frame": 43,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-43.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 4,
+            "w": 72,
+            "h": 54
+          }
+        },
+        {
+          "frame": 44,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-44.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 4,
+            "w": 74,
+            "h": 54
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 73 at y=44 with 25px row drop below"
+          ]
+        },
+        {
+          "frame": 45,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-45.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 69,
+            "h": 54
+          }
+        },
+        {
+          "frame": 46,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-46.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 4,
+            "w": 84,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 29 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 47,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-47.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 69,
+            "h": 54
+          }
+        },
+        {
+          "frame": 48,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-48.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 4,
+            "w": 63,
+            "h": 54
+          }
+        },
+        {
+          "frame": 49,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-49.png",
+          "status": "valid",
+          "content": {
+            "x": 20,
+            "y": 4,
+            "w": 56,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 18 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 50,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-50.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 4,
+            "w": 77,
+            "h": 54
+          }
+        },
+        {
+          "frame": 51,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-51.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 4,
+            "w": 72,
+            "h": 54
+          }
+        },
+        {
+          "frame": 52,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-52.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 4,
+            "w": 60,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 21 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 53,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-53.png",
+          "status": "valid",
+          "content": {
+            "x": 17,
+            "y": 4,
+            "w": 62,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 21 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 54,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-54.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 66,
+            "h": 54
+          }
+        },
+        {
+          "frame": 55,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-55.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 69,
+            "h": 54
+          }
+        },
+        {
+          "frame": 56,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-56.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 4,
+            "w": 57,
+            "h": 54
+          }
+        },
+        {
+          "frame": 57,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-57.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 4,
+            "w": 75,
+            "h": 54
+          }
+        },
+        {
+          "frame": 58,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-58.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 4,
+            "w": 78,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 59,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-59.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 4,
+            "w": 74,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 24 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 60,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-60.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 66,
+            "h": 54
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 22 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 61,
+          "path": "docs/art-source/himalayan-rabbit/motion-source/accepted-frames/set00/frame-61.png",
+          "status": "valid",
+          "content": {
+            "x": 15,
+            "y": 4,
+            "w": 66,
+            "h": 54
+          }
+        }
+      ],
+      "completed": true
+    }
+  ]
+}

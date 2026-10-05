@@ -1,0 +1,138 @@
+{
+  "manifest": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-j-2x2-silhouette-medium-clean-01-greenfixed-batch.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/parsed-variant-j-2x2-silhouette-medium-clean-01-greenfixed",
+  "cell_width": 627,
+  "cell_height": 627,
+  "columns": 2,
+  "rows": 2,
+  "pitch_x": 627,
+  "pitch_y": 627,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 4,
+  "parsed": 0,
+  "rejected": 4,
+  "sources": [
+    {
+      "path": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-j-2x2-silhouette-medium-clean-01-greenfixed.png",
+      "sha256": "9ce747a86f8ebfac7d5a88388d862612a0d1b8710d3c2d691e3bcaae54f9608d",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-j-2x2-silhouette-medium-clean-01-greenfixed.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 627,
+        "h": 627
+      },
+      "source_sha256": "9ce747a86f8ebfac7d5a88388d862612a0d1b8710d3c2d691e3bcaae54f9608d",
+      "content": {
+        "x": 67,
+        "y": 144,
+        "w": 473,
+        "h": 291
+      },
+      "component_count": 1,
+      "background_holes": 1,
+      "background_hole_area": 2,
+      "largest_bg_hole": 2,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=1 area=2 largest=2"
+      ]
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-j-2x2-silhouette-medium-clean-01-greenfixed.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 627,
+        "y": 0,
+        "w": 627,
+        "h": 627
+      },
+      "source_sha256": "9ce747a86f8ebfac7d5a88388d862612a0d1b8710d3c2d691e3bcaae54f9608d",
+      "content": {
+        "x": 55,
+        "y": 168,
+        "w": 492,
+        "h": 265
+      },
+      "component_count": 1,
+      "background_holes": 1,
+      "background_hole_area": 2,
+      "largest_bg_hole": 2,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=1 area=2 largest=2"
+      ]
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-j-2x2-silhouette-medium-clean-01-greenfixed.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 0,
+        "y": 627,
+        "w": 627,
+        "h": 627
+      },
+      "source_sha256": "9ce747a86f8ebfac7d5a88388d862612a0d1b8710d3c2d691e3bcaae54f9608d",
+      "content": {
+        "x": 53,
+        "y": 138,
+        "w": 491,
+        "h": 280
+      },
+      "component_count": 1,
+      "background_holes": 1,
+      "background_hole_area": 1,
+      "largest_bg_hole": 1,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=1 area=1 largest=1"
+      ]
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-j-2x2-silhouette-medium-clean-01-greenfixed.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 627,
+        "y": 627,
+        "w": 627,
+        "h": 627
+      },
+      "source_sha256": "9ce747a86f8ebfac7d5a88388d862612a0d1b8710d3c2d691e3bcaae54f9608d",
+      "content": {
+        "x": 63,
+        "y": 140,
+        "w": 476,
+        "h": 289
+      },
+      "component_count": 1,
+      "background_holes": 1,
+      "background_hole_area": 2,
+      "largest_bg_hole": 2,
+      "status": "rejected",
+      "errors": [
+        "transparent/chroma pinholes: holes=1 area=2 largest=2"
+      ]
+    }
+  ],
+  "errors": [
+    "set00-frame-00: transparent/chroma pinholes: holes=1 area=2 largest=2",
+    "set00-frame-01: transparent/chroma pinholes: holes=1 area=2 largest=2",
+    "set00-frame-02: transparent/chroma pinholes: holes=1 area=1 largest=1",
+    "set00-frame-03: transparent/chroma pinholes: holes=1 area=2 largest=2"
+  ]
+}

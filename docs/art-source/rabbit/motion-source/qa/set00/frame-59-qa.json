@@ -1,0 +1,30 @@
+{
+  "source_bbox": [
+    48,
+    455,
+    256,
+    613
+  ],
+  "source_component_pixels": 18401,
+  "normalized_size": [
+    71,
+    54
+  ],
+  "frame_bbox": [
+    12,
+    5,
+    83,
+    59
+  ],
+  "nonzero_alpha": 2458,
+  "partial_alpha": 710,
+  "edge_alpha_pixels": 0,
+  "family": "rabbit",
+  "frame": 59,
+  "source_path": "/Users/kyota/.codex/generated_images/019efb9a-b711-77f2-b098-5dce8ddc678d/ig_09e5890ab2cc4dc0016a3c5f4611f48191bfb4359b4ba76b3c.png",
+  "sheet_path": "docs/art-source/rabbit/motion-source/raw-imagegen/set00/set00-components-ig_09e5890ab2cc4dc0016a3c5f4611f48191bfb4359b4ba76b3c-raw.png",
+  "alpha_sheet_path": "docs/art-source/rabbit/motion-source/raw-imagegen/set00/set00-components-ig_09e5890ab2cc4dc0016a3c5f4611f48191bfb4359b4ba76b3c-alpha.png",
+  "frame_path": "docs/art-source/rabbit/motion-source/accepted-candidates/set00/frame-59.png",
+  "contact_path": "docs/art-source/rabbit/motion-source/contacts/set00/frame-59-contact.png",
+  "status": "candidate-components-sheet"
+}

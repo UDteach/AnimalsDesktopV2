@@ -1,0 +1,64 @@
+{
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "cell_width": 256,
+  "cell_height": 256,
+  "columns": 4,
+  "rows": 2,
+  "origin_x": 0,
+  "origin_y": 0,
+  "pitch_x": 256,
+  "pitch_y": 256,
+  "guard_pixels": 0,
+  "background": "chroma-green",
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "flow-nanobanana-pro-variant-g-eight-cache-145924.png",
+      "output": "frame-00.png"
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "flow-nanobanana-pro-variant-g-eight-cache-145924.png",
+      "cell": 1,
+      "output": "frame-01.png"
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "flow-nanobanana-pro-variant-g-eight-cache-145924.png",
+      "cell": 2,
+      "output": "frame-02.png"
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "flow-nanobanana-pro-variant-g-eight-cache-145924.png",
+      "cell": 3,
+      "output": "frame-03.png"
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "flow-nanobanana-pro-variant-g-eight-cache-145924.png",
+      "cell": 4,
+      "output": "frame-04.png"
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "flow-nanobanana-pro-variant-g-eight-cache-145924.png",
+      "cell": 5,
+      "output": "frame-05.png"
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "flow-nanobanana-pro-variant-g-eight-cache-145924.png",
+      "cell": 6,
+      "output": "frame-06.png"
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "flow-nanobanana-pro-variant-g-eight-cache-145924.png",
+      "cell": 7,
+      "output": "frame-07.png"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+rejected locally after 55-61 contact: bbox is acceptable but face/wing still read white-gray/pale versus 56-59/61

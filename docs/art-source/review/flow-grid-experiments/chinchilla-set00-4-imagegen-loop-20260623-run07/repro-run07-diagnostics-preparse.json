@@ -1,0 +1,402 @@
+[
+  {
+    "file": "variant-j-2x2-silhouette-medium-clean-01.png",
+    "width": 1254,
+    "height": 1254,
+    "raw_cell_width": 627,
+    "raw_cell_height": 627,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1262319,
+    "exact_green_ratio_before": 0,
+    "greenish_ratio_before": 0.8027384141083461,
+    "components": 4,
+    "primary_components": 4,
+    "component_bboxes": [
+      [
+        690,
+        767,
+        1166,
+        1056
+      ],
+      [
+        67,
+        144,
+        540,
+        435
+      ],
+      [
+        53,
+        765,
+        544,
+        1045
+      ],
+      [
+        682,
+        168,
+        1174,
+        433
+      ]
+    ],
+    "component_areas": [
+      78579,
+      78475,
+      77691,
+      75452
+    ],
+    "primary_component_bboxes": [
+      [
+        67,
+        144,
+        540,
+        435
+      ],
+      [
+        682,
+        168,
+        1174,
+        433
+      ],
+      [
+        53,
+        765,
+        544,
+        1045
+      ],
+      [
+        690,
+        767,
+        1166,
+        1056
+      ]
+    ],
+    "primary_component_areas": [
+      78475,
+      75452,
+      77691,
+      78579
+    ],
+    "cell_recentered_output": "variant-j-2x2-silhouette-medium-clean-01-cell-recentered-1024x1024.png",
+    "greenfixed_output": "variant-j-2x2-silhouette-medium-clean-01-greenfixed.png",
+    "components_overlay_output": "variant-j-2x2-silhouette-medium-clean-01-components.png"
+  },
+  {
+    "file": "variant-k-2x2-solid-blob-no-whiskers-01.png",
+    "width": 1254,
+    "height": 1254,
+    "raw_cell_width": 627,
+    "raw_cell_height": 627,
+    "exact_green_pixels_before": 1,
+    "greenish_pixels_before": 1266087,
+    "exact_green_ratio_before": 6.359235772481807e-7,
+    "greenish_ratio_before": 0.8051345741474173,
+    "components": 4,
+    "primary_components": 4,
+    "component_bboxes": [
+      [
+        736,
+        802,
+        1142,
+        1093
+      ],
+      [
+        119,
+        175,
+        516,
+        466
+      ],
+      [
+        120,
+        811,
+        522,
+        1093
+      ],
+      [
+        747,
+        175,
+        1142,
+        466
+      ]
+    ],
+    "component_areas": [
+      77439,
+      76617,
+      76391,
+      75982
+    ],
+    "primary_component_bboxes": [
+      [
+        119,
+        175,
+        516,
+        466
+      ],
+      [
+        747,
+        175,
+        1142,
+        466
+      ],
+      [
+        120,
+        811,
+        522,
+        1093
+      ],
+      [
+        736,
+        802,
+        1142,
+        1093
+      ]
+    ],
+    "primary_component_areas": [
+      76617,
+      75982,
+      76391,
+      77439
+    ],
+    "cell_recentered_output": "variant-k-2x2-solid-blob-no-whiskers-01-cell-recentered-1024x1024.png",
+    "greenfixed_output": "variant-k-2x2-solid-blob-no-whiskers-01-greenfixed.png",
+    "components_overlay_output": "variant-k-2x2-solid-blob-no-whiskers-01-components.png"
+  },
+  {
+    "file": "variant-k-2x2-solid-blob-no-whiskers-02.png",
+    "width": 1254,
+    "height": 1254,
+    "raw_cell_width": 627,
+    "raw_cell_height": 627,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1260021,
+    "exact_green_ratio_before": 0,
+    "greenish_ratio_before": 0.8012770617278298,
+    "components": 4,
+    "primary_components": 4,
+    "component_bboxes": [
+      [
+        734,
+        177,
+        1141,
+        465
+      ],
+      [
+        111,
+        175,
+        513,
+        467
+      ],
+      [
+        728,
+        771,
+        1135,
+        1059
+      ],
+      [
+        117,
+        767,
+        517,
+        1059
+      ]
+    ],
+    "component_areas": [
+      79086,
+      78390,
+      77518,
+      77501
+    ],
+    "primary_component_bboxes": [
+      [
+        111,
+        175,
+        513,
+        467
+      ],
+      [
+        734,
+        177,
+        1141,
+        465
+      ],
+      [
+        117,
+        767,
+        517,
+        1059
+      ],
+      [
+        728,
+        771,
+        1135,
+        1059
+      ]
+    ],
+    "primary_component_areas": [
+      78390,
+      79086,
+      77501,
+      77518
+    ],
+    "cell_recentered_output": "variant-k-2x2-solid-blob-no-whiskers-02-cell-recentered-1024x1024.png",
+    "greenfixed_output": "variant-k-2x2-solid-blob-no-whiskers-02-greenfixed.png",
+    "components_overlay_output": "variant-k-2x2-solid-blob-no-whiskers-02-components.png"
+  },
+  {
+    "file": "variant-k-2x2-solid-blob-no-whiskers-03.png",
+    "width": 1254,
+    "height": 1254,
+    "raw_cell_width": 627,
+    "raw_cell_height": 627,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1220230,
+    "exact_green_ratio_before": 0,
+    "greenish_ratio_before": 0.7759730266655475,
+    "components": 4,
+    "primary_components": 4,
+    "component_bboxes": [
+      [
+        702,
+        167,
+        1159,
+        470
+      ],
+      [
+        103,
+        156,
+        527,
+        471
+      ],
+      [
+        718,
+        765,
+        1144,
+        1075
+      ],
+      [
+        99,
+        779,
+        536,
+        1073
+      ]
+    ],
+    "component_areas": [
+      90848,
+      88899,
+      88058,
+      84481
+    ],
+    "primary_component_bboxes": [
+      [
+        103,
+        156,
+        527,
+        471
+      ],
+      [
+        702,
+        167,
+        1159,
+        470
+      ],
+      [
+        99,
+        779,
+        536,
+        1073
+      ],
+      [
+        718,
+        765,
+        1144,
+        1075
+      ]
+    ],
+    "primary_component_areas": [
+      88899,
+      90848,
+      84481,
+      88058
+    ],
+    "cell_recentered_output": "variant-k-2x2-solid-blob-no-whiskers-03-cell-recentered-1024x1024.png",
+    "greenfixed_output": "variant-k-2x2-solid-blob-no-whiskers-03-greenfixed.png",
+    "components_overlay_output": "variant-k-2x2-solid-blob-no-whiskers-03-components.png"
+  },
+  {
+    "file": "variant-k-2x2-solid-blob-no-whiskers-04.png",
+    "width": 1254,
+    "height": 1254,
+    "raw_cell_width": 627,
+    "raw_cell_height": 627,
+    "exact_green_pixels_before": 0,
+    "greenish_pixels_before": 1181768,
+    "exact_green_ratio_before": 0,
+    "greenish_ratio_before": 0.751514134037428,
+    "components": 4,
+    "primary_components": 4,
+    "component_bboxes": [
+      [
+        89,
+        727,
+        552,
+        1062
+      ],
+      [
+        698,
+        737,
+        1158,
+        1062
+      ],
+      [
+        684,
+        175,
+        1159,
+        485
+      ],
+      [
+        82,
+        160,
+        540,
+        481
+      ]
+    ],
+    "component_areas": [
+      98550,
+      98033,
+      97814,
+      96351
+    ],
+    "primary_component_bboxes": [
+      [
+        82,
+        160,
+        540,
+        481
+      ],
+      [
+        684,
+        175,
+        1159,
+        485
+      ],
+      [
+        89,
+        727,
+        552,
+        1062
+      ],
+      [
+        698,
+        737,
+        1158,
+        1062
+      ]
+    ],
+    "primary_component_areas": [
+      96351,
+      97814,
+      98550,
+      98033
+    ],
+    "cell_recentered_output": "variant-k-2x2-solid-blob-no-whiskers-04-cell-recentered-1024x1024.png",
+    "greenfixed_output": "variant-k-2x2-solid-blob-no-whiskers-04-greenfixed.png",
+    "components_overlay_output": "variant-k-2x2-solid-blob-no-whiskers-04-components.png"
+  }
+]

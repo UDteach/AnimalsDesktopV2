@@ -1,0 +1,44 @@
+{
+  "source_size": [
+    1536,
+    1024
+  ],
+  "source_bbox": [
+    140,
+    98,
+    1340,
+    912
+  ],
+  "padded_bbox": [
+    128,
+    86,
+    1352,
+    924
+  ],
+  "normalized_size": [
+    76,
+    52
+  ],
+  "frame_bbox": [
+    10,
+    7,
+    86,
+    59
+  ],
+  "nonzero_alpha": 1821,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "sugar_glider_gray",
+  "frame": 56,
+  "group": "membrane_reaction",
+  "pose": "gliding membrane stretch A",
+  "attempt": 4,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc44-3a4c-7063-850f-b3c11ac545b4/ig_014e76e64361b94f016a3c7d40e85c8191b7cb476a809a7460.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/raw/frame-56-attempt-04-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/alpha/frame-56-attempt-04-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/frames/frame-56.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/frames/frame-56-attempt-04.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/sugar-glider-54-61/contacts/frame-56-attempt-04-contact.png",
+  "decision": "reject",
+  "notes": "prompt:prompts/frame-56-attempt-01-prompt.txt; reject: photorealistic style drift, saved current-thread initial source"
+}

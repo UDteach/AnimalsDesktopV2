@@ -1,0 +1,861 @@
+{
+  "frames_dir": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames",
+  "pattern": "frame-%02d.png",
+  "strict": true,
+  "frame_width": 96,
+  "frame_height": 64,
+  "set_count": 1,
+  "frame_count": 62,
+  "valid": 62,
+  "missing": 0,
+  "invalid": 0,
+  "warnings": 71,
+  "sets": [
+    {
+      "set": "frames",
+      "dir": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames",
+      "valid": 62,
+      "missing": 0,
+      "invalid": 0,
+      "warnings": 71,
+      "frames": [
+        {
+          "frame": 0,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-00.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 6,
+            "w": 87,
+            "h": 52
+          }
+        },
+        {
+          "frame": 1,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-01.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 6,
+            "w": 88,
+            "h": 52
+          }
+        },
+        {
+          "frame": 2,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-02.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 8,
+            "w": 88,
+            "h": 50
+          }
+        },
+        {
+          "frame": 3,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-03.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 7,
+            "w": 88,
+            "h": 51
+          }
+        },
+        {
+          "frame": 4,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-04.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 17,
+            "w": 88,
+            "h": 41
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 5,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-05.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 17,
+            "w": 88,
+            "h": 41
+          }
+        },
+        {
+          "frame": 6,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-06.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 20,
+            "w": 88,
+            "h": 38
+          }
+        },
+        {
+          "frame": 7,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-07.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 76,
+            "h": 42
+          },
+          "warnings": [
+            "disconnected alpha components: components=25 detached=3 detached_area=18 largest_detached=8"
+          ]
+        },
+        {
+          "frame": 8,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-08.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 20,
+            "w": 88,
+            "h": 38
+          }
+        },
+        {
+          "frame": 9,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-09.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 24,
+            "w": 88,
+            "h": 34
+          }
+        },
+        {
+          "frame": 10,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-10.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 10,
+            "w": 87,
+            "h": 47
+          },
+          "warnings": [
+            "disconnected alpha components: components=17 detached=4 detached_area=26 largest_detached=11"
+          ]
+        },
+        {
+          "frame": 11,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-11.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 20,
+            "w": 88,
+            "h": 38
+          }
+        },
+        {
+          "frame": 12,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-12.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 77 at y=55 near lower content",
+            "transparent pinholes: holes=29 area=163 largest=18"
+          ]
+        },
+        {
+          "frame": 13,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-13.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 27,
+            "w": 88,
+            "h": 31
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 70 at y=47 with 38px row drop below",
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 14,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-14.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 31,
+            "w": 88,
+            "h": 27
+          }
+        },
+        {
+          "frame": 15,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-15.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 28,
+            "w": 85,
+            "h": 30
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 71 at y=48 with 29px row drop below"
+          ]
+        },
+        {
+          "frame": 16,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-16.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 32,
+            "w": 88,
+            "h": 26
+          }
+        },
+        {
+          "frame": 17,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-17.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 29,
+            "w": 88,
+            "h": 29
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 18,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-18.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 30,
+            "w": 83,
+            "h": 28
+          }
+        },
+        {
+          "frame": 19,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-19.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 19,
+            "w": 88,
+            "h": 39
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 20,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-20.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 26,
+            "w": 88,
+            "h": 32
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 21,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-21.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 29,
+            "w": 88,
+            "h": 29
+          }
+        },
+        {
+          "frame": 22,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-22.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 28,
+            "w": 88,
+            "h": 30
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 66 at y=48 with 49px row drop below"
+          ]
+        },
+        {
+          "frame": 23,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-23.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 78 at y=53 with 36px row drop below",
+            "transparent pinholes: holes=16 area=181 largest=34"
+          ]
+        },
+        {
+          "frame": 24,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-24.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=41 area=110 largest=9"
+          ]
+        },
+        {
+          "frame": 25,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-25.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 24,
+            "w": 88,
+            "h": 34
+          }
+        },
+        {
+          "frame": 26,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-26.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 26,
+            "w": 86,
+            "h": 32
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 36 at y=55 near lower content",
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 27,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-27.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 22,
+            "w": 71,
+            "h": 24
+          },
+          "warnings": [
+            "disconnected alpha components: components=17 detached=1 detached_area=8 largest_detached=8"
+          ]
+        },
+        {
+          "frame": 28,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-28.png",
+          "status": "valid",
+          "content": {
+            "x": 4,
+            "y": 25,
+            "w": 88,
+            "h": 33
+          }
+        },
+        {
+          "frame": 29,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-29.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=20 area=176 largest=25"
+          ]
+        },
+        {
+          "frame": 30,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-30.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 77,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 51 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=53 with 68px row drop below",
+            "transparent pinholes: holes=19 area=267 largest=82"
+          ]
+        },
+        {
+          "frame": 31,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-31.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 76,
+            "h": 52
+          },
+          "warnings": [
+            "disconnected alpha components: components=24 detached=5 detached_area=43 largest_detached=18",
+            "transparent pinholes: holes=14 area=77 largest=18"
+          ]
+        },
+        {
+          "frame": 32,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-32.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=32 area=146 largest=15"
+          ]
+        },
+        {
+          "frame": 33,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-33.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=38 area=112 largest=10"
+          ]
+        },
+        {
+          "frame": 34,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-34.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 6,
+            "w": 75,
+            "h": 51
+          },
+          "warnings": [
+            "disconnected alpha components: components=61 detached=16 detached_area=400 largest_detached=166",
+            "transparent pinholes: holes=2 area=2 largest=1"
+          ]
+        },
+        {
+          "frame": 35,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-35.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=43 area=124 largest=8"
+          ]
+        },
+        {
+          "frame": 36,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-36.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=18 area=180 largest=34"
+          ]
+        },
+        {
+          "frame": 37,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-37.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=38 area=110 largest=13"
+          ]
+        },
+        {
+          "frame": 38,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-38.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=42 area=146 largest=17"
+          ]
+        },
+        {
+          "frame": 39,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-39.png",
+          "status": "valid",
+          "content": {
+            "x": 5,
+            "y": 15,
+            "w": 81,
+            "h": 43
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 40,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-40.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 76,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 41 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 57 at y=53 with 72px row drop below",
+            "disconnected alpha components: components=13 detached=8 detached_area=74 largest_detached=22",
+            "transparent pinholes: holes=27 area=65 largest=19"
+          ]
+        },
+        {
+          "frame": 41,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-41.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=25 area=164 largest=20"
+          ]
+        },
+        {
+          "frame": 42,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-42.png",
+          "status": "valid",
+          "content": {
+            "x": 14,
+            "y": 12,
+            "w": 71,
+            "h": 44
+          },
+          "warnings": [
+            "disconnected alpha components: components=34 detached=5 detached_area=24 largest_detached=8",
+            "transparent pinholes: holes=2 area=3 largest=2"
+          ]
+        },
+        {
+          "frame": 43,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-43.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=35 area=141 largest=16"
+          ]
+        },
+        {
+          "frame": 44,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-44.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=18 area=28 largest=3"
+          ]
+        },
+        {
+          "frame": 45,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-45.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 77 at y=55 near lower content",
+            "transparent pinholes: holes=21 area=157 largest=37"
+          ]
+        },
+        {
+          "frame": 46,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-46.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 76,
+            "h": 51
+          },
+          "warnings": [
+            "disconnected alpha components: components=16 detached=6 detached_area=42 largest_detached=10",
+            "transparent pinholes: holes=24 area=88 largest=33"
+          ]
+        },
+        {
+          "frame": 47,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-47.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 6,
+            "w": 84,
+            "h": 52
+          }
+        },
+        {
+          "frame": 48,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-48.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 68 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 77 at y=52 with 26px row drop below",
+            "transparent pinholes: holes=17 area=179 largest=34"
+          ]
+        },
+        {
+          "frame": 49,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-49.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 6,
+            "w": 75,
+            "h": 52
+          }
+        },
+        {
+          "frame": 50,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-50.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 6,
+            "w": 81,
+            "h": 52
+          }
+        },
+        {
+          "frame": 51,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-51.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 6,
+            "w": 79,
+            "h": 52
+          }
+        },
+        {
+          "frame": 52,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-52.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 6,
+            "w": 80,
+            "h": 52
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 53,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-53.png",
+          "status": "valid",
+          "content": {
+            "x": 20,
+            "y": 15,
+            "w": 55,
+            "h": 35
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 54,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-54.png",
+          "status": "valid",
+          "content": {
+            "x": 21,
+            "y": 17,
+            "w": 66,
+            "h": 41
+          },
+          "warnings": [
+            "transparent pinholes: holes=2 area=7 largest=6"
+          ]
+        },
+        {
+          "frame": 55,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-55.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          }
+        },
+        {
+          "frame": 56,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-56.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 51
+          },
+          "warnings": [
+            "disconnected alpha components: components=47 detached=11 detached_area=82 largest_detached=17",
+            "transparent pinholes: holes=9 area=37 largest=10"
+          ]
+        },
+        {
+          "frame": 57,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-57.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 6,
+            "w": 83,
+            "h": 52
+          }
+        },
+        {
+          "frame": 58,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-58.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 6,
+            "w": 83,
+            "h": 52
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=7 largest=7"
+          ]
+        },
+        {
+          "frame": 59,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-59.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 78 at y=55 near lower content",
+            "transparent pinholes: holes=36 area=106 largest=22"
+          ]
+        },
+        {
+          "frame": 60,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-60.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 6,
+            "w": 78,
+            "h": 52
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=6 largest=6"
+          ]
+        },
+        {
+          "frame": 61,
+          "path": "docs/art-source/one-frame-method-fullrun-20260628/domestic-shorthair-calico-set00-oneframe-62/frames/frame-61.png",
+          "status": "valid",
+          "content": {
+            "x": 17,
+            "y": 14,
+            "w": 66,
+            "h": 44
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=4 largest=4"
+          ]
+        }
+      ],
+      "completed": true
+    }
+  ]
+}

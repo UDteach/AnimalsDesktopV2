@@ -1,0 +1,143 @@
+{
+  "reference_frames": "00-28",
+  "corrected_frames": "53-61",
+  "method": "continued warm-coat masked RGB mean/std transfer from existing 29-52 correction, blend=0.58, alpha and non-coat pixels preserved",
+  "reference_mean_rgb": [
+    214.24400329589844,
+    173.90199279785156,
+    136.89300537109375
+  ],
+  "reference_std_rgb": [
+    17.336999893188477,
+    18.60300064086914,
+    24.798999786376953
+  ],
+  "frames": [
+    {
+      "frame": 53,
+      "coat_pixels": 1607,
+      "before_mean_rgb": [
+        216.447,
+        173.749,
+        125.899
+      ],
+      "after_mean_rgb": [
+        214.655,
+        173.328,
+        131.885
+      ]
+    },
+    {
+      "frame": 54,
+      "coat_pixels": 1568,
+      "before_mean_rgb": [
+        210.127,
+        165.899,
+        121.368
+      ],
+      "after_mean_rgb": [
+        212.014,
+        170.043,
+        129.893
+      ]
+    },
+    {
+      "frame": 55,
+      "coat_pixels": 1618,
+      "before_mean_rgb": [
+        211.475,
+        169.617,
+        127.509
+      ],
+      "after_mean_rgb": [
+        212.584,
+        171.599,
+        132.407
+      ]
+    },
+    {
+      "frame": 56,
+      "coat_pixels": 1523,
+      "before_mean_rgb": [
+        205.849,
+        165.347,
+        126.808
+      ],
+      "after_mean_rgb": [
+        210.211,
+        169.825,
+        131.852
+      ]
+    },
+    {
+      "frame": 57,
+      "coat_pixels": 1228,
+      "before_mean_rgb": [
+        214.013,
+        171.755,
+        129.27
+      ],
+      "after_mean_rgb": [
+        213.634,
+        172.5,
+        133.262
+      ]
+    },
+    {
+      "frame": 58,
+      "coat_pixels": 1659,
+      "before_mean_rgb": [
+        216.551,
+        174.922,
+        131.569
+      ],
+      "after_mean_rgb": [
+        214.728,
+        173.825,
+        134.2
+      ]
+    },
+    {
+      "frame": 59,
+      "coat_pixels": 2183,
+      "before_mean_rgb": [
+        206.866,
+        171.863,
+        119.724
+      ],
+      "after_mean_rgb": [
+        210.64,
+        172.536,
+        129.174
+      ]
+    },
+    {
+      "frame": 60,
+      "coat_pixels": 2106,
+      "before_mean_rgb": [
+        220.71,
+        176.17,
+        115.639
+      ],
+      "after_mean_rgb": [
+        216.475,
+        174.359,
+        127.477
+      ]
+    },
+    {
+      "frame": 61,
+      "coat_pixels": 2075,
+      "before_mean_rgb": [
+        228.663,
+        182.166,
+        122.256
+      ],
+      "after_mean_rgb": [
+        219.837,
+        176.864,
+        130.25
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "manifest": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-workflow-20260623-run01/imagegen-stage1-eight-walk-raw-batch.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-workflow-20260623-run01/parsed-imagegen-stage1-eight-walk-raw",
+  "cell_width": 443,
+  "cell_height": 443,
+  "columns": 4,
+  "rows": 2,
+  "pitch_x": 443,
+  "pitch_y": 443,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 8,
+  "parsed": 0,
+  "rejected": 8,
+  "sources": [
+    {
+      "path": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-workflow-20260623-run01/imagegen-stage1-eight-walk.png",
+      "sha256": "c06d0d28476e1dd6122a931786bd47dc9475c7e5e1cbcc26423077561c20b66b",
+      "width": 1774,
+      "height": 887
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-workflow-20260623-run01/imagegen-stage1-eight-walk.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "c06d0d28476e1dd6122a931786bd47dc9475c7e5e1cbcc26423077561c20b66b",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 417,
+        "h": 359
+      },
+      "component_count": 52,
+      "detached_components": 25,
+      "detached_area": 225,
+      "largest_detached": 23,
+      "background_holes": 31,
+      "background_hole_area": 52,
+      "largest_bg_hole": 4,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "alpha touches vertical canvas edge",
+        "disconnected alpha components: components=52 detached=25 detached_area=225 largest_detached=23",
+        "transparent/chroma pinholes: holes=31 area=52 largest=4"
+      ]
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-workflow-20260623-run01/imagegen-stage1-eight-walk.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 443,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "c06d0d28476e1dd6122a931786bd47dc9475c7e5e1cbcc26423077561c20b66b",
+      "content": {
+        "x": 27,
+        "y": 0,
+        "w": 388,
+        "h": 356
+      },
+      "component_count": 49,
+      "detached_components": 24,
+      "detached_area": 226,
+      "largest_detached": 30,
+      "background_holes": 29,
+      "background_hole_area": 73,
+      "largest_bg_hole": 9,
+      "status": "rejected",
+      "errors": [
+        "alpha touches vertical canvas edge",
+        "disconnected alpha components: components=49 detached=24 detached_area=226 largest_detached=30",
+        "transparent/chroma pinholes: holes=29 area=73 largest=9"
+      ]
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-workflow-20260623-run01/imagegen-stage1-eight-walk.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 886,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "c06d0d28476e1dd6122a931786bd47dc9475c7e5e1cbcc26423077561c20b66b",
+      "content": {
+        "x": 18,
+        "y": 155,
+        "w": 383,
+        "h": 201
+      },
+      "component_count": 47,
+      "detached_components": 18,
+      "detached_area": 238,
+      "largest_detached": 49,
+      "background_holes": 34,
+      "background_hole_area": 171,
+      "largest_bg_hole": 41,
+      "status": "rejected",
+      "errors": [
+        "disconnected alpha components: components=47 detached=18 detached_area=238 largest_detached=49",
+        "transparent/chroma pinholes: holes=34 area=171 largest=41"
+      ]
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-workflow-20260623-run01/imagegen-stage1-eight-walk.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 1329,
+        "y": 0,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "c06d0d28476e1dd6122a931786bd47dc9475c7e5e1cbcc26423077561c20b66b",
+      "content": {
+        "x": 14,
+        "y": 0,
+        "w": 387,
+        "h": 358
+      },
+      "component_count": 51,
+      "detached_components": 20,
+      "detached_area": 185,
+      "largest_detached": 20,
+      "background_holes": 18,
+      "background_hole_area": 50,
+      "largest_bg_hole": 10,
+      "status": "rejected",
+      "errors": [
+        "alpha touches vertical canvas edge",
+        "disconnected alpha components: components=51 detached=20 detached_area=185 largest_detached=20",
+        "transparent/chroma pinholes: holes=18 area=50 largest=10"
+      ]
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-workflow-20260623-run01/imagegen-stage1-eight-walk.png",
+      "cell": 4,
+      "cell_bounds": {
+        "x": 0,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "c06d0d28476e1dd6122a931786bd47dc9475c7e5e1cbcc26423077561c20b66b",
+      "content": {
+        "x": 0,
+        "y": 100,
+        "w": 418,
+        "h": 343
+      },
+      "component_count": 51,
+      "detached_components": 25,
+      "detached_area": 305,
+      "largest_detached": 34,
+      "background_holes": 29,
+      "background_hole_area": 149,
+      "largest_bg_hole": 64,
+      "status": "rejected",
+      "errors": [
+        "alpha touches horizontal canvas edge",
+        "alpha touches vertical canvas edge",
+        "disconnected alpha components: components=51 detached=25 detached_area=305 largest_detached=34",
+        "transparent/chroma pinholes: holes=29 area=149 largest=64"
+      ]
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-workflow-20260623-run01/imagegen-stage1-eight-walk.png",
+      "cell": 5,
+      "cell_bounds": {
+        "x": 443,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "c06d0d28476e1dd6122a931786bd47dc9475c7e5e1cbcc26423077561c20b66b",
+      "content": {
+        "x": 27,
+        "y": 100,
+        "w": 379,
+        "h": 213
+      },
+      "component_count": 57,
+      "detached_components": 23,
+      "detached_area": 230,
+      "largest_detached": 17,
+      "background_holes": 33,
+      "background_hole_area": 95,
+      "largest_bg_hole": 12,
+      "status": "rejected",
+      "errors": [
+        "disconnected alpha components: components=57 detached=23 detached_area=230 largest_detached=17",
+        "transparent/chroma pinholes: holes=33 area=95 largest=12"
+      ]
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-workflow-20260623-run01/imagegen-stage1-eight-walk.png",
+      "cell": 6,
+      "cell_bounds": {
+        "x": 886,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "c06d0d28476e1dd6122a931786bd47dc9475c7e5e1cbcc26423077561c20b66b",
+      "content": {
+        "x": 18,
+        "y": 126,
+        "w": 383,
+        "h": 184
+      },
+      "component_count": 49,
+      "detached_components": 17,
+      "detached_area": 190,
+      "largest_detached": 26,
+      "background_holes": 25,
+      "background_hole_area": 258,
+      "largest_bg_hole": 161,
+      "status": "rejected",
+      "errors": [
+        "disconnected alpha components: components=49 detached=17 detached_area=190 largest_detached=26",
+        "transparent/chroma pinholes: holes=25 area=258 largest=161"
+      ]
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "docs/art-source/review/flow-grid-experiments/chinchilla-set00-8-imagegen-workflow-20260623-run01/imagegen-stage1-eight-walk.png",
+      "cell": 7,
+      "cell_bounds": {
+        "x": 1329,
+        "y": 443,
+        "w": 443,
+        "h": 443
+      },
+      "source_sha256": "c06d0d28476e1dd6122a931786bd47dc9475c7e5e1cbcc26423077561c20b66b",
+      "content": {
+        "x": 19,
+        "y": 107,
+        "w": 366,
+        "h": 204
+      },
+      "component_count": 47,
+      "detached_components": 20,
+      "detached_area": 247,
+      "largest_detached": 60,
+      "background_holes": 18,
+      "background_hole_area": 65,
+      "largest_bg_hole": 21,
+      "status": "rejected",
+      "errors": [
+        "disconnected alpha components: components=47 detached=20 detached_area=247 largest_detached=60",
+        "transparent/chroma pinholes: holes=18 area=65 largest=21"
+      ]
+    }
+  ],
+  "errors": [
+    "set00-frame-00: alpha touches horizontal canvas edge; alpha touches vertical canvas edge; disconnected alpha components: components=52 detached=25 detached_area=225 largest_detached=23; transparent/chroma pinholes: holes=31 area=52 largest=4",
+    "set00-frame-01: alpha touches vertical canvas edge; disconnected alpha components: components=49 detached=24 detached_area=226 largest_detached=30; transparent/chroma pinholes: holes=29 area=73 largest=9",
+    "set00-frame-02: disconnected alpha components: components=47 detached=18 detached_area=238 largest_detached=49; transparent/chroma pinholes: holes=34 area=171 largest=41",
+    "set00-frame-03: alpha touches vertical canvas edge; disconnected alpha components: components=51 detached=20 detached_area=185 largest_detached=20; transparent/chroma pinholes: holes=18 area=50 largest=10",
+    "set00-frame-04: alpha touches horizontal canvas edge; alpha touches vertical canvas edge; disconnected alpha components: components=51 detached=25 detached_area=305 largest_detached=34; transparent/chroma pinholes: holes=29 area=149 largest=64",
+    "set00-frame-05: disconnected alpha components: components=57 detached=23 detached_area=230 largest_detached=17; transparent/chroma pinholes: holes=33 area=95 largest=12",
+    "set00-frame-06: disconnected alpha components: components=49 detached=17 detached_area=190 largest_detached=26; transparent/chroma pinholes: holes=25 area=258 largest=161",
+    "set00-frame-07: disconnected alpha components: components=47 detached=20 detached_area=247 largest_detached=60; transparent/chroma pinholes: holes=18 area=65 largest=21"
+  ]
+}

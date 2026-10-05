@@ -1,0 +1,892 @@
+{
+  "frames_dir": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames",
+  "pattern": "frame-%02d.png",
+  "strict": true,
+  "frame_width": 96,
+  "frame_height": 64,
+  "set_count": 1,
+  "frame_count": 62,
+  "valid": 62,
+  "missing": 0,
+  "invalid": 0,
+  "warnings": 80,
+  "sets": [
+    {
+      "set": "frames",
+      "dir": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames",
+      "valid": 62,
+      "missing": 0,
+      "invalid": 0,
+      "warnings": 80,
+      "frames": [
+        {
+          "frame": 0,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-00.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 4,
+            "w": 84,
+            "h": 54
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=8 largest=8"
+          ]
+        },
+        {
+          "frame": 1,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-01.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 4,
+            "w": 84,
+            "h": 54
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=12 largest=12"
+          ]
+        },
+        {
+          "frame": 2,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-02.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 11,
+            "w": 84,
+            "h": 47
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 3,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-03.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 7,
+            "w": 84,
+            "h": 51
+          },
+          "warnings": [
+            "transparent pinholes: holes=5 area=13 largest=7"
+          ]
+        },
+        {
+          "frame": 4,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-04.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 6,
+            "w": 84,
+            "h": 52
+          }
+        },
+        {
+          "frame": 5,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-05.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 9,
+            "w": 84,
+            "h": 49
+          }
+        },
+        {
+          "frame": 6,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-06.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 9,
+            "w": 84,
+            "h": 49
+          }
+        },
+        {
+          "frame": 7,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-07.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 7,
+            "w": 81,
+            "h": 51
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 56 at y=48 with 28px row drop below"
+          ]
+        },
+        {
+          "frame": 8,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-08.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 9,
+            "w": 84,
+            "h": 49
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 56 at y=49 with 30px row drop below"
+          ]
+        },
+        {
+          "frame": 9,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-09.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 26,
+            "w": 84,
+            "h": 32
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 56 at y=50 with 40px row drop below"
+          ]
+        },
+        {
+          "frame": 10,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-10.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 23,
+            "w": 84,
+            "h": 35
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 11,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-11.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 21,
+            "w": 84,
+            "h": 37
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=3 largest=3"
+          ]
+        },
+        {
+          "frame": 12,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-12.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 26,
+            "w": 84,
+            "h": 32
+          }
+        },
+        {
+          "frame": 13,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-13.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 31,
+            "w": 84,
+            "h": 27
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 59 at y=51 with 35px row drop below"
+          ]
+        },
+        {
+          "frame": 14,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-14.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 35,
+            "w": 84,
+            "h": 23
+          }
+        },
+        {
+          "frame": 15,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-15.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 32,
+            "w": 84,
+            "h": 26
+          }
+        },
+        {
+          "frame": 16,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-16.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 33,
+            "w": 84,
+            "h": 25
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 40 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 17,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-17.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 33,
+            "w": 84,
+            "h": 25
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 62 at y=51 with 35px row drop below"
+          ]
+        },
+        {
+          "frame": 18,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-18.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 37,
+            "w": 84,
+            "h": 21
+          }
+        },
+        {
+          "frame": 19,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-19.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 29,
+            "w": 84,
+            "h": 29
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 58 at y=51 with 38px row drop below",
+            "transparent pinholes: holes=5 area=11 largest=5"
+          ]
+        },
+        {
+          "frame": 20,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-20.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 33,
+            "w": 84,
+            "h": 25
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 80 at y=51 with 42px row drop below"
+          ]
+        },
+        {
+          "frame": 21,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-21.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 31,
+            "w": 84,
+            "h": 27
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 76 at y=49 with 30px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 22,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-22.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 33,
+            "w": 84,
+            "h": 25
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 23,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-23.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 32,
+            "w": 84,
+            "h": 26
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 76 at y=50 with 51px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 24,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-24.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 22,
+            "w": 84,
+            "h": 36
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 58 at y=50 with 37px row drop below"
+          ]
+        },
+        {
+          "frame": 25,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-25.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 33,
+            "w": 84,
+            "h": 25
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 77 at y=50 with 37px row drop below"
+          ]
+        },
+        {
+          "frame": 26,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-26.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 33,
+            "w": 84,
+            "h": 25
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 27,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-27.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 31,
+            "w": 84,
+            "h": 27
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 76 at y=49 with 31px row drop below"
+          ]
+        },
+        {
+          "frame": 28,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-28.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=50 with 40px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 29,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-29.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 62 at y=50 with 38px row drop below",
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 30,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-30.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 23,
+            "w": 84,
+            "h": 35
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=50 with 36px row drop below",
+            "transparent pinholes: holes=2 area=3 largest=2"
+          ]
+        },
+        {
+          "frame": 31,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-31.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 14,
+            "w": 84,
+            "h": 44
+          }
+        },
+        {
+          "frame": 32,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-32.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 11,
+            "w": 84,
+            "h": 47
+          }
+        },
+        {
+          "frame": 33,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-33.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 4,
+            "w": 74,
+            "h": 54
+          },
+          "warnings": [
+            "transparent pinholes: holes=2 area=2 largest=1"
+          ]
+        },
+        {
+          "frame": 34,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-34.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 4,
+            "w": 72,
+            "h": 54
+          }
+        },
+        {
+          "frame": 35,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-35.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 59 at y=50 with 39px row drop below"
+          ]
+        },
+        {
+          "frame": 36,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-36.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 57 at y=50 with 35px row drop below",
+            "transparent pinholes: holes=1 area=10 largest=10"
+          ]
+        },
+        {
+          "frame": 37,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-37.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 15,
+            "w": 84,
+            "h": 43
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 57 at y=50 with 35px row drop below",
+            "transparent pinholes: holes=1 area=9 largest=9"
+          ]
+        },
+        {
+          "frame": 38,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-38.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 16,
+            "w": 84,
+            "h": 42
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 60 at y=50 with 41px row drop below"
+          ]
+        },
+        {
+          "frame": 39,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-39.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 59 at y=50 with 37px row drop below",
+            "transparent pinholes: holes=2 area=10 largest=9"
+          ]
+        },
+        {
+          "frame": 40,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-40.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 33,
+            "w": 84,
+            "h": 25
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 75 at y=50 with 32px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 41,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-41.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 33,
+            "w": 84,
+            "h": 25
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 77 at y=50 with 37px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 42,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-42.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 33,
+            "w": 84,
+            "h": 25
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 77 at y=50 with 33px row drop below",
+            "transparent pinholes: holes=2 area=2 largest=1"
+          ]
+        },
+        {
+          "frame": 43,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-43.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 26,
+            "w": 84,
+            "h": 32
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=50 with 30px row drop below"
+          ]
+        },
+        {
+          "frame": 44,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-44.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 32,
+            "w": 84,
+            "h": 26
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 78 at y=50 with 36px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 45,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-45.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 34,
+            "w": 84,
+            "h": 24
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 75 at y=50 with 32px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 46,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-46.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 23,
+            "w": 84,
+            "h": 35
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 59 at y=50 with 30px row drop below",
+            "transparent pinholes: holes=2 area=2 largest=1"
+          ]
+        },
+        {
+          "frame": 47,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-47.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 22,
+            "w": 84,
+            "h": 36
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 58 at y=50 with 29px row drop below",
+            "transparent pinholes: holes=2 area=2 largest=1"
+          ]
+        },
+        {
+          "frame": 48,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-48.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 22,
+            "w": 84,
+            "h": 36
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 59 at y=50 with 34px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 49,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-49.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 23,
+            "w": 84,
+            "h": 35
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=50 with 34px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 50,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-50.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 25,
+            "w": 84,
+            "h": 33
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=50 with 36px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 51,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-51.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 22,
+            "w": 84,
+            "h": 36
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 62 at y=51 with 39px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 52,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-52.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 20,
+            "w": 84,
+            "h": 38
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 62 at y=50 with 30px row drop below"
+          ]
+        },
+        {
+          "frame": 53,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-53.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 66 at y=50 with 38px row drop below"
+          ]
+        },
+        {
+          "frame": 54,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-54.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 20,
+            "w": 84,
+            "h": 38
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=50 with 32px row drop below",
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 55,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-55.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 22,
+            "w": 84,
+            "h": 36
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 60 at y=50 with 29px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 56,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-56.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 28,
+            "w": 84,
+            "h": 30
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 64 at y=50 with 35px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 57,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-57.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 25,
+            "w": 84,
+            "h": 33
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 62 at y=50 with 34px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 58,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-58.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 20,
+            "w": 84,
+            "h": 38
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=50 with 33px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 59,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-59.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 25,
+            "w": 84,
+            "h": 33
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=50 with 34px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 60,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-60.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 20,
+            "w": 84,
+            "h": 38
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 60 at y=50 with 28px row drop below",
+            "transparent pinholes: holes=3 area=3 largest=1"
+          ]
+        },
+        {
+          "frame": 61,
+          "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-61.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 19,
+            "w": 84,
+            "h": 39
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 60 at y=50 with 35px row drop below",
+            "transparent pinholes: holes=2 area=2 largest=1"
+          ]
+        }
+      ],
+      "completed": true
+    }
+  ]
+}

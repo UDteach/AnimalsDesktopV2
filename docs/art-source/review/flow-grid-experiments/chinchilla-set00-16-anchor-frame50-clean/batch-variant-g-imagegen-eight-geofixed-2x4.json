@@ -1,0 +1,211 @@
+{
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "cell_width": 512,
+  "cell_height": 512,
+  "columns": 4,
+  "rows": 2,
+  "origin_x": 0,
+  "origin_y": 0,
+  "pitch_x": 512,
+  "pitch_y": 512,
+  "guard_pixels": 0,
+  "background": "chroma-green",
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "imagegen-variant-g-eight-textonly-geofixed-2x4.png",
+      "output": "frame-00.png"
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "imagegen-variant-g-eight-textonly-geofixed-2x4.png",
+      "cell": 1,
+      "output": "frame-01.png"
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "imagegen-variant-g-eight-textonly-geofixed-2x4.png",
+      "cell": 2,
+      "output": "frame-02.png"
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "imagegen-variant-g-eight-textonly-geofixed-2x4.png",
+      "cell": 3,
+      "output": "frame-03.png"
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "imagegen-variant-g-eight-textonly-geofixed-2x4.png",
+      "cell": 4,
+      "output": "frame-04.png"
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "imagegen-variant-g-eight-textonly-geofixed-2x4.png",
+      "cell": 5,
+      "output": "frame-05.png"
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "imagegen-variant-g-eight-textonly-geofixed-2x4.png",
+      "cell": 6,
+      "output": "frame-06.png"
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "imagegen-variant-g-eight-textonly-geofixed-2x4.png",
+      "cell": 7,
+      "output": "frame-07.png"
+    }
+  ],
+  "diagnostic": "components recentered without repainting or scaling",
+  "placements": [
+    {
+      "frame": 0,
+      "source_bbox": [
+        37,
+        348,
+        315,
+        541
+      ],
+      "source_area": 31556,
+      "placed_xy": [
+        117,
+        159
+      ],
+      "size": [
+        278,
+        193
+      ]
+    },
+    {
+      "frame": 1,
+      "source_bbox": [
+        336,
+        351,
+        602,
+        543
+      ],
+      "source_area": 30475,
+      "placed_xy": [
+        635,
+        160
+      ],
+      "size": [
+        266,
+        192
+      ]
+    },
+    {
+      "frame": 2,
+      "source_bbox": [
+        639,
+        349,
+        906,
+        542
+      ],
+      "source_area": 32070,
+      "placed_xy": [
+        1146,
+        159
+      ],
+      "size": [
+        267,
+        193
+      ]
+    },
+    {
+      "frame": 3,
+      "source_bbox": [
+        937,
+        349,
+        1210,
+        540
+      ],
+      "source_area": 30220,
+      "placed_xy": [
+        1655,
+        160
+      ],
+      "size": [
+        273,
+        191
+      ]
+    },
+    {
+      "frame": 4,
+      "source_bbox": [
+        32,
+        714,
+        304,
+        912
+      ],
+      "source_area": 31791,
+      "placed_xy": [
+        120,
+        669
+      ],
+      "size": [
+        272,
+        198
+      ]
+    },
+    {
+      "frame": 5,
+      "source_bbox": [
+        340,
+        712,
+        602,
+        912
+      ],
+      "source_area": 31607,
+      "placed_xy": [
+        637,
+        668
+      ],
+      "size": [
+        262,
+        200
+      ]
+    },
+    {
+      "frame": 6,
+      "source_bbox": [
+        637,
+        729,
+        921,
+        913
+      ],
+      "source_area": 30490,
+      "placed_xy": [
+        1138,
+        676
+      ],
+      "size": [
+        284,
+        184
+      ]
+    },
+    {
+      "frame": 7,
+      "source_bbox": [
+        956,
+        723,
+        1223,
+        912
+      ],
+      "source_area": 30656,
+      "placed_xy": [
+        1658,
+        673
+      ],
+      "size": [
+        267,
+        189
+      ]
+    }
+  ]
+}

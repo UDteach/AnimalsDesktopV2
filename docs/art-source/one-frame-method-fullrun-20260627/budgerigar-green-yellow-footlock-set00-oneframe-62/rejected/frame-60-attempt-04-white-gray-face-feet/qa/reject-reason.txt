@@ -1,0 +1,1 @@
+rejected: attempt-04 still has gray/white face mask and gray feet on 59-61 gate contact; leaving frame-60 missing per parent instruction

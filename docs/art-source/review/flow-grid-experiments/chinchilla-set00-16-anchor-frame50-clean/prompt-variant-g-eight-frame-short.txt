@@ -1,0 +1,9 @@
+Create one square 8-frame sprite sheet, 2048 by 2048, on pure flat chroma green. The layout is invisible: 2 rows by 4 columns. Do not draw grid lines, dividers, borders, labels, numbers, text, floor, shadow, scenery, or props.
+
+Use the attached chinchilla image only for identity, face, coat, outline, shading, camera size, and source family. Keep one complete right-facing standard gray chinchilla in each invisible cell, centered with green padding around ears, whiskers, feet, toes, tail, and body. No animal may touch or cross its invisible cell edge.
+
+All 8 cells are one grounded walk cycle. Every cell must be a distinct gait phase. Change front paw position, rear paw position, shoulder height, hip height, tail curve, or slight body compression in every neighboring frame. Do not repeat the same pose.
+
+Frame order: 1 front right paw forward, rear right paw back, body centered. 2 front paw under chest, rear paw lifting, body slightly lower. 3 front left paw forward, rear left paw back, tail counterbalanced. 4 paws pass under body, body slightly higher. 5 opposite contact, not a duplicate of frame 1. 6 one front paw lifted and one rear paw pushing. 7 low contact step, head slightly forward. 8 recovery step, tail slightly curled upward.
+
+Keep face stable and calm. Keep scale, baseline, body size, head size, coat, outline, and soft shaded sprite style stable. Clean antialiased edges. No white fringe, no green halo, no green dots inside the animal, no transparent pinholes, no detached specks, and no cropped anatomy.

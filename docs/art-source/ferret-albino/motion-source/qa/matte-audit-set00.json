@@ -1,0 +1,897 @@
+{
+  "contract": {
+    "composited_green_excess_rounding": "(max(0, G - max(R, B)) * A + 127) // 255",
+    "frame_size": [
+      96,
+      64
+    ],
+    "greenish_probe": {
+      "alpha_greater_than": 8,
+      "connectivity": 8,
+      "green_at_least": 90,
+      "green_minus_blue_at_least": 25,
+      "green_minus_red_at_least": 25
+    },
+    "limits": {
+      "composited_green_excess_level_per_pixel": 1,
+      "greenish_component_pixels": 2,
+      "greenish_pixels_per_frame": 8
+    },
+    "visual_contact_review_required": true
+  },
+  "errors": [],
+  "failed_frame_count": 0,
+  "frame_count": 62,
+  "frames": [
+    {
+      "failures": [],
+      "file": "frame-00.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.019608,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-01.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-02.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-03.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 0.980392,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-04.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.019608,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-05.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-06.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-07.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-08.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.023529,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-09.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-10.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.023529,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-11.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 0.980392,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-12.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-13.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-14.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-15.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-16.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.023529,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-17.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-18.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-19.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.023529,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-20.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-21.png",
+      "greenish_pixels": 2,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.023529,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-22.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-23.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 0.980392,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-24.png",
+      "greenish_pixels": 2,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.019608,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-25.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-26.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-27.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-28.png",
+      "greenish_pixels": 2,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.019608,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-29.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-30.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-31.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.023529,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-32.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-33.png",
+      "greenish_pixels": 2,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 0.988235,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-34.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-35.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-36.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.023529,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-37.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-38.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-39.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-40.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-41.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 0.980392,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-42.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-43.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.019608,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-44.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 0.988235,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-45.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.023529,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-46.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 0.988235,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-47.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-48.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-49.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-50.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-51.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-52.png",
+      "greenish_pixels": 2,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 1.019608,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-53.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-54.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-55.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-56.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-57.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-58.png",
+      "greenish_pixels": 1,
+      "largest_greenish_component": 1,
+      "max_composited_green_excess_level": 1,
+      "max_composited_green_excess_raw": 0.980392,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-59.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-60.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "failures": [],
+      "file": "frame-61.png",
+      "greenish_pixels": 0,
+      "largest_greenish_component": 0,
+      "max_composited_green_excess_level": 0,
+      "max_composited_green_excess_raw": 0.0,
+      "mode": "RGBA",
+      "passed": true,
+      "size": [
+        96,
+        64
+      ]
+    }
+  ],
+  "passed": true,
+  "schema_version": 1
+}

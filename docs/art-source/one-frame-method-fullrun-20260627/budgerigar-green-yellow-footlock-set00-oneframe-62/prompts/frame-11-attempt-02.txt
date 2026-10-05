@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: 96x64 desktop-pet sprite source frame
+Primary request: Retry frame 11 for budgerigar_green_yellow foot-lock lane.
+Scene/backdrop: perfectly flat solid #ff00ff chroma-key background only.
+Subject: one complete right-facing green-yellow budgerigar desktop-pet sprite, same compact camera, scale, padding, and baseline as accepted frames 00-08.
+Color lock: saturated lime-green body and belly, bright lemon-yellow head and face, black scalloped wing markings on yellow-green wings, tiny blue cheek accents, long narrow blue-green tail, tiny pink or pink-gray attached toes. Avoid pale gray, white, cream, albino, or gray-white face/head.
+Species lock: clear budgerigar/parakeet silhouette with small hooked beak, compact body, folded wings, long slim tail. No cockatiel crest, no orange cheek patch, no finch/sparrow body, no Java sparrow mask.
+Pose: walk settle returning to calm stand, two tiny attached feet when natural; at minimum one tiny attached pink toe/contact point visible directly under the body at final 96x64 size.
+Foot lock: feet must be tiny attached toe shapes, not gray smears, not floor dots, not detached marks, not long string legs.
+Avoid: perch, branch, floor line, shadow, long curved underside/floor arc, thread-like legs, scenery, props, seed, food, text, border, duplicate bird, cropped parts, left-facing pose.

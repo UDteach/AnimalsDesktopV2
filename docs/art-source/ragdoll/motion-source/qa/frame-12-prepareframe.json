@@ -1,0 +1,22 @@
+{
+  "source": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/alpha/frame-12-attempt-01-alpha.png",
+  "output": "docs/art-source/one-frame-method-fullrun-20260627/ragdoll-seal-bicolor-set00-oneframe-62/frames/frame-12.png",
+  "source_width": 1536,
+  "source_height": 1024,
+  "output_width": 96,
+  "output_height": 64,
+  "background_mode": "source-alpha",
+  "background_removed": false,
+  "content": {
+    "x": 27,
+    "y": 255,
+    "w": 1444,
+    "h": 519
+  },
+  "output_content": {
+    "x": 4,
+    "y": 26,
+    "w": 86,
+    "h": 32
+  }
+}

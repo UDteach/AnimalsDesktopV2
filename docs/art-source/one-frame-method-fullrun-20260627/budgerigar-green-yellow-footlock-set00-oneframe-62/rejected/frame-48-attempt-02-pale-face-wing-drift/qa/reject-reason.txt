@@ -1,0 +1,1 @@
+rejected: parent review says face and wing still read white/gray versus 49-50; retry color lock while preserving low pose/scale

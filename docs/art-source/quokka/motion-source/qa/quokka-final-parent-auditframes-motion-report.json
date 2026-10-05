@@ -1,0 +1,1136 @@
+{
+  "frames_dir": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames",
+  "pattern": "frame-%02d.png",
+  "strict": true,
+  "frame_width": 96,
+  "frame_height": 64,
+  "set_count": 1,
+  "frame_count": 62,
+  "valid": 62,
+  "missing": 0,
+  "invalid": 0,
+  "warnings": 90,
+  "sets": [
+    {
+      "set": "frames",
+      "dir": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames",
+      "valid": 62,
+      "missing": 0,
+      "invalid": 0,
+      "warnings": 90,
+      "frames": [
+        {
+          "frame": 0,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-00.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 11,
+            "w": 84,
+            "h": 47
+          },
+          "body": {
+            "alpha_pixels": 2267,
+            "fill_per_mille": 574
+          },
+          "warnings": [
+            "transparent pinholes: holes=3 area=24 largest=21"
+          ]
+        },
+        {
+          "frame": 1,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-01.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 7,
+            "w": 84,
+            "h": 51
+          },
+          "body": {
+            "alpha_pixels": 2208,
+            "fill_per_mille": 515
+          },
+          "warnings": [
+            "transparent pinholes: holes=3 area=4 largest=2"
+          ]
+        },
+        {
+          "frame": 2,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-02.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 21,
+            "w": 84,
+            "h": 37
+          },
+          "body": {
+            "alpha_pixels": 1808,
+            "fill_per_mille": 581
+          },
+          "warnings": [
+            "transparent pinholes: holes=2 area=3 largest=2",
+            "motion consistency: bbox height jumps from previous frame 01 to 02 (51 -\u003e 37)"
+          ]
+        },
+        {
+          "frame": 3,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-03.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 15,
+            "w": 84,
+            "h": 43
+          },
+          "body": {
+            "alpha_pixels": 1993,
+            "fill_per_mille": 551
+          },
+          "warnings": [
+            "transparent pinholes: holes=2 area=18 largest=12"
+          ]
+        },
+        {
+          "frame": 4,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-04.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 14,
+            "w": 84,
+            "h": 44
+          },
+          "body": {
+            "alpha_pixels": 2313,
+            "fill_per_mille": 625
+          }
+        },
+        {
+          "frame": 5,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-05.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 15,
+            "w": 84,
+            "h": 43
+          },
+          "body": {
+            "alpha_pixels": 2118,
+            "fill_per_mille": 586
+          }
+        },
+        {
+          "frame": 6,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-06.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "body": {
+            "alpha_pixels": 1921,
+            "fill_per_mille": 557
+          }
+        },
+        {
+          "frame": 7,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-07.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 23,
+            "w": 84,
+            "h": 35
+          },
+          "body": {
+            "alpha_pixels": 1741,
+            "fill_per_mille": 592
+          }
+        },
+        {
+          "frame": 8,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-08.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 20,
+            "w": 84,
+            "h": 38
+          },
+          "body": {
+            "alpha_pixels": 1905,
+            "fill_per_mille": 596
+          }
+        },
+        {
+          "frame": 9,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-09.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 20,
+            "w": 84,
+            "h": 38
+          },
+          "body": {
+            "alpha_pixels": 1765,
+            "fill_per_mille": 552
+          }
+        },
+        {
+          "frame": 10,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-10.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "body": {
+            "alpha_pixels": 1955,
+            "fill_per_mille": 567
+          }
+        },
+        {
+          "frame": 11,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-11.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 16,
+            "w": 84,
+            "h": 42
+          },
+          "body": {
+            "alpha_pixels": 2110,
+            "fill_per_mille": 598
+          }
+        },
+        {
+          "frame": 12,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-12.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 21,
+            "w": 84,
+            "h": 37
+          },
+          "body": {
+            "alpha_pixels": 1981,
+            "fill_per_mille": 637
+          }
+        },
+        {
+          "frame": 13,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-13.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 17,
+            "w": 84,
+            "h": 41
+          },
+          "body": {
+            "alpha_pixels": 2023,
+            "fill_per_mille": 587
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 28 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 14,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-14.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 6,
+            "w": 84,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2305,
+            "fill_per_mille": 527
+          }
+        },
+        {
+          "frame": 15,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-15.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 7,
+            "w": 84,
+            "h": 51
+          },
+          "body": {
+            "alpha_pixels": 2221,
+            "fill_per_mille": 518
+          }
+        },
+        {
+          "frame": 16,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-16.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 6,
+            "w": 84,
+            "h": 52
+          },
+          "body": {
+            "alpha_pixels": 2418,
+            "fill_per_mille": 553
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 28 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 17,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-17.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 20,
+            "w": 84,
+            "h": 38
+          },
+          "body": {
+            "alpha_pixels": 1908,
+            "fill_per_mille": 597
+          },
+          "warnings": [
+            "motion consistency: bbox height jumps from previous frame 16 to 17 (52 -\u003e 38)",
+            "motion consistency: isolated bbox height outlier at frame 17 (38 vs neighbor avg 52)"
+          ]
+        },
+        {
+          "frame": 18,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-18.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 7,
+            "w": 84,
+            "h": 51
+          },
+          "body": {
+            "alpha_pixels": 2321,
+            "fill_per_mille": 541
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 28 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 19,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-19.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 4,
+            "w": 77,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 2031,
+            "fill_per_mille": 488
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 30 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 20,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-20.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2225,
+            "fill_per_mille": 662
+          }
+        },
+        {
+          "frame": 21,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-21.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 20,
+            "w": 84,
+            "h": 38
+          },
+          "body": {
+            "alpha_pixels": 2059,
+            "fill_per_mille": 645
+          }
+        },
+        {
+          "frame": 22,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-22.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2245,
+            "fill_per_mille": 668
+          }
+        },
+        {
+          "frame": 23,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-23.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 18,
+            "w": 84,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2254,
+            "fill_per_mille": 670
+          }
+        },
+        {
+          "frame": 24,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-24.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 4,
+            "w": 83,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 2389,
+            "fill_per_mille": 533
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 31 at y=55 near lower content"
+          ]
+        },
+        {
+          "frame": 25,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-25.png",
+          "status": "valid",
+          "content": {
+            "x": 6,
+            "y": 13,
+            "w": 84,
+            "h": 45
+          },
+          "body": {
+            "alpha_pixels": 2042,
+            "fill_per_mille": 540
+          },
+          "warnings": [
+            "motion consistency: isolated bbox width outlier at frame 25 (84 vs neighbor avg 64)"
+          ]
+        },
+        {
+          "frame": 26,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-26.png",
+          "status": "valid",
+          "content": {
+            "x": 25,
+            "y": 4,
+            "w": 45,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1299,
+            "fill_per_mille": 534
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 28 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 42 at y=52 with 24px row drop below",
+            "motion consistency: bbox width jumps from previous frame 25 to 26 (84 -\u003e 45)",
+            "motion consistency: body alpha area jumps from previous frame 25 to 26 (2042 -\u003e 1299)",
+            "motion consistency: isolated bbox width outlier at frame 26 (45 vs neighbor avg 62)"
+          ]
+        },
+        {
+          "frame": 27,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-27.png",
+          "status": "valid",
+          "content": {
+            "x": 28,
+            "y": 4,
+            "w": 39,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1160,
+            "fill_per_mille": 550
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 25 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 39 at y=53 with 23px row drop below",
+            "motion consistency: isolated bbox width outlier at frame 27 (39 vs neighbor avg 62)",
+            "motion consistency: isolated body alpha area outlier at frame 27 (1160 vs neighbor avg 1715)"
+          ]
+        },
+        {
+          "frame": 28,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-28.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 4,
+            "w": 79,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 2130,
+            "fill_per_mille": 499
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 29 at y=55 near lower content",
+            "motion consistency: bbox width jumps from previous frame 27 to 28 (39 -\u003e 79)",
+            "motion consistency: body alpha area jumps from previous frame 27 to 28 (1160 -\u003e 2130)",
+            "motion consistency: isolated bbox width outlier at frame 28 (79 vs neighbor avg 47)",
+            "motion consistency: isolated body alpha area outlier at frame 28 (2130 vs neighbor avg 1351)"
+          ]
+        },
+        {
+          "frame": 29,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-29.png",
+          "status": "valid",
+          "content": {
+            "x": 20,
+            "y": 4,
+            "w": 55,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1542,
+            "fill_per_mille": 519
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 29 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 46 at y=52 with 18px row drop below",
+            "motion consistency: bbox width jumps from previous frame 28 to 29 (79 -\u003e 55)",
+            "motion consistency: isolated bbox width outlier at frame 29 (55 vs neighbor avg 72)"
+          ]
+        },
+        {
+          "frame": 30,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-30.png",
+          "status": "valid",
+          "content": {
+            "x": 16,
+            "y": 4,
+            "w": 64,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1816,
+            "fill_per_mille": 525
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 34 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 52 at y=52 with 29px row drop below"
+          ]
+        },
+        {
+          "frame": 31,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-31.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 4,
+            "w": 78,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 2145,
+            "fill_per_mille": 509
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 29 at y=55 near lower content",
+            "motion consistency: isolated bbox width outlier at frame 31 (78 vs neighbor avg 60)"
+          ]
+        },
+        {
+          "frame": 32,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-32.png",
+          "status": "valid",
+          "content": {
+            "x": 20,
+            "y": 4,
+            "w": 56,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1673,
+            "fill_per_mille": 553
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 33 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 51 at y=52 with 32px row drop below",
+            "motion consistency: bbox width jumps from previous frame 31 to 32 (78 -\u003e 56)"
+          ]
+        },
+        {
+          "frame": 33,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-33.png",
+          "status": "valid",
+          "content": {
+            "x": 26,
+            "y": 4,
+            "w": 44,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1356,
+            "fill_per_mille": 570
+          }
+        },
+        {
+          "frame": 34,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-34.png",
+          "status": "valid",
+          "content": {
+            "x": 25,
+            "y": 4,
+            "w": 46,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1452,
+            "fill_per_mille": 584
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 28 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 41 at y=52 with 22px row drop below"
+          ]
+        },
+        {
+          "frame": 35,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-35.png",
+          "status": "valid",
+          "content": {
+            "x": 25,
+            "y": 4,
+            "w": 45,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1371,
+            "fill_per_mille": 564
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 19 at y=56 near lower content"
+          ]
+        },
+        {
+          "frame": 36,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-36.png",
+          "status": "valid",
+          "content": {
+            "x": 17,
+            "y": 4,
+            "w": 61,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1715,
+            "fill_per_mille": 520
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 30 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 50 at y=52 with 30px row drop below",
+            "motion consistency: bbox width jumps from previous frame 35 to 36 (45 -\u003e 61)"
+          ]
+        },
+        {
+          "frame": 37,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-37.png",
+          "status": "valid",
+          "content": {
+            "x": 23,
+            "y": 4,
+            "w": 50,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1450,
+            "fill_per_mille": 537
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 28 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 44 at y=52 with 21px row drop below"
+          ]
+        },
+        {
+          "frame": 38,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-38.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 4,
+            "w": 59,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1637,
+            "fill_per_mille": 513
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 20 at y=56 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 49 at y=52 with 29px row drop below"
+          ]
+        },
+        {
+          "frame": 39,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-39.png",
+          "status": "valid",
+          "content": {
+            "x": 18,
+            "y": 4,
+            "w": 59,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1629,
+            "fill_per_mille": 511
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 31 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 49 at y=52 with 29px row drop below"
+          ]
+        },
+        {
+          "frame": 40,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-40.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 4,
+            "w": 70,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 2134,
+            "fill_per_mille": 564
+          }
+        },
+        {
+          "frame": 41,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-41.png",
+          "status": "valid",
+          "content": {
+            "x": 20,
+            "y": 4,
+            "w": 55,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1734,
+            "fill_per_mille": 583
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 21 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 50 at y=52 with 30px row drop below",
+            "motion consistency: isolated bbox width outlier at frame 41 (55 vs neighbor avg 73)"
+          ]
+        },
+        {
+          "frame": 42,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-42.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 4,
+            "w": 76,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 2421,
+            "fill_per_mille": 589
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=51 with 25px row drop below",
+            "motion consistency: bbox width jumps from previous frame 41 to 42 (55 -\u003e 76)",
+            "motion consistency: isolated bbox width outlier at frame 42 (76 vs neighbor avg 57)",
+            "motion consistency: isolated body alpha area outlier at frame 42 (2421 vs neighbor avg 1678)"
+          ]
+        },
+        {
+          "frame": 43,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-43.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 4,
+            "w": 58,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1621,
+            "fill_per_mille": 517
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 32 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 49 at y=52 with 23px row drop below",
+            "motion consistency: body alpha area jumps from previous frame 42 to 43 (2421 -\u003e 1621)",
+            "motion consistency: isolated bbox width outlier at frame 43 (58 vs neighbor avg 75)",
+            "motion consistency: isolated body alpha area outlier at frame 43 (1621 vs neighbor avg 2399)"
+          ]
+        },
+        {
+          "frame": 44,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-44.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 10,
+            "w": 74,
+            "h": 48
+          },
+          "body": {
+            "alpha_pixels": 2376,
+            "fill_per_mille": 668
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 38 at y=55 near lower content",
+            "motion consistency: body alpha area jumps from previous frame 43 to 44 (1621 -\u003e 2376)"
+          ]
+        },
+        {
+          "frame": 45,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-45.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 18,
+            "w": 74,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2044,
+            "fill_per_mille": 690
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 35 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 53 at y=51 with 24px row drop below"
+          ]
+        },
+        {
+          "frame": 46,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-46.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 18,
+            "w": 74,
+            "h": 40
+          },
+          "body": {
+            "alpha_pixels": 2063,
+            "fill_per_mille": 696
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 35 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 55 at y=52 with 32px row drop below"
+          ]
+        },
+        {
+          "frame": 47,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-47.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 11,
+            "w": 74,
+            "h": 47
+          },
+          "body": {
+            "alpha_pixels": 1935,
+            "fill_per_mille": 556
+          },
+          "warnings": [
+            "transparent pinholes: holes=2 area=10 largest=9"
+          ]
+        },
+        {
+          "frame": 48,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-48.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 5,
+            "w": 72,
+            "h": 53
+          },
+          "body": {
+            "alpha_pixels": 1996,
+            "fill_per_mille": 523
+          },
+          "warnings": [
+            "transparent pinholes: holes=1 area=8 largest=8"
+          ]
+        },
+        {
+          "frame": 49,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-49.png",
+          "status": "valid",
+          "content": {
+            "x": 24,
+            "y": 4,
+            "w": 48,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1375,
+            "fill_per_mille": 530
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 44 at y=51 with 21px row drop below",
+            "motion consistency: bbox width jumps from previous frame 48 to 49 (72 -\u003e 48)",
+            "motion consistency: body alpha area jumps from previous frame 48 to 49 (1996 -\u003e 1375)"
+          ]
+        },
+        {
+          "frame": 50,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-50.png",
+          "status": "valid",
+          "content": {
+            "x": 27,
+            "y": 4,
+            "w": 42,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1274,
+            "fill_per_mille": 561
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 39 at y=52 with 24px row drop below"
+          ]
+        },
+        {
+          "frame": 51,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-51.png",
+          "status": "valid",
+          "content": {
+            "x": 21,
+            "y": 4,
+            "w": 53,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1462,
+            "fill_per_mille": 510
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 46 at y=51 with 22px row drop below"
+          ]
+        },
+        {
+          "frame": 52,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-52.png",
+          "status": "valid",
+          "content": {
+            "x": 23,
+            "y": 4,
+            "w": 50,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1449,
+            "fill_per_mille": 536
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 45 at y=51 with 20px row drop below"
+          ]
+        },
+        {
+          "frame": 53,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-53.png",
+          "status": "valid",
+          "content": {
+            "x": 25,
+            "y": 4,
+            "w": 46,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1349,
+            "fill_per_mille": 543
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 42 at y=51 with 26px row drop below"
+          ]
+        },
+        {
+          "frame": 54,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-54.png",
+          "status": "valid",
+          "content": {
+            "x": 24,
+            "y": 4,
+            "w": 47,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1413,
+            "fill_per_mille": 556
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 45 at y=51 with 28px row drop below"
+          ]
+        },
+        {
+          "frame": 55,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-55.png",
+          "status": "valid",
+          "content": {
+            "x": 26,
+            "y": 4,
+            "w": 44,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1309,
+            "fill_per_mille": 550
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 42 at y=51 with 24px row drop below"
+          ]
+        },
+        {
+          "frame": 56,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-56.png",
+          "status": "valid",
+          "content": {
+            "x": 27,
+            "y": 4,
+            "w": 41,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1255,
+            "fill_per_mille": 566
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 41 at y=52 with 27px row drop below"
+          ]
+        },
+        {
+          "frame": 57,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-57.png",
+          "status": "valid",
+          "content": {
+            "x": 24,
+            "y": 10,
+            "w": 48,
+            "h": 48
+          },
+          "body": {
+            "alpha_pixels": 1434,
+            "fill_per_mille": 622
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 18 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 38 at y=52 with 22px row drop below",
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 58,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-58.png",
+          "status": "valid",
+          "content": {
+            "x": 20,
+            "y": 5,
+            "w": 56,
+            "h": 53
+          },
+          "body": {
+            "alpha_pixels": 1745,
+            "fill_per_mille": 587
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 18 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 45 at y=51 with 27px row drop below",
+            "transparent pinholes: holes=1 area=5 largest=5"
+          ]
+        },
+        {
+          "frame": 59,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-59.png",
+          "status": "valid",
+          "content": {
+            "x": 27,
+            "y": 4,
+            "w": 41,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1294,
+            "fill_per_mille": 584
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 37 at y=50 with 18px row drop below",
+            "motion consistency: bbox width jumps from previous frame 58 to 59 (56 -\u003e 41)"
+          ]
+        },
+        {
+          "frame": 60,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-60.png",
+          "status": "valid",
+          "content": {
+            "x": 29,
+            "y": 4,
+            "w": 38,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1225,
+            "fill_per_mille": 596
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 38 at y=51 with 22px row drop below"
+          ]
+        },
+        {
+          "frame": 61,
+          "path": "/Volumes/ZX20 II/Development/AnimalDesktop/docs/art-source/one-frame-method-fullrun-20260628/quokka-set00-oneframe-62/frames/frame-61.png",
+          "status": "valid",
+          "content": {
+            "x": 29,
+            "y": 4,
+            "w": 37,
+            "h": 54
+          },
+          "body": {
+            "alpha_pixels": 1239,
+            "fill_per_mille": 620
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 37 at y=51 with 20px row drop below"
+          ]
+        }
+      ],
+      "completed": true
+    }
+  ]
+}

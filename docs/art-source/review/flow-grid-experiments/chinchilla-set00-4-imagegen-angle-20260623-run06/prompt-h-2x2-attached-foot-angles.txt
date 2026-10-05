@@ -1,0 +1,54 @@
+Create one review-only 4-frame pose sheet for a Windows desktop pet app.
+
+Primary goal:
+- Test whether a smaller 4-frame sheet can keep clean matte quality while showing controlled motion phases.
+- Extraction cleanliness is more important than animation detail.
+- Make clean, parser-friendly finished chinchilla sprites with no matte defects, no pinholes, no green holes, no detached specks, no white fringe, no green halo, and no background contamination.
+
+Canvas and layout:
+- Target canvas: 1024x1024.
+- Use an invisible 2 rows x 2 columns layout.
+- Intended cell size: 512x512 per cell.
+- If the exact pixel size is not followed, keep a square 1:1 overall aspect ratio and a clean equal 2x2 layout.
+- Exactly one complete right-facing standard gray chinchilla per cell.
+- Keep every chinchilla centered, fully inside its cell, with the same scale, camera distance, and contact baseline.
+- Leave wide pure green padding around each animal inside each cell.
+- No visible grid lines, no labels, no numbers, no text.
+
+Background:
+- The entire background must be flat solid pure chroma green #00ff00.
+- Use green only for the background, never inside the animal.
+- No gradient, no texture, no noise, no shadow, no floor, no shelf, no scenery.
+
+Animal style:
+- Clean small 2D game sprite style, not pixel art and not realistic fur.
+- Simple flat cel-shaded shapes with minimal texture.
+- Standard gray chinchilla: medium neutral gray coat, cream belly, rounded ears, compact round body, curled bushy tail, small attached feet.
+- Clean black eye, small muzzle, closed mouth, short attached whiskers.
+- Same character identity, proportions, head size, body size, ear size, tail size, and color palette in all 4 frames.
+
+Closed-shape foot rules:
+- Each visible foot is a small filled oval pad attached to and slightly overlapping the underside of the body.
+- Do not draw long thin legs.
+- Do not draw lifted feet.
+- Do not draw separated feet.
+- Do not leave open green gaps under the belly.
+- Do not create negative spaces between toes.
+- Body, belly, feet, ears, and tail must be continuous filled shapes.
+- The tail must be one continuous attached curled shape connected to the body.
+- No holes inside or between the feet and belly.
+- No broken gaps around the belly line, foot contact area, tail base, or tail curve.
+- Prioritize clean filled shapes over motion detail.
+
+Four pose phases:
+- Frame 1, top-left: neutral contact pose. Front foot pad and rear foot pad are both horizontal attached ovals. Body level. Tail curl neutral.
+- Frame 2, top-right: tiny forward phase. Front foot pad is a filled oval angled slightly forward, rear foot pad angled slightly backward, both still attached and overlapping the body. Body only a few pixels lower. Tail curl slightly back.
+- Frame 3, bottom-left: tiny opposite phase. Front foot pad angled slightly backward, rear foot pad angled slightly forward, both attached and overlapping the body. Body level. Tail curl slightly forward.
+- Frame 4, bottom-right: recovery contact pose. Both feet return toward horizontal attached ovals. Body only a few pixels higher. Tail curl neutral.
+
+Hard constraints:
+- Exactly 4 complete chinchillas total.
+- Exactly one complete right-facing chinchilla per cell.
+- No extra animals, duplicate animals, cropped animals, missing tails, detached ears, detached feet, or separated limbs.
+- No sitting, grooming, jumping, running, or scenery actions.
+- Final image contains only the 4 chinchilla sprites on pure #00ff00 background.

@@ -1,0 +1,112 @@
+{
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "cell_width": 256,
+  "cell_height": 256,
+  "columns": 4,
+  "rows": 4,
+  "origin_x": 0,
+  "origin_y": 0,
+  "pitch_x": 256,
+  "pitch_y": 256,
+  "guard_pixels": 0,
+  "background": "chroma-green",
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "output": "frame-00.png"
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 1,
+      "output": "frame-01.png"
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 2,
+      "output": "frame-02.png"
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 3,
+      "output": "frame-03.png"
+    },
+    {
+      "id": "set00-frame-04",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 4,
+      "output": "frame-04.png"
+    },
+    {
+      "id": "set00-frame-05",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 5,
+      "output": "frame-05.png"
+    },
+    {
+      "id": "set00-frame-06",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 6,
+      "output": "frame-06.png"
+    },
+    {
+      "id": "set00-frame-07",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 7,
+      "output": "frame-07.png"
+    },
+    {
+      "id": "set00-frame-08",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 8,
+      "output": "frame-08.png"
+    },
+    {
+      "id": "set00-frame-09",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 9,
+      "output": "frame-09.png"
+    },
+    {
+      "id": "set00-frame-10",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 10,
+      "output": "frame-10.png"
+    },
+    {
+      "id": "set00-frame-11",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 11,
+      "output": "frame-11.png"
+    },
+    {
+      "id": "set00-frame-12",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 12,
+      "output": "frame-12.png"
+    },
+    {
+      "id": "set00-frame-13",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 13,
+      "output": "frame-13.png"
+    },
+    {
+      "id": "set00-frame-14",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 14,
+      "output": "frame-14.png"
+    },
+    {
+      "id": "set00-frame-15",
+      "source": "flow-nanobanana-pro-variant-a-cache-141219-greenfixed.png",
+      "cell": 15,
+      "output": "frame-15.png"
+    }
+  ]
+}

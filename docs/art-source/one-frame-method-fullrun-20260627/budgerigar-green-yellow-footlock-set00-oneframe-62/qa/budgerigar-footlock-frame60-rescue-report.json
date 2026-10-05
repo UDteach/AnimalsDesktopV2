@@ -1,0 +1,52 @@
+{
+  "method": "local fallback from frames 59 and 61 after ImageGen attempt-05 failed visual style gate",
+  "contact_sheet_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/contact/budgerigar-footlock-59-61-frame60-rescue-gate-10x.png",
+  "frames": [
+    {
+      "frame": "59",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-59.png",
+      "bbox": [
+        6,
+        13,
+        90,
+        58
+      ],
+      "height": 45,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "60",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-60.png",
+      "bbox": [
+        6,
+        13,
+        90,
+        58
+      ],
+      "height": 45,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "61",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-61.png",
+      "bbox": [
+        6,
+        16,
+        90,
+        58
+      ],
+      "height": 42,
+      "size": [
+        96,
+        64
+      ]
+    }
+  ],
+  "notes": "Frame 60 is local fallback, not ImageGen final."
+}

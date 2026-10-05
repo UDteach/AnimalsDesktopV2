@@ -1,0 +1,126 @@
+{
+  "manifest": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-k-2x2-solid-blob-no-whiskers-02-raw-batch.json",
+  "animal": "standard gray chinchilla",
+  "sequence": "set00",
+  "layout": "grid-fixed",
+  "output_dir": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/parsed-variant-k-2x2-solid-blob-no-whiskers-02-raw",
+  "cell_width": 627,
+  "cell_height": 627,
+  "columns": 2,
+  "rows": 2,
+  "pitch_x": 627,
+  "pitch_y": 627,
+  "guard_pixels": 4,
+  "background": "chroma-green",
+  "source_count": 1,
+  "frame_count": 4,
+  "parsed": 0,
+  "rejected": 4,
+  "sources": [
+    {
+      "path": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-k-2x2-solid-blob-no-whiskers-02.png",
+      "sha256": "52a4d8c73e8db869f982cb61c49e9dcaf554ce3df0690b4afed219eb2f54f706",
+      "width": 1254,
+      "height": 1254,
+      "errors": [
+        "content exists in x-boundary guard column 623"
+      ]
+    }
+  ],
+  "frames": [
+    {
+      "id": "set00-frame-00",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-k-2x2-solid-blob-no-whiskers-02.png",
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "52a4d8c73e8db869f982cb61c49e9dcaf554ce3df0690b4afed219eb2f54f706",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 623"
+      ]
+    },
+    {
+      "id": "set00-frame-01",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-k-2x2-solid-blob-no-whiskers-02.png",
+      "cell": 1,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "52a4d8c73e8db869f982cb61c49e9dcaf554ce3df0690b4afed219eb2f54f706",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 623"
+      ]
+    },
+    {
+      "id": "set00-frame-02",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-k-2x2-solid-blob-no-whiskers-02.png",
+      "cell": 2,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "52a4d8c73e8db869f982cb61c49e9dcaf554ce3df0690b4afed219eb2f54f706",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 623"
+      ]
+    },
+    {
+      "id": "set00-frame-03",
+      "source": "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-k-2x2-solid-blob-no-whiskers-02.png",
+      "cell": 3,
+      "cell_bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "source_sha256": "52a4d8c73e8db869f982cb61c49e9dcaf554ce3df0690b4afed219eb2f54f706",
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "status": "rejected",
+      "errors": [
+        "content exists in x-boundary guard column 623"
+      ]
+    }
+  ],
+  "errors": [
+    "D:/開発/AnimalsDesktop/docs/art-source/review/flow-grid-experiments/chinchilla-set00-4-imagegen-loop-20260623-run07/variant-k-2x2-solid-blob-no-whiskers-02.png: content exists in x-boundary guard column 623",
+    "set00-frame-00: content exists in x-boundary guard column 623",
+    "set00-frame-01: content exists in x-boundary guard column 623",
+    "set00-frame-02: content exists in x-boundary guard column 623",
+    "set00-frame-03: content exists in x-boundary guard column 623"
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "variant": "budgerigar_green_yellow",
+  "range": "05-09",
+  "purpose": "Parent requested current-vs-retry comparison for color and foot/toe contact gate.",
+  "contact_sheet": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/contact/budgerigar-footlock-current-vs-retry02-05-09-full-and-footcrop-5x.png",
+  "crop_box_96x64": [
+    20,
+    36,
+    76,
+    64
+  ],
+  "frames": [
+    {
+      "frame": "05",
+      "kind": "current",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-05.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        8,
+        90,
+        58
+      ]
+    },
+    {
+      "frame": "05",
+      "kind": "retry02",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/retry-candidates/frame-05-attempt-02/frame/frame-05-attempt-02.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        9,
+        90,
+        58
+      ]
+    },
+    {
+      "frame": "06",
+      "kind": "current",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-06.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        9,
+        90,
+        58
+      ]
+    },
+    {
+      "frame": "06",
+      "kind": "retry02",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/retry-candidates/frame-06-attempt-02/frame/frame-06-attempt-02.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        9,
+        90,
+        58
+      ]
+    },
+    {
+      "frame": "07",
+      "kind": "current",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-07.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        7,
+        90,
+        58
+      ]
+    },
+    {
+      "frame": "07",
+      "kind": "retry02",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/retry-candidates/frame-07-attempt-02/frame/frame-07-attempt-02.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        8,
+        90,
+        58
+      ]
+    },
+    {
+      "frame": "08",
+      "kind": "current",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-08.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        8,
+        90,
+        58
+      ]
+    },
+    {
+      "frame": "08",
+      "kind": "retry02",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/retry-candidates/frame-08-attempt-02/frame/frame-08-attempt-02.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        9,
+        90,
+        58
+      ]
+    },
+    {
+      "frame": "09",
+      "kind": "current",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-09.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        9,
+        90,
+        58
+      ]
+    },
+    {
+      "frame": "09",
+      "kind": "retry02",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/retry-candidates/frame-09-attempt-02/frame/frame-09-attempt-02.png",
+      "size": [
+        96,
+        64
+      ],
+      "alpha_bbox": [
+        6,
+        10,
+        90,
+        58
+      ]
+    }
+  ],
+  "notes": "Retry candidates only. Canonical frames/frame-05.png through frame-09.png were not overwritten."
+}

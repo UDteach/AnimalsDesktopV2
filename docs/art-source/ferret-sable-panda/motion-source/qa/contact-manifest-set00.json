@@ -1,0 +1,98 @@
+{
+  "schema": "animalsdesktop.motion-contact-evidence.v1",
+  "variant": "ferret_sable_panda",
+  "count": 13,
+  "contacts": [
+    {
+      "destination": "docs/art-source/ferret-sable-panda/motion-source/contacts/full-00-61-light.png",
+      "sha256": "529d55e1defb8637713ba479e2bde94cfaf4a172dd02c1e2c909a085c1b4276d",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/full-00-61-light.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/full-00-61-light.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable-panda/motion-source/contacts/alert-loop-56-61-light.png",
+      "sha256": "c396bafae998f9b7c38390bad93e2015ebe3937cb504f5eb311f8fde157acefa",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/alert-loop-56-61-light.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/alert-loop-56-61-light.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable-panda/motion-source/contacts/rest-loop-48-55-light.png",
+      "sha256": "af0dff5eb5267cb3870541956918ae22f7b8ce3e4bd9b66fe472c03b377cd0e7",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/rest-loop-48-55-light.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/rest-loop-48-55-light.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable-panda/motion-source/contacts/frame39-to-mirrored04-light.png",
+      "sha256": "4ed1cf059ccf3c706b5cac885c2bb11ca18624172ff98b615e3432e0defae8af",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/runtime-exit-39-to-mirrored04/frame39-to-mirrored04-light.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/runtime-exit-39-to-mirrored04/frame39-to-mirrored04-light.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable-panda/motion-source/contacts/full-00-61-checker.png",
+      "sha256": "6b6636ef1e8b171534be63055f403ea3d56a2e769a9fac75c01ff724ab238932",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/full-00-61-checker.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/full-00-61-checker.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable-panda/motion-source/contacts/alert-loop-56-61-checker.png",
+      "sha256": "f94bdaa104940eaab5ebd11e4548bb100192fc67cc06564b5bdb0c1fb43b75b3",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/alert-loop-56-61-checker.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/alert-loop-56-61-checker.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable-panda/motion-source/contacts/rest-loop-48-55-checker.png",
+      "sha256": "4d86b88116a5e972753c8170a26d60960f7d4f0be9cd39e3ad1c593ea30e7e27",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/rest-loop-48-55-checker.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/rest-loop-48-55-checker.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable-panda/motion-source/contacts/frame39-to-mirrored04-checker.png",
+      "sha256": "f85cbc6ba588459300bbfc8aa2a8c7e8204309e55aa1b5d741b3f3c844fc4bb8",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/runtime-exit-39-to-mirrored04/frame39-to-mirrored04-checker.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/runtime-exit-39-to-mirrored04/frame39-to-mirrored04-checker.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable-panda/motion-source/contacts/full-00-61-dark.png",
+      "sha256": "81102556c8d6673bfd651593ff6e632019a13054b0d469e2ca21938614e18075",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/full-00-61-dark.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/full-00-61-dark.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable-panda/motion-source/contacts/alert-loop-56-61-dark.png",
+      "sha256": "38ac24c264a20f008cc978953eacc11168788bc14930ddf380d1d517793aa44c",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/alert-loop-56-61-dark.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/alert-loop-56-61-dark.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable-panda/motion-source/contacts/rest-loop-48-55-dark.png",
+      "sha256": "2eed287af852141046a0a9edfa07cb2bb7343d9a2f9096215a1a76172e0a3d7d",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/rest-loop-48-55-dark.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/contacts/rest-loop-48-55-dark.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable-panda/motion-source/contacts/frame39-to-mirrored04-dark.png",
+      "sha256": "8c67820aaf99847e2822af58d5f9b35448e514e668fca4514f957daa537216ec",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/runtime-exit-39-to-mirrored04/frame39-to-mirrored04-dark.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/runtime-exit-39-to-mirrored04/frame39-to-mirrored04-dark.png",
+      "source_matches_destination": "true"
+    },
+    {
+      "destination": "docs/art-source/ferret-sable-panda/motion-source/contacts/frame39-to-mirrored04-mirrored-frame-04.png",
+      "sha256": "69ec036f8152392764543ed01c75f3bc9432f0cdee5ff374ae5964e2231a4515",
+      "source_original": "docs/art-source/one-frame-method-fullrun-20260724/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/runtime-exit-39-to-mirrored04/frame39-to-mirrored04-mirrored-frame-04.png",
+      "source_archive": "E:/Development/AnimalDesktop-asset-archives/20260724-ferret-three-variants/ferret-sable-panda-set00-oneframe-62/qa/final-53-61/final-62/runtime-exit-39-to-mirrored04/frame39-to-mirrored04-mirrored-frame-04.png",
+      "source_matches_destination": "true"
+    }
+  ]
+}

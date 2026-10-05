@@ -1,0 +1,8 @@
+{
+  "variant": "american_flying_squirrel",
+  "family": "american-flying-squirrel",
+  "date": "20260702",
+  "method": "visible-pixel RGB mean/std transfer, alpha preserved, bounded blend strength; only color drift frames corrected",
+  "corrected_frames": [],
+  "status": "checked-no-change"
+}

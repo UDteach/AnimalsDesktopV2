@@ -1,0 +1,127 @@
+{
+  "variant": "budgerigar_green_yellow",
+  "scope": "retry candidates only for frames 09-11; canonical frames not overwritten by this report/sheet step",
+  "contact_sheet_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/contact/budgerigar-footlock-current-vs-retry-09-11-full-and-footcrop-5x.png",
+  "crop_box": [
+    18,
+    34,
+    78,
+    64
+  ],
+  "selected_best_attempts": {
+    "09": {
+      "selected_attempt": "03",
+      "retry_frame_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/retry-candidates/frame-09-attempt-03/frame/frame-09-attempt-03.png",
+      "current_canonical_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-09.png"
+    },
+    "10": {
+      "selected_attempt": "02",
+      "retry_frame_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/retry-candidates/frame-10-attempt-02/frame/frame-10-attempt-02.png",
+      "current_canonical_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-10.png"
+    },
+    "11": {
+      "selected_attempt": "02",
+      "retry_frame_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/retry-candidates/frame-11-attempt-02/frame/frame-11-attempt-02.png",
+      "current_canonical_path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-11.png"
+    }
+  },
+  "mechanical_summary": [
+    {
+      "frame": "09",
+      "variant": "current",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-09.png",
+      "alpha_bbox": [
+        6,
+        10,
+        90,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "09",
+      "variant": "retry",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/retry-candidates/frame-09-attempt-03/frame/frame-09-attempt-03.png",
+      "alpha_bbox": [
+        6,
+        26,
+        90,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "10",
+      "variant": "current",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-10.png",
+      "alpha_bbox": [
+        6,
+        10,
+        90,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "10",
+      "variant": "retry",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/retry-candidates/frame-10-attempt-02/frame/frame-10-attempt-02.png",
+      "alpha_bbox": [
+        6,
+        23,
+        90,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "11",
+      "variant": "current",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/frames/frame-11.png",
+      "alpha_bbox": [
+        6,
+        6,
+        90,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "frame": "11",
+      "variant": "retry",
+      "path": "docs/art-source/one-frame-method-fullrun-20260627/budgerigar-green-yellow-footlock-set00-oneframe-62/retry-candidates/frame-11-attempt-02/frame/frame-11-attempt-02.png",
+      "alpha_bbox": [
+        6,
+        21,
+        90,
+        58
+      ],
+      "edge_alpha_pixels": 0,
+      "size": [
+        96,
+        64
+      ]
+    }
+  ],
+  "notes": "Parent gate retry candidates after 09-11 review; visual review still required before parent promotion."
+}

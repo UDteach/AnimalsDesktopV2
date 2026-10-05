@@ -1,0 +1,876 @@
+{
+  "frames_dir": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames",
+  "pattern": "frame-%02d.png",
+  "strict": true,
+  "frame_width": 96,
+  "frame_height": 64,
+  "set_count": 1,
+  "frame_count": 62,
+  "valid": 62,
+  "missing": 0,
+  "invalid": 0,
+  "warnings": 70,
+  "sets": [
+    {
+      "set": "frames",
+      "dir": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames",
+      "valid": 62,
+      "missing": 0,
+      "invalid": 0,
+      "warnings": 70,
+      "frames": [
+        {
+          "frame": 0,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-00.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 14,
+            "w": 79,
+            "h": 44
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=49 with 30px row drop below"
+          ]
+        },
+        {
+          "frame": 1,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-01.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 13,
+            "w": 78,
+            "h": 45
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=50 with 28px row drop below",
+            "transparent pinholes: holes=1 area=2 largest=2"
+          ]
+        },
+        {
+          "frame": 2,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-02.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 13,
+            "w": 78,
+            "h": 45
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 60 at y=49 with 33px row drop below"
+          ]
+        },
+        {
+          "frame": 3,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-03.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 18,
+            "w": 76,
+            "h": 40
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 47 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 62 at y=52 with 39px row drop below"
+          ]
+        },
+        {
+          "frame": 4,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-04.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 14,
+            "w": 78,
+            "h": 44
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=49 with 29px row drop below"
+          ]
+        },
+        {
+          "frame": 5,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-05.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 15,
+            "w": 78,
+            "h": 43
+          }
+        },
+        {
+          "frame": 6,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-06.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 16,
+            "w": 78,
+            "h": 42
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 63 at y=50 with 33px row drop below"
+          ]
+        },
+        {
+          "frame": 7,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-07.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 14,
+            "w": 79,
+            "h": 44
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 68 at y=48 with 33px row drop below"
+          ]
+        },
+        {
+          "frame": 8,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-08.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 22,
+            "w": 78,
+            "h": 36
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 60 at y=51 with 33px row drop below"
+          ]
+        },
+        {
+          "frame": 9,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-09.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 14,
+            "w": 79,
+            "h": 44
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=50 with 42px row drop below"
+          ]
+        },
+        {
+          "frame": 10,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-10.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 15,
+            "w": 77,
+            "h": 43
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 62 at y=49 with 27px row drop below"
+          ]
+        },
+        {
+          "frame": 11,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-11.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 15,
+            "w": 79,
+            "h": 43
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 61 at y=50 with 26px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 12,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-12.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 31,
+            "w": 79,
+            "h": 27
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 28 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 76 at y=50 with 27px row drop below"
+          ]
+        },
+        {
+          "frame": 13,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-13.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 18,
+            "w": 77,
+            "h": 40
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 51 at y=52 with 35px row drop below"
+          ]
+        },
+        {
+          "frame": 14,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-14.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 29,
+            "w": 79,
+            "h": 29
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 72 at y=50 with 38px row drop below"
+          ]
+        },
+        {
+          "frame": 15,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-15.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 21,
+            "w": 78,
+            "h": 37
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 65 at y=49 with 30px row drop below"
+          ]
+        },
+        {
+          "frame": 16,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-16.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 26,
+            "w": 78,
+            "h": 32
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 75 at y=50 with 38px row drop below"
+          ]
+        },
+        {
+          "frame": 17,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-17.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 26,
+            "w": 80,
+            "h": 32
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 73 at y=50 with 41px row drop below"
+          ]
+        },
+        {
+          "frame": 18,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-18.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 23,
+            "w": 78,
+            "h": 35
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 71 at y=50 with 31px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 19,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-19.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 26,
+            "w": 78,
+            "h": 32
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 35 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 74 at y=51 with 33px row drop below"
+          ]
+        },
+        {
+          "frame": 20,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-20.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 17,
+            "w": 76,
+            "h": 40
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 71 at y=49 with 30px row drop below",
+            "transparent pinholes: holes=1 area=1 largest=1"
+          ]
+        },
+        {
+          "frame": 21,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-21.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 21,
+            "w": 76,
+            "h": 37
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 67 at y=50 with 32px row drop below"
+          ]
+        },
+        {
+          "frame": 22,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-22.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 8,
+            "w": 70,
+            "h": 50
+          }
+        },
+        {
+          "frame": 23,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-23.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 11,
+            "w": 74,
+            "h": 46
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 24 at y=54 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 66 at y=49 with 29px row drop below"
+          ]
+        },
+        {
+          "frame": 24,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-24.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 9,
+            "w": 77,
+            "h": 49
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 52 at y=50 with 27px row drop below"
+          ]
+        },
+        {
+          "frame": 25,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-25.png",
+          "status": "valid",
+          "content": {
+            "x": 11,
+            "y": 8,
+            "w": 68,
+            "h": 50
+          }
+        },
+        {
+          "frame": 26,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-26.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 8,
+            "w": 64,
+            "h": 50
+          }
+        },
+        {
+          "frame": 27,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-27.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 8,
+            "w": 64,
+            "h": 50
+          }
+        },
+        {
+          "frame": 28,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-28.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 8,
+            "w": 74,
+            "h": 50
+          }
+        },
+        {
+          "frame": 29,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-29.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 10,
+            "w": 75,
+            "h": 47
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 66 at y=49 with 30px row drop below"
+          ]
+        },
+        {
+          "frame": 30,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-30.png",
+          "status": "valid",
+          "content": {
+            "x": 23,
+            "y": 8,
+            "w": 46,
+            "h": 50
+          }
+        },
+        {
+          "frame": 31,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-31.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 10,
+            "w": 75,
+            "h": 48
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 51 at y=51 with 31px row drop below"
+          ]
+        },
+        {
+          "frame": 32,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-32.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 8,
+            "w": 62,
+            "h": 50
+          }
+        },
+        {
+          "frame": 33,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-33.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 8,
+            "w": 54,
+            "h": 50
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 38 at y=50 with 21px row drop below"
+          ]
+        },
+        {
+          "frame": 34,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-34.png",
+          "status": "valid",
+          "content": {
+            "x": 28,
+            "y": 8,
+            "w": 40,
+            "h": 50
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 36 at y=51 with 19px row drop below"
+          ]
+        },
+        {
+          "frame": 35,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-35.png",
+          "status": "valid",
+          "content": {
+            "x": 26,
+            "y": 8,
+            "w": 44,
+            "h": 50
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 29 at y=51 with 21px row drop below"
+          ]
+        },
+        {
+          "frame": 36,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-36.png",
+          "status": "valid",
+          "content": {
+            "x": 12,
+            "y": 12,
+            "w": 77,
+            "h": 46
+          }
+        },
+        {
+          "frame": 37,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-37.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 12,
+            "w": 78,
+            "h": 45
+          }
+        },
+        {
+          "frame": 38,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-38.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 8,
+            "w": 51,
+            "h": 50
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 36 at y=50 with 18px row drop below"
+          ]
+        },
+        {
+          "frame": 39,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-39.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 12,
+            "w": 78,
+            "h": 45
+          }
+        },
+        {
+          "frame": 40,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-40.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 8,
+            "w": 51,
+            "h": 50
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 42 at y=51 with 20px row drop below"
+          ]
+        },
+        {
+          "frame": 41,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-41.png",
+          "status": "valid",
+          "content": {
+            "x": 24,
+            "y": 8,
+            "w": 48,
+            "h": 50
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 23 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 42 at y=52 with 35px row drop below"
+          ]
+        },
+        {
+          "frame": 42,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-42.png",
+          "status": "valid",
+          "content": {
+            "x": 23,
+            "y": 9,
+            "w": 50,
+            "h": 49
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 45 at y=52 with 37px row drop below"
+          ]
+        },
+        {
+          "frame": 43,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-43.png",
+          "status": "valid",
+          "content": {
+            "x": 23,
+            "y": 8,
+            "w": 49,
+            "h": 50
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 26 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 42 at y=52 with 35px row drop below"
+          ]
+        },
+        {
+          "frame": 44,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-44.png",
+          "status": "valid",
+          "content": {
+            "x": 10,
+            "y": 9,
+            "w": 73,
+            "h": 48
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 71 at y=47 with 24px row drop below"
+          ]
+        },
+        {
+          "frame": 45,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-45.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 11,
+            "w": 78,
+            "h": 46
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 33 at y=54 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 77 at y=50 with 31px row drop below"
+          ]
+        },
+        {
+          "frame": 46,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-46.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 17,
+            "w": 77,
+            "h": 40
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 38 at y=54 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 77 at y=50 with 27px row drop below"
+          ]
+        },
+        {
+          "frame": 47,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-47.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 11,
+            "w": 79,
+            "h": 46
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 79 at y=48 with 31px row drop below"
+          ]
+        },
+        {
+          "frame": 48,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-48.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 12,
+            "w": 77,
+            "h": 45
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 58 at y=51 with 34px row drop below"
+          ]
+        },
+        {
+          "frame": 49,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-49.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 9,
+            "w": 79,
+            "h": 48
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 27 at y=54 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 56 at y=51 with 31px row drop below"
+          ]
+        },
+        {
+          "frame": 50,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-50.png",
+          "status": "valid",
+          "content": {
+            "x": 29,
+            "y": 8,
+            "w": 36,
+            "h": 50
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 28 at y=52 with 19px row drop below"
+          ]
+        },
+        {
+          "frame": 51,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-51.png",
+          "status": "valid",
+          "content": {
+            "x": 27,
+            "y": 8,
+            "w": 41,
+            "h": 50
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 20 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 35 at y=52 with 21px row drop below"
+          ]
+        },
+        {
+          "frame": 52,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-52.png",
+          "status": "valid",
+          "content": {
+            "x": 26,
+            "y": 8,
+            "w": 43,
+            "h": 50
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 33 at y=52 with 25px row drop below"
+          ]
+        },
+        {
+          "frame": 53,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-53.png",
+          "status": "valid",
+          "content": {
+            "x": 27,
+            "y": 8,
+            "w": 40,
+            "h": 50
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 19 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 34 at y=52 with 21px row drop below"
+          ]
+        },
+        {
+          "frame": 54,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-54.png",
+          "status": "valid",
+          "content": {
+            "x": 23,
+            "y": 8,
+            "w": 43,
+            "h": 50
+          },
+          "warnings": [
+            "possible lower ledge/shelf artifact: alpha run length 33 at y=51 with 24px row drop below"
+          ]
+        },
+        {
+          "frame": 55,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-55.png",
+          "status": "valid",
+          "content": {
+            "x": 27,
+            "y": 8,
+            "w": 42,
+            "h": 50
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 20 at y=55 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 36 at y=52 with 23px row drop below"
+          ]
+        },
+        {
+          "frame": 56,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-56.png",
+          "status": "valid",
+          "content": {
+            "x": 20,
+            "y": 8,
+            "w": 51,
+            "h": 50
+          }
+        },
+        {
+          "frame": 57,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-57.png",
+          "status": "valid",
+          "content": {
+            "x": 19,
+            "y": 8,
+            "w": 52,
+            "h": 50
+          }
+        },
+        {
+          "frame": 58,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-58.png",
+          "status": "valid",
+          "content": {
+            "x": 9,
+            "y": 9,
+            "w": 75,
+            "h": 48
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 38 at y=54 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 67 at y=51 with 46px row drop below"
+          ]
+        },
+        {
+          "frame": 59,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-59.png",
+          "status": "valid",
+          "content": {
+            "x": 7,
+            "y": 14,
+            "w": 73,
+            "h": 43
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 33 at y=54 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 66 at y=51 with 36px row drop below"
+          ]
+        },
+        {
+          "frame": 60,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-60.png",
+          "status": "valid",
+          "content": {
+            "x": 8,
+            "y": 10,
+            "w": 79,
+            "h": 47
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 53 at y=54 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 56 at y=51 with 31px row drop below"
+          ]
+        },
+        {
+          "frame": 61,
+          "path": "docs/art-source/one-frame-method-fullrun-20260625/parent-selected/hamster/frames/frame-61.png",
+          "status": "valid",
+          "content": {
+            "x": 13,
+            "y": 9,
+            "w": 69,
+            "h": 48
+          },
+          "warnings": [
+            "possible floor/shadow artifact: alpha run length 28 at y=54 near lower content",
+            "possible lower ledge/shelf artifact: alpha run length 53 at y=52 with 37px row drop below"
+          ]
+        }
+      ],
+      "completed": true
+    }
+  ]
+}

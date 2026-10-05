@@ -1,0 +1,467 @@
+{
+  "pack_id": "upcoming-asset-pack-20260627",
+  "note": "Planning asset pack only. These are not accepted runtime motion sources.",
+  "source_sheet": "source/coming-soon-eighteen-animals-imagegen-source.png",
+  "source_sheet_original": "docs/art-source/one-frame-method-fullrun-20260627/page-coming-soon/coming-soon-eighteen-animals-imagegen-source.png",
+  "source_grid": {
+    "columns": 6,
+    "rows": 3
+  },
+  "output_dirs": {
+    "color": "color",
+    "silhouette": "silhouette",
+    "contact_sheets": "contact-sheets"
+  },
+  "items": [
+    {
+      "id": "chipmunk",
+      "order": 1,
+      "name_ja": "シマリス",
+      "name_en": "Striped chipmunk",
+      "source_cell": 0,
+      "source_component": 0,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        8,
+        103,
+        273,
+        327
+      ],
+      "color": "color/chipmunk.png",
+      "color_size": [
+        265,
+        224
+      ],
+      "silhouette": "silhouette/chipmunk.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "leucistic_sugar_glider",
+      "order": 2,
+      "name_ja": "リューシスティックモモンガ",
+      "name_en": "Leucistic sugar glider",
+      "source_cell": 1,
+      "source_component": 1,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        268,
+        127,
+        568,
+        325
+      ],
+      "color": "color/leucistic_sugar_glider.png",
+      "color_size": [
+        300,
+        198
+      ],
+      "silhouette": "silhouette/leucistic_sugar_glider.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "african_dormouse",
+      "order": 3,
+      "name_ja": "アフリカヤマネ",
+      "name_en": "African pygmy dormouse",
+      "source_cell": 2,
+      "source_component": 2,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        571,
+        135,
+        816,
+        329
+      ],
+      "color": "color/african_dormouse.png",
+      "color_size": [
+        245,
+        194
+      ],
+      "silhouette": "silhouette/african_dormouse.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "netherland_dwarf_himalayan",
+      "order": 4,
+      "name_ja": "ネザーランドドワーフ（ヒマラヤン）",
+      "name_en": "Netherland Dwarf rabbit, Himalayan",
+      "source_cell": 3,
+      "source_component": 3,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        819,
+        77,
+        1047,
+        316
+      ],
+      "color": "color/netherland_dwarf_himalayan.png",
+      "color_size": [
+        228,
+        239
+      ],
+      "silhouette": "silhouette/netherland_dwarf_himalayan.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "american_flying_squirrel",
+      "order": 5,
+      "name_ja": "アメリカモモンガ",
+      "name_en": "American flying squirrel",
+      "source_cell": 4,
+      "source_component": 4,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        1042,
+        96,
+        1279,
+        341
+      ],
+      "color": "color/american_flying_squirrel.png",
+      "color_size": [
+        237,
+        245
+      ],
+      "silhouette": "silhouette/american_flying_squirrel.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "longhair_hamster_black_white",
+      "order": 6,
+      "name_ja": "白黒長毛ハムスター",
+      "name_en": "Black-and-white long-haired Syrian hamster",
+      "source_cell": 5,
+      "source_component": 5,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        1279,
+        124,
+        1522,
+        313
+      ],
+      "color": "color/longhair_hamster_black_white.png",
+      "color_size": [
+        243,
+        189
+      ],
+      "silhouette": "silhouette/longhair_hamster_black_white.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "djungarian_hamster_yellow",
+      "order": 7,
+      "name_ja": "イエロージャンガリアン",
+      "name_en": "Yellow Djungarian hamster",
+      "source_cell": 6,
+      "source_component": 6,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        17,
+        440,
+        249,
+        599
+      ],
+      "color": "color/djungarian_hamster_yellow.png",
+      "color_size": [
+        232,
+        159
+      ],
+      "silhouette": "silhouette/djungarian_hamster_yellow.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "djungarian_hamster_pearl_white",
+      "order": 8,
+      "name_ja": "パールホワイトジャンガリアン",
+      "name_en": "Pearl white Djungarian hamster",
+      "source_cell": 7,
+      "source_component": 7,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        274,
+        445,
+        495,
+        599
+      ],
+      "color": "color/djungarian_hamster_pearl_white.png",
+      "color_size": [
+        221,
+        154
+      ],
+      "silhouette": "silhouette/djungarian_hamster_pearl_white.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "fancy_rat_blue_hooded",
+      "order": 9,
+      "name_ja": "ファンシーラット（ブルーフーディッド）",
+      "name_en": "Fancy rat, blue hooded",
+      "source_cell": 8,
+      "source_component": 8,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        496,
+        432,
+        785,
+        616
+      ],
+      "color": "color/fancy_rat_blue_hooded.png",
+      "color_size": [
+        289,
+        184
+      ],
+      "silhouette": "silhouette/fancy_rat_blue_hooded.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "fancy_rat_chocolate_self",
+      "order": 10,
+      "name_ja": "ファンシーラット（チョコレートセルフ）",
+      "name_en": "Fancy rat, chocolate self",
+      "source_cell": 9,
+      "source_component": 9,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        762,
+        445,
+        1037,
+        618
+      ],
+      "color": "color/fancy_rat_chocolate_self.png",
+      "color_size": [
+        275,
+        173
+      ],
+      "silhouette": "silhouette/fancy_rat_chocolate_self.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "fancy_rat_cream_agouti",
+      "order": 11,
+      "name_ja": "ファンシーラット（クリームアグーチ）",
+      "name_en": "Fancy rat, cream agouti self",
+      "source_cell": 10,
+      "source_component": 10,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        1023,
+        438,
+        1286,
+        620
+      ],
+      "color": "color/fancy_rat_cream_agouti.png",
+      "color_size": [
+        263,
+        182
+      ],
+      "silhouette": "silhouette/fancy_rat_cream_agouti.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "rabbit_gray",
+      "order": 12,
+      "name_ja": "グレーうさぎ",
+      "name_en": "Gray rabbit",
+      "source_cell": 11,
+      "source_component": 11,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        1282,
+        347,
+        1508,
+        627
+      ],
+      "color": "color/rabbit_gray.png",
+      "color_size": [
+        226,
+        280
+      ],
+      "silhouette": "silhouette/rabbit_gray.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "whites_tree_frog",
+      "order": 13,
+      "name_ja": "水色イエアメガエル",
+      "name_en": "Blue White's tree frog",
+      "source_cell": 12,
+      "source_component": 12,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        21,
+        720,
+        232,
+        893
+      ],
+      "color": "color/whites_tree_frog.png",
+      "color_size": [
+        211,
+        173
+      ],
+      "silhouette": "silhouette/whites_tree_frog.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "leopard_gecko",
+      "order": 14,
+      "name_ja": "ヒョウモントカゲモドキ",
+      "name_en": "Leopard gecko",
+      "source_cell": 13,
+      "source_component": 13,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        247,
+        744,
+        537,
+        907
+      ],
+      "color": "color/leopard_gecko.png",
+      "color_size": [
+        290,
+        163
+      ],
+      "silhouette": "silhouette/leopard_gecko.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "budgerigar",
+      "order": 15,
+      "name_ja": "セキセイインコ",
+      "name_en": "Green-and-yellow budgerigar",
+      "source_cell": 14,
+      "source_component": 14,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        499,
+        674,
+        760,
+        925
+      ],
+      "color": "color/budgerigar.png",
+      "color_size": [
+        261,
+        251
+      ],
+      "silhouette": "silhouette/budgerigar.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "cockatiel",
+      "order": 16,
+      "name_ja": "オカメインコ",
+      "name_en": "Normal gray cockatiel",
+      "source_cell": 15,
+      "source_component": 15,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        736,
+        634,
+        1002,
+        914
+      ],
+      "color": "color/cockatiel.png",
+      "color_size": [
+        266,
+        280
+      ],
+      "silhouette": "silhouette/cockatiel.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "java_sparrow",
+      "order": 17,
+      "name_ja": "文鳥",
+      "name_en": "Java sparrow",
+      "source_cell": 16,
+      "source_component": 16,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        996,
+        694,
+        1220,
+        910
+      ],
+      "color": "color/java_sparrow.png",
+      "color_size": [
+        224,
+        216
+      ],
+      "silhouette": "silhouette/java_sparrow.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    },
+    {
+      "id": "african_fat_tailed_gecko",
+      "order": 18,
+      "name_ja": "ニシアフリカトカゲモドキ",
+      "name_en": "African fat-tailed gecko",
+      "source_cell": 17,
+      "source_component": 17,
+      "source_extraction": "connected-components",
+      "source_bbox": [
+        1216,
+        747,
+        1524,
+        921
+      ],
+      "color": "color/african_fat_tailed_gecko.png",
+      "color_size": [
+        308,
+        174
+      ],
+      "silhouette": "silhouette/african_fat_tailed_gecko.png",
+      "silhouette_size": [
+        256,
+        160
+      ]
+    }
+  ]
+}

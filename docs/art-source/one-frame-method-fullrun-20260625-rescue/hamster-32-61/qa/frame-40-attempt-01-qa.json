@@ -1,0 +1,44 @@
+{
+  "source_size": [
+    1536,
+    1024
+  ],
+  "source_bbox": [
+    399,
+    232,
+    1082,
+    826
+  ],
+  "padded_bbox": [
+    387,
+    220,
+    1094,
+    838
+  ],
+  "normalized_size": [
+    57,
+    50
+  ],
+  "frame_bbox": [
+    22,
+    8,
+    76,
+    58
+  ],
+  "nonzero_alpha": 2096,
+  "edge_alpha_pixels": 0,
+  "greenish_pixels": 0,
+  "family": "hamster_golden_syrian",
+  "frame": 40,
+  "group": "chew",
+  "pose": "sitting low, paws near mouth, chewing",
+  "attempt": 1,
+  "source_path": "/Users/kyota/.codex/generated_images/019efc36-f49e-7400-a241-c813be169de6/ig_039a488d57f5d164016a3c7bc19b248191bfd28f0b013c10db.png",
+  "raw_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/raw/frame-40-attempt-01-raw.png",
+  "alpha_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/alpha/frame-40-attempt-01-alpha.png",
+  "frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-40.png",
+  "attempt_frame_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/frames/frame-40-attempt-01.png",
+  "contact_path": "docs/art-source/one-frame-method-fullrun-20260625-rescue/hamster-32-61/contacts/frame-40-attempt-01-contact.png",
+  "decision": "candidate",
+  "notes": "prompt:prompts/frame-40-attempt-01-prompt.txt"
+}
